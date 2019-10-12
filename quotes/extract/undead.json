@@ -1,0 +1,1802 @@
+[
+  {
+    "value": "\"The damned stand ready...\"\n",
+    "faction": "Undead",
+    "unit": " Acolyte ",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"My life for Ner'zhul.\"\n",
+    "faction": "Undead",
+    "unit": " Acolyte ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I wish only to serve.\"\n",
+    "faction": "Undead",
+    "unit": " Acolyte ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Thy bidding, master?\" (Possibly referencing a Darth Vader quote from Star Wars)\n",
+    "faction": "Undead",
+    "unit": " Acolyte ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Where shall my blood be spilled?\"\n",
+    "faction": "Undead",
+    "unit": " Acolyte ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I bow to your will.\"\n",
+    "faction": "Undead",
+    "unit": " Acolyte ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Yes, master.\"\n",
+    "faction": "Undead",
+    "unit": " Acolyte ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I gladly obey.\"\n",
+    "faction": "Undead",
+    "unit": " Acolyte ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"My fate is sealed.\"\n",
+    "faction": "Undead",
+    "unit": " Acolyte ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Thy will be done.\"\n",
+    "faction": "Undead",
+    "unit": " Acolyte ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Death shall reign.\"\n",
+    "faction": "Undead",
+    "unit": " Acolyte ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Fear the Reaper!\" (A reference to Don't Fear the Reaper, a song by Blue Öyster Cult)\n",
+    "faction": "Undead",
+    "unit": " Acolyte ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Let life cease!\"\n",
+    "faction": "Undead",
+    "unit": " Acolyte ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"I'm sanctified!\"\n",
+    "faction": "Undead",
+    "unit": " Acolyte ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"This is the hour of the Scourge!\"\n",
+    "faction": "Undead",
+    "unit": " Acolyte ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Death shall cleanse the world!\"\n",
+    "faction": "Undead",
+    "unit": " Acolyte ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"All I see is blackness. Oh, my hood's down.\"\n",
+    "faction": "Undead",
+    "unit": " Acolyte ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Let blood drown the weak!\"\n",
+    "faction": "Undead",
+    "unit": " Acolyte ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"My life for Aiur... er– I– I mean Ner'Zhul.\" (A reference to the Protoss from StarCraft, another Blizzard game.)\n",
+    "faction": "Undead",
+    "unit": " Acolyte ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"The living be cursed!\"\n",
+    "faction": "Undead",
+    "unit": " Acolyte ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Would you like to know the secret to eternal happiness? Page 246.\"\n",
+    "faction": "Undead",
+    "unit": " Acolyte ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Once you head down the dark path, forever will it dominate your destiny. And you get dental.\" (Yoda from Star Wars)\n",
+    "faction": "Undead",
+    "unit": " Acolyte ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"The damned return.\"\n",
+    "faction": "Undead",
+    "unit": " Shade ",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"I shall be your eyes.\"\n",
+    "faction": "Undead",
+    "unit": " Shade ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"My sight is yours.\"\n",
+    "faction": "Undead",
+    "unit": " Shade ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"What needs revealing?\"\n",
+    "faction": "Undead",
+    "unit": " Shade ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Let's see...\"\n",
+    "faction": "Undead",
+    "unit": " Shade ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I'll look into it...\"\n",
+    "faction": "Undead",
+    "unit": " Shade ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"All shall be revealed.\"\n",
+    "faction": "Undead",
+    "unit": " Shade ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I go unseen.\"\n",
+    "faction": "Undead",
+    "unit": " Shade ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"More souls for the master!\"\n",
+    "faction": "Undead",
+    "unit": " Shade ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Dieeeeeeeeeeeee!\"\n",
+    "faction": "Undead",
+    "unit": " Shade ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Let screams fill the air!\"\n",
+    "faction": "Undead",
+    "unit": " Shade ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Feel my wrath!\"\n",
+    "faction": "Undead",
+    "unit": " Shade ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For the master!\"\n",
+    "faction": "Undead",
+    "unit": " Shade ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Glory to the scourge!\"\n",
+    "faction": "Undead",
+    "unit": " Shade ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"I am but a shadow of my former self.\"\n",
+    "faction": "Undead",
+    "unit": " Shade ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"What I do in death echoes in eternity.\" (Reference to Maximus in Gladiator)\n",
+    "faction": "Undead",
+    "unit": " Shade ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Death is its own reward.\"\n",
+    "faction": "Undead",
+    "unit": " Shade ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'm having a mid-death crisis.\"\n",
+    "faction": "Undead",
+    "unit": " Shade ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "(singing) \"I-I-I-I ain't got no bo-o-o-o-ody!\" (A reference to the song \"I Got Nobody\", also sung in the same way by Igor in Young Frankenstein)\n",
+    "faction": "Undead",
+    "unit": " Shade ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'm invisible, gaseous, and deadly.\"\n",
+    "faction": "Undead",
+    "unit": " Shade ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Wuzzap.\" (A reference to the popular Budweiser ad campaign.)\n",
+    "faction": "Undead",
+    "unit": " Ghoul ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Must feed!\" (The Dark Archon from Starcraft)\n",
+    "faction": "Undead",
+    "unit": " Ghoul ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Me eat dead people!\" (The Sixth Sense)\n",
+    "faction": "Undead",
+    "unit": " Ghoul ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Me scary.\"\n",
+    "faction": "Undead",
+    "unit": " Ghoul ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Me eat brains!\" (The Return of the Living Dead)\n",
+    "faction": "Undead",
+    "unit": " Ghoul ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"No guts, no gory.\" (A play on the popular phrase, \"no guts, no glory\".)\n",
+    "faction": "Undead",
+    "unit": " Ghoul ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Us hear and obey.\" (Referencing the third \"Omen\" movie)\n",
+    "faction": "Undead",
+    "unit": " Abomination ",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"What we do?\"\n",
+    "faction": "Undead",
+    "unit": " Abomination ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Hurghm?\"\n",
+    "faction": "Undead",
+    "unit": " Abomination ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"We done waiting!\"\n",
+    "faction": "Undead",
+    "unit": " Abomination ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Hmmm?\"\n",
+    "faction": "Undead",
+    "unit": " Abomination ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Us go.\"\n",
+    "faction": "Undead",
+    "unit": " Abomination ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Rend and tear!\"\n",
+    "faction": "Undead",
+    "unit": " Abomination ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Kill!\"\n",
+    "faction": "Undead",
+    "unit": " Abomination ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Tear meat!\"\n",
+    "faction": "Undead",
+    "unit": " Abomination ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Rip!\"\n",
+    "faction": "Undead",
+    "unit": " Abomination ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"ALL FOR ONE!\" (The Three Musketeers)\n",
+    "faction": "Undead",
+    "unit": " Abomination ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"We come in peace...es (pieces).\" (A play on the phrase \"We come in peace\" from the movie Mars Attacks!)\n",
+    "faction": "Undead",
+    "unit": " Abomination ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Happy entrails.\" (A play off the Roy Rogers song \"Happy Trails\")\n",
+    "faction": "Undead",
+    "unit": " Abomination ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"You got us in stitches.\"\n",
+    "faction": "Undead",
+    "unit": " Abomination ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Us dead sexy!\" (Austin Powers reference)\n",
+    "faction": "Undead",
+    "unit": " Abomination ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Chunk!\" (Reference to The Goonies)\n",
+    "faction": "Undead",
+    "unit": " Abomination ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"The sleeper awakes.\" (Possible play on the phrases \"The Sleeper must awaken/The Sleeper has awaken!\" from the novel Dune by Frank Herbert.)\n",
+    "faction": "Undead",
+    "unit": " Crypt Fiend ",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"Proceed.\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Fiend ",
+    "action": "What:\n"
+  },
+  {
+    "value": "\"You rang?\" (Reflective of Lurch from The Addams Family.)\n",
+    "faction": "Undead",
+    "unit": " Crypt Fiend ",
+    "action": "What:\n"
+  },
+  {
+    "value": "\"Make your choice.\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Fiend ",
+    "action": "What:\n"
+  },
+  {
+    "value": "\"I await.\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Fiend ",
+    "action": "What:\n"
+  },
+  {
+    "value": "\"By Nerub.\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Fiend ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"What's done is done.\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Fiend ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"The time is now.\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Fiend ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Yes, master.\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Fiend ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"For the Spider Kingdom.\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Fiend ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Be drained of life.\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Fiend ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"You may feel a sting.\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Fiend ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Fall before the Scourge!\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Fiend ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"What a tangled web we weave.\" (Walter Scott reference)\n",
+    "faction": "Undead",
+    "unit": " Crypt Fiend ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Spider sense... tingling.\" (Spiderman comics)\n",
+    "faction": "Undead",
+    "unit": " Crypt Fiend ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Last week my top half was on the Discovery Channel...\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Fiend ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"...and my bottom half was on Animal Planet.\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Fiend ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"My ass always gets bloated during my spin cycle.\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Fiend ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I like chicks that are into bandage.\" (A pun on the word \"bondage\" in a BDSM sense)\n",
+    "faction": "Undead",
+    "unit": " Crypt Fiend ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'm stuck on bandages 'cause bandages are stuck on me.\" (A play off the Band-Aid commercial.)\n",
+    "faction": "Undead",
+    "unit": " Crypt Fiend ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Let my cries chill the living.\"\n",
+    "faction": "Undead",
+    "unit": " Banshee ",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"You called me?\"\n",
+    "faction": "Undead",
+    "unit": " Banshee ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"You brought me back!?\"\n",
+    "faction": "Undead",
+    "unit": " Banshee ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Why have I been summoned?\"\n",
+    "faction": "Undead",
+    "unit": " Banshee ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"What must I do?\"\n",
+    "faction": "Undead",
+    "unit": " Banshee ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Hi...\"\n",
+    "faction": "Undead",
+    "unit": " Banshee ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"If it pleases you.\"\n",
+    "faction": "Undead",
+    "unit": " Banshee ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Yes.\"\n",
+    "faction": "Undead",
+    "unit": " Banshee ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"If I must...\"\n",
+    "faction": "Undead",
+    "unit": " Banshee ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I must obey...\"\n",
+    "faction": "Undead",
+    "unit": " Banshee ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"If that is your wish.\"\n",
+    "faction": "Undead",
+    "unit": " Banshee ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Die!\"\n",
+    "faction": "Undead",
+    "unit": " Banshee ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Feel my pain!\"\n",
+    "faction": "Undead",
+    "unit": " Banshee ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Your soul shall burn.\"\n",
+    "faction": "Undead",
+    "unit": " Banshee ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"My death awaits!\"\n",
+    "faction": "Undead",
+    "unit": " Banshee ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"LET THIS TORMENT END!!\"\n",
+    "faction": "Undead",
+    "unit": " Banshee ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"How long must I suffer?\"\n",
+    "faction": "Undead",
+    "unit": " Banshee ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"U-N-D-E-A-D. Find out what it means to me.\" (The song \"Respect\" by Aretha Franklin)\n",
+    "faction": "Undead",
+    "unit": " Banshee ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"There is no banshee. Only Zuul!\" (The movie Ghostbusters)\n",
+    "faction": "Undead",
+    "unit": " Banshee ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"(raving) I hate you, I hate you! (flirty) Call me.\"\n",
+    "faction": "Undead",
+    "unit": " Banshee ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"The shadows beckon.\"\n",
+    "faction": "Undead",
+    "unit": " Necromancer ",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"The dead shall serve.\"\n",
+    "faction": "Undead",
+    "unit": " Necromancer ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"The restless dead await.\"\n",
+    "faction": "Undead",
+    "unit": " Necromancer ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"What does the shadow will?\"\n",
+    "faction": "Undead",
+    "unit": " Necromancer ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"This better be good.\"\n",
+    "faction": "Undead",
+    "unit": " Necromancer ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Intriguing.\"\n",
+    "faction": "Undead",
+    "unit": " Necromancer ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"For the Lich King.\"\n",
+    "faction": "Undead",
+    "unit": " Necromancer ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Let darkness guide me...\"\n",
+    "faction": "Undead",
+    "unit": " Necromancer ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"As the shadow wills.\"\n",
+    "faction": "Undead",
+    "unit": " Necromancer ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Die!\"\n",
+    "faction": "Undead",
+    "unit": " Necromancer ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Tremble before the Scourge!\"\n",
+    "faction": "Undead",
+    "unit": " Necromancer ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"None.. shall survive!\"\n",
+    "faction": "Undead",
+    "unit": " Necromancer ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"They'll all be mine, in the end!\" (StarCraft: Brood War reference.)\n",
+    "faction": "Undead",
+    "unit": " Necromancer ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"Every man lives. Not every man truly dies.\" (A reversal of a Braveheart quote.)\n",
+    "faction": "Undead",
+    "unit": " Necromancer ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I love the dead... Frequently.\"\n",
+    "faction": "Undead",
+    "unit": " Necromancer ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I see undead people.\" (Yet another reference to The Sixth Sense or possibly a reference to the in-game cheat \"iseedeadpeople\" which is also a reference to the movie.)\n",
+    "faction": "Undead",
+    "unit": " Necromancer ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Do you smell something? *sniff* Oh, it's just the troops.\"\n",
+    "faction": "Undead",
+    "unit": " Necromancer ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Right click for hot undead action!\"\n",
+    "faction": "Undead",
+    "unit": " Necromancer ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"The pact is sealed!\"\n",
+    "faction": "Undead",
+    "unit": " Death Knight ",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"You called?\"\n",
+    "faction": "Undead",
+    "unit": " Death Knight ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"My patience has ended!\"\n",
+    "faction": "Undead",
+    "unit": " Death Knight ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I am darkness!\"\n",
+    "faction": "Undead",
+    "unit": " Death Knight ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"My vengeance is yours!\"\n",
+    "faction": "Undead",
+    "unit": " Death Knight ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Let battle be joined!\"\n",
+    "faction": "Undead",
+    "unit": " Death Knight ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"As you order!\"\n",
+    "faction": "Undead",
+    "unit": " Death Knight ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Hyah!\" *horse neighs*\n",
+    "faction": "Undead",
+    "unit": " Death Knight ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"At last!\"\n",
+    "faction": "Undead",
+    "unit": " Death Knight ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"For the Lich King!\"\n",
+    "faction": "Undead",
+    "unit": " Death Knight ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Feel my wrath!\"\n",
+    "faction": "Undead",
+    "unit": " Death Knight ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"By Ner'zhul!\"\n",
+    "faction": "Undead",
+    "unit": " Death Knight ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Ride… or die!\"\n",
+    "faction": "Undead",
+    "unit": " Death Knight ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Let terror reign!\"\n",
+    "faction": "Undead",
+    "unit": " Death Knight ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"Has Hell frozen over yet?\" (Reference to the idiom When hell freezes over)\n",
+    "faction": "Undead",
+    "unit": " Death Knight ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I am the one horseman of the Apocalypse!\"\n",
+    "faction": "Undead",
+    "unit": " Death Knight ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I hate people, but I love gatherings.\" (A subtle Clerks reference)\n",
+    "faction": "Undead",
+    "unit": " Death Knight ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'm a Death Knight Rider! Muh ha ha ha!\"\n",
+    "faction": "Undead",
+    "unit": " Death Knight ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Blucher!\" (Reference to Young Frankenstein, as well as the Terran Valkyrie from StarCraft: Brood War)\n",
+    "faction": "Undead",
+    "unit": " Death Knight ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Don't touch me. I'm evil.\" (A reference to Time Bandits)\n",
+    "faction": "Undead",
+    "unit": " Death Knight ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"The ancient evil survives!\"\n",
+    "faction": "Undead",
+    "unit": " Lich ",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"I am sworn to Ner'zhul!\"\n",
+    "faction": "Undead",
+    "unit": " Lich ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Thy bidding?\"\n",
+    "faction": "Undead",
+    "unit": " Lich ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Direct me!\"\n",
+    "faction": "Undead",
+    "unit": " Lich ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Yours to command!\"\n",
+    "faction": "Undead",
+    "unit": " Lich ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"So be it!\"\n",
+    "faction": "Undead",
+    "unit": " Lich ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"By your words!\"\n",
+    "faction": "Undead",
+    "unit": " Lich ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"It is destined!\"\n",
+    "faction": "Undead",
+    "unit": " Lich ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Chilling!\"\n",
+    "faction": "Undead",
+    "unit": " Lich ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Dead man walking...\" (A reference to the movie Dead Man Walking, which itself is titled after the call-out made by a prison guard as a prisoner was walked to his execution.)\n",
+    "faction": "Undead",
+    "unit": " Lich ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"For the Burning Legion!\"\n",
+    "faction": "Undead",
+    "unit": " Lich ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"Embrace the end!\"\n",
+    "faction": "Undead",
+    "unit": " Lich ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"I will crush you!\"\n",
+    "faction": "Undead",
+    "unit": " Lich ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Embrace the cold!\"\n",
+    "faction": "Undead",
+    "unit": " Lich ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Could you chew that up for me?\"\n",
+    "faction": "Undead",
+    "unit": " Lich ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'm so poor, I don't even have calcium deposits.\"\n",
+    "faction": "Undead",
+    "unit": " Lich ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I am the ghost of WarCraft past.\" (Reference to A Christmas Carol by Charles Dickens)\n",
+    "faction": "Undead",
+    "unit": " Lich ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I hear that Banshee's a real screamer.\"\n",
+    "faction": "Undead",
+    "unit": " Lich ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"You should see the skeletons in my closet.\"\n",
+    "faction": "Undead",
+    "unit": " Lich ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Imhotep…\" (The Mummy)\n",
+    "faction": "Undead",
+    "unit": " Lich ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"All the ladies dig rigor mortis.\"\n",
+    "faction": "Undead",
+    "unit": " Lich ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"You are the weakest Lich, goodbye.\" (Reference to the show \"The Weakest Link\")\n",
+    "faction": "Undead",
+    "unit": " Lich ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"The night beckons!\"\n",
+    "faction": "Undead",
+    "unit": " Dreadlord ",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"Greetings!\"\n",
+    "faction": "Undead",
+    "unit": " Dreadlord ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"What, mortal?\"\n",
+    "faction": "Undead",
+    "unit": " Dreadlord ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"What is it now?\"\n",
+    "faction": "Undead",
+    "unit": " Dreadlord ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I must hunt soon!\"\n",
+    "faction": "Undead",
+    "unit": " Dreadlord ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"That was my plan.\"\n",
+    "faction": "Undead",
+    "unit": " Dreadlord ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Agreed.\"\n",
+    "faction": "Undead",
+    "unit": " Dreadlord ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Very well.\"\n",
+    "faction": "Undead",
+    "unit": " Dreadlord ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"You thought of that?\"\n",
+    "faction": "Undead",
+    "unit": " Dreadlord ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I hunger!\"\n",
+    "faction": "Undead",
+    "unit": " Dreadlord ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Death rages!\"\n",
+    "faction": "Undead",
+    "unit": " Dreadlord ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Die!\"\n",
+    "faction": "Undead",
+    "unit": " Dreadlord ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Your soul is mine!\" (a reference from Mortal Kombat)\n",
+    "faction": "Undead",
+    "unit": " Dreadlord ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"If I have wings, why am I always walking?\"\n",
+    "faction": "Undead",
+    "unit": " Dreadlord ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "(phone rings) \"Yes? Argh, for the last time: I'm a DREADlord, not a DRUGlord.\"\n",
+    "faction": "Undead",
+    "unit": " Dreadlord ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"This is not a dress. It's the standard Dreadlord uniform.\" (This is a reference to early models of the Dreadlord, in which the Dreadlord was seen wearing an outfit that looked very much like a dress. This was changed before the game was released)\n",
+    "faction": "Undead",
+    "unit": " Dreadlord ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Dressed to kill. Bleh!\" (This is a reference to KISS' album Dress to Kill)\n",
+    "faction": "Undead",
+    "unit": " Dreadlord ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "(phone rings) \"Yes? Darkness, hey, what's up? The Demon Hunter left you a message? No, I don't have his number.\" (refers to a phrase in the game \"darkness calls\" and also a demon hunter quote)\n",
+    "faction": "Undead",
+    "unit": " Dreadlord ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"And then, after I overthrow this fool… Oh! Hello! I – I didn't know you were there.\" (referring to the player)\n",
+    "faction": "Undead",
+    "unit": " Dreadlord ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Imbecile!\"\n",
+    "faction": "Undead",
+    "unit": " Dreadlord ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"From the depths I come!\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Lord ",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"Speak.\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Lord ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I have heard the summons.\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Lord ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Time is fleeting.\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Lord ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"My might cannot be matched!\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Lord ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I serve only the Frozen Throne.\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Lord ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I'll see to it.\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Lord ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"By Nerub.\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Lord ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Indubitably.\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Lord ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Kinky.\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Lord ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I'll consume the living and the dead!\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Lord ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Oblivion awaits!\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Lord ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Feel the venom of Nerub!\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Lord ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Raid.\" (A brand of insecticide)\n",
+    "faction": "Undead",
+    "unit": " Crypt Lord ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For the Frozen Throne!\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Lord ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"The Scourge will devour all!\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Lord ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"The strands of destiny weave only a web of death.\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Lord ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"It was good to be the king.\" (A reference from History of the World, Part I)\n",
+    "faction": "Undead",
+    "unit": " Crypt Lord ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Humans check in. They don't check out.\" (Specifically a reference to the advertising of Raid-brand roach motels.)\n",
+    "faction": "Undead",
+    "unit": " Crypt Lord ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'm the fifth beatle.\" (In a British accent, referring to the band, the Beatles.)\n",
+    "faction": "Undead",
+    "unit": " Crypt Lord ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"And they say Blizzard games don't have bugs.\"\n",
+    "faction": "Undead",
+    "unit": " Crypt Lord ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"You called?\"\n",
+    "faction": "Undead",
+    "unit": " Kel'Thuzad ",
+    "action": "(Hero — Necromancer, Lich)\nWhat\n"
+  },
+  {
+    "value": "\"Is there something amiss?\"\n",
+    "faction": "Undead",
+    "unit": " Kel'Thuzad ",
+    "action": "(Hero — Necromancer, Lich)\nWhat\n"
+  },
+  {
+    "value": "\"My talents are yours.\"\n",
+    "faction": "Undead",
+    "unit": " Kel'Thuzad ",
+    "action": "(Hero — Necromancer, Lich)\nWhat\n"
+  },
+  {
+    "value": "\"I've been thinking.\"\n",
+    "faction": "Undead",
+    "unit": " Kel'Thuzad ",
+    "action": "(Hero — Necromancer, Lich)\nWhat\n"
+  },
+  {
+    "value": "\"Hmm, that sounds logical.\"\n",
+    "faction": "Undead",
+    "unit": " Kel'Thuzad ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Yes, right away.\"\n",
+    "faction": "Undead",
+    "unit": " Kel'Thuzad ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"A fateful choice.\"\n",
+    "faction": "Undead",
+    "unit": " Kel'Thuzad ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Indeed.\"\n",
+    "faction": "Undead",
+    "unit": " Kel'Thuzad ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Burn!\"\n",
+    "faction": "Undead",
+    "unit": " Kel'Thuzad ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"In the Lich King's name!\"\n",
+    "faction": "Undead",
+    "unit": " Kel'Thuzad ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Taste this!\"\n",
+    "faction": "Undead",
+    "unit": " Kel'Thuzad ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For the Lich King!\"\n",
+    "faction": "Undead",
+    "unit": " Kel'Thuzad ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"The Cult of the Damned...I need to print more brochures.\"\n",
+    "faction": "Undead",
+    "unit": " Kel'Thuzad ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I always wanted to start my own religion...so I did!\" (Somewhat reminiscent of L. Ron Hubbard)\n",
+    "faction": "Undead",
+    "unit": " Kel'Thuzad ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I will await my eternal reward.\" (possible reference to Aladdin)\n",
+    "faction": "Undead",
+    "unit": " Kel'Thuzad ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "(Grunts) \"This horned thing on my head is killing me!\"\n",
+    "faction": "Undead",
+    "unit": " Kel'Thuzad ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Fifty-thousand gold a year in childcare and they call it a cult?!\"\n",
+    "faction": "Undead",
+    "unit": " Kel'Thuzad ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Speak, fool!\"\n",
+    "faction": "Undead",
+    "unit": " Arthas ",
+    "action": "(Hero — Death Knight)\nWhat\n"
+  },
+  {
+    "value": "\"No one orders me around!\"\n",
+    "faction": "Undead",
+    "unit": " Arthas ",
+    "action": "(Hero — Death Knight)\nWhat\n"
+  },
+  {
+    "value": "\"Tread lightly.\"\n",
+    "faction": "Undead",
+    "unit": " Arthas ",
+    "action": "(Hero — Death Knight)\nWhat\n"
+  },
+  {
+    "value": "\"What is it now?\"\n",
+    "faction": "Undead",
+    "unit": " Arthas ",
+    "action": "(Hero — Death Knight)\nWhat\n"
+  },
+  {
+    "value": "\"Finally.\"\n",
+    "faction": "Undead",
+    "unit": " Arthas ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Frostmourne hungers.\"\n",
+    "faction": "Undead",
+    "unit": " Arthas ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"This is more like it.\"\n",
+    "faction": "Undead",
+    "unit": " Arthas ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Ah! At last.\"\n",
+    "faction": "Undead",
+    "unit": " Arthas ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"For the Lich King!\"\n",
+    "faction": "Undead",
+    "unit": " Arthas ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Faithless coward!\"\n",
+    "faction": "Undead",
+    "unit": " Arthas ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"You will know endless torment!\"\n",
+    "faction": "Undead",
+    "unit": " Arthas ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Your pain shall be legendary!\"\n",
+    "faction": "Undead",
+    "unit": " Arthas ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"I'll make sure you suffer.\"\n",
+    "faction": "Undead",
+    "unit": " Arthas ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Now, Frostmourne!\"\n",
+    "faction": "Undead",
+    "unit": " Arthas ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Glory to the Scourge!\"\n",
+    "faction": "Undead",
+    "unit": " Arthas ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"I was a fool to trust in the light.\"\n",
+    "faction": "Undead",
+    "unit": " Arthas ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"The Lich King has given me true power!\"\n",
+    "faction": "Undead",
+    "unit": " Arthas ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I will be twice the king my father ever was.\"\n",
+    "faction": "Undead",
+    "unit": " Arthas ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Lordaeron will be reborn.\"\n",
+    "faction": "Undead",
+    "unit": " Arthas ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Who is this 'darkness' anyway?\" (Referring to the 'darkness' quotes of the Demon Hunter and Dreadlord)\n",
+    "faction": "Undead",
+    "unit": " Arthas ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"What is it now?\"\n",
+    "faction": "Undead",
+    "unit": " Tichondrius ",
+    "action": "(Hero — Dread Lord)\nWhat\n"
+  },
+  {
+    "value": "\"I grow tired of waiting.\"\n",
+    "faction": "Undead",
+    "unit": " Tichondrius ",
+    "action": "(Hero — Dread Lord)\nWhat\n"
+  },
+  {
+    "value": "\"Insufferable lout.\"\n",
+    "faction": "Undead",
+    "unit": " Tichondrius ",
+    "action": "(Hero — Dread Lord)\nWhat\n"
+  },
+  {
+    "value": "\"I have better things to do.\"\n",
+    "faction": "Undead",
+    "unit": " Tichondrius ",
+    "action": "(Hero — Dread Lord)\nWhat\n"
+  },
+  {
+    "value": "\"For now.\"\n",
+    "faction": "Undead",
+    "unit": " Tichondrius ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I'll play along.\"\n",
+    "faction": "Undead",
+    "unit": " Tichondrius ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Die Fool.\"\n",
+    "faction": "Undead",
+    "unit": " Tichondrius ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"I must feed.\"\n",
+    "faction": "Undead",
+    "unit": " Tichondrius ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Your life will sustain me.\"\n",
+    "faction": "Undead",
+    "unit": " Tichondrius ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Ash nazg gimbatul!\" (LotR reference)\n",
+    "faction": "Undead",
+    "unit": " Tichondrius ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"Dreadlords… do it in the dark.\"\n",
+    "faction": "Undead",
+    "unit": " Tichondrius ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I get cranky when I haven't been fed.\"\n",
+    "faction": "Undead",
+    "unit": " Tichondrius ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I must feast upon souls!\"\n",
+    "faction": "Undead",
+    "unit": " Tichondrius ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"The Legion needs… a better dental plan. These fangs are killing me!\"\n",
+    "faction": "Undead",
+    "unit": " Tichondrius ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Darkness… needs to get DSL. His line is always busy.\" (another in the 'darkness' series.)\n",
+    "faction": "Undead",
+    "unit": " Tichondrius ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"What joy is there in this curse?\"\n",
+    "faction": "Undead",
+    "unit": " Sylvanas Windrunner (undead) ",
+    "action": "(Hero - Dark Ranger)\nReady\n"
+  },
+  {
+    "value": "\"I'm here.\"\n",
+    "faction": "Undead",
+    "unit": " Sylvanas Windrunner (undead) ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Show me a target.\"\n",
+    "faction": "Undead",
+    "unit": " Sylvanas Windrunner (undead) ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Give the order.\"\n",
+    "faction": "Undead",
+    "unit": " Sylvanas Windrunner (undead) ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I'm listening.\"\n",
+    "faction": "Undead",
+    "unit": " Sylvanas Windrunner (undead) ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"It's time to even the scales.\" (Based on a line she says to Arthas in the same game)\n",
+    "faction": "Undead",
+    "unit": " Sylvanas Windrunner (undead) ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Done!\"\n",
+    "faction": "Undead",
+    "unit": " Sylvanas Windrunner (undead) ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I have no time for games.\"\n",
+    "faction": "Undead",
+    "unit": " Sylvanas Windrunner (undead) ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"The moment is upon us!\"\n",
+    "faction": "Undead",
+    "unit": " Sylvanas Windrunner (undead) ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Of course!\"\n",
+    "faction": "Undead",
+    "unit": " Sylvanas Windrunner (undead) ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Show them no mercy!\"\n",
+    "faction": "Undead",
+    "unit": " Sylvanas Windrunner (undead) ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Push the attack!\"\n",
+    "faction": "Undead",
+    "unit": " Sylvanas Windrunner (undead) ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Let none survive!\"\n",
+    "faction": "Undead",
+    "unit": " Sylvanas Windrunner (undead) ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"May my aim be true.\"\n",
+    "faction": "Undead",
+    "unit": " Sylvanas Windrunner (undead) ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Victory draws near!\"\n",
+    "faction": "Undead",
+    "unit": " Sylvanas Windrunner (undead) ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"My will is my own.\"\n",
+    "faction": "Undead",
+    "unit": " Sylvanas Windrunner (undead) ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I have my own reasons for seeking vengeance.\" (From a conversation with Balnazzar in the game)\n",
+    "faction": "Undead",
+    "unit": " Sylvanas Windrunner (undead) ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Arthas murdered my people and turned me into this...monstrosity.\" (From the same conversation)\n",
+    "faction": "Undead",
+    "unit": " Sylvanas Windrunner (undead) ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"What are we if not slaves to this torment?\"\n",
+    "faction": "Undead",
+    "unit": " Sylvanas Windrunner (undead) ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I have returned.\"\n",
+    "faction": "Undead",
+    "unit": " Varimathras ",
+    "action": "(Hero - Dread Lord)\nReady\n"
+  },
+  {
+    "value": "\"How will this benefit me?\"\n",
+    "faction": "Undead",
+    "unit": " Varimathras ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Don't waste my time.\"\n",
+    "faction": "Undead",
+    "unit": " Varimathras ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"You have an idea?\"\n",
+    "faction": "Undead",
+    "unit": " Varimathras ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"You call on me?\"\n",
+    "faction": "Undead",
+    "unit": " Varimathras ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I await your counsel.\"\n",
+    "faction": "Undead",
+    "unit": " Varimathras ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I'll do what I must.\"\n",
+    "faction": "Undead",
+    "unit": " Varimathras ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Stay out of my way.\"\n",
+    "faction": "Undead",
+    "unit": " Varimathras ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"By any means necessary.\"\n",
+    "faction": "Undead",
+    "unit": " Varimathras ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Right.\"\n",
+    "faction": "Undead",
+    "unit": " Varimathras ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Of course.\"\n",
+    "faction": "Undead",
+    "unit": " Varimathras ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Wake up, time to die.\" (Blade Runner)\n",
+    "faction": "Undead",
+    "unit": " Varimathras ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"None can oppose me.\"\n",
+    "faction": "Undead",
+    "unit": " Varimathras ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"This one is mine.\"\n",
+    "faction": "Undead",
+    "unit": " Varimathras ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Vanquish the weak!\"\n",
+    "faction": "Undead",
+    "unit": " Varimathras ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For the Nathrezim!\"\n",
+    "faction": "Undead",
+    "unit": " Varimathras ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"I love it when a plan comes together.\" (A-team Hannibal)\n",
+    "faction": "Undead",
+    "unit": " Varimathras ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Sorry, I don't do interviews.\" (Reference to Interview With a Vampire, relating to Dreadlord's vampiric nature)\n",
+    "faction": "Undead",
+    "unit": " Varimathras ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"We're not a cult so much as a maniacal group of fanatical, blade-wielding zealots.\"\n",
+    "faction": "Undead",
+    "unit": " Varimathras ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'll take a huge, juicy, bloody bite out of-- What were we talking about?\"\n",
+    "faction": "Undead",
+    "unit": " Varimathras ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'm always on the winning side.\"\n",
+    "faction": "Undead",
+    "unit": " Varimathras ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Join me, or die.\"\n",
+    "faction": "Undead",
+    "unit": " Varimathras ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Don't worry about the fine print, the soul consumption clause is never exercised.\"\n",
+    "faction": "Undead",
+    "unit": " Varimathras ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "(Lengthy screams of a human while being stabbed, followed by a body hitting the floor) \"And that concludes our demonstration... any questions?\"\n",
+    "faction": "Undead",
+    "unit": " Varimathras ",
+    "action": "Pissed\n"
+  }
+]

@@ -1,0 +1,2036 @@
+[
+  {
+    "value": "\"I stand ready.\"\n",
+    "faction": "Elf",
+    "unit": " Archer ",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"Waiting on you.\"\n",
+    "faction": "Elf",
+    "unit": " Archer ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Point the way.\"\n",
+    "faction": "Elf",
+    "unit": " Archer ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"On your mark.\"\n",
+    "faction": "Elf",
+    "unit": " Archer ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Your move.\"\n",
+    "faction": "Elf",
+    "unit": " Archer ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Say no more.\"\n",
+    "faction": "Elf",
+    "unit": " Archer ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Done.\"\n",
+    "faction": "Elf",
+    "unit": " Archer ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Fair enough.\"\n",
+    "faction": "Elf",
+    "unit": " Archer ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"All too easy.\"\n",
+    "faction": "Elf",
+    "unit": " Archer ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I'll give it a shot.\"\n",
+    "faction": "Elf",
+    "unit": " Archer ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Fire!\"\n",
+    "faction": "Elf",
+    "unit": " Archer ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"One shot, one kill.\" (A reference to the famous United States Marine Corps Scout Snipers motto)\n",
+    "faction": "Elf",
+    "unit": " Archer ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Cry havoc!\" (from Shakespeare's Julius Caesar)\n",
+    "faction": "Elf",
+    "unit": " Archer ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"By the light of the moon!\"\n",
+    "faction": "Elf",
+    "unit": " Archer ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"Ooh. I'm all a-quiver.\"\n",
+    "faction": "Elf",
+    "unit": " Archer ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Fear my leet skills.\" (Reference to 1337 speak.)\n",
+    "faction": "Elf",
+    "unit": " Archer ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Let's move. Five meter spread, no sound.\" (Predator)\n",
+    "faction": "Elf",
+    "unit": " Archer ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'm more than a ranger. I'm a night ranger.\" (A reference to the rock band Night Ranger)\n",
+    "faction": "Elf",
+    "unit": " Archer ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"My release date's been changed!\" (a reference to Blizzard's frequently changing release schedule)\n",
+    "faction": "Elf",
+    "unit": " Archer ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'm not just some plucky girl you can string along.\"\n",
+    "faction": "Elf",
+    "unit": " Archer ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Shot through the heart, and I'm to blame.\" (A reference to the song \"You Give Love A Bad Name\" by Bon Jovi)\n",
+    "faction": "Elf",
+    "unit": " Archer ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I said a bow-string, not a G… *sigh* Never mind.\"\n",
+    "faction": "Elf",
+    "unit": " Archer ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Goddess, light my path.\"\n",
+    "faction": "Elf",
+    "unit": " Huntress ",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"Make it fast.\"\n",
+    "faction": "Elf",
+    "unit": " Huntress ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"In position.\"\n",
+    "faction": "Elf",
+    "unit": " Huntress ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Standing guard.\"\n",
+    "faction": "Elf",
+    "unit": " Huntress ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Speak your mind.\"\n",
+    "faction": "Elf",
+    "unit": " Huntress ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I am sworn to avenge.\"\n",
+    "faction": "Elf",
+    "unit": " Huntress ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Absolutely.\"\n",
+    "faction": "Elf",
+    "unit": " Huntress ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I shall not fear.\"\n",
+    "faction": "Elf",
+    "unit": " Huntress ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"As the Goddess wills.\"\n",
+    "faction": "Elf",
+    "unit": " Huntress ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I walk in the shadow.\"\n",
+    "faction": "Elf",
+    "unit": " Huntress ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"My wait is over.\"\n",
+    "faction": "Elf",
+    "unit": " Huntress ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Seek!\"\n",
+    "faction": "Elf",
+    "unit": " Huntress ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Catch!\"\n",
+    "faction": "Elf",
+    "unit": " Huntress ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Fear the night!\"\n",
+    "faction": "Elf",
+    "unit": " Huntress ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Pray for dawn.\"\n",
+    "faction": "Elf",
+    "unit": " Huntress ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Come and get it!\"\n",
+    "faction": "Elf",
+    "unit": " Huntress ",
+    "action": "Attack\n"
+  },
+  {
+    "value": " \"For the Great Mother!\"\n",
+    "faction": "Elf",
+    "unit": " Huntress ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"I can blend!\"\n",
+    "faction": "Elf",
+    "unit": " Huntress ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Give a hoot. Don't pollute.\" (A reference to Woodsy Owl)\n",
+    "faction": "Elf",
+    "unit": " Huntress ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Frisbee, anyone?\" *panther roars*\n",
+    "faction": "Elf",
+    "unit": " Huntress ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"This is my owl. There are many like it, but this one is mine.\" (Reference to the Rifleman's Creed or same quote like \"Terran Marine\" in StarCraft II, another Blizzard game.)\n",
+    "faction": "Elf",
+    "unit": " Huntress ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'm here to work on my slice.\" *panther roars*\n",
+    "faction": "Elf",
+    "unit": " Huntress ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'm caught between the moon and Night Elf City.\" (A reference to the Song \"The Moon and New York City\" by Christopher Cross, from the movie Arthur)\n",
+    "faction": "Elf",
+    "unit": " Huntress ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Fly, Bubo!\" (A reference to the movie Clash of the Titans)\n",
+    "faction": "Elf",
+    "unit": " Huntress ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'm not given to flights of fancy.\"\n",
+    "faction": "Elf",
+    "unit": " Huntress ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Ah, the great outdoors!\"\n",
+    "faction": "Elf",
+    "unit": " Dryad ",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"Hi!\"\n",
+    "faction": "Elf",
+    "unit": " Dryad ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Is there trouble?\"\n",
+    "faction": "Elf",
+    "unit": " Dryad ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Are we being invaded?\"\n",
+    "faction": "Elf",
+    "unit": " Dryad ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"What is nature's call?\"\n",
+    "faction": "Elf",
+    "unit": " Dryad ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"For the trees.\"\n",
+    "faction": "Elf",
+    "unit": " Dryad ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Making trails.\"\n",
+    "faction": "Elf",
+    "unit": " Dryad ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I'm game!\" (A pun, referring to the fact that the dryad is half-deer, a game animal)\n",
+    "faction": "Elf",
+    "unit": " Dryad ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Gladly.\"\n",
+    "faction": "Elf",
+    "unit": " Dryad ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Taste my spear!\"\n",
+    "faction": "Elf",
+    "unit": " Dryad ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"The hunt is on!\"\n",
+    "faction": "Elf",
+    "unit": " Dryad ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Aim dead-center!\"\n",
+    "faction": "Elf",
+    "unit": " Dryad ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For Kalimdor!\"\n",
+    "faction": "Elf",
+    "unit": " Dryad ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"I'm not the dryad you're looking for.\" (Star Wars - a pun on \"dryad\", which sounds like \"droid\")\n",
+    "faction": "Elf",
+    "unit": " Dryad ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"D'oh! (Doe)\" (Homer Simpson's catchphrase)\n",
+    "faction": "Elf",
+    "unit": " Dryad ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Fear the fearsome fury of the forest fawn!\"\n",
+    "faction": "Elf",
+    "unit": " Dryad ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"You communicate by clicking on me; I communicate by doing what you say.\"\n",
+    "faction": "Elf",
+    "unit": " Dryad ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'm not in season!\"\n",
+    "faction": "Elf",
+    "unit": " Dryad ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I've got a few bucks set aside for later.\"\n",
+    "faction": "Elf",
+    "unit": " Dryad ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Fall! Like leaves… in fall!\"\n",
+    "faction": "Elf",
+    "unit": " Dryad ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I don't reveal much on the mini-map. It's all my fault!\"\n",
+    "faction": "Elf",
+    "unit": " Dryad ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'll attract the enemy with my human call: 'I'm so wasted! I'm so wasted!'\"\n",
+    "faction": "Elf",
+    "unit": " Dryad ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Ready to fly.\"\n",
+    "faction": "Elf",
+    "unit": " Hippogryph Rider ",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"Your move.\"\n",
+    "faction": "Elf",
+    "unit": " Hippogryph Rider ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Our time is now.\"\n",
+    "faction": "Elf",
+    "unit": " Hippogryph Rider ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Waiting on you.\"\n",
+    "faction": "Elf",
+    "unit": " Hippogryph Rider ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Hold on.\"\n",
+    "faction": "Elf",
+    "unit": " Hippogryph Rider ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"To the skies.\"\n",
+    "faction": "Elf",
+    "unit": " Hippogryph Rider ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Take wing!\"\n",
+    "faction": "Elf",
+    "unit": " Hippogryph Rider ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"All too easy.\"\n",
+    "faction": "Elf",
+    "unit": " Hippogryph Rider ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"They don't stand a chance!\"\n",
+    "faction": "Elf",
+    "unit": " Hippogryph Rider ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Fire.\"\n",
+    "faction": "Elf",
+    "unit": " Hippogryph Rider ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"One shot, one kill.\" (Another reference to the famous United States Marine Corps Scout Snipers motto)\n",
+    "faction": "Elf",
+    "unit": " Hippogryph Rider ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"By the light of the moon!\"\n",
+    "faction": "Elf",
+    "unit": " Hippogryph Rider ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"Born to ride.\" (Slogan of the Outlaw motorcycle club)\n",
+    "faction": "Elf",
+    "unit": " Hippogryph Rider ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Look at the rack on this thing.\"\n",
+    "faction": "Elf",
+    "unit": " Hippogryph Rider ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Who's a little fluffy wuffy?\" *hippogryph roars*\n",
+    "faction": "Elf",
+    "unit": " Hippogryph Rider ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"The hippogryph is an amazing creature rarely seen outside the wild. The tricky thing about hippogryphs is their incredible jaw strength. One terrible clamp of their beaks can rip a huge beast apart in seconds. Let's see what happens when I stick my hand... *hippogryph attacks* Ah!\" (A reference to The Crocodile Hunter)\n",
+    "faction": "Elf",
+    "unit": " Hippogryph Rider ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"By the great winds, I come.\"\n",
+    "faction": "Elf",
+    "unit": " Druid of the Talon ",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"Out with it.\"\n",
+    "faction": "Elf",
+    "unit": " Druid of the Talon ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I am prepared.\"\n",
+    "faction": "Elf",
+    "unit": " Druid of the Talon ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Enlighten me.\"\n",
+    "faction": "Elf",
+    "unit": " Druid of the Talon ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Thy bidding?\"\n",
+    "faction": "Elf",
+    "unit": " Druid of the Talon ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"No one shall be the wiser.\"\n",
+    "faction": "Elf",
+    "unit": " Druid of the Talon ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"It has begun.\"\n",
+    "faction": "Elf",
+    "unit": " Druid of the Talon ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"For my brothers!\"\n",
+    "faction": "Elf",
+    "unit": " Druid of the Talon ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"That's a given.\"\n",
+    "faction": "Elf",
+    "unit": " Druid of the Talon ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"No quarter!\"\n",
+    "faction": "Elf",
+    "unit": " Druid of the Talon ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Make your peace.\"\n",
+    "faction": "Elf",
+    "unit": " Druid of the Talon ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"In the raven's name!\"\n",
+    "faction": "Elf",
+    "unit": " Druid of the Talon ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For Kalimdor!\"\n",
+    "faction": "Elf",
+    "unit": " Druid of the Talon ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"This outfit is for the birds.\" (Reference to an old proverb: '_____ is for the birds', meaning 'it is trash')\n",
+    "faction": "Elf",
+    "unit": " Druid of the Talon ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'd tell you more, but then I'd have to kill you.\" (many sources)\n",
+    "faction": "Elf",
+    "unit": " Druid of the Talon ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I am the Dark Night… Elf.\" (A reference to Batman)\n",
+    "faction": "Elf",
+    "unit": " Druid of the Talon ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"*sneezes* Don't tell me I'm allergic to feathers.\"\n",
+    "faction": "Elf",
+    "unit": " Druid of the Talon ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I ride on the break winds! I am silent… but deadly.\"\n",
+    "faction": "Elf",
+    "unit": " Druid of the Talon ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Talon. Druid of the Talon.\" (a roundabout reference to James Bond)\n",
+    "faction": "Elf",
+    "unit": " Druid of the Talon ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"How about if I just stand over here?\"\n",
+    "faction": "Elf",
+    "unit": " Druid of the Talon ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"The sleeper has awakened.\" (possibly a Dune reference)\n",
+    "faction": "Elf",
+    "unit": " Druid of the Claw ",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"I'm awake... I'm awake.\"\n",
+    "faction": "Elf",
+    "unit": " Druid of the Claw ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Our time is short.\"\n",
+    "faction": "Elf",
+    "unit": " Druid of the Claw ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Where shall I strike?\"\n",
+    "faction": "Elf",
+    "unit": " Druid of the Claw ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"My strength is yours!\"\n",
+    "faction": "Elf",
+    "unit": " Druid of the Claw ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"My path is clear.\"\n",
+    "faction": "Elf",
+    "unit": " Druid of the Claw ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"At once!\"\n",
+    "faction": "Elf",
+    "unit": " Druid of the Claw ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Of course!\"\n",
+    "faction": "Elf",
+    "unit": " Druid of the Claw ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Anu'dora.\"\n",
+    "faction": "Elf",
+    "unit": " Druid of the Claw ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Victory is at hand!\"\n",
+    "faction": "Elf",
+    "unit": " Druid of the Claw ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Bear arms!\" (A pun since they can turn into a literal bear)\n",
+    "faction": "Elf",
+    "unit": " Druid of the Claw ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"I'll make short work of them!\"\n",
+    "faction": "Elf",
+    "unit": " Druid of the Claw ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"In Nordrassil's name!\"\n",
+    "faction": "Elf",
+    "unit": " Druid of the Claw ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"Only you can prevent forest fires!\" (Smokey Bear)\n",
+    "faction": "Elf",
+    "unit": " Druid of the Claw ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'd rather be hibernating.\" (Possibly a reference to Warcraft II)\n",
+    "faction": "Elf",
+    "unit": " Druid of the Claw ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"He wasn't fuzzy, was he?\" (A reference to the classic poem \"Fuzzy Wuzzy Was a Bear\")\n",
+    "faction": "Elf",
+    "unit": " Druid of the Claw ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Da Bears.\" (A reference to SNL Superfans skit)\n",
+    "faction": "Elf",
+    "unit": " Druid of the Claw ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Got any gummy humans?\" (Reference to Gummy Bears)\n",
+    "faction": "Elf",
+    "unit": " Druid of the Claw ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"(tinny music plays) Can't… stop… dancing!\" (Referring to dancing bears, and possibly Darunia from Legend of Zelda: The Ocarina of Time, who dances uncontrollably to Saria's Song and resembles the Druid of the Claw.)\n",
+    "faction": "Elf",
+    "unit": " Druid of the Claw ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Quit clicking on my bear (bare) ass.\"\n",
+    "faction": "Elf",
+    "unit": " Druid of the Claw ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I must safeguard the land.\"\n",
+    "faction": "Elf",
+    "unit": " Keeper of the Grove ",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"Is there danger?\"\n",
+    "faction": "Elf",
+    "unit": " Keeper of the Grove ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Command me.\"\n",
+    "faction": "Elf",
+    "unit": " Keeper of the Grove ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Who threatens the wilds?\"\n",
+    "faction": "Elf",
+    "unit": " Keeper of the Grove ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"The time is now.\"\n",
+    "faction": "Elf",
+    "unit": " Keeper of the Grove ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Nature is restless.\"\n",
+    "faction": "Elf",
+    "unit": " Keeper of the Grove ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"By the spirits.\"\n",
+    "faction": "Elf",
+    "unit": " Keeper of the Grove ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"For Kalimdor.\"\n",
+    "faction": "Elf",
+    "unit": " Keeper of the Grove ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Well, there it is.\"\n",
+    "faction": "Elf",
+    "unit": " Keeper of the Grove ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"So shall it be.\"\n",
+    "faction": "Elf",
+    "unit": " Keeper of the Grove ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Naturally.\"\n",
+    "faction": "Elf",
+    "unit": " Keeper of the Grove ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Feel nature's wrath!\"\n",
+    "faction": "Elf",
+    "unit": " Keeper of the Grove ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Death to all defilers!\"\n",
+    "faction": "Elf",
+    "unit": " Keeper of the Grove ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"None shall harm the wilds!\"\n",
+    "faction": "Elf",
+    "unit": " Keeper of the Grove ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Smite the defilers of the land!\"\n",
+    "faction": "Elf",
+    "unit": " Keeper of the Grove ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"My father was mounted over someone's fireplace.\"\n",
+    "faction": "Elf",
+    "unit": " Keeper of the Grove ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Feel natural, nature's way.\"\n",
+    "faction": "Elf",
+    "unit": " Keeper of the Grove ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Don't let the do' (\"door.\" Sounds like \"doe\") hit you on the way out.\"\n",
+    "faction": "Elf",
+    "unit": " Keeper of the Grove ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"When I attack, part 3.\"\n",
+    "faction": "Elf",
+    "unit": " Keeper of the Grove ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Free rides… for the ladies.\"\n",
+    "faction": "Elf",
+    "unit": " Keeper of the Grove ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Herd up!\" (Reference to the song \"Word Up!\" by Cameo)\n",
+    "faction": "Elf",
+    "unit": " Keeper of the Grove ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Warriors of the night, assemble!\" tiger roars\n",
+    "faction": "Elf",
+    "unit": " Priestess of the Moon ",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"We are poised to strike.\"\n",
+    "faction": "Elf",
+    "unit": " Priestess of the Moon ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"We must act!\"\n",
+    "faction": "Elf",
+    "unit": " Priestess of the Moon ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I am vigilant.\"\n",
+    "faction": "Elf",
+    "unit": " Priestess of the Moon ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Trust in my command.\"\n",
+    "faction": "Elf",
+    "unit": " Priestess of the Moon ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Leading the way.\"\n",
+    "faction": "Elf",
+    "unit": " Priestess of the Moon ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Onward!\"\n",
+    "faction": "Elf",
+    "unit": " Priestess of the Moon ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"As I thought.\"\n",
+    "faction": "Elf",
+    "unit": " Priestess of the Moon ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"The Goddess agrees.\"\n",
+    "faction": "Elf",
+    "unit": " Priestess of the Moon ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Strike!\"\n",
+    "faction": "Elf",
+    "unit": " Priestess of the Moon ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For the Goddess!\"\n",
+    "faction": "Elf",
+    "unit": " Priestess of the Moon ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Prepare to be moonstruck!\" (A pun on the word 'starstruck,' meaning astonished, and the name of the unit)\n",
+    "faction": "Elf",
+    "unit": " Priestess of the Moon ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"We always land on our feet.\" (A reference to cats always landing on their feet)\n",
+    "faction": "Elf",
+    "unit": " Priestess of the Moon ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"My tiger was trained for war. He's grrrrreat!\n",
+    "faction": "Elf",
+    "unit": " Priestess of the Moon ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Curiosity killed my last ride.\" (Reference to the saying \"Curiosity killed the cat\")\n",
+    "faction": "Elf",
+    "unit": " Priestess of the Moon ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I got my tiger used from Siegfried and Roy.\" (Sounds like a car dealership's name)\n",
+    "faction": "Elf",
+    "unit": " Priestess of the Moon ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"​Crouch, tiger! I sense a hidden dragon!​\" (Reference to Crouching Tiger, Hidden Dragon )\n",
+    "faction": "Elf",
+    "unit": " Priestess of the Moon ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"When a Treant falls in the forest, does it make a sound?\" (Reference to the saying, \"'If a tree falls in a forest and no one is around to hear it, does it make a sound?'\")\n",
+    "faction": "Elf",
+    "unit": " Priestess of the Moon ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"At last... We shall have revenge...\"\n",
+    "faction": "Elf",
+    "unit": " Demon Hunter ",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"The time has come.\"\n",
+    "faction": "Elf",
+    "unit": " Demon Hunter ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"We must act.\"\n",
+    "faction": "Elf",
+    "unit": " Demon Hunter ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"My blade thirsts!\"\n",
+    "faction": "Elf",
+    "unit": " Demon Hunter ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Quickly!\"\n",
+    "faction": "Elf",
+    "unit": " Demon Hunter ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Command me.\"\n",
+    "faction": "Elf",
+    "unit": " Demon Hunter ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Anu'dor anu'dor.\"\n",
+    "faction": "Elf",
+    "unit": " Demon Hunter ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Though I be damned.\"\n",
+    "faction": "Elf",
+    "unit": " Demon Hunter ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Dorune'ka.\"\n",
+    "faction": "Elf",
+    "unit": " Demon Hunter ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"At last!\"\n",
+    "faction": "Elf",
+    "unit": " Demon Hunter ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Hmm...\"\n",
+    "faction": "Elf",
+    "unit": " Demon Hunter ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"None shall survive.\"\n",
+    "faction": "Elf",
+    "unit": " Demon Hunter ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Your blood is mine.\"\n",
+    "faction": "Elf",
+    "unit": " Demon Hunter ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Run for your life!\"\n",
+    "faction": "Elf",
+    "unit": " Demon Hunter ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Revenge...\"\n",
+    "faction": "Elf",
+    "unit": " Demon Hunter ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For Kalimdor!\"\n",
+    "faction": "Elf",
+    "unit": " Demon Hunter ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"I shall fight fire with fire.\"\n",
+    "faction": "Elf",
+    "unit": " Demon Hunter ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Chaos boils in my veins.\"\n",
+    "faction": "Elf",
+    "unit": " Demon Hunter ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Demon blood is thicker than... regular blood.\"\n",
+    "faction": "Elf",
+    "unit": " Demon Hunter ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I like my enemies dead, and my blades flaming.\"\n",
+    "faction": "Elf",
+    "unit": " Demon Hunter ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "(backwards speech) (Sounding like \"Seert neerg evol'eah!\", when played backwards he's saying \"I love green trees!\" A reference to supposed \"demonic\" speech hidden in reverse in audio recordings.)\n",
+    "faction": "Elf",
+    "unit": " Demon Hunter ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"You will perish in flames, y- *cough cough*. Oh, sorry.\" (Ghostbusters reference)\n",
+    "faction": "Elf",
+    "unit": " Demon Hunter ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Darkness called… But I was on the phone, so I missed him. I tried to *69-Darkness, but his machine picked up. I yelled \"Pick up the phone, Darkness!,\" but he ignored me. Darkness must have been screening his calls.\" (Referenced by numerous Undead. The first part, \"Darkness called\", might also be a reference \"Thriller\" by Michael Jackson.)\n",
+    "faction": "Elf",
+    "unit": " Demon Hunter ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"My prey is near.\"\n",
+    "faction": "Elf",
+    "unit": " Warden ",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"Have you reached a verdict?\"\n",
+    "faction": "Elf",
+    "unit": " Warden ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Let me investigate.\"\n",
+    "faction": "Elf",
+    "unit": " Warden ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Benthai del Elune.\"\n",
+    "faction": "Elf",
+    "unit": " Warden ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Ash'valanor.\"\n",
+    "faction": "Elf",
+    "unit": " Warden ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I am the iron hand of justice.\"\n",
+    "faction": "Elf",
+    "unit": " Warden ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Let the hunt begin.\"\n",
+    "faction": "Elf",
+    "unit": " Warden ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Understood.\"\n",
+    "faction": "Elf",
+    "unit": " Warden ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I can taste their fear.\"\n",
+    "faction": "Elf",
+    "unit": " Warden ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Justice shall be swift.\"\n",
+    "faction": "Elf",
+    "unit": " Warden ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"They shall not escape!\"\n",
+    "faction": "Elf",
+    "unit": " Warden ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Let justice be served!\"\n",
+    "faction": "Elf",
+    "unit": " Warden ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"I am the law!\" (Reference to Judge Dredd)\n",
+    "faction": "Elf",
+    "unit": " Warden ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Justice has come!\"\n",
+    "faction": "Elf",
+    "unit": " Warden ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"I shall be your executioner.\"\n",
+    "faction": "Elf",
+    "unit": " Warden ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Only the guilty need to fear me.\"\n",
+    "faction": "Elf",
+    "unit": " Warden ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Justice may be blind, but I'm not.\" (Reference to Lady Justice and Tyarel)\n",
+    "faction": "Elf",
+    "unit": " Warden ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Truth, justice, and the Night Elf way!\" (Reference to The Adventures of Superman)\n",
+    "faction": "Elf",
+    "unit": " Warden ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"You think you're above the law?\"\n",
+    "faction": "Elf",
+    "unit": " Warden ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"What we have here is a failure to communicate.\" (Cool Hand Luke)\n",
+    "faction": "Elf",
+    "unit": " Warden ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I hold you in contempt.\"\n",
+    "faction": "Elf",
+    "unit": " Warden ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"He's no good to me if he's dead.\" (Reference to Star Wars)\n",
+    "faction": "Elf",
+    "unit": " Warden ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Let's get going.\"\n",
+    "faction": "Elf",
+    "unit": " Shandris ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I await your command.\"\n",
+    "faction": "Elf",
+    "unit": " Shandris ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I'm listening.\"\n",
+    "faction": "Elf",
+    "unit": " Shandris ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Excellent!\"\n",
+    "faction": "Elf",
+    "unit": " Shandris ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Absolutely!\"\n",
+    "faction": "Elf",
+    "unit": " Shandris ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"No problem.\"\n",
+    "faction": "Elf",
+    "unit": " Shandris ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"They will never know what hit them.\" (Starcraft reference, ghost unit)\n",
+    "faction": "Elf",
+    "unit": " Shandris ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"This one's mine!\"\n",
+    "faction": "Elf",
+    "unit": " Shandris ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Cry for mercy!\"\n",
+    "faction": "Elf",
+    "unit": " Shandris ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Fire!\"\n",
+    "faction": "Elf",
+    "unit": " Shandris ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Was there something you wanted?\"\n",
+    "faction": "Elf",
+    "unit": " Shandris ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Look, I don't have time for this nonsense.\"\n",
+    "faction": "Elf",
+    "unit": " Shandris ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I wonder why I never run out of arrows?\"\n",
+    "faction": "Elf",
+    "unit": " Shandris ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I wish my bow was socketed.\" (Reference to the socketing feature in Diablo II, another game by Blizzard Entertainment)\n",
+    "faction": "Elf",
+    "unit": " Shandris ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"It feels good to be in the wilds.\"\n",
+    "faction": "Elf",
+    "unit": " Naisha ",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"Moonlight shines upon the guilty and the innocent alike.\"\n",
+    "faction": "Elf",
+    "unit": " Naisha ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I am the blade of the goddess.\"\n",
+    "faction": "Elf",
+    "unit": " Naisha ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"We will find justice.\"\n",
+    "faction": "Elf",
+    "unit": " Naisha ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"How may I serve the goddess?\"\n",
+    "faction": "Elf",
+    "unit": " Naisha ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"My watchers are ready.\"\n",
+    "faction": "Elf",
+    "unit": " Naisha ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"An honor.\"\n",
+    "faction": "Elf",
+    "unit": " Naisha ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Certainly.\"\n",
+    "faction": "Elf",
+    "unit": " Naisha ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"It shall be done.\"\n",
+    "faction": "Elf",
+    "unit": " Naisha ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"For Elune.\"\n",
+    "faction": "Elf",
+    "unit": " Naisha ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"As you wish.\"\n",
+    "faction": "Elf",
+    "unit": " Naisha ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Watchers, strike!\"\n",
+    "faction": "Elf",
+    "unit": " Naisha ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Die, criminal!\"\n",
+    "faction": "Elf",
+    "unit": " Naisha ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Plead your innocence.\"\n",
+    "faction": "Elf",
+    "unit": " Naisha ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Ara'deno'filorei!\"\n",
+    "faction": "Elf",
+    "unit": " Naisha ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"Exercise, stunning scenery? This beats prison duty any day.\"\n",
+    "faction": "Elf",
+    "unit": " Naisha ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I spent so long under ground i forgot what the stars look like.\"\n",
+    "faction": "Elf",
+    "unit": " Naisha ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I fear for Maiev. She feels responsible for Illidan's escape.\"\n",
+    "faction": "Elf",
+    "unit": " Naisha ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Evil draws close.\"\n",
+    "faction": "Elf",
+    "unit": " Illidan Stormrage ",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"I'm blind, not deaf.\"\n",
+    "faction": "Elf",
+    "unit": " Illidan Stormrage ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I grow impatient.\"\n",
+    "faction": "Elf",
+    "unit": " Illidan Stormrage ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Are there demons nearby?\"\n",
+    "faction": "Elf",
+    "unit": " Illidan Stormrage ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"You dare speak to me?\"\n",
+    "faction": "Elf",
+    "unit": " Illidan Stormrage ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Easily.\"\n",
+    "faction": "Elf",
+    "unit": " Illidan Stormrage ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Hardly a challenge.\"\n",
+    "faction": "Elf",
+    "unit": " Illidan Stormrage ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Is that all?\"\n",
+    "faction": "Elf",
+    "unit": " Illidan Stormrage ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Evil draws close.\"\n",
+    "faction": "Elf",
+    "unit": " Illidan Stormrage ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Vengeance is mine.\"\n",
+    "faction": "Elf",
+    "unit": " Illidan Stormrage ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Die, fool!\"\n",
+    "faction": "Elf",
+    "unit": " Illidan Stormrage ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"You will regret approaching me.\"\n",
+    "faction": "Elf",
+    "unit": " Illidan Stormrage ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"None may challenge me!\"\n",
+    "faction": "Elf",
+    "unit": " Illidan Stormrage ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"I have been caged in darkness.\"\n",
+    "faction": "Elf",
+    "unit": " Illidan Stormrage ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"My soul longs for vengeance!\"\n",
+    "faction": "Elf",
+    "unit": " Illidan Stormrage ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I've been alone for ten thousand years.\"\n",
+    "faction": "Elf",
+    "unit": " Illidan Stormrage ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"My brother will pay dearly for his betrayal.\"\n",
+    "faction": "Elf",
+    "unit": " Illidan Stormrage ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"None of them know my true power!\"\n",
+    "faction": "Elf",
+    "unit": " Illidan Stormrage ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I see… absolutely nothing.\"\n",
+    "faction": "Elf",
+    "unit": " Illidan Stormrage ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Wings, horns, hooves? What are we saying, is this Diablo?\" (reference across the Blizzard franchises)\n",
+    "faction": "Elf",
+    "unit": " Illidan Stormrage ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Pa-weep graw-naw weep ninni-bung! It's a universal greeting!\" (Transformers reference)\n",
+    "faction": "Elf",
+    "unit": " Illidan Stormrage ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I am the hand of justice!\"\n",
+    "faction": "Elf",
+    "unit": " Maiev Shadowsong ",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"Illidan is out there somewhere.\"\n",
+    "faction": "Elf",
+    "unit": " Maiev Shadowsong ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"We're wasting time here.\"\n",
+    "faction": "Elf",
+    "unit": " Maiev Shadowsong ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"The hunt awaits!\"\n",
+    "faction": "Elf",
+    "unit": " Maiev Shadowsong ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Justice will be done.\"\n",
+    "faction": "Elf",
+    "unit": " Maiev Shadowsong ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"We must hurry.\"\n",
+    "faction": "Elf",
+    "unit": " Maiev Shadowsong ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I can wait no longer!\"\n",
+    "faction": "Elf",
+    "unit": " Maiev Shadowsong ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"The guilty will suffer!\"\n",
+    "faction": "Elf",
+    "unit": " Maiev Shadowsong ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Now is the time!\"\n",
+    "faction": "Elf",
+    "unit": " Maiev Shadowsong ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I will finish the hunt.\"\n",
+    "faction": "Elf",
+    "unit": " Maiev Shadowsong ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"The end draws near.\"\n",
+    "faction": "Elf",
+    "unit": " Maiev Shadowsong ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Ashal thera'das!\"\n",
+    "faction": "Elf",
+    "unit": " Maiev Shadowsong ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For justice!\"\n",
+    "faction": "Elf",
+    "unit": " Maiev Shadowsong ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For the Watchers!\"\n",
+    "faction": "Elf",
+    "unit": " Maiev Shadowsong ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Tor'ilisar thera'nal!\"\n",
+    "faction": "Elf",
+    "unit": " Maiev Shadowsong ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"I watched the barrow prisons for over ten thousand years.\"\n",
+    "faction": "Elf",
+    "unit": " Maiev Shadowsong ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Yet I'm the one who feels caged.\"\n",
+    "faction": "Elf",
+    "unit": " Maiev Shadowsong ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I feel hollow inside. Vengeance is all I have left.\"\n",
+    "faction": "Elf",
+    "unit": " Maiev Shadowsong ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Tyrande will pay for setting Illidan free.\"\n",
+    "faction": "Elf",
+    "unit": " Maiev Shadowsong ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I will recapture Illidan, or die trying.\"\n",
+    "faction": "Elf",
+    "unit": " Maiev Shadowsong ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I heed the voice of Elune.\"\n",
+    "faction": "Elf",
+    "unit": " Tyrande Whisperwind ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"The Goddess calls.\"\n",
+    "faction": "Elf",
+    "unit": " Tyrande Whisperwind ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Ashe'tor'aman.\"\n",
+    "faction": "Elf",
+    "unit": " Tyrande Whisperwind ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Someone threatens the wilds?\"\n",
+    "faction": "Elf",
+    "unit": " Tyrande Whisperwind ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"So be it.\"\n",
+    "faction": "Elf",
+    "unit": " Tyrande Whisperwind ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"By Elune.\"\n",
+    "faction": "Elf",
+    "unit": " Tyrande Whisperwind ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"As the Goddess wills.\"\n",
+    "faction": "Elf",
+    "unit": " Tyrande Whisperwind ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Immediately.\"\n",
+    "faction": "Elf",
+    "unit": " Tyrande Whisperwind ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Anu'dora!\"\n",
+    "faction": "Elf",
+    "unit": " Tyrande Whisperwind ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Enu ri'fah!\"\n",
+    "faction": "Elf",
+    "unit": " Tyrande Whisperwind ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For Kalimdor!\"\n",
+    "faction": "Elf",
+    "unit": " Tyrande Whisperwind ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"In the name of Cenarius!\"\n",
+    "faction": "Elf",
+    "unit": " Tyrande Whisperwind ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Sentinels, attack!\"\n",
+    "faction": "Elf",
+    "unit": " Tyrande Whisperwind ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"We keep our long vigil and wait...\"\n",
+    "faction": "Elf",
+    "unit": " Tyrande Whisperwind ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"... while the Druids sleep peacefully in their dens.\"\n",
+    "faction": "Elf",
+    "unit": " Tyrande Whisperwind ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Elune give me strength.\"\n",
+    "faction": "Elf",
+    "unit": " Tyrande Whisperwind ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"My heart sleeps in the Emerald Dream.\"\n",
+    "faction": "Elf",
+    "unit": " Tyrande Whisperwind ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Something is amiss...\"\n",
+    "faction": "Elf",
+    "unit": " Malfurion Stormrage ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"What threatens these lands?\"\n",
+    "faction": "Elf",
+    "unit": " Malfurion Stormrage ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Has sleep dulled my senses?\"\n",
+    "faction": "Elf",
+    "unit": " Malfurion Stormrage ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"The land and I are one.\"\n",
+    "faction": "Elf",
+    "unit": " Malfurion Stormrage ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"For Kalimdor.\"\n",
+    "faction": "Elf",
+    "unit": " Malfurion Stormrage ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Ash'thera'falla-dor.\"\n",
+    "faction": "Elf",
+    "unit": " Malfurion Stormrage ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"It shall be done.\"\n",
+    "faction": "Elf",
+    "unit": " Malfurion Stormrage ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Anu'dora.\"\n",
+    "faction": "Elf",
+    "unit": " Malfurion Stormrage ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Tor fal-anu'dora!\"\n",
+    "faction": "Elf",
+    "unit": " Malfurion Stormrage ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"How dare you!\"\n",
+    "faction": "Elf",
+    "unit": " Malfurion Stormrage ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Pathetic wretches!\"\n",
+    "faction": "Elf",
+    "unit": " Malfurion Stormrage ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Press the attack!\"\n",
+    "faction": "Elf",
+    "unit": " Malfurion Stormrage ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Ana'doreini talah!\"\n",
+    "faction": "Elf",
+    "unit": " Malfurion Stormrage ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"I sensed darkness in the Dreamways.\"\n",
+    "faction": "Elf",
+    "unit": " Malfurion Stormrage ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"The Legion has returned at last.\"\n",
+    "faction": "Elf",
+    "unit": " Malfurion Stormrage ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"This will be difficult without Cenarius' guidance.\"\n",
+    "faction": "Elf",
+    "unit": " Malfurion Stormrage ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Our sins have returned... to haunt us.\"\n",
+    "faction": "Elf",
+    "unit": " Malfurion Stormrage ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Kalimdor must be saved at all costs.\"\n",
+    "faction": "Elf",
+    "unit": " Malfurion Stormrage ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": " \"I'm on my mark.\"\n",
+    "faction": "Elf",
+    "unit": " Night Elf Runner (Campaign) ",
+    "action": "Ready\n"
+  },
+  {
+    "value": " \"There's no time to rest.\"\n",
+    "faction": "Elf",
+    "unit": " Night Elf Runner (Campaign) ",
+    "action": "What\n"
+  },
+  {
+    "value": " \"Show me the path.\"\n",
+    "faction": "Elf",
+    "unit": " Night Elf Runner (Campaign) ",
+    "action": "What\n"
+  },
+  {
+    "value": " \"Which way?\"\n",
+    "faction": "Elf",
+    "unit": " Night Elf Runner (Campaign) ",
+    "action": "What\n"
+  },
+  {
+    "value": " \"Guide me.\"\n",
+    "faction": "Elf",
+    "unit": " Night Elf Runner (Campaign) ",
+    "action": "What\n"
+  },
+  {
+    "value": " \"What news?\"\n",
+    "faction": "Elf",
+    "unit": " Night Elf Runner (Campaign) ",
+    "action": "What\n"
+  },
+  {
+    "value": " \"Let's run!\"\n",
+    "faction": "Elf",
+    "unit": " Night Elf Runner (Campaign) ",
+    "action": "Yes\n"
+  },
+  {
+    "value": " \"I'll get there on time.\"\n",
+    "faction": "Elf",
+    "unit": " Night Elf Runner (Campaign) ",
+    "action": "Yes\n"
+  },
+  {
+    "value": " \"As fast as I can.\"\n",
+    "faction": "Elf",
+    "unit": " Night Elf Runner (Campaign) ",
+    "action": "Yes\n"
+  },
+  {
+    "value": " \"Just do it.\" (The Nike slogan)\n",
+    "faction": "Elf",
+    "unit": " Night Elf Runner (Campaign) ",
+    "action": "Yes\n"
+  },
+  {
+    "value": " \"Make for the trees.\"\n",
+    "faction": "Elf",
+    "unit": " Night Elf Runner (Campaign) ",
+    "action": "Yes\n"
+  },
+  {
+    "value": " \"What? Me?\"\n",
+    "faction": "Elf",
+    "unit": " Night Elf Runner (Campaign) ",
+    "action": "Attack\n"
+  },
+  {
+    "value": " \"I wish I had a weapon...\"\n",
+    "faction": "Elf",
+    "unit": " Night Elf Runner (Campaign) ",
+    "action": "Attack\n"
+  },
+  {
+    "value": " \"Get me out of here.\"\n",
+    "faction": "Elf",
+    "unit": " Night Elf Runner (Campaign) ",
+    "action": "Attack\n"
+  },
+  {
+    "value": " \"Hi-keeba!\" (From Women of the Prehistoric Planet )\n",
+    "faction": "Elf",
+    "unit": " Night Elf Runner (Campaign) ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": " \"Don't shoot the messenger.\"\n",
+    "faction": "Elf",
+    "unit": " Night Elf Runner (Campaign) ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": " \"When it absolutely, positively has to be there in one day-night cycle.\" (The FedEx slogan)\n",
+    "faction": "Elf",
+    "unit": " Night Elf Runner (Campaign) ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": " \"I was running through the Tauren lands the other day and the traffic was horrible. There were horns everywhere.\"\n",
+    "faction": "Elf",
+    "unit": " Night Elf Runner (Campaign) ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": " \"When you care enough to send the very best... Send someone else.\" (Hallmark cards)\n",
+    "faction": "Elf",
+    "unit": " Night Elf Runner (Campaign) ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": " \"*ticking sounds* Hmm... a delivery from Acme Industries...\" *explosion* (Reference to Road Runner)\n",
+    "faction": "Elf",
+    "unit": " Night Elf Runner (Campaign) ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": " \"(panting) Urk! Ugh, I hate these running gags...\"\n",
+    "faction": "Elf",
+    "unit": " Night Elf Runner (Campaign) ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": " \"*crunching* Sorry, I'm out to lunch.\"\n",
+    "faction": "Elf",
+    "unit": " Night Elf Runner (Campaign) ",
+    "action": "Pissed\n"
+  }
+]

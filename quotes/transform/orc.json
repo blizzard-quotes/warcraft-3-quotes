@@ -1,0 +1,2252 @@
+[
+  {
+    "value": "Ready to work.",
+    "faction": "Orc",
+    "unit": "Peon",
+    "action": "Ready"
+  },
+  {
+    "value": "Yes?",
+    "faction": "Orc",
+    "unit": "Peon",
+    "action": "What"
+  },
+  {
+    "value": "Hmmm?",
+    "faction": "Orc",
+    "unit": "Peon",
+    "action": "What"
+  },
+  {
+    "value": "What you want?",
+    "faction": "Orc",
+    "unit": "Peon",
+    "action": "What"
+  },
+  {
+    "value": "Something need doing?",
+    "faction": "Orc",
+    "unit": "Peon",
+    "action": "What"
+  },
+  {
+    "value": "I can do that.",
+    "faction": "Orc",
+    "unit": "Peon",
+    "action": "Yes"
+  },
+  {
+    "value": "Be happy to.",
+    "faction": "Orc",
+    "unit": "Peon",
+    "action": "Yes"
+  },
+  {
+    "value": "Work, work.",
+    "faction": "Orc",
+    "unit": "Peon",
+    "action": "Yes"
+  },
+  {
+    "value": "Okie dokie.",
+    "faction": "Orc",
+    "unit": "Peon",
+    "action": "Yes"
+  },
+  {
+    "value": "OK!",
+    "faction": "Orc",
+    "unit": "Peon",
+    "action": "Attack"
+  },
+  {
+    "value": "Kill 'em!",
+    "faction": "Orc",
+    "unit": "Peon",
+    "action": "Attack"
+  },
+  {
+    "value": "I'll try...",
+    "faction": "Orc",
+    "unit": "Peon",
+    "action": "Attack"
+  },
+  {
+    "value": "Why not?!",
+    "faction": "Orc",
+    "unit": "Peon",
+    "action": "Warcry"
+  },
+  {
+    "value": "Whaaat?",
+    "faction": "Orc",
+    "unit": "Peon",
+    "action": "Pissed"
+  },
+  {
+    "value": "Me busy. Leave me alone!!",
+    "faction": "Orc",
+    "unit": "Peon",
+    "action": "Pissed"
+  },
+  {
+    "value": "No time for play.",
+    "faction": "Orc",
+    "unit": "Peon",
+    "action": "Pissed"
+  },
+  {
+    "value": "Me not that kind of orc!",
+    "faction": "Orc",
+    "unit": "Peon",
+    "action": "Pissed"
+  },
+  {
+    "value": "My life for the Horde!",
+    "faction": "Orc",
+    "unit": "Grunt",
+    "action": "Ready"
+  },
+  {
+    "value": "Yes?",
+    "faction": "Orc",
+    "unit": "Grunt",
+    "action": "What"
+  },
+  {
+    "value": "Huh?",
+    "faction": "Orc",
+    "unit": "Grunt",
+    "action": "What"
+  },
+  {
+    "value": "Master?",
+    "faction": "Orc",
+    "unit": "Grunt",
+    "action": "What"
+  },
+  {
+    "value": "What you want?",
+    "faction": "Orc",
+    "unit": "Grunt",
+    "action": "What"
+  },
+  {
+    "value": "Dabu!",
+    "faction": "Orc",
+    "unit": "Grunt",
+    "action": "Yes"
+  },
+  {
+    "value": "Lok'tar!",
+    "faction": "Orc",
+    "unit": "Grunt",
+    "action": "Yes"
+  },
+  {
+    "value": "Swobu!",
+    "faction": "Orc",
+    "unit": "Grunt",
+    "action": "Yes"
+  },
+  {
+    "value": "Zug zug!",
+    "faction": "Orc",
+    "unit": "Grunt",
+    "action": "Yes"
+  },
+  {
+    "value": "Time for killing!",
+    "faction": "Orc",
+    "unit": "Grunt",
+    "action": "Attack"
+  },
+  {
+    "value": "Hragh!",
+    "faction": "Orc",
+    "unit": "Grunt",
+    "action": "Attack"
+  },
+  {
+    "value": "Time to die!",
+    "faction": "Orc",
+    "unit": "Grunt",
+    "action": "Attack"
+  },
+  {
+    "value": "For the Horde!",
+    "faction": "Orc",
+    "unit": "Grunt",
+    "action": "Warcry"
+  },
+  {
+    "value": "Why you poking me again?",
+    "faction": "Orc",
+    "unit": "Grunt",
+    "action": "Pissed"
+  },
+  {
+    "value": "Why don't you lead an army instead of touching me?!",
+    "faction": "Orc",
+    "unit": "Grunt",
+    "action": "Pissed"
+  },
+  {
+    "value": "Poke, poke, poke - is that all you do?",
+    "faction": "Orc",
+    "unit": "Grunt",
+    "action": "Pissed"
+  },
+  {
+    "value": "Oh, that was kind of nice.",
+    "faction": "Orc",
+    "unit": "Grunt",
+    "action": "Pissed"
+  },
+  {
+    "value": "Me so horned; me hurt you long time.",
+    "faction": "Orc",
+    "unit": "Grunt",
+    "action": "Pissed"
+  },
+  {
+    "value": "Me no sound like Yoda. Do I?",
+    "faction": "Orc",
+    "unit": "Grunt",
+    "action": "Pissed"
+  },
+  {
+    "value": "It not easy being green!",
+    "faction": "Orc",
+    "unit": "Grunt",
+    "action": "Pissed"
+  },
+  {
+    "value": "Ready to ride.",
+    "faction": "Orc",
+    "unit": "Raider",
+    "action": "Ready"
+  },
+  {
+    "value": "Yes, chieftain?",
+    "faction": "Orc",
+    "unit": "Raider",
+    "action": "What"
+  },
+  {
+    "value": "Hmm?",
+    "faction": "Orc",
+    "unit": "Raider",
+    "action": "What"
+  },
+  {
+    "value": "Need something?",
+    "faction": "Orc",
+    "unit": "Raider",
+    "action": "What"
+  },
+  {
+    "value": "Say the word.",
+    "faction": "Orc",
+    "unit": "Raider",
+    "action": "What"
+  },
+  {
+    "value": "No problem.",
+    "faction": "Orc",
+    "unit": "Raider",
+    "action": "Yes"
+  },
+  {
+    "value": "Yeea!",
+    "faction": "Orc",
+    "unit": "Raider",
+    "action": "Yes"
+  },
+  {
+    "value": "Mush!",
+    "faction": "Orc",
+    "unit": "Raider",
+    "action": "Yes"
+  },
+  {
+    "value": "Let's ride.",
+    "faction": "Orc",
+    "unit": "Raider",
+    "action": "Yes"
+  },
+  {
+    "value": "Take 'em.",
+    "faction": "Orc",
+    "unit": "Raider",
+    "action": "Attack"
+  },
+  {
+    "value": "Taste my steel!",
+    "faction": "Orc",
+    "unit": "Raider",
+    "action": "Attack"
+  },
+  {
+    "value": "For Doomhammer!",
+    "faction": "Orc",
+    "unit": "Raider",
+    "action": "Attack"
+  },
+  {
+    "value": "For the glory of the Warchief!",
+    "faction": "Orc",
+    "unit": "Raider",
+    "action": "Warcry"
+  },
+  {
+    "value": "Down, boy.",
+    "faction": "Orc",
+    "unit": "Raider",
+    "action": "Pissed"
+  },
+  {
+    "value": "You're annoying my dog.",
+    "faction": "Orc",
+    "unit": "Raider",
+    "action": "Pissed"
+  },
+  {
+    "value": "What's that smell? Oh, bad dog!",
+    "faction": "Orc",
+    "unit": "Raider",
+    "action": "Pissed"
+  },
+  {
+    "value": "I'm hungry like the wolf!",
+    "faction": "Orc",
+    "unit": "Raider",
+    "action": "Pissed"
+  },
+  {
+    "value": "May my ancestors watch over me.",
+    "faction": "Orc",
+    "unit": "Tauren",
+    "action": "Ready"
+  },
+  {
+    "value": "Bring it on!",
+    "faction": "Orc",
+    "unit": "Tauren",
+    "action": "What"
+  },
+  {
+    "value": "I am able to help.",
+    "faction": "Orc",
+    "unit": "Tauren",
+    "action": "What"
+  },
+  {
+    "value": "How now?",
+    "faction": "Orc",
+    "unit": "Tauren",
+    "action": "What"
+  },
+  {
+    "value": "For the tribes!",
+    "faction": "Orc",
+    "unit": "Tauren",
+    "action": "Yes"
+  },
+  {
+    "value": "Immediately.",
+    "faction": "Orc",
+    "unit": "Tauren",
+    "action": "Yes"
+  },
+  {
+    "value": "Well done.",
+    "faction": "Orc",
+    "unit": "Tauren",
+    "action": "Yes"
+  },
+  {
+    "value": "Death to the enemies of the Horde!",
+    "faction": "Orc",
+    "unit": "Tauren",
+    "action": "Attack"
+  },
+  {
+    "value": "Death to the enemy!",
+    "faction": "Orc",
+    "unit": "Tauren",
+    "action": "Attack"
+  },
+  {
+    "value": "Start running.",
+    "faction": "Orc",
+    "unit": "Tauren",
+    "action": "Attack"
+  },
+  {
+    "value": "Whuuuooooo!",
+    "faction": "Orc",
+    "unit": "Tauren",
+    "action": "Warcry"
+  },
+  {
+    "value": "Do not push me or I will impale you on my horns.",
+    "faction": "Orc",
+    "unit": "Tauren",
+    "action": "Pissed"
+  },
+  {
+    "value": "Da Bulls.",
+    "faction": "Orc",
+    "unit": "Tauren",
+    "action": "Pissed"
+  },
+  {
+    "value": "Got milk?",
+    "faction": "Orc",
+    "unit": "Tauren",
+    "action": "Pissed"
+  },
+  {
+    "value": "There's a lot at steak here!",
+    "faction": "Orc",
+    "unit": "Tauren",
+    "action": "Pissed"
+  },
+  {
+    "value": "Hey, what are these letters burned on my ass?",
+    "faction": "Orc",
+    "unit": "Tauren",
+    "action": "Pissed"
+  },
+  {
+    "value": "Olé!",
+    "faction": "Orc",
+    "unit": "Tauren",
+    "action": "Pissed"
+  },
+  {
+    "value": "Sorry.",
+    "faction": "Orc",
+    "unit": "Tauren",
+    "action": "Pissed"
+  },
+  {
+    "value": "Vengeance for Zul'Jin!",
+    "faction": "Orc",
+    "unit": "Troll Headhunter",
+    "action": "Ready"
+  },
+  {
+    "value": "Who you want me kill?",
+    "faction": "Orc",
+    "unit": "Troll Headhunter",
+    "action": "What"
+  },
+  {
+    "value": "Wha'?",
+    "faction": "Orc",
+    "unit": "Troll Headhunter",
+    "action": "What"
+  },
+  {
+    "value": "What'you want me do?",
+    "faction": "Orc",
+    "unit": "Troll Headhunter",
+    "action": "What"
+  },
+  {
+    "value": "Where'you want me go?",
+    "faction": "Orc",
+    "unit": "Troll Headhunter",
+    "action": "What"
+  },
+  {
+    "value": "Aaah!",
+    "faction": "Orc",
+    "unit": "Troll Headhunter",
+    "action": "Yes"
+  },
+  {
+    "value": "Anything you want.",
+    "faction": "Orc",
+    "unit": "Troll Headhunter",
+    "action": "Yes"
+  },
+  {
+    "value": "You got it man.",
+    "faction": "Orc",
+    "unit": "Troll Headhunter",
+    "action": "Yes"
+  },
+  {
+    "value": "Yeah...",
+    "faction": "Orc",
+    "unit": "Troll Headhunter",
+    "action": "Yes"
+  },
+  {
+    "value": "Taz'dingo!",
+    "faction": "Orc",
+    "unit": "Troll Headhunter",
+    "action": "Attack"
+  },
+  {
+    "value": "Don't mess with the bad guy!",
+    "faction": "Orc",
+    "unit": "Troll Headhunter",
+    "action": "Attack"
+  },
+  {
+    "value": "It's time for a little blood!",
+    "faction": "Orc",
+    "unit": "Troll Headhunter",
+    "action": "Attack"
+  },
+  {
+    "value": "Taz'dingo!",
+    "faction": "Orc",
+    "unit": "Troll Headhunter",
+    "action": "Warcry"
+  },
+  {
+    "value": "What'you bother me for?!",
+    "faction": "Orc",
+    "unit": "Troll Headhunter",
+    "action": "Pissed"
+  },
+  {
+    "value": "Leave it to me, I take a big weight off your shoulders.",
+    "faction": "Orc",
+    "unit": "Troll Headhunter",
+    "action": "Pissed"
+  },
+  {
+    "value": "D'you wanna buy a cigar?",
+    "faction": "Orc",
+    "unit": "Troll Headhunter",
+    "action": "Pissed"
+  },
+  {
+    "value": "Lucy…",
+    "faction": "Orc",
+    "unit": "Troll Headhunter",
+    "action": "Pissed"
+  },
+  {
+    "value": "Say hello to my little friend!",
+    "faction": "Orc",
+    "unit": "Troll Headhunter",
+    "action": "Pissed"
+  },
+  {
+    "value": "Here comes the beast again.",
+    "faction": "Orc",
+    "unit": "Kodo Beast",
+    "action": "Pissed"
+  },
+  {
+    "value": "Ready to soar, master!",
+    "faction": "Orc",
+    "unit": "Wyvern Rider",
+    "action": "Ready"
+  },
+  {
+    "value": "Are there enemies above?",
+    "faction": "Orc",
+    "unit": "Wyvern Rider",
+    "action": "What"
+  },
+  {
+    "value": "On'dabu!",
+    "faction": "Orc",
+    "unit": "Wyvern Rider",
+    "action": "What"
+  },
+  {
+    "value": "Speak, chieftain.",
+    "faction": "Orc",
+    "unit": "Wyvern Rider",
+    "action": "What"
+  },
+  {
+    "value": "I need orders.",
+    "faction": "Orc",
+    "unit": "Wyvern Rider",
+    "action": "What"
+  },
+  {
+    "value": "To the winds!",
+    "faction": "Orc",
+    "unit": "Wyvern Rider",
+    "action": "Yes"
+  },
+  {
+    "value": "Let's fly!",
+    "faction": "Orc",
+    "unit": "Wyvern Rider",
+    "action": "Yes"
+  },
+  {
+    "value": "Onward and upward!",
+    "faction": "Orc",
+    "unit": "Wyvern Rider",
+    "action": "Yes"
+  },
+  {
+    "value": "Yeehaw!",
+    "faction": "Orc",
+    "unit": "Wyvern Rider",
+    "action": "Yes"
+  },
+  {
+    "value": "Die!",
+    "faction": "Orc",
+    "unit": "Wyvern Rider",
+    "action": "Attack"
+  },
+  {
+    "value": "Death from above!",
+    "faction": "Orc",
+    "unit": "Wyvern Rider",
+    "action": "Attack"
+  },
+  {
+    "value": "Victory for the Horde!",
+    "faction": "Orc",
+    "unit": "Wyvern Rider",
+    "action": "Attack"
+  },
+  {
+    "value": "For the glory of the Horde.",
+    "faction": "Orc",
+    "unit": "Wyvern Rider",
+    "action": "Attack"
+  },
+  {
+    "value": "Death to all who oppose the Horde!",
+    "faction": "Orc",
+    "unit": "Wyvern Rider",
+    "action": "Warcry"
+  },
+  {
+    "value": "Peter! I can fly!",
+    "faction": "Orc",
+    "unit": "Wyvern Rider",
+    "action": "Pissed"
+  },
+  {
+    "value": "I can see my house!",
+    "faction": "Orc",
+    "unit": "Wyvern Rider",
+    "action": "Pissed"
+  },
+  {
+    "value": "The only way to fly.",
+    "faction": "Orc",
+    "unit": "Wyvern Rider",
+    "action": "Pissed"
+  },
+  {
+    "value": "I'm getting a little dizzy.",
+    "faction": "Orc",
+    "unit": "Wyvern Rider",
+    "action": "Pissed"
+  },
+  {
+    "value": "FLASH! Aha!",
+    "faction": "Orc",
+    "unit": "Wyvern Rider",
+    "action": "Pissed"
+  },
+  {
+    "value": "Fly the friendly skies.",
+    "faction": "Orc",
+    "unit": "Wyvern Rider",
+    "action": "Pissed"
+  },
+  {
+    "value": "Look, up in the sky! It's a bird! It's a plane! It's me!",
+    "faction": "Orc",
+    "unit": "Wyvern Rider",
+    "action": "Pissed"
+  },
+  {
+    "value": "Someone call for de docter?",
+    "faction": "Orc",
+    "unit": "Troll Witch Doctor",
+    "action": "Ready"
+  },
+  {
+    "value": "I hear de summons!",
+    "faction": "Orc",
+    "unit": "Troll Witch Doctor",
+    "action": "What"
+  },
+  {
+    "value": "How may I serve?",
+    "faction": "Orc",
+    "unit": "Troll Witch Doctor",
+    "action": "What"
+  },
+  {
+    "value": "You seek me help?",
+    "faction": "Orc",
+    "unit": "Troll Witch Doctor",
+    "action": "What"
+  },
+  {
+    "value": "What you be cravin'?",
+    "faction": "Orc",
+    "unit": "Troll Witch Doctor",
+    "action": "What"
+  },
+  {
+    "value": "Taz'dingo!",
+    "faction": "Orc",
+    "unit": "Troll Witch Doctor",
+    "action": "Yes"
+  },
+  {
+    "value": "Righty way!",
+    "faction": "Orc",
+    "unit": "Troll Witch Doctor",
+    "action": "Yes"
+  },
+  {
+    "value": "Dat be good choice, mon!",
+    "faction": "Orc",
+    "unit": "Troll Witch Doctor",
+    "action": "Yes"
+  },
+  {
+    "value": "I do it, now!",
+    "faction": "Orc",
+    "unit": "Troll Witch Doctor",
+    "action": "Attack"
+  },
+  {
+    "value": "Ahaa!",
+    "faction": "Orc",
+    "unit": "Troll Witch Doctor",
+    "action": "Warcry"
+  },
+  {
+    "value": "Eekum Bokum.",
+    "faction": "Orc",
+    "unit": "Troll Witch Doctor",
+    "action": "Pissed"
+  },
+  {
+    "value": "Do ya be feelin' well?",
+    "faction": "Orc",
+    "unit": "Troll Witch Doctor",
+    "action": "Pissed"
+  },
+  {
+    "value": "I may have somethin' for ya.",
+    "faction": "Orc",
+    "unit": "Troll Witch Doctor",
+    "action": "Pissed"
+  },
+  {
+    "value": "We be jammin'.",
+    "faction": "Orc",
+    "unit": "Troll Witch Doctor",
+    "action": "Pissed"
+  },
+  {
+    "value": "It's a cookbook. A cookbook!",
+    "faction": "Orc",
+    "unit": "Troll Witch Doctor",
+    "action": "Pissed"
+  },
+  {
+    "value": "Soylent gray is made from TROLLS?",
+    "faction": "Orc",
+    "unit": "Troll Witch Doctor",
+    "action": "Pissed"
+  },
+  {
+    "value": "Storm, earth and fire, heed my call!",
+    "faction": "Orc",
+    "unit": "Shaman",
+    "action": "Ready"
+  },
+  {
+    "value": "Yes?",
+    "faction": "Orc",
+    "unit": "Shaman",
+    "action": "What"
+  },
+  {
+    "value": "Yes, warchief?",
+    "faction": "Orc",
+    "unit": "Shaman",
+    "action": "What"
+  },
+  {
+    "value": "How can I help?",
+    "faction": "Orc",
+    "unit": "Shaman",
+    "action": "What"
+  },
+  {
+    "value": "Direct me.",
+    "faction": "Orc",
+    "unit": "Shaman",
+    "action": "What"
+  },
+  {
+    "value": "A wise plan.",
+    "faction": "Orc",
+    "unit": "Shaman",
+    "action": "Yes"
+  },
+  {
+    "value": "Understood.",
+    "faction": "Orc",
+    "unit": "Shaman",
+    "action": "Yes"
+  },
+  {
+    "value": "For the Horde!",
+    "faction": "Orc",
+    "unit": "Shaman",
+    "action": "Yes"
+  },
+  {
+    "value": "Right away.",
+    "faction": "Orc",
+    "unit": "Shaman",
+    "action": "Yes"
+  },
+  {
+    "value": "Thunder...",
+    "faction": "Orc",
+    "unit": "Shaman",
+    "action": "Attack"
+  },
+  {
+    "value": "Power to the Horde!",
+    "faction": "Orc",
+    "unit": "Shaman",
+    "action": "Attack"
+  },
+  {
+    "value": "Feel the ground tremble!",
+    "faction": "Orc",
+    "unit": "Shaman",
+    "action": "Attack"
+  },
+  {
+    "value": "Lightning!",
+    "faction": "Orc",
+    "unit": "Shaman",
+    "action": "Attack"
+  },
+  {
+    "value": "I dedicate my power to the Horde!",
+    "faction": "Orc",
+    "unit": "Shaman",
+    "action": "Warcry"
+  },
+  {
+    "value": "You ever get hit by lightning where the Sun don't shine?",
+    "faction": "Orc",
+    "unit": "Shaman",
+    "action": "Pissed"
+  },
+  {
+    "value": "Back off, pup!",
+    "faction": "Orc",
+    "unit": "Shaman",
+    "action": "Pissed"
+  },
+  {
+    "value": "The sky is falling.",
+    "faction": "Orc",
+    "unit": "Shaman",
+    "action": "Pissed"
+  },
+  {
+    "value": "Raindrops keep falling on my head.",
+    "faction": "Orc",
+    "unit": "Shaman",
+    "action": "Pissed"
+  },
+  {
+    "value": "No time to play, we have war to fight!",
+    "faction": "Orc",
+    "unit": "Shaman",
+    "action": "Pissed"
+  },
+  {
+    "value": "Electrifying!",
+    "faction": "Orc",
+    "unit": "Shaman",
+    "action": "Pissed"
+  },
+  {
+    "value": "Blame it on the rain. Bwahahah.",
+    "faction": "Orc",
+    "unit": "Shaman",
+    "action": "Pissed"
+  },
+  {
+    "value": "The spirits of the earth guide me.",
+    "faction": "Orc",
+    "unit": "Spirit Walker",
+    "action": "Ready"
+  },
+  {
+    "value": "The spirits surround me.",
+    "faction": "Orc",
+    "unit": "Spirit Walker",
+    "action": "What"
+  },
+  {
+    "value": "I answer the call.",
+    "faction": "Orc",
+    "unit": "Spirit Walker",
+    "action": "What"
+  },
+  {
+    "value": "What troubles you?",
+    "faction": "Orc",
+    "unit": "Spirit Walker",
+    "action": "What"
+  },
+  {
+    "value": "I dreamed of this.",
+    "faction": "Orc",
+    "unit": "Spirit Walker",
+    "action": "What"
+  },
+  {
+    "value": "I am one with the earth.",
+    "faction": "Orc",
+    "unit": "Spirit Walker",
+    "action": "What"
+  },
+  {
+    "value": "Just as I foresaw.",
+    "faction": "Orc",
+    "unit": "Spirit Walker",
+    "action": "Yes"
+  },
+  {
+    "value": "Nag'radabash.",
+    "faction": "Orc",
+    "unit": "Spirit Walker",
+    "action": "Yes"
+  },
+  {
+    "value": "I see.",
+    "faction": "Orc",
+    "unit": "Spirit Walker",
+    "action": "Yes"
+  },
+  {
+    "value": "It is destined.",
+    "faction": "Orc",
+    "unit": "Spirit Walker",
+    "action": "Yes"
+  },
+  {
+    "value": "Mother-earth guide me.",
+    "faction": "Orc",
+    "unit": "Spirit Walker",
+    "action": "Yes"
+  },
+  {
+    "value": "Return to the earth!",
+    "faction": "Orc",
+    "unit": "Spirit Walker",
+    "action": "Attack"
+  },
+  {
+    "value": "Hoof to the head!",
+    "faction": "Orc",
+    "unit": "Spirit Walker",
+    "action": "Attack"
+  },
+  {
+    "value": "Cho'tagalus!",
+    "faction": "Orc",
+    "unit": "Spirit Walker",
+    "action": "Attack"
+  },
+  {
+    "value": "The fury of the ancients is upon you!",
+    "faction": "Orc",
+    "unit": "Spirit Walker",
+    "action": "Warcry"
+  },
+  {
+    "value": "Death is not the end.",
+    "faction": "Orc",
+    "unit": "Spirit Walker",
+    "action": "Pissed"
+  },
+  {
+    "value": "We're all spirits in the material world.",
+    "faction": "Orc",
+    "unit": "Spirit Walker",
+    "action": "Pissed"
+  },
+  {
+    "value": "I say y'all gonna make me lose my mind up in here.",
+    "faction": "Orc",
+    "unit": "Spirit Walker",
+    "action": "Pissed"
+  },
+  {
+    "value": "My hoof and your ass have an appointment.",
+    "faction": "Orc",
+    "unit": "Spirit Walker",
+    "action": "Pissed"
+  },
+  {
+    "value": "Fear my moo of fury!",
+    "faction": "Orc",
+    "unit": "Spirit Walker",
+    "action": "Pissed"
+  },
+  {
+    "value": "Yes, the spirits are talking to me. Oh yes, they´re coming in clearly. Ahh, now they're forming into a gaseous material. I can actually see them now. The spirits are very powerful today.",
+    "faction": "Orc",
+    "unit": "Spirit Walker",
+    "action": "Pissed"
+  },
+  {
+    "value": "New troll here!",
+    "faction": "Orc",
+    "unit": "Batrider",
+    "action": "Ready"
+  },
+  {
+    "value": "Fire it up, mon!",
+    "faction": "Orc",
+    "unit": "Batrider",
+    "action": "What"
+  },
+  {
+    "value": "What you want be burned?",
+    "faction": "Orc",
+    "unit": "Batrider",
+    "action": "What"
+  },
+  {
+    "value": "Yo?",
+    "faction": "Orc",
+    "unit": "Batrider",
+    "action": "What"
+  },
+  {
+    "value": "We be listenin'.",
+    "faction": "Orc",
+    "unit": "Batrider",
+    "action": "What"
+  },
+  {
+    "value": "Ya, ya? What is it?!",
+    "faction": "Orc",
+    "unit": "Batrider",
+    "action": "What"
+  },
+  {
+    "value": "You da boss.",
+    "faction": "Orc",
+    "unit": "Batrider",
+    "action": "Yes"
+  },
+  {
+    "value": "En fuego bebe!",
+    "faction": "Orc",
+    "unit": "Batrider",
+    "action": "Yes"
+  },
+  {
+    "value": "Hahaha sounds good to me, mon!",
+    "faction": "Orc",
+    "unit": "Batrider",
+    "action": "Yes"
+  },
+  {
+    "value": "I be down wid dat.",
+    "faction": "Orc",
+    "unit": "Batrider",
+    "action": "Yes"
+  },
+  {
+    "value": "Muaha ha!",
+    "faction": "Orc",
+    "unit": "Batrider",
+    "action": "Yes"
+  },
+  {
+    "value": "Catch!",
+    "faction": "Orc",
+    "unit": "Batrider",
+    "action": "Attack"
+  },
+  {
+    "value": "Take this!",
+    "faction": "Orc",
+    "unit": "Batrider",
+    "action": "Attack"
+  },
+  {
+    "value": "Flames for Zul'jin!",
+    "faction": "Orc",
+    "unit": "Batrider",
+    "action": "Warcry"
+  },
+  {
+    "value": "I can see your house...burning!",
+    "faction": "Orc",
+    "unit": "Batrider",
+    "action": "Pissed"
+  },
+  {
+    "value": "Nananananananana Nananananananana... Ha, ME!",
+    "faction": "Orc",
+    "unit": "Batrider",
+    "action": "Pissed"
+  },
+  {
+    "value": "Hey, shut up! The bat can't hear where it's goin'!",
+    "faction": "Orc",
+    "unit": "Batrider",
+    "action": "Pissed"
+  },
+  {
+    "value": "My balls are burning!",
+    "faction": "Orc",
+    "unit": "Batrider",
+    "action": "Pissed"
+  },
+  {
+    "value": "Tell my wife I–",
+    "faction": "Orc",
+    "unit": "Batrider",
+    "action": "Pissed"
+  },
+  {
+    "value": "The ends justify da means!",
+    "faction": "Orc",
+    "unit": "Batrider",
+    "action": "Kamikaze"
+  },
+  {
+    "value": "My blade seeks vengeance!",
+    "faction": "Orc",
+    "unit": "Blademaster",
+    "action": "Ready"
+  },
+  {
+    "value": "Yes, lord.",
+    "faction": "Orc",
+    "unit": "Blademaster",
+    "action": "What"
+  },
+  {
+    "value": "What task is there?",
+    "faction": "Orc",
+    "unit": "Blademaster",
+    "action": "What"
+  },
+  {
+    "value": "I am yours.",
+    "faction": "Orc",
+    "unit": "Blademaster",
+    "action": "What"
+  },
+  {
+    "value": "Ooooh.",
+    "faction": "Orc",
+    "unit": "Blademaster",
+    "action": "What"
+  },
+  {
+    "value": "I hear and obey.",
+    "faction": "Orc",
+    "unit": "Blademaster",
+    "action": "Yes"
+  },
+  {
+    "value": "Hui!",
+    "faction": "Orc",
+    "unit": "Blademaster",
+    "action": "Yes"
+  },
+  {
+    "value": "Yes!",
+    "faction": "Orc",
+    "unit": "Blademaster",
+    "action": "Yes"
+  },
+  {
+    "value": "Excellent choice.",
+    "faction": "Orc",
+    "unit": "Blademaster",
+    "action": "Yes"
+  },
+  {
+    "value": "I listen!",
+    "faction": "Orc",
+    "unit": "Blademaster",
+    "action": "Attack"
+  },
+  {
+    "value": "Taste my blade!",
+    "faction": "Orc",
+    "unit": "Blademaster",
+    "action": "Attack"
+  },
+  {
+    "value": "Ha!",
+    "faction": "Orc",
+    "unit": "Blademaster",
+    "action": "Attack"
+  },
+  {
+    "value": "For the Burning Blade!",
+    "faction": "Orc",
+    "unit": "Blademaster",
+    "action": "Warcry"
+  },
+  {
+    "value": "Snatch the pebble from my hand, grasshopper.",
+    "faction": "Orc",
+    "unit": "Blademaster",
+    "action": "Pissed"
+  },
+  {
+    "value": "My blade can cut through armor, and still cut a tomato!",
+    "faction": "Orc",
+    "unit": "Blademaster",
+    "action": "Pissed"
+  },
+  {
+    "value": "Twin blade action, for clean close shave every time!",
+    "faction": "Orc",
+    "unit": "Blademaster",
+    "action": "Pissed"
+  },
+  {
+    "value": "Wassaabi?",
+    "faction": "Orc",
+    "unit": "Blademaster",
+    "action": "Pissed"
+  },
+  {
+    "value": "The future is ours.",
+    "faction": "Orc",
+    "unit": "Far Seer",
+    "action": "Ready"
+  },
+  {
+    "value": "Seeing is believing.",
+    "faction": "Orc",
+    "unit": "Far Seer",
+    "action": "What"
+  },
+  {
+    "value": "Destiny awaits.",
+    "faction": "Orc",
+    "unit": "Far Seer",
+    "action": "What"
+  },
+  {
+    "value": "My eyes are open.",
+    "faction": "Orc",
+    "unit": "Far Seer",
+    "action": "What"
+  },
+  {
+    "value": "Do you need my counsel?",
+    "faction": "Orc",
+    "unit": "Far Seer",
+    "action": "What"
+  },
+  {
+    "value": "I see.",
+    "faction": "Orc",
+    "unit": "Far Seer",
+    "action": "Yes"
+  },
+  {
+    "value": "Of course.",
+    "faction": "Orc",
+    "unit": "Far Seer",
+    "action": "Yes"
+  },
+  {
+    "value": "Watch out.",
+    "faction": "Orc",
+    "unit": "Far Seer",
+    "action": "Yes"
+  },
+  {
+    "value": "It is certain.",
+    "faction": "Orc",
+    "unit": "Far Seer",
+    "action": "Yes"
+  },
+  {
+    "value": "Attack!",
+    "faction": "Orc",
+    "unit": "Far Seer",
+    "action": "Attack"
+  },
+  {
+    "value": "Look out!",
+    "faction": "Orc",
+    "unit": "Far Seer",
+    "action": "Attack"
+  },
+  {
+    "value": "Strike!",
+    "faction": "Orc",
+    "unit": "Far Seer",
+    "action": "Attack"
+  },
+  {
+    "value": "Spirits of earth and storm, strike!",
+    "faction": "Orc",
+    "unit": "Far Seer",
+    "action": "Warcry"
+  },
+  {
+    "value": "I see dead people.",
+    "faction": "Orc",
+    "unit": "Far Seer",
+    "action": "Pissed"
+  },
+  {
+    "value": "Touch your tongue to mine.",
+    "faction": "Orc",
+    "unit": "Far Seer",
+    "action": "Pissed"
+  },
+  {
+    "value": "Concentrate and ask again.",
+    "faction": "Orc",
+    "unit": "Far Seer",
+    "action": "Pissed"
+  },
+  {
+    "value": "Outlook not so good.",
+    "faction": "Orc",
+    "unit": "Far Seer",
+    "action": "Pissed"
+  },
+  {
+    "value": "Reply hazy. Try again.",
+    "faction": "Orc",
+    "unit": "Far Seer",
+    "action": "Pissed"
+  },
+  {
+    "value": "I have an axe to grind.",
+    "faction": "Orc",
+    "unit": "Tauren Chieftain",
+    "action": "Ready"
+  },
+  {
+    "value": "I stand ready.",
+    "faction": "Orc",
+    "unit": "Tauren Chieftain",
+    "action": "What"
+  },
+  {
+    "value": "Your command?",
+    "faction": "Orc",
+    "unit": "Tauren Chieftain",
+    "action": "What"
+  },
+  {
+    "value": "Your order?",
+    "faction": "Orc",
+    "unit": "Tauren Chieftain",
+    "action": "What"
+  },
+  {
+    "value": "What would you ask of me?",
+    "faction": "Orc",
+    "unit": "Tauren Chieftain",
+    "action": "What"
+  },
+  {
+    "value": "Done.",
+    "faction": "Orc",
+    "unit": "Tauren Chieftain",
+    "action": "Yes"
+  },
+  {
+    "value": "For my ancestors!",
+    "faction": "Orc",
+    "unit": "Tauren Chieftain",
+    "action": "Yes"
+  },
+  {
+    "value": "An excellent plan.",
+    "faction": "Orc",
+    "unit": "Tauren Chieftain",
+    "action": "Yes"
+  },
+  {
+    "value": "Yes, chieftain.",
+    "faction": "Orc",
+    "unit": "Tauren Chieftain",
+    "action": "Yes"
+  },
+  {
+    "value": "For the tribes!",
+    "faction": "Orc",
+    "unit": "Tauren Chieftain",
+    "action": "Attack"
+  },
+  {
+    "value": "Honor guide me!",
+    "faction": "Orc",
+    "unit": "Tauren Chieftain",
+    "action": "Attack"
+  },
+  {
+    "value": "None shall pass!",
+    "faction": "Orc",
+    "unit": "Tauren Chieftain",
+    "action": "Attack"
+  },
+  {
+    "value": "For the warchief and the tribes!",
+    "faction": "Orc",
+    "unit": "Tauren Chieftain",
+    "action": "Warcry"
+  },
+  {
+    "value": "Pass the peace pipe.",
+    "faction": "Orc",
+    "unit": "Tauren Chieftain",
+    "action": "Pissed"
+  },
+  {
+    "value": "Hey. Puff, puff, give. That's the rule.",
+    "faction": "Orc",
+    "unit": "Tauren Chieftain",
+    "action": "Pissed"
+  },
+  {
+    "value": "Ohhh… I can see my ancestors!",
+    "faction": "Orc",
+    "unit": "Tauren Chieftain",
+    "action": "Pissed"
+  },
+  {
+    "value": "Back in the old days, we didn't have plural.",
+    "faction": "Orc",
+    "unit": "Tauren Chieftain",
+    "action": "Pissed"
+  },
+  {
+    "value": "Only two things come from Texas, and I've got horns.",
+    "faction": "Orc",
+    "unit": "Tauren Chieftain",
+    "action": "Pissed"
+  },
+  {
+    "value": "Steer clear.",
+    "faction": "Orc",
+    "unit": "Tauren Chieftain",
+    "action": "Pissed"
+  },
+  {
+    "value": "Want to see somethin' real scary?",
+    "faction": "Orc",
+    "unit": "Shadow Hunter",
+    "action": "Ready"
+  },
+  {
+    "value": "Who do I kill first?",
+    "faction": "Orc",
+    "unit": "Shadow Hunter",
+    "action": "What"
+  },
+  {
+    "value": "Where are enemies be hidin'?",
+    "faction": "Orc",
+    "unit": "Shadow Hunter",
+    "action": "What"
+  },
+  {
+    "value": "Use my powah.",
+    "faction": "Orc",
+    "unit": "Shadow Hunter",
+    "action": "What"
+  },
+  {
+    "value": "Direct ma blade!",
+    "faction": "Orc",
+    "unit": "Shadow Hunter",
+    "action": "What"
+  },
+  {
+    "value": "Who be ma' next victim?",
+    "faction": "Orc",
+    "unit": "Shadow Hunter",
+    "action": "What"
+  },
+  {
+    "value": "Move fasta'!",
+    "faction": "Orc",
+    "unit": "Shadow Hunter",
+    "action": "Yes"
+  },
+  {
+    "value": "It be a pleasure!",
+    "faction": "Orc",
+    "unit": "Shadow Hunter",
+    "action": "Yes"
+  },
+  {
+    "value": "Right!",
+    "faction": "Orc",
+    "unit": "Shadow Hunter",
+    "action": "Yes"
+  },
+  {
+    "value": "Taz'dingo, mon!",
+    "faction": "Orc",
+    "unit": "Shadow Hunter",
+    "action": "Yes"
+  },
+  {
+    "value": "We be jammin'!",
+    "faction": "Orc",
+    "unit": "Shadow Hunter",
+    "action": "Yes"
+  },
+  {
+    "value": "Ya, mon!",
+    "faction": "Orc",
+    "unit": "Shadow Hunter",
+    "action": "Yes"
+  },
+  {
+    "value": "Ma blade be thirsty!",
+    "faction": "Orc",
+    "unit": "Shadow Hunter",
+    "action": "Attack"
+  },
+  {
+    "value": "I pity the fool.",
+    "faction": "Orc",
+    "unit": "Shadow Hunter",
+    "action": "Attack"
+  },
+  {
+    "value": "Killin' be easy.",
+    "faction": "Orc",
+    "unit": "Shadow Hunter",
+    "action": "Attack"
+  },
+  {
+    "value": "Die!",
+    "faction": "Orc",
+    "unit": "Shadow Hunter",
+    "action": "Attack"
+  },
+  {
+    "value": "It be da mad time, mon!",
+    "faction": "Orc",
+    "unit": "Shadow Hunter",
+    "action": "Warcry"
+  },
+  {
+    "value": "Keepin' it real, upon de field.",
+    "faction": "Orc",
+    "unit": "Shadow Hunter",
+    "action": "Pissed"
+  },
+  {
+    "value": "Your commander is a foo'.",
+    "faction": "Orc",
+    "unit": "Shadow Hunter",
+    "action": "Pissed"
+  },
+  {
+    "value": "Call me for your free readin'.",
+    "faction": "Orc",
+    "unit": "Shadow Hunter",
+    "action": "Pissed"
+  },
+  {
+    "value": "You're da baddest soul in town, mon.",
+    "faction": "Orc",
+    "unit": "Shadow Hunter",
+    "action": "Pissed"
+  },
+  {
+    "value": "Humans! Dey tink they know everytin'!",
+    "faction": "Orc",
+    "unit": "Shadow Hunter",
+    "action": "Pissed"
+  },
+  {
+    "value": "You lack discipline!",
+    "faction": "Orc",
+    "unit": "Shadow Hunter",
+    "action": "Pissed"
+  },
+  {
+    "value": "Stop whinin'!",
+    "faction": "Orc",
+    "unit": "Shadow Hunter",
+    "action": "Pissed"
+  },
+  {
+    "value": "Look at me, I'm happy. (Reference to Bobby McFerrin´s song Don´t Worry, Be Happy; one of the lines on the song is look at me, I´m happy!.",
+    "faction": "Orc",
+    "unit": "Shadow Hunter",
+    "action": "Pissed"
+  },
+  {
+    "value": "Ooh, baby.",
+    "faction": "Orc",
+    "unit": "Shadow Hunter",
+    "action": "Pissed"
+  },
+  {
+    "value": "Death to all who oppose the Horde!",
+    "faction": "Orc",
+    "unit": "Slave Master",
+    "action": "Ready"
+  },
+  {
+    "value": "What is your will?",
+    "faction": "Orc",
+    "unit": "Slave Master",
+    "action": "What"
+  },
+  {
+    "value": "Command me.",
+    "faction": "Orc",
+    "unit": "Slave Master",
+    "action": "What"
+  },
+  {
+    "value": "Ready for battle!",
+    "faction": "Orc",
+    "unit": "Slave Master",
+    "action": "What"
+  },
+  {
+    "value": "Yeearrh!",
+    "faction": "Orc",
+    "unit": "Slave Master",
+    "action": "Yes"
+  },
+  {
+    "value": "Perfect.",
+    "faction": "Orc",
+    "unit": "Slave Master",
+    "action": "Yes"
+  },
+  {
+    "value": "Good one!",
+    "faction": "Orc",
+    "unit": "Slave Master",
+    "action": "Yes"
+  },
+  {
+    "value": "Yes!",
+    "faction": "Orc",
+    "unit": "Slave Master",
+    "action": "Yes"
+  },
+  {
+    "value": "The ground shall run red with blood!",
+    "faction": "Orc",
+    "unit": "Slave Master",
+    "action": "Attack"
+  },
+  {
+    "value": "For the Horde!",
+    "faction": "Orc",
+    "unit": "Slave Master",
+    "action": "Attack"
+  },
+  {
+    "value": "We ride!",
+    "faction": "Orc",
+    "unit": "Slave Master",
+    "action": "Attack"
+  },
+  {
+    "value": "Let's ride!",
+    "faction": "Orc",
+    "unit": "Slave Master",
+    "action": "Attack"
+  },
+  {
+    "value": "For victory!",
+    "faction": "Orc",
+    "unit": "Slave Master",
+    "action": "Warcry"
+  },
+  {
+    "value": "You want to hear a joke?",
+    "faction": "Orc",
+    "unit": "Slave Master",
+    "action": "Pissed"
+  },
+  {
+    "value": "Sorry, I got nothin'.",
+    "faction": "Orc",
+    "unit": "Slave Master",
+    "action": "Pissed"
+  },
+  {
+    "value": "A storm is coming.",
+    "faction": "Orc",
+    "unit": "Cairne Bloodhoof",
+    "action": "What"
+  },
+  {
+    "value": "My old bones ache.",
+    "faction": "Orc",
+    "unit": "Cairne Bloodhoof",
+    "action": "What"
+  },
+  {
+    "value": "Take heart, young one.",
+    "faction": "Orc",
+    "unit": "Cairne Bloodhoof",
+    "action": "What"
+  },
+  {
+    "value": "The Earth Mother is near.",
+    "faction": "Orc",
+    "unit": "Cairne Bloodhoof",
+    "action": "What"
+  },
+  {
+    "value": "Precisely!",
+    "faction": "Orc",
+    "unit": "Cairne Bloodhoof",
+    "action": "Yes"
+  },
+  {
+    "value": "Ishnu'porah.",
+    "faction": "Orc",
+    "unit": "Cairne Bloodhoof",
+    "action": "Yes"
+  },
+  {
+    "value": "Gladly.",
+    "faction": "Orc",
+    "unit": "Cairne Bloodhoof",
+    "action": "Yes"
+  },
+  {
+    "value": "Neashushahmen.",
+    "faction": "Orc",
+    "unit": "Cairne Bloodhoof",
+    "action": "Yes"
+  },
+  {
+    "value": "Ishne'alo'porah!",
+    "faction": "Orc",
+    "unit": "Cairne Bloodhoof",
+    "action": "Attack"
+  },
+  {
+    "value": "For honor!",
+    "faction": "Orc",
+    "unit": "Cairne Bloodhoof",
+    "action": "Attack"
+  },
+  {
+    "value": "Attack!",
+    "faction": "Orc",
+    "unit": "Cairne Bloodhoof",
+    "action": "Attack"
+  },
+  {
+    "value": "Stand and fight!",
+    "faction": "Orc",
+    "unit": "Cairne Bloodhoof",
+    "action": "Attack"
+  },
+  {
+    "value": "For the tribes!",
+    "faction": "Orc",
+    "unit": "Cairne Bloodhoof",
+    "action": "Warcry"
+  },
+  {
+    "value": "Will these troubles never cease?",
+    "faction": "Orc",
+    "unit": "Cairne Bloodhoof",
+    "action": "Pissed"
+  },
+  {
+    "value": "The young warchief is burdened.",
+    "faction": "Orc",
+    "unit": "Cairne Bloodhoof",
+    "action": "Pissed"
+  },
+  {
+    "value": "My tribe is proud and strong.",
+    "faction": "Orc",
+    "unit": "Cairne Bloodhoof",
+    "action": "Pissed"
+  },
+  {
+    "value": "I pray this old body does not fail me.",
+    "faction": "Orc",
+    "unit": "Cairne Bloodhoof",
+    "action": "Pissed"
+  },
+  {
+    "value": "The Earth Mother smiles upon us...",
+    "faction": "Orc",
+    "unit": "Cairne Bloodhoof",
+    "action": "Pissed"
+  },
+  {
+    "value": "Warchief?",
+    "faction": "Orc",
+    "unit": "Grom Hellscream",
+    "action": "What"
+  },
+  {
+    "value": "Hmm...",
+    "faction": "Orc",
+    "unit": "Grom Hellscream",
+    "action": "What"
+  },
+  {
+    "value": "I can wait no longer.",
+    "faction": "Orc",
+    "unit": "Grom Hellscream",
+    "action": "What"
+  },
+  {
+    "value": "Whatever you say.",
+    "faction": "Orc",
+    "unit": "Grom Hellscream",
+    "action": "Yes"
+  },
+  {
+    "value": "Finally!",
+    "faction": "Orc",
+    "unit": "Grom Hellscream",
+    "action": "Yes"
+  },
+  {
+    "value": "I'll consider it.",
+    "faction": "Orc",
+    "unit": "Grom Hellscream",
+    "action": "Yes"
+  },
+  {
+    "value": "Weak-minded coward!",
+    "faction": "Orc",
+    "unit": "Grom Hellscream",
+    "action": "Attack"
+  },
+  {
+    "value": "Let none survive!",
+    "faction": "Orc",
+    "unit": "Grom Hellscream",
+    "action": "Attack"
+  },
+  {
+    "value": "Taste the fury of the Warsong!",
+    "faction": "Orc",
+    "unit": "Grom Hellscream",
+    "action": "Warcry"
+  },
+  {
+    "value": "The Warsong is supreme!",
+    "faction": "Orc",
+    "unit": "Grom Hellscream",
+    "action": "Pissed"
+  },
+  {
+    "value": "Destiny is at hand.",
+    "faction": "Orc",
+    "unit": "Grom Hellscream",
+    "action": "Pissed"
+  },
+  {
+    "value": "I can see clearly now. The rain has gone.",
+    "faction": "Orc",
+    "unit": "Grom Hellscream",
+    "action": "Pissed"
+  },
+  {
+    "value": "I am the Warchief.",
+    "faction": "Orc",
+    "unit": "Thrall",
+    "action": "What"
+  },
+  {
+    "value": "Lok-regar no'gul.",
+    "faction": "Orc",
+    "unit": "Thrall",
+    "action": "What"
+  },
+  {
+    "value": "Let's get on with it.",
+    "faction": "Orc",
+    "unit": "Thrall",
+    "action": "What"
+  },
+  {
+    "value": "The spirits are restless.",
+    "faction": "Orc",
+    "unit": "Thrall",
+    "action": "What"
+  },
+  {
+    "value": "Hmmm.",
+    "faction": "Orc",
+    "unit": "Thrall",
+    "action": "Yes"
+  },
+  {
+    "value": "Yes.",
+    "faction": "Orc",
+    "unit": "Thrall",
+    "action": "Yes"
+  },
+  {
+    "value": "On'dabu.",
+    "faction": "Orc",
+    "unit": "Thrall",
+    "action": "Yes"
+  },
+  {
+    "value": "For honor.",
+    "faction": "Orc",
+    "unit": "Thrall",
+    "action": "Yes"
+  },
+  {
+    "value": "Lok-narash!",
+    "faction": "Orc",
+    "unit": "Thrall",
+    "action": "Attack"
+  },
+  {
+    "value": "None will survive!",
+    "faction": "Orc",
+    "unit": "Thrall",
+    "action": "Attack"
+  },
+  {
+    "value": "For Doomhammer!",
+    "faction": "Orc",
+    "unit": "Thrall",
+    "action": "Attack"
+  },
+  {
+    "value": "Your time has come!",
+    "faction": "Orc",
+    "unit": "Thrall",
+    "action": "Attack"
+  },
+  {
+    "value": "For the Horde!",
+    "faction": "Orc",
+    "unit": "Thrall",
+    "action": "Warcry"
+  },
+  {
+    "value": "My people are strong.",
+    "faction": "Orc",
+    "unit": "Thrall",
+    "action": "Pissed"
+  },
+  {
+    "value": "I will lead them to their destiny.",
+    "faction": "Orc",
+    "unit": "Thrall",
+    "action": "Pissed"
+  },
+  {
+    "value": "The spirits will guide me.",
+    "faction": "Orc",
+    "unit": "Thrall",
+    "action": "Pissed"
+  },
+  {
+    "value": "I may have been raised by humans, but I'm no fool.",
+    "faction": "Orc",
+    "unit": "Thrall",
+    "action": "Pissed"
+  },
+  {
+    "value": "Death be a real trip, mon!",
+    "faction": "Orc",
+    "unit": "Rokhan",
+    "action": "Ready"
+  },
+  {
+    "value": "I hear you, mon.",
+    "faction": "Orc",
+    "unit": "Rokhan",
+    "action": "What"
+  },
+  {
+    "value": "Don't worry, be happy!",
+    "faction": "Orc",
+    "unit": "Rokhan",
+    "action": "What"
+  },
+  {
+    "value": "I be jammin' .",
+    "faction": "Orc",
+    "unit": "Rokhan",
+    "action": "What"
+  },
+  {
+    "value": "I got de righteous groove.",
+    "faction": "Orc",
+    "unit": "Rokhan",
+    "action": "What"
+  },
+  {
+    "value": "Taz'dingo.",
+    "faction": "Orc",
+    "unit": "Rokhan",
+    "action": "Yes"
+  },
+  {
+    "value": "You be tricksy.",
+    "faction": "Orc",
+    "unit": "Rokhan",
+    "action": "Yes"
+  },
+  {
+    "value": "I feel you, mon!",
+    "faction": "Orc",
+    "unit": "Rokhan",
+    "action": "Yes"
+  },
+  {
+    "value": "Sweet.",
+    "faction": "Orc",
+    "unit": "Rokhan",
+    "action": "Yes"
+  },
+  {
+    "value": "My pleasure!",
+    "faction": "Orc",
+    "unit": "Rokhan",
+    "action": "Attack"
+  },
+  {
+    "value": "For de Darkspear tribe!",
+    "faction": "Orc",
+    "unit": "Rokhan",
+    "action": "Attack"
+  },
+  {
+    "value": "Heads will roll!",
+    "faction": "Orc",
+    "unit": "Rokhan",
+    "action": "Attack"
+  },
+  {
+    "value": "No mercy!",
+    "faction": "Orc",
+    "unit": "Rokhan",
+    "action": "Attack"
+  },
+  {
+    "value": "A goony goo-goo!",
+    "faction": "Orc",
+    "unit": "Rokhan",
+    "action": "Warcry"
+  },
+  {
+    "value": "I'll be spearheading that right away!",
+    "faction": "Orc",
+    "unit": "Rokhan",
+    "action": "Pissed"
+  },
+  {
+    "value": "Sadly, the name 'Pinkspear Tribe' was already taken.",
+    "faction": "Orc",
+    "unit": "Rokhan",
+    "action": "Pissed"
+  },
+  {
+    "value": "I've lost ma head! It was about, ah, yea big, I was keeping in on my spear. If you find it, let me know.",
+    "faction": "Orc",
+    "unit": "Rokhan",
+    "action": "Pissed"
+  },
+  {
+    "value": "I made a collage out of some of our little native friends. I call it a pygmy-up bouquet.",
+    "faction": "Orc",
+    "unit": "Rokhan",
+    "action": "Pissed"
+  },
+  {
+    "value": "Whadaya mean, what kinda accent is dis? It's a troll accent! I swear, ja makin' me crazy.",
+    "faction": "Orc",
+    "unit": "Rokhan",
+    "action": "Pissed"
+  },
+  {
+    "value": "I'm Drek'Thar.",
+    "faction": "Orc",
+    "unit": "Drek'Thar",
+    "action": "Ready"
+  },
+  {
+    "value": "What troubles you?",
+    "faction": "Orc",
+    "unit": "Drek'Thar",
+    "action": "What"
+  },
+  {
+    "value": "Tell me.",
+    "faction": "Orc",
+    "unit": "Drek'Thar",
+    "action": "What"
+  },
+  {
+    "value": "I'm glad you're here.",
+    "faction": "Orc",
+    "unit": "Drek'Thar",
+    "action": "What"
+  },
+  {
+    "value": "I'll look into it myself.",
+    "faction": "Orc",
+    "unit": "Drek'Thar",
+    "action": "Yes"
+  },
+  {
+    "value": "Hmm...",
+    "faction": "Orc",
+    "unit": "Drek'Thar",
+    "action": "Yes"
+  },
+  {
+    "value": "Let's see if we can find any clues.",
+    "faction": "Orc",
+    "unit": "Drek'Thar",
+    "action": "Yes"
+  },
+  {
+    "value": "Let me at them!",
+    "faction": "Orc",
+    "unit": "Drek'Thar",
+    "action": "Attack"
+  },
+  {
+    "value": "Return to the earth!",
+    "faction": "Orc",
+    "unit": "Drek'Thar",
+    "action": "Attack"
+  },
+  {
+    "value": "Ek-grundum-tuk!",
+    "faction": "Orc",
+    "unit": "Drek'Thar",
+    "action": "Warcry"
+  },
+  {
+    "value": "I've been concocting a special potion that will aid our warriors in battle.",
+    "faction": "Orc",
+    "unit": "Drek'Thar",
+    "action": "Pissed"
+  },
+  {
+    "value": "We allied with the humans at the battle of Mount Hyjal.",
+    "faction": "Orc",
+    "unit": "Drek'Thar",
+    "action": "Pissed"
+  },
+  {
+    "value": "Our two races have been at peace ever since.",
+    "faction": "Orc",
+    "unit": "Drek'Thar",
+    "action": "Pissed"
+  },
+  {
+    "value": "The Horde owes you a great debt.",
+    "faction": "Orc",
+    "unit": "Nazgrel",
+    "action": "Ready"
+  },
+  {
+    "value": "Time is short, warrior.",
+    "faction": "Orc",
+    "unit": "Nazgrel",
+    "action": "What"
+  },
+  {
+    "value": "What are your orders?",
+    "faction": "Orc",
+    "unit": "Nazgrel",
+    "action": "What"
+  },
+  {
+    "value": "You've done well.",
+    "faction": "Orc",
+    "unit": "Nazgrel",
+    "action": "Yes"
+  },
+  {
+    "value": "Let's go!",
+    "faction": "Orc",
+    "unit": "Nazgrel",
+    "action": "Yes"
+  },
+  {
+    "value": "Blood for blood!",
+    "faction": "Orc",
+    "unit": "Nazgrel",
+    "action": "Attack"
+  },
+  {
+    "value": "Life for life!",
+    "faction": "Orc",
+    "unit": "Nazgrel",
+    "action": "Attack"
+  },
+  {
+    "value": "Lok'tar ogar!",
+    "faction": "Orc",
+    "unit": "Nazgrel",
+    "action": "Attack"
+  },
+  {
+    "value": "Taste the wrath of the Horde!",
+    "faction": "Orc",
+    "unit": "Nazgrel",
+    "action": "Warcry"
+  },
+  {
+    "value": "I spoke to Thrall about the humans encroaching on our lands.",
+    "faction": "Orc",
+    "unit": "Nazgrel",
+    "action": "Pissed"
+  },
+  {
+    "value": "I don't trust them at all..",
+    "faction": "Orc",
+    "unit": "Nazgrel",
+    "action": "Pissed"
+  }
+]

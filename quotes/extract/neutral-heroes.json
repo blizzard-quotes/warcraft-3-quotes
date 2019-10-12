@@ -1,0 +1,1148 @@
+[
+  {
+    "value": "\"I pledge my loyalty.\"\n",
+    "faction": "Neutral",
+    "unit": "Akama",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"How may I aid you?\"\n",
+    "faction": "Neutral",
+    "unit": "Akama",
+    "action": "What\n"
+  },
+  {
+    "value": "\"How can this old one help?\"\n",
+    "faction": "Neutral",
+    "unit": "Akama",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I give you my wisdom.\"\n",
+    "faction": "Neutral",
+    "unit": "Akama",
+    "action": "What\n"
+  },
+  {
+    "value": "\"We will share our ways.\"\n",
+    "faction": "Neutral",
+    "unit": "Akama",
+    "action": "What\n"
+  },
+  {
+    "value": "\"My strength is yours.\"\n",
+    "faction": "Neutral",
+    "unit": "Akama",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I'll do my best.\"\n",
+    "faction": "Neutral",
+    "unit": "Akama",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"As fast I can.\"\n",
+    "faction": "Neutral",
+    "unit": "Akama",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I will do what I can.\"\n",
+    "faction": "Neutral",
+    "unit": "Akama",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"If it must be done.\"\n",
+    "faction": "Neutral",
+    "unit": "Akama",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I will try.\"\n",
+    "faction": "Neutral",
+    "unit": "Akama",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"For Draenor!\"\n",
+    "faction": "Neutral",
+    "unit": "Akama",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Kosh'agal!\"\n",
+    "faction": "Neutral",
+    "unit": "Akama",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Blood for blood!\"\n",
+    "faction": "Neutral",
+    "unit": "Akama",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Strength and honor!\"\n",
+    "faction": "Neutral",
+    "unit": "Akama",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"The orcs slaughtered my people!\"\n",
+    "faction": "Neutral",
+    "unit": "Akama",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"And their demon magics consumed our world.\"\n",
+    "faction": "Neutral",
+    "unit": "Akama",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"We that are left, will reclaim what we can.\"\n",
+    "faction": "Neutral",
+    "unit": "Akama",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Of life and honor amongst the ashes of our history.\"\n",
+    "faction": "Neutral",
+    "unit": "Akama",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"We follow the ancient path.\"\n",
+    "faction": "Neutral",
+    "unit": "Akama",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'm too old for this… urgh.\" (Lethal Weapon reference)\n",
+    "faction": "Neutral",
+    "unit": "Akama",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"When you get to my age, you see death everywhere. DEATH!\" (reference to Granpa of The Simpsons)\n",
+    "faction": "Neutral",
+    "unit": "Akama",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I can fight just like a… (snores)\"\n",
+    "faction": "Neutral",
+    "unit": "Akama",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"To battle! Hold my teeth.\"\n",
+    "faction": "Neutral",
+    "unit": "Akama",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I hear the call of the wild.\"\n",
+    "faction": "Neutral",
+    "unit": "Beastmaster",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"I'm ready to track.\"\n",
+    "faction": "Neutral",
+    "unit": "Beastmaster",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Flush them out.\"\n",
+    "faction": "Neutral",
+    "unit": "Beastmaster",
+    "action": "What\n"
+  },
+  {
+    "value": "\"What lies before me?\"\n",
+    "faction": "Neutral",
+    "unit": "Beastmaster",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Unleash my strength.\"\n",
+    "faction": "Neutral",
+    "unit": "Beastmaster",
+    "action": "What\n"
+  },
+  {
+    "value": "\"My quarry nears.\"\n",
+    "faction": "Neutral",
+    "unit": "Beastmaster",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I've got the scent.\"\n",
+    "faction": "Neutral",
+    "unit": "Beastmaster",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I'm acting on instinct.\"\n",
+    "faction": "Neutral",
+    "unit": "Beastmaster",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Our paths converge.\"\n",
+    "faction": "Neutral",
+    "unit": "Beastmaster",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I wander alone.\"\n",
+    "faction": "Neutral",
+    "unit": "Beastmaster",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"On the prowl.\"\n",
+    "faction": "Neutral",
+    "unit": "Beastmaster",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"By fang and claw!\"\n",
+    "faction": "Neutral",
+    "unit": "Beastmaster",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Unleash the beast!\"\n",
+    "faction": "Neutral",
+    "unit": "Beastmaster",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Mangy cur!\"\n",
+    "faction": "Neutral",
+    "unit": "Beastmaster",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For the Mok-Nathal!\"\n",
+    "faction": "Neutral",
+    "unit": "Beastmaster",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"Where I lay my head is home. See that rock? That's my pillow.\" (\"Wherever I May Roam\" by Metallica)\n",
+    "faction": "Neutral",
+    "unit": "Beastmaster",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"The beasts around me are nothing compared to the beast within.\"\n",
+    "faction": "Neutral",
+    "unit": "Beastmaster",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I will now summon the Afete Dwain'tor!\"\n",
+    "faction": "Neutral",
+    "unit": "Beastmaster",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I summon the… ah, ACHOO! (horrific beast roars)\"\n",
+    "faction": "Neutral",
+    "unit": "Beastmaster",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Don't have a cow? (A cow moos) Oh, dear. (A deer snorts) Oops! Please, bear with me. (A bear roars) Oh, rats! (Rats squeak and scurry)\"\n",
+    "faction": "Neutral",
+    "unit": "Beastmaster",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'm here. As always.\"\n",
+    "faction": "Neutral",
+    "unit": "Dark Ranger",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"My bow is ready.\"\n",
+    "faction": "Neutral",
+    "unit": "Dark Ranger",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I will aid you.\"\n",
+    "faction": "Neutral",
+    "unit": "Dark Ranger",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Direct my hatred.\"\n",
+    "faction": "Neutral",
+    "unit": "Dark Ranger",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Let the living beware.\"\n",
+    "faction": "Neutral",
+    "unit": "Dark Ranger",
+    "action": "What\n"
+  },
+  {
+    "value": "\"End my torment.\"\n",
+    "faction": "Neutral",
+    "unit": "Dark Ranger",
+    "action": "What\n"
+  },
+  {
+    "value": "\"If that is your wish.\"\n",
+    "faction": "Neutral",
+    "unit": "Dark Ranger",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"If I must.\"\n",
+    "faction": "Neutral",
+    "unit": "Dark Ranger",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I go.\"\n",
+    "faction": "Neutral",
+    "unit": "Dark Ranger",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Will this ever end?\"\n",
+    "faction": "Neutral",
+    "unit": "Dark Ranger",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Embrace the end.\"\n",
+    "faction": "Neutral",
+    "unit": "Dark Ranger",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Goal: death.\"\n",
+    "faction": "Neutral",
+    "unit": "Dark Ranger",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"You're the lucky one.\"\n",
+    "faction": "Neutral",
+    "unit": "Dark Ranger",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Let phantom arrows fly.\"\n",
+    "faction": "Neutral",
+    "unit": "Dark Ranger",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"I hate what I've become.\"\n",
+    "faction": "Neutral",
+    "unit": "Dark Ranger",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"The living haunt me.\"\n",
+    "faction": "Neutral",
+    "unit": "Dark Ranger",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Men are from Mars, I'm from the grave.\"\n",
+    "faction": "Neutral",
+    "unit": "Dark Ranger",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I went on a job interview the other day and they were like 'ugh, what's that smell?' and I was like, 'Oh, sorry, it's me'. And then they said they didn't think I'd be able to 'fit in' with the other employees, 'cause they're living and, you know, I'm dead, so I wouldn't be a team player. But then I said I could work 24 hours. And they said 'Oh, right. You could work the graveyard shift'.\"\n",
+    "faction": "Neutral",
+    "unit": "Dark Ranger",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I stand ready.\"\n",
+    "faction": "Neutral",
+    "unit": "Naga Sea Witch",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"Is it time?\"\n",
+    "faction": "Neutral",
+    "unit": "Naga Sea Witch",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I grow anxious to act.\"\n",
+    "faction": "Neutral",
+    "unit": "Naga Sea Witch",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Our will shall be done.\"\n",
+    "faction": "Neutral",
+    "unit": "Naga Sea Witch",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I will not be trifled with.\"\n",
+    "faction": "Neutral",
+    "unit": "Naga Sea Witch",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Time is short, mortal.\"\n",
+    "faction": "Neutral",
+    "unit": "Naga Sea Witch",
+    "action": "What\n"
+  },
+  {
+    "value": "\"By your command.\"\n",
+    "faction": "Neutral",
+    "unit": "Naga Sea Witch",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Yes.\"\n",
+    "faction": "Neutral",
+    "unit": "Naga Sea Witch",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Brilliant!\"\n",
+    "faction": "Neutral",
+    "unit": "Naga Sea Witch",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Yeah!\"\n",
+    "faction": "Neutral",
+    "unit": "Naga Sea Witch",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"In Azshara's name.\"\n",
+    "faction": "Neutral",
+    "unit": "Naga Sea Witch",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"For the empress!\"\n",
+    "faction": "Neutral",
+    "unit": "Naga Sea Witch",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"For Nazjatar!\"\n",
+    "faction": "Neutral",
+    "unit": "Naga Sea Witch",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Taste my sting!\"\n",
+    "faction": "Neutral",
+    "unit": "Naga Sea Witch",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Era'sazjar!\"\n",
+    "faction": "Neutral",
+    "unit": "Naga Sea Witch",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Athero bathre'las!\"\n",
+    "faction": "Neutral",
+    "unit": "Naga Sea Witch",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"Soon, we will reclaim the surface world, and take vengeance upon the night elves!\"\n",
+    "faction": "Neutral",
+    "unit": "Naga Sea Witch",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Illidan will show us the path to power!\"\n",
+    "faction": "Neutral",
+    "unit": "Naga Sea Witch",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Keep tripping over this, damn tail!\"\n",
+    "faction": "Neutral",
+    "unit": "Naga Sea Witch",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Damn sea water! I'll never get these coils out of my hair!\"\n",
+    "faction": "Neutral",
+    "unit": "Naga Sea Witch",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"It's far too bright in this surface world, and this... *sniff* fresh air is irritating my eyes!\"\n",
+    "faction": "Neutral",
+    "unit": "Naga Sea Witch",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Fresh, cool ale here!\"\n",
+    "faction": "Neutral",
+    "unit": "Pandaren Brewmaster",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"Is trouble brewing?\"\n",
+    "faction": "Neutral",
+    "unit": "Pandaren Brewmaster",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Name your poison!\"\n",
+    "faction": "Neutral",
+    "unit": "Pandaren Brewmaster",
+    "action": "What\n"
+  },
+  {
+    "value": "\"You seem a little parched.\"\n",
+    "faction": "Neutral",
+    "unit": "Pandaren Brewmaster",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Another round?\"\n",
+    "faction": "Neutral",
+    "unit": "Pandaren Brewmaster",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Oh-ho! Gladly.\"\n",
+    "faction": "Neutral",
+    "unit": "Pandaren Brewmaster",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I'll give it a shot.\"\n",
+    "faction": "Neutral",
+    "unit": "Pandaren Brewmaster",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Have one on the house.\"\n",
+    "faction": "Neutral",
+    "unit": "Pandaren Brewmaster",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I'll put it on your tab.\"\n",
+    "faction": "Neutral",
+    "unit": "Pandaren Brewmaster",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"For Pandaria!\"\n",
+    "faction": "Neutral",
+    "unit": "Pandaren Brewmaster",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"This will be grizzly!\"\n",
+    "faction": "Neutral",
+    "unit": "Pandaren Brewmaster",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Now you're endangered!\"\n",
+    "faction": "Neutral",
+    "unit": "Pandaren Brewmaster",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"I bring Panda-monium!\"\n",
+    "faction": "Neutral",
+    "unit": "Pandaren Brewmaster",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Prepare to get trashed!\"\n",
+    "faction": "Neutral",
+    "unit": "Pandaren Brewmaster",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Ale is my bear necessity.\" (A reference to the song \"Bare Necessities\" sung by Baloo in Disney's Jungle Book)\n",
+    "faction": "Neutral",
+    "unit": "Pandaren Brewmaster",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Last call before closing!\"\n",
+    "faction": "Neutral",
+    "unit": "Pandaren Brewmaster",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Come drown your sorrows.\"\n",
+    "faction": "Neutral",
+    "unit": "Pandaren Brewmaster",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"This'll put hair all over you.\" (A reference to the idiom that strong alcoholic beverages will \"put hair on your chest.\")\n",
+    "faction": "Neutral",
+    "unit": "Pandaren Brewmaster",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'd kiss you, but I've got puke breath.\" (Reference from Bob and Doug McKenzie's movie Strange Brew)\n",
+    "faction": "Neutral",
+    "unit": "Pandaren Brewmaster",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"My dad… he was a bipolar.\" (a pun on the polar bear)\n",
+    "faction": "Neutral",
+    "unit": "Pandaren Brewmaster",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I can't breed in captivity.\" (A reference to the difficulty in breeding panda bears in captivity)\n",
+    "faction": "Neutral",
+    "unit": "Pandaren Brewmaster",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "*burp* \"Sorry.\"\n",
+    "faction": "Neutral",
+    "unit": "Pandaren Brewmaster",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I come from the darkness of the pit!\"\n",
+    "faction": "Neutral",
+    "unit": "Pit Lord",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"In Mannoroth's name!\"\n",
+    "faction": "Neutral",
+    "unit": "Pit Lord",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"Tremble before me!\"\n",
+    "faction": "Neutral",
+    "unit": "Pit Lord",
+    "action": "What\n"
+  },
+  {
+    "value": "\"What is your feeble request?\"\n",
+    "faction": "Neutral",
+    "unit": "Pit Lord",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Don't waste my time.\"\n",
+    "faction": "Neutral",
+    "unit": "Pit Lord",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Arrrhhh!\"\n",
+    "faction": "Neutral",
+    "unit": "Pit Lord",
+    "action": "What\n"
+  },
+  {
+    "value": "\"What trickery is this?\"\n",
+    "faction": "Neutral",
+    "unit": "Pit Lord",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I bring darkness!\"\n",
+    "faction": "Neutral",
+    "unit": "Pit Lord",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"You fail to amuse me\"\n",
+    "faction": "Neutral",
+    "unit": "Pit Lord",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Pitiful!\"\n",
+    "faction": "Neutral",
+    "unit": "Pit Lord",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Roar!\"\n",
+    "faction": "Neutral",
+    "unit": "Pit Lord",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"What a foolish ploy!\"\n",
+    "faction": "Neutral",
+    "unit": "Pit Lord",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"To the slaughter!\"\n",
+    "faction": "Neutral",
+    "unit": "Pit Lord",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"I go to destroy!\"\n",
+    "faction": "Neutral",
+    "unit": "Pit Lord",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"This will please me!\"\n",
+    "faction": "Neutral",
+    "unit": "Pit Lord",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"You know what burns my ass? A flame about this high.\"\n",
+    "faction": "Neutral",
+    "unit": "Pit Lord",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Unh, I think I have someone stuck in my teeth.\"\n",
+    "faction": "Neutral",
+    "unit": "Pit Lord",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Hey, hey, hey!\"\n",
+    "faction": "Neutral",
+    "unit": "Pit Lord",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I think a certain finesse is called for here. RAAAARGH!\"\n",
+    "faction": "Neutral",
+    "unit": "Pit Lord",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"All parts accounted for.\"\n",
+    "faction": "Neutral",
+    "unit": "Goblin Tinker",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"What'cha got?\"\n",
+    "faction": "Neutral",
+    "unit": "Goblin Tinker",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I am all geared up.\"\n",
+    "faction": "Neutral",
+    "unit": "Goblin Tinker",
+    "action": "What\n"
+  },
+  {
+    "value": "\"The engines runnin'.\"\n",
+    "faction": "Neutral",
+    "unit": "Goblin Tinker",
+    "action": "What\n"
+  },
+  {
+    "value": "\"All systems go!\" (a cliché meaning everything is ready.)\n",
+    "faction": "Neutral",
+    "unit": "Goblin Tinker",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Let's roll out.\" (reference of Optimus Prime's \"Autobots, Roll out!\")\n",
+    "faction": "Neutral",
+    "unit": "Goblin Tinker",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I am on top of them.\"\n",
+    "faction": "Neutral",
+    "unit": "Goblin Tinker",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I can handle that.\"\n",
+    "faction": "Neutral",
+    "unit": "Goblin Tinker",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Yeah, baby.\" (spoken as the Evil Midnight Bomber What Bombs at Midnight from The Tick)\n",
+    "faction": "Neutral",
+    "unit": "Goblin Tinker",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Death!\"\n",
+    "faction": "Neutral",
+    "unit": "Goblin Tinker",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"You're terminated!\" (Terminator reference)\n",
+    "faction": "Neutral",
+    "unit": "Goblin Tinker",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"You have ten seconds to comply!\" (Robocop reference)\n",
+    "faction": "Neutral",
+    "unit": "Goblin Tinker",
+    "action": "Attack\n"
+  },
+  {
+    "value": "Murloc-like sounds\n",
+    "faction": "Neutral",
+    "unit": "Goblin Tinker",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"I'm more than meets the eye.\" (Transformers reference)\n",
+    "faction": "Neutral",
+    "unit": "Goblin Tinker",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"(bell rings) Uh-oh, my Tinker bell.\" (Peter Pan reference)\n",
+    "faction": "Neutral",
+    "unit": "Goblin Tinker",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Yeah, runs on 220, 221. Whatever it takes.\" (Mr. Mom reference)\n",
+    "faction": "Neutral",
+    "unit": "Goblin Tinker",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"She'll hold together. (quietly) Hear that, baby? Hold together.\" (Star Wars reference)\n",
+    "faction": "Neutral",
+    "unit": "Goblin Tinker",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"That noise? That's a bad noise.\" (Galaxy Quest reference)\n",
+    "faction": "Neutral",
+    "unit": "Goblin Tinker",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "(squeaking, then a loud explosion) \"Ooooh! Gonna need a new hamster.\"\n",
+    "faction": "Neutral",
+    "unit": "Goblin Tinker",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I've got a rocket in my pocket.\" (Reference to Earthworm Jim)\n",
+    "faction": "Neutral",
+    "unit": "Goblin Tinker",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"That guy's nuts! Grab 'em!\" (Reference to The End)\n",
+    "faction": "Neutral",
+    "unit": "Goblin Tinker",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Beware, I live.\" (A reference to Sinistar)\n",
+    "faction": "Neutral",
+    "unit": "Firelord",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"I'm lit.\"\n",
+    "faction": "Neutral",
+    "unit": "Firelord",
+    "action": "What\n"
+  },
+  {
+    "value": "\"You may speak.\"\n",
+    "faction": "Neutral",
+    "unit": "Firelord",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Fire away.\"\n",
+    "faction": "Neutral",
+    "unit": "Firelord",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I'll light the way.\"\n",
+    "faction": "Neutral",
+    "unit": "Firelord",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"It shall be.\"\n",
+    "faction": "Neutral",
+    "unit": "Firelord",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"The order is given.\"\n",
+    "faction": "Neutral",
+    "unit": "Firelord",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"It is done.\"\n",
+    "faction": "Neutral",
+    "unit": "Firelord",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Consume.\"\n",
+    "faction": "Neutral",
+    "unit": "Firelord",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"They will be cleansed by fire.\"\n",
+    "faction": "Neutral",
+    "unit": "Firelord",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Ashes to ashes.\" (Reference to the English funeral prayer)\n",
+    "faction": "Neutral",
+    "unit": "Firelord",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Everything shall burn!\"\n",
+    "faction": "Neutral",
+    "unit": "Firelord",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"I will reduce all to ashes.\"\n",
+    "faction": "Neutral",
+    "unit": "Firelord",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Damn... moths. Unh…\"\n",
+    "faction": "Neutral",
+    "unit": "Firelord",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"No thanks, I don't smoke.\"\n",
+    "faction": "Neutral",
+    "unit": "Firelord",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Am I hot, or what?\"\n",
+    "faction": "Neutral",
+    "unit": "Firelord",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Why does that bear with the Forest Ranger hat keep following me?\" (referring to Smokey the Bear)\n",
+    "faction": "Neutral",
+    "unit": "Firelord",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"So thirsty... (throaty, dry gurgle)\"\n",
+    "faction": "Neutral",
+    "unit": "Firelord",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I am the lord of all fire! *splash* (meek and weedy) Hey, that wasn't funny.\"\n",
+    "faction": "Neutral",
+    "unit": "Firelord",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Ready to brew!\"\n",
+    "faction": "Neutral",
+    "unit": "Goblin Alchemist",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"Wanna blow something up?\"\n",
+    "faction": "Neutral",
+    "unit": "Goblin Alchemist",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I am all stocked and ready to go.\"\n",
+    "faction": "Neutral",
+    "unit": "Goblin Alchemist",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Care for a cocktail?\"\n",
+    "faction": "Neutral",
+    "unit": "Goblin Alchemist",
+    "action": "What\n"
+  },
+  {
+    "value": "\"You'll love my new recipe.\"\n",
+    "faction": "Neutral",
+    "unit": "Goblin Alchemist",
+    "action": "What\n"
+  },
+  {
+    "value": "\"You got it!\"\n",
+    "faction": "Neutral",
+    "unit": "Goblin Alchemist",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I'll get that mixed up.\"\n",
+    "faction": "Neutral",
+    "unit": "Goblin Alchemist",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Don't rush me.\"\n",
+    "faction": "Neutral",
+    "unit": "Goblin Alchemist",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I'll shake that right up!\"\n",
+    "faction": "Neutral",
+    "unit": "Goblin Alchemist",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Taste my fiery potions!\"\n",
+    "faction": "Neutral",
+    "unit": "Goblin Alchemist",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Hurry, I've got things to blow up!\"\n",
+    "faction": "Neutral",
+    "unit": "Goblin Alchemist",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Bob and weave, you fool!\"\n",
+    "faction": "Neutral",
+    "unit": "Goblin Alchemist",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For the highest bidder!\"\n",
+    "faction": "Neutral",
+    "unit": "Goblin Alchemist",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"What do you want to be when you blow up?\" (Reference to parents talk to children, just \"grow\" instead of \"blow\")\n",
+    "faction": "Neutral",
+    "unit": "Goblin Alchemist",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'm a chemical superfreak.\" (The Rock reference)\n",
+    "faction": "Neutral",
+    "unit": "Goblin Alchemist",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"No! Shake it, not...\" *sudden explosion* (possible reference to James Bond)\n",
+    "faction": "Neutral",
+    "unit": "Goblin Alchemist",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "Alchemist: \"One of these potions smells awful...\"Ogre: (giggles quietly)\n",
+    "faction": "Neutral",
+    "unit": "Goblin Alchemist",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "Alchemist: \"Hey, pull his finger.\"Ogre: \"That's not my finger!\"\n",
+    "faction": "Neutral",
+    "unit": "Goblin Alchemist",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "(Glass breaking)Alchemist: \"Oh, no, what did I drop?\"Ogre: \"Oh yeah...\" (Marvin Gaye begins to play in background)Alchemist: \"Wait, what are you doing?! Oh no! Not the love potion!\"\n",
+    "faction": "Neutral",
+    "unit": "Goblin Alchemist",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'm all ears.\"\n",
+    "faction": "Neutral",
+    "unit": " Funny Bunny ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Hippidy-hoppedy.\"\n",
+    "faction": "Neutral",
+    "unit": " Funny Bunny ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Hoppin’ on the bunny trail.\" (Reference to the song \"Here Comes Peter Cottontail\")\n",
+    "faction": "Neutral",
+    "unit": " Funny Bunny ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"This rabbit's dynamite!\"\n",
+    "faction": "Neutral",
+    "unit": " Funny Bunny ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"I got sharp, poin’y teeth!\" (Monthy Python reference)\n",
+    "faction": "Neutral",
+    "unit": " Funny Bunny ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"I get better reception if I turn my head slightly to the left.\" (Reference to the term \"rabbit ears\" meaning a television antenna)\n",
+    "faction": "Neutral",
+    "unit": " Funny Bunny ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I have an invisible human friend.\" (possible Donnie Darko reference)\n",
+    "faction": "Neutral",
+    "unit": " Funny Bunny ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"My eggs are in your house an-and your house too!\" (A reference to It's a Wonderful Life and the bunny's Jimmy Stewart-like voice)\n",
+    "faction": "Neutral",
+    "unit": " Funny Bunny ",
+    "action": "Pissed\n"
+  }
+]

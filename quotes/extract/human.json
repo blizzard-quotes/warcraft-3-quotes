@@ -1,0 +1,2882 @@
+[
+  {
+    "value": "\"Ready to work.\"\n",
+    "faction": "Human",
+    "unit": "Peasant",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"Yes, milord?\"\n",
+    "faction": "Human",
+    "unit": "Peasant",
+    "action": "What\n"
+  },
+  {
+    "value": "\"What is it?\"\n",
+    "faction": "Human",
+    "unit": "Peasant",
+    "action": "What\n"
+  },
+  {
+    "value": "\"More work?\"\n",
+    "faction": "Human",
+    "unit": "Peasant",
+    "action": "What\n"
+  },
+  {
+    "value": "\"What?\"\n",
+    "faction": "Human",
+    "unit": "Peasant",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Right-o.\"\n",
+    "faction": "Human",
+    "unit": "Peasant",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Yes, milord.\"\n",
+    "faction": "Human",
+    "unit": "Peasant",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"All right.\"\n",
+    "faction": "Human",
+    "unit": "Peasant",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Off I go, then!\"\n",
+    "faction": "Human",
+    "unit": "Peasant",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I guess I can...\"\n",
+    "faction": "Human",
+    "unit": "Peasant",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"If you want...\"\n",
+    "faction": "Human",
+    "unit": "Peasant",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"No one else available...\"\n",
+    "faction": "Human",
+    "unit": "Peasant",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"That's it. I'm dead.\"\n",
+    "faction": "Human",
+    "unit": "Peasant",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Yaaah!\"\n",
+    "faction": "Human",
+    "unit": "Peasant",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"You're the king? Well, I didn't vote for you.\" (A reference to Monty Python and the Holy Grail.)\n",
+    "faction": "Human",
+    "unit": "Peasant",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"We found a witch! May we burn her?\" (Another reference to Monty Python.)\n",
+    "faction": "Human",
+    "unit": "Peasant",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Help! Help! I'm being repressed!\" (Also a reference to Monty Python and the Holy Grail.)\n",
+    "faction": "Human",
+    "unit": "Peasant",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"A horse kicked me once. It hurt.\"\n",
+    "faction": "Human",
+    "unit": "Peasant",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"D'oh!\" (A reference to Homer of The Simpsons.)\n",
+    "faction": "Human",
+    "unit": "Peasant",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Ready for action.\"\n",
+    "faction": "Human",
+    "unit": "Footman",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"Orders?\"\n",
+    "faction": "Human",
+    "unit": "Footman",
+    "action": "What\n"
+  },
+  {
+    "value": "\"What do you need?\" (A possible reference to Tyrael in Diablo II and Heroes of the Storm)\n",
+    "faction": "Human",
+    "unit": "Footman",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Yes, my liege?\"\n",
+    "faction": "Human",
+    "unit": "Footman",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Say the word.\"\n",
+    "faction": "Human",
+    "unit": "Footman",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Aye, my lord.\"\n",
+    "faction": "Human",
+    "unit": "Footman",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"On my way!\"\n",
+    "faction": "Human",
+    "unit": "Footman",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Right.\"\n",
+    "faction": "Human",
+    "unit": "Footman",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Of course.\"\n",
+    "faction": "Human",
+    "unit": "Footman",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Let me at 'em!\"\n",
+    "faction": "Human",
+    "unit": "Footman",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Attack!\"\n",
+    "faction": "Human",
+    "unit": "Footman",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"To arms!\"\n",
+    "faction": "Human",
+    "unit": "Footman",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For Lordaeron!\"\n",
+    "faction": "Human",
+    "unit": "Footman",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"Don't ask, don't tell.\"\n",
+    "faction": "Human",
+    "unit": "Footman",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Grab your sword and fight the Horde.\" (A play on the World War I recruitment slogan, \"Grab your gun and fight the Hun!\")\n",
+    "faction": "Human",
+    "unit": "Footman",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Uncle Lothar wants YOU.\" (A play on the US Military recruitment slogan \"Uncle Sam wants YOU\" and a reference to Anduin Lothar.)\n",
+    "faction": "Human",
+    "unit": "Footman",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"'Tis only a flesh wound!\" (A reference to the Black Knight quote.)\n",
+    "faction": "Human",
+    "unit": "Footman",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Locked and loaded!\"\n",
+    "faction": "Human",
+    "unit": "Rifleman",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"Aye, sir?\"\n",
+    "faction": "Human",
+    "unit": "Rifleman",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Ya have a target?\"\n",
+    "faction": "Human",
+    "unit": "Rifleman",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I'm your shooter.\"\n",
+    "faction": "Human",
+    "unit": "Rifleman",
+    "action": "What\n"
+  },
+  {
+    "value": "\"What do you need?\"\n",
+    "faction": "Human",
+    "unit": "Rifleman",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Okay.\"\n",
+    "faction": "Human",
+    "unit": "Rifleman",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I'll take care of it.\"\n",
+    "faction": "Human",
+    "unit": "Rifleman",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Time to go.\"\n",
+    "faction": "Human",
+    "unit": "Rifleman",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Aye.\"\n",
+    "faction": "Human",
+    "unit": "Rifleman",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Fire!\"\n",
+    "faction": "Human",
+    "unit": "Rifleman",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"I've got the beast in my sights.\"\n",
+    "faction": "Human",
+    "unit": "Rifleman",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Take that you sod!\"\n",
+    "faction": "Human",
+    "unit": "Rifleman",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Shoot to kill!\"\n",
+    "faction": "Human",
+    "unit": "Rifleman",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For Ironforge!\"\n",
+    "faction": "Human",
+    "unit": "Rifleman",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"This… is… my boomstick!\"\n",
+    "faction": "Human",
+    "unit": "Rifleman",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Where's me drink?\"\n",
+    "faction": "Human",
+    "unit": "Rifleman",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I can't shoot straight unless I've had a pint!\"\n",
+    "faction": "Human",
+    "unit": "Rifleman",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Ah, there's me drink. Get in mah belly!\" (A reference to Austin Powers: The Spy Who Shagged Me.)\n",
+    "faction": "Human",
+    "unit": "Rifleman",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Guns don't kill people, I do! Haha!\" (Reference to UHF; a play on NRA's slogan.)\n",
+    "faction": "Human",
+    "unit": "Rifleman",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Don't shoot shoot shoot that thing at me.\" (Reference to the song \"Add It Up\" by The Violent Femmes.)\n",
+    "faction": "Human",
+    "unit": "Rifleman",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I shot the sheriff, and the deputy, and your wee doggie, too!\" (Reference to the song \"I shot the Sheriff\" by Bob Marley)\n",
+    "faction": "Human",
+    "unit": "Rifleman",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"You'll take me blunderbuss when you pry it from my cold, dead hands!\" (Another slogan for gun rights advocates.)\n",
+    "faction": "Human",
+    "unit": "Rifleman",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I await your command.\"\n",
+    "faction": "Human",
+    "unit": "Knight",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"Sire?\"\n",
+    "faction": "Human",
+    "unit": "Knight",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Your honor?\"\n",
+    "faction": "Human",
+    "unit": "Knight",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Command me!\"\n",
+    "faction": "Human",
+    "unit": "Knight",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Yes, my lord?\"\n",
+    "faction": "Human",
+    "unit": "Knight",
+    "action": "What\n"
+  },
+  {
+    "value": "\"At once.\"\n",
+    "faction": "Human",
+    "unit": "Knight",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"For the king.\"\n",
+    "faction": "Human",
+    "unit": "Knight",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Absolutely!\"\n",
+    "faction": "Human",
+    "unit": "Knight",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I swear it.\"\n",
+    "faction": "Human",
+    "unit": "Knight",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"For the king!\"\n",
+    "faction": "Human",
+    "unit": "Knight",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Have at thee!\" ('thee' means 'you')\n",
+    "faction": "Human",
+    "unit": "Knight",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"To the death!\"\n",
+    "faction": "Human",
+    "unit": "Knight",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For honor, for freedom!\"\n",
+    "faction": "Human",
+    "unit": "Knight",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"My favorite color is blue! No, yellow… !\" (Monty Python and the Holy Grail)\n",
+    "faction": "Human",
+    "unit": "Knight",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Victory for (helmet falls shut) Lordaeron! \" (Monty Python)\n",
+    "faction": "Human",
+    "unit": "Knight",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Dost thou speak unto me?\"\n",
+    "faction": "Human",
+    "unit": "Knight",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"By the gods, you're annoying!\" (Monty Python and the Holy Grail)\n",
+    "faction": "Human",
+    "unit": "Knight",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I never say 'Ni'!\" (Yet more Monty Python!)\n",
+    "faction": "Human",
+    "unit": "Knight",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Damn helmet, can't seem to get this thing… (sigh)\" (Possibly a reference to Dark Helmet from Spaceballs.)\n",
+    "faction": "Human",
+    "unit": "Knight",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I come to cleanse this land.\"\n",
+    "faction": "Human",
+    "unit": "Priest",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"What ails you?\"\n",
+    "faction": "Human",
+    "unit": "Priest",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Yes, my friend?\"\n",
+    "faction": "Human",
+    "unit": "Priest",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Is my aid required?\"\n",
+    "faction": "Human",
+    "unit": "Priest",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Is someone injured?\n",
+    "faction": "Human",
+    "unit": "Priest",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Of course.\"\n",
+    "faction": "Human",
+    "unit": "Priest",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I am your servant.\"\n",
+    "faction": "Human",
+    "unit": "Priest",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"As you wish.\"\n",
+    "faction": "Human",
+    "unit": "Priest",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Right away.\"\n",
+    "faction": "Human",
+    "unit": "Priest",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Now feel my wrath!\"\n",
+    "faction": "Human",
+    "unit": "Priest",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"By the power of the Light, burn!\"\n",
+    "faction": "Human",
+    "unit": "Priest",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Begone, spawn of darkness!\"\n",
+    "faction": "Human",
+    "unit": "Priest",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For the memory of Quel'thalas!\"\n",
+    "faction": "Human",
+    "unit": "Priest",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"Scalpel, sponge, magic wand!\"\n",
+    "faction": "Human",
+    "unit": "Priest",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"There is peace and serenity within the Light.\" (Quote from the movie Poltergeist.)\n",
+    "faction": "Human",
+    "unit": "Priest",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Clear! (defibrillator charge)\" (Same as the Medic unit in Starcraft.)\n",
+    "faction": "Human",
+    "unit": "Priest",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Cross over, children! Cross over into the Light!\" (Poltergeist)\n",
+    "faction": "Human",
+    "unit": "Priest",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I have been chosen by the big metal hand in the sky!\" (A reference to Toy Story, and the fact that the Alliance cursor is a gauntlet.)\n",
+    "faction": "Human",
+    "unit": "Priest",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Side effects may include: dry mouth, nausea, vomiting, water retention, painful rectal itch, hallucination, dementia, psychosis, coma, death, and halitosis. Magic is not for everyone. Consult your doctor before use.\"\n",
+    "faction": "Human",
+    "unit": "Priest",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"The flows of magic are whimsical today.\"\n",
+    "faction": "Human",
+    "unit": "Sorceress",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"Do you require aid, human?\"\n",
+    "faction": "Human",
+    "unit": "Sorceress",
+    "action": "What\n"
+  },
+  {
+    "value": "\"This better be good.\"\n",
+    "faction": "Human",
+    "unit": "Sorceress",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Help me help you.\"\n",
+    "faction": "Human",
+    "unit": "Sorceress",
+    "action": "What\n"
+  },
+  {
+    "value": "\"What'll it be, hotshot?\"\n",
+    "faction": "Human",
+    "unit": "Sorceress",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Get down, sparky.\"\n",
+    "faction": "Human",
+    "unit": "Sorceress",
+    "action": "What\n"
+  },
+  {
+    "value": "\"If you insist.\"\n",
+    "faction": "Human",
+    "unit": "Sorceress",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"What a good idea.\"\n",
+    "faction": "Human",
+    "unit": "Sorceress",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"It's about time.\"\n",
+    "faction": "Human",
+    "unit": "Sorceress",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Once again, it's up to the elves.\"\n",
+    "faction": "Human",
+    "unit": "Sorceress",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Your wish is my command.\"\n",
+    "faction": "Human",
+    "unit": "Sorceress",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Now, victory shall be ours.\"\n",
+    "faction": "Human",
+    "unit": "Sorceress",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Without delay!\"\n",
+    "faction": "Human",
+    "unit": "Sorceress",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For the Alliance!\"\n",
+    "faction": "Human",
+    "unit": "Sorceress",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"Click me baby, one more time.\" (Reference to the Britney Spears song \"Baby One More Time\")\n",
+    "faction": "Human",
+    "unit": "Sorceress",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Maybe you should get a strategy guide.\"\n",
+    "faction": "Human",
+    "unit": "Sorceress",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I don't remember casting Slow on you.\"\n",
+    "faction": "Human",
+    "unit": "Sorceress",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"You don't get out much, do you?\"\n",
+    "faction": "Human",
+    "unit": "Sorceress",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Let's chat on Battle.net sometime.\"\n",
+    "faction": "Human",
+    "unit": "Sorceress",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"For the End of the World spell, press Control-Alt-Delete.\" (On MS Windows computers, Ctrl-Alt-Delete brings up task manager from which you can kill the game process.)\n",
+    "faction": "Human",
+    "unit": "Sorceress",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I smell magic in the air.\"\n",
+    "faction": "Human",
+    "unit": "Spell Breaker",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"I thirst for magic.\"\n",
+    "faction": "Human",
+    "unit": "Spell Breaker",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Be quick, time is Mana.\"\n",
+    "faction": "Human",
+    "unit": "Spell Breaker",
+    "action": "What\n"
+  },
+  {
+    "value": "\"The blood elves await.\"\n",
+    "faction": "Human",
+    "unit": "Spell Breaker",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Get on with it.\"\n",
+    "faction": "Human",
+    "unit": "Spell Breaker",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I'll handle it.\"\n",
+    "faction": "Human",
+    "unit": "Spell Breaker",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Easily done.\"\n",
+    "faction": "Human",
+    "unit": "Spell Breaker",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Watch and learn.\"\n",
+    "faction": "Human",
+    "unit": "Spell Breaker",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Leave it to me.\" (very similar to the cheat code \"leafittome\")\n",
+    "faction": "Human",
+    "unit": "Spell Breaker",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Very clever.\"\n",
+    "faction": "Human",
+    "unit": "Spell Breaker",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"For Quel'thalas!\"\n",
+    "faction": "Human",
+    "unit": "Spell Breaker",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"It's come to this!\"\n",
+    "faction": "Human",
+    "unit": "Spell Breaker",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Your magic is mine!\"\n",
+    "faction": "Human",
+    "unit": "Spell Breaker",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Inde'rinah-dor Highborne!\"\n",
+    "faction": "Human",
+    "unit": "Spell Breaker",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"I'm a magic man. I got magic hands.\" (The song \"Magic Man\" by Heart)\n",
+    "faction": "Human",
+    "unit": "Spell Breaker",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I never stole any buffs, I got receipts for everything!\"\n",
+    "faction": "Human",
+    "unit": "Spell Breaker",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I smell magic in the air. Or maybe barbecue.\"\n",
+    "faction": "Human",
+    "unit": "Spell Breaker",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I stole your precious.\" (A reference to Gollum from The Lord of the Rings)\n",
+    "faction": "Human",
+    "unit": "Spell Breaker",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Yeah, you can get a nickel for boosting Starfall, but jacking Heal's a ten-day stint in county. Now lifting Faerie Fire, they just let you go for that — it's not even worth the paperwork. But Reincarnation, man! That'll get you life!\"\n",
+    "faction": "Human",
+    "unit": "Spell Breaker",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Glory, to the blood elves.\"\n",
+    "faction": "Human",
+    "unit": "Dragonhawk Rider",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"Prepare to fly.\"\n",
+    "faction": "Human",
+    "unit": "Dragonhawk Rider",
+    "action": "What\n"
+  },
+  {
+    "value": "\"What is it?\"\n",
+    "faction": "Human",
+    "unit": "Dragonhawk Rider",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Be quick, human.\"\n",
+    "faction": "Human",
+    "unit": "Dragonhawk Rider",
+    "action": "What\n"
+  },
+  {
+    "value": "\"My powers are ready.\"\n",
+    "faction": "Human",
+    "unit": "Dragonhawk Rider",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Where must we fly?\"\n",
+    "faction": "Human",
+    "unit": "Dragonhawk Rider",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I fly.\"\n",
+    "faction": "Human",
+    "unit": "Dragonhawk Rider",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"The sky is mine.\"\n",
+    "faction": "Human",
+    "unit": "Dragonhawk Rider",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Winds guide me.\"\n",
+    "faction": "Human",
+    "unit": "Dragonhawk Rider",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Clear the skies.\"\n",
+    "faction": "Human",
+    "unit": "Dragonhawk Rider",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Strike!\"\n",
+    "faction": "Human",
+    "unit": "Dragonhawk Rider",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Choke on this!\"\n",
+    "faction": "Human",
+    "unit": "Dragonhawk Rider",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Accept the pain!\"\n",
+    "faction": "Human",
+    "unit": "Dragonhawk Rider",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"They shall all burn!\"\n",
+    "faction": "Human",
+    "unit": "Dragonhawk Rider",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"No retreat!\"\n",
+    "faction": "Human",
+    "unit": "Dragonhawk Rider",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"My fury is unleashed!\"\n",
+    "faction": "Human",
+    "unit": "Dragonhawk Rider",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"Permission to buzz the tower.\" (Top Gun)\n",
+    "faction": "Human",
+    "unit": "Dragonhawk Rider",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'll hit the brakes, he'll fly right by.\" (Top Gun)\n",
+    "faction": "Human",
+    "unit": "Dragonhawk Rider",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Tell Blizzard I'd make a great action figure.\"\n",
+    "faction": "Human",
+    "unit": "Dragonhawk Rider",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"That's right, pal…adin, I am dangerous.\" (Top Gun)\n",
+    "faction": "Human",
+    "unit": "Dragonhawk Rider",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Get that filthy cursor away from me.\"\n",
+    "faction": "Human",
+    "unit": "Dragonhawk Rider",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"We're currently hovering at a comfortable altitude of 15 feet.\"\n",
+    "faction": "Human",
+    "unit": "Dragonhawk Rider",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"(goat bleats) What's a mountain goat doing up here? (splat)\" (The Far Side)\n",
+    "faction": "Human",
+    "unit": "Dragonhawk Rider",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"(a man screams) Drop the villager, drop it, drop it.\" (the dragonhawk drops villager)\n",
+    "faction": "Human",
+    "unit": "Dragonhawk Rider",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"MORTAR COMBAT!\" (Mortal Kombat)\n",
+    "faction": "Human",
+    "unit": "Mortar Team",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"Let's get to fightin'!\"\n",
+    "faction": "Human",
+    "unit": "Mortar Team",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Where do you want us?\"\n",
+    "faction": "Human",
+    "unit": "Mortar Team",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Show us a target.\"\n",
+    "faction": "Human",
+    "unit": "Mortar Team",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Hello!\"\n",
+    "faction": "Human",
+    "unit": "Mortar Team",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Gotta go.\"\"Me too.\"\n",
+    "faction": "Human",
+    "unit": "Mortar Team",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Move your arse.\"\n",
+    "faction": "Human",
+    "unit": "Mortar Team",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"You made the right choice.\"\"It's on.\"\n",
+    "faction": "Human",
+    "unit": "Mortar Team",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Come on, shorty.\"\"On our way.\"\n",
+    "faction": "Human",
+    "unit": "Mortar Team",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"We'll do it in a jiffy.\"\n",
+    "faction": "Human",
+    "unit": "Mortar Team",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Mobile.\"\n",
+    "faction": "Human",
+    "unit": "Mortar Team",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"This battle is over!\"\n",
+    "faction": "Human",
+    "unit": "Mortar Team",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Eat mortar!\"\"Eat lead!\"\n",
+    "faction": "Human",
+    "unit": "Mortar Team",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"They're dead!\"\n",
+    "faction": "Human",
+    "unit": "Mortar Team",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Hey, you! Catch!\"\n",
+    "faction": "Human",
+    "unit": "Mortar Team",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Eat hot death!\"\n",
+    "faction": "Human",
+    "unit": "Mortar Team",
+    "action": "Attack\n"
+  },
+  {
+    "value": "(both) \"For Khaz Modan!\"\n",
+    "faction": "Human",
+    "unit": "Mortar Team",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"It's you and me, pal.\"\"We've got the synergy.\" (possibly referring to the cheat synergy)\n",
+    "faction": "Human",
+    "unit": "Mortar Team",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'm TNT!\"\"I'm dynamite!\" (The song T.N.T. by AC/DC)\n",
+    "faction": "Human",
+    "unit": "Mortar Team",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"We must defeat the dwarves!\"\"Ugh… we are the dwarves!\"\"Oh...\"\n",
+    "faction": "Human",
+    "unit": "Mortar Team",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"You've got a chip on your shoulder.\"\"Hmm, yes, and a bit of fish, too.\" (idiom; pun)\n",
+    "faction": "Human",
+    "unit": "Mortar Team",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"And that's how baby dwarves are made!\" (older dwarf is squeamish)\n",
+    "faction": "Human",
+    "unit": "Mortar Team",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Clearly, Tassadar has failed us! You must not!\" (A reference to Starcraft, said by Aldaris in the briefing of the first Protoss mission)\n",
+    "faction": "Human",
+    "unit": "Mortar Team",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"What's that?\"\"Get yer finger outta that bunghole!\" *POP*\n",
+    "faction": "Human",
+    "unit": "Mortar Team",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "(Humming) \"Burnin' lootin', bombin' shootin'!\" (Reference to \"Warriors of Genghis Khan\" by \"Bad News\")\n",
+    "faction": "Human",
+    "unit": "Mortar Team",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Take this, you bastard! *BOOM*\"\n",
+    "faction": "Human",
+    "unit": "Mortar Team",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"We have lift off.\"\n",
+    "faction": "Human",
+    "unit": "Gyrocopter",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"How you doing?\"\n",
+    "faction": "Human",
+    "unit": "Gyrocopter",
+    "action": "What\n"
+  },
+  {
+    "value": "\"What's the flight plan?\"\n",
+    "faction": "Human",
+    "unit": "Gyrocopter",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Where to?\"\n",
+    "faction": "Human",
+    "unit": "Gyrocopter",
+    "action": "What\n"
+  },
+  {
+    "value": "\"OK to go.\"\n",
+    "faction": "Human",
+    "unit": "Gyrocopter",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Oh, it's you.\"\n",
+    "faction": "Human",
+    "unit": "Gyrocopter",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Roger Wilco.\"\n",
+    "faction": "Human",
+    "unit": "Gyrocopter",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Will do, command'.\"\n",
+    "faction": "Human",
+    "unit": "Gyrocopter",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Approaching the sound barrier.\"\n",
+    "faction": "Human",
+    "unit": "Gyrocopter",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"What? Over there?\"\n",
+    "faction": "Human",
+    "unit": "Gyrocopter",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"They'll never hear me coming!\" (clunking noises) (A reference to StarCraft)\n",
+    "faction": "Human",
+    "unit": "Gyrocopter",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"This bomb's for you!\" (pun on \"This Bud's For You,\" an advertising slogan for a popular brand of American beer)\n",
+    "faction": "Human",
+    "unit": "Gyrocopter",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"I've got tone!\" (Top Gun, reference to missile lock-on)\n",
+    "faction": "Human",
+    "unit": "Gyrocopter",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Death!\"\n",
+    "faction": "Human",
+    "unit": "Gyrocopter",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Take it!\"\n",
+    "faction": "Human",
+    "unit": "Gyrocopter",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Off to the wild blue yonder! Wheeee!\"\n",
+    "faction": "Human",
+    "unit": "Gyrocopter",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"(whistling sound) Whoops, I dropped something. *BOOM*\"\n",
+    "faction": "Human",
+    "unit": "Gyrocopter",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"(determined) Stay on target.\" (Star Wars)\n",
+    "faction": "Human",
+    "unit": "Gyrocopter",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'd rather be flying! Uh… oh.\"\n",
+    "faction": "Human",
+    "unit": "Gyrocopter",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"You can be my wingman anytime.\" (Top Gun)\n",
+    "faction": "Human",
+    "unit": "Gyrocopter",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Pilot to bombardier.\" \"Bombardier here, go ahead, pilot.\" (The Dambusters)\n",
+    "faction": "Human",
+    "unit": "Gyrocopter",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I will now demonstrate the Doppler Effect.\" (falling) \"Dopplerrrrrr!.\"\n",
+    "faction": "Human",
+    "unit": "Gyrocopter",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"(dreadfully) There's… something… on… the wing!\" (A reference to a Twilight Zone short)\n",
+    "faction": "Human",
+    "unit": "Gyrocopter",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'm on a different 'plane' of existence. Get it? 'Plane'?\"\n",
+    "faction": "Human",
+    "unit": "Gyrocopter",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"They came from behind!\" (A reference to Star Wars.)\n",
+    "faction": "Human",
+    "unit": "Gyrocopter",
+    "action": "Dying\n"
+  },
+  {
+    "value": "\"It's hammer time!\"\n",
+    "faction": "Human",
+    "unit": "Gryphon Rider",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"You can count on me.\"\n",
+    "faction": "Human",
+    "unit": "Gryphon Rider",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Aye, sir?\"\n",
+    "faction": "Human",
+    "unit": "Gryphon Rider",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I'm your dwarf.\"\n",
+    "faction": "Human",
+    "unit": "Gryphon Rider",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I'll do what it takes.\"\n",
+    "faction": "Human",
+    "unit": "Gryphon Rider",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Ach?\"\n",
+    "faction": "Human",
+    "unit": "Gryphon Rider",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Ach, count me in.\"\n",
+    "faction": "Human",
+    "unit": "Gryphon Rider",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"You're the boss.\"\n",
+    "faction": "Human",
+    "unit": "Gryphon Rider",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Ne problem.\"\n",
+    "faction": "Human",
+    "unit": "Gryphon Rider",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"That's great.\"\n",
+    "faction": "Human",
+    "unit": "Gryphon Rider",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"To the skies.\"\n",
+    "faction": "Human",
+    "unit": "Gryphon Rider",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Death comes for ye!\"\n",
+    "faction": "Human",
+    "unit": "Gryphon Rider",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For victory!\"\n",
+    "faction": "Human",
+    "unit": "Gryphon Rider",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"By Muradin's beard!\"\n",
+    "faction": "Human",
+    "unit": "Gryphon Rider",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For Khaz Modan!\"\n",
+    "faction": "Human",
+    "unit": "Gryphon Rider",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"Judge me by my size, do you?\" (Yoda's line from Star Wars: The Empire Strikes Back)\n",
+    "faction": "Human",
+    "unit": "Gryphon Rider",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"It's not the size of the hammer that counts, it's how ye wield it!\"\n",
+    "faction": "Human",
+    "unit": "Gryphon Rider",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Someone gave me the bird!\" (pun)\n",
+    "faction": "Human",
+    "unit": "Gryphon Rider",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"This Warhammer cost 40k! Heh heh.\" (Reference to Warhammer 40,000)\n",
+    "faction": "Human",
+    "unit": "Gryphon Rider",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Half of this beast is endangered, but the other half is danger!\"\n",
+    "faction": "Human",
+    "unit": "Gryphon Rider",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'm on the job.\"\n",
+    "faction": "Human",
+    "unit": "Blood Elf Engineer & Worker",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"You're interrupting my calculations!\" (Possibly a reference to Dexter's Laboratory)\n",
+    "faction": "Human",
+    "unit": "Blood Elf Engineer & Worker",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I'll have it up in no time.\"\n",
+    "faction": "Human",
+    "unit": "Blood Elf Engineer & Worker",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Two plus three times four… what do you want?!\"\n",
+    "faction": "Human",
+    "unit": "Blood Elf Engineer & Worker",
+    "action": "What\n"
+  },
+  {
+    "value": "\"No, no, no! Not like that! Let me do it.\"\n",
+    "faction": "Human",
+    "unit": "Blood Elf Engineer & Worker",
+    "action": "What\n"
+  },
+  {
+    "value": "\"That's not in the blueprints.\"\n",
+    "faction": "Human",
+    "unit": "Blood Elf Engineer & Worker",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"How did that get approved?\"\n",
+    "faction": "Human",
+    "unit": "Blood Elf Engineer & Worker",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"You want me to do what?\"\n",
+    "faction": "Human",
+    "unit": "Blood Elf Engineer & Worker",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"An elf would've thought of something better.\"\n",
+    "faction": "Human",
+    "unit": "Blood Elf Engineer & Worker",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Yes yes, I'm already on it.\"\n",
+    "faction": "Human",
+    "unit": "Blood Elf Engineer & Worker",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Probability of success: Zero.\"\n",
+    "faction": "Human",
+    "unit": "Blood Elf Engineer & Worker",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"I'll level you!\"\n",
+    "faction": "Human",
+    "unit": "Blood Elf Engineer & Worker",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"Look, I'm an engineer, my time is valuable.\"\n",
+    "faction": "Human",
+    "unit": "Blood Elf Engineer & Worker",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Why don't you bother someone else with your incessant clicking?\"\n",
+    "faction": "Human",
+    "unit": "Blood Elf Engineer & Worker",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"If it's really that urgent, why don't you do it yourself?\"\n",
+    "faction": "Human",
+    "unit": "Blood Elf Engineer & Worker",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"It's simple. Just take the hydraulic phase shift emulator, and attach it to the transdimensional photon particle emitter. Bam! New tower.\"\n",
+    "faction": "Human",
+    "unit": "Blood Elf Engineer & Worker",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"'I'll have it up in no time.' is an official term of the United Blood Elf Engineers' Union. It should not be interpreted as a reasonable estimation of the actual time it will take to complete a task in any way, shape, or form.\"\n",
+    "faction": "Human",
+    "unit": "Blood Elf Engineer & Worker",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Hmm… tower defense… No, that's a silly idea – it would never work!\" (parody of the popularity of tower defense maps on Battle.net. Also they build towers in a tower defense mission.)\n",
+    "faction": "Human",
+    "unit": "Blood Elf Engineer & Worker",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I am ready.\"\n",
+    "faction": "Human",
+    "unit": "Captain",
+    "action": "What\n"
+  },
+  {
+    "value": "\"What is your wish?\"\n",
+    "faction": "Human",
+    "unit": "Captain",
+    "action": "What\n"
+  },
+  {
+    "value": "\"How may I serve?\"\n",
+    "faction": "Human",
+    "unit": "Captain",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I'm honored.\"\n",
+    "faction": "Human",
+    "unit": "Captain",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I'll do my best!\"\n",
+    "faction": "Human",
+    "unit": "Captain",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"For Lordaeron!\"\n",
+    "faction": "Human",
+    "unit": "Captain",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Foul beast!\"\n",
+    "faction": "Human",
+    "unit": "Captain",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For King Terenas!\"\n",
+    "faction": "Human",
+    "unit": "Captain",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"I should have been a farmer like my father wanted.\"\n",
+    "faction": "Human",
+    "unit": "Captain",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Lousy pay, constant danger.\"\n",
+    "faction": "Human",
+    "unit": "Captain",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Well, at least I get to hobnob with royalty.\" (A unit you only command when doing the human campaign with Prince Arthas.)\n",
+    "faction": "Human",
+    "unit": "Captain",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I live to serve all believers.\"\n",
+    "faction": "Human",
+    "unit": "Paladin",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"What would you ask of me?\"\n",
+    "faction": "Human",
+    "unit": "Paladin",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I am not afraid.\"\n",
+    "faction": "Human",
+    "unit": "Paladin",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Let me face the peril.\" (Monty Python and the Holy Grail)\n",
+    "faction": "Human",
+    "unit": "Paladin",
+    "action": "What\n"
+  },
+  {
+    "value": "\"At your call.\"\n",
+    "faction": "Human",
+    "unit": "Paladin",
+    "action": "What\n"
+  },
+  {
+    "value": "\"As you wish.\"\n",
+    "faction": "Human",
+    "unit": "Paladin",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"For honor!\"\n",
+    "faction": "Human",
+    "unit": "Paladin",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"For my people!\"\n",
+    "faction": "Human",
+    "unit": "Paladin",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"It shall be done!\"\n",
+    "faction": "Human",
+    "unit": "Paladin",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Justice will be served!\"\n",
+    "faction": "Human",
+    "unit": "Paladin",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Defending your name!\"\n",
+    "faction": "Human",
+    "unit": "Paladin",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Strike with great vengeance!\" (Pulp Fiction )\n",
+    "faction": "Human",
+    "unit": "Paladin",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"In Lightbringer's name, have at thee!\"\n",
+    "faction": "Human",
+    "unit": "Paladin",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"It's hammer time!\"\n",
+    "faction": "Human",
+    "unit": "Paladin",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I want to be your sledge hammer!\" (A reference to the song \"Sledgehammer\" by Peter Gabriel)\n",
+    "faction": "Human",
+    "unit": "Paladin",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Touch me not — I am chaste!\" (Monty Python and the Holy Grail)\n",
+    "faction": "Human",
+    "unit": "Paladin",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"No? Is that your final answer?\" (Who Wants To Be a Millionaire)\n",
+    "faction": "Human",
+    "unit": "Paladin",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I have bad brethren.\"\n",
+    "faction": "Human",
+    "unit": "Paladin",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Is that a sword? Luxury! Is that a horse? Sloth! Is that a helmet? Vanity!\"\n",
+    "faction": "Human",
+    "unit": "Paladin",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"This had better be worth it!\"\n",
+    "faction": "Human",
+    "unit": "Archmage",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"You require my assistance.\"\n",
+    "faction": "Human",
+    "unit": "Archmage",
+    "action": "What\n"
+  },
+  {
+    "value": "\"What is it now?\"\n",
+    "faction": "Human",
+    "unit": "Archmage",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Get on with it.\"\n",
+    "faction": "Human",
+    "unit": "Archmage",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Well?\"\n",
+    "faction": "Human",
+    "unit": "Archmage",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I can hardly wait.\"\n",
+    "faction": "Human",
+    "unit": "Archmage",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Perfect.\"\n",
+    "faction": "Human",
+    "unit": "Archmage",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Whatever.\"\n",
+    "faction": "Human",
+    "unit": "Archmage",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Fine.\"\n",
+    "faction": "Human",
+    "unit": "Archmage",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"To battle!\"\n",
+    "faction": "Human",
+    "unit": "Archmage",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For glory!\"\n",
+    "faction": "Human",
+    "unit": "Archmage",
+    "action": "Attack\n"
+  },
+  {
+    "value": "(Chants a spell) \"Infury frostaris sedaa!\"\n",
+    "faction": "Human",
+    "unit": "Archmage",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For Dalaran!\"\n",
+    "faction": "Human",
+    "unit": "Archmage",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"Don't you have a strategy?\"\n",
+    "faction": "Human",
+    "unit": "Archmage",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Your prattle begins to annoy me.\"\n",
+    "faction": "Human",
+    "unit": "Archmage",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"You'd best stay clear of me, or I'll turn you into a mindless sheep!\" (Reference to the Sorceress spell \"Polymorph\" which turns enemies into sheep)\n",
+    "faction": "Human",
+    "unit": "Archmage",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I don't waste my magic on just anything.\"\n",
+    "faction": "Human",
+    "unit": "Archmage",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"All right, who wants some?\"\n",
+    "faction": "Human",
+    "unit": "Mountain King",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"Aye?\"\n",
+    "faction": "Human",
+    "unit": "Mountain King",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Wait 'til you see me in action!\"\n",
+    "faction": "Human",
+    "unit": "Mountain King",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Give me something to do!\"\n",
+    "faction": "Human",
+    "unit": "Mountain King",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Hmm?\"\n",
+    "faction": "Human",
+    "unit": "Mountain King",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Brilliant!\"\n",
+    "faction": "Human",
+    "unit": "Mountain King",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I'm coming through.\"\n",
+    "faction": "Human",
+    "unit": "Mountain King",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Move it!\"\n",
+    "faction": "Human",
+    "unit": "Mountain King",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Out of my way.\"\n",
+    "faction": "Human",
+    "unit": "Mountain King",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"To arms!\"\n",
+    "faction": "Human",
+    "unit": "Mountain King",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Death comes for ye!\"\n",
+    "faction": "Human",
+    "unit": "Mountain King",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"I'll run 'em through!\"\n",
+    "faction": "Human",
+    "unit": "Mountain King",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Watch this!\"\n",
+    "faction": "Human",
+    "unit": "Mountain King",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For Khaz Modan!\"\n",
+    "faction": "Human",
+    "unit": "Mountain King",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"Could you put some bonus points in my drinking skills?\" (Reference to the Dungeons & Dragons skill sheet)\n",
+    "faction": "Human",
+    "unit": "Mountain King",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Any fish and chip shops around here?\"\n",
+    "faction": "Human",
+    "unit": "Mountain King",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I think it's time for a nippy sweety.\"\n",
+    "faction": "Human",
+    "unit": "Mountain King",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"What the bloody hell are you playing at?\"\n",
+    "faction": "Human",
+    "unit": "Mountain King",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"There's nothing more motivating than fighting with a bad hangover!\"\n",
+    "faction": "Human",
+    "unit": "Mountain King",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Where's the pub?\"\n",
+    "faction": "Human",
+    "unit": "Mountain King",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Let's get pissed!\" (line from So I Married An Axe Murderer)\n",
+    "faction": "Human",
+    "unit": "Mountain King",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Burning to avenge.\"\n",
+    "faction": "Human",
+    "unit": "Blood Mage",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"Do you see something?\"\n",
+    "faction": "Human",
+    "unit": "Blood Mage",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Ishera-do.\"\n",
+    "faction": "Human",
+    "unit": "Blood Mage",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Evil is near.\"\n",
+    "faction": "Human",
+    "unit": "Blood Mage",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I'm here, mortal.\"\n",
+    "faction": "Human",
+    "unit": "Blood Mage",
+    "action": "What\n"
+  },
+  {
+    "value": "\"This prattle bores me.\"\n",
+    "faction": "Human",
+    "unit": "Blood Mage",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Andu fallah.\"\n",
+    "faction": "Human",
+    "unit": "Blood Mage",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"For my people.\"\n",
+    "faction": "Human",
+    "unit": "Blood Mage",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Aseph-ah-balla nah.\"\n",
+    "faction": "Human",
+    "unit": "Blood Mage",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"For now.\"\n",
+    "faction": "Human",
+    "unit": "Blood Mage",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Ah, child's play.\"\n",
+    "faction": "Human",
+    "unit": "Blood Mage",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I'll incinerate them!\"\n",
+    "faction": "Human",
+    "unit": "Blood Mage",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For Quel'thalas!\"\n",
+    "faction": "Human",
+    "unit": "Blood Mage",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"They shall burn!\"\n",
+    "faction": "Human",
+    "unit": "Blood Mage",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"By the blood of the Highborne!\"\n",
+    "faction": "Human",
+    "unit": "Blood Mage",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"The blood of the Highborne is my birthright.\"\n",
+    "faction": "Human",
+    "unit": "Blood Mage",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"The ghosts of Quel'thalas cry out for vengeance.\"\n",
+    "faction": "Human",
+    "unit": "Blood Mage",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I find your insolence… disturbing.\" (Star Wars)\n",
+    "faction": "Human",
+    "unit": "Blood Mage",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"If you don't master your anger, your anger will master you... I should know.\" (Mystery Men)\n",
+    "faction": "Human",
+    "unit": "Blood Mage",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "Blood Mage: \"Hi, my name is Roy. I'm a magic addict.\"Group: \"Hi Roy.\" (parody of Alcoholics Anonymous)\n",
+    "faction": "Human",
+    "unit": "Blood Mage",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"My blood cries out for the vengeance of my people's blood, which can only be repaid with at least twice as much blood! Or maybe three times as much blood! Like if you went to hell, and it was full of blood, and that blood was on fire, and it was raining blood, then maybe that would be enough blood! Eh… but probably not.\"\n",
+    "faction": "Human",
+    "unit": "Blood Mage",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"The Light is my strength.\"\n",
+    "faction": "Human",
+    "unit": "Arthas Menethil",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Is there danger?\"\n",
+    "faction": "Human",
+    "unit": "Arthas Menethil",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I stand for the Light.\"\n",
+    "faction": "Human",
+    "unit": "Arthas Menethil",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I'm here to help.\"\n",
+    "faction": "Human",
+    "unit": "Arthas Menethil",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Justice shall be done.\"\n",
+    "faction": "Human",
+    "unit": "Arthas Menethil",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Of course.\"\n",
+    "faction": "Human",
+    "unit": "Arthas Menethil",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Certainly.\"\n",
+    "faction": "Human",
+    "unit": "Arthas Menethil",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"A sound plan.\"\n",
+    "faction": "Human",
+    "unit": "Arthas Menethil",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"For honor.\"\n",
+    "faction": "Human",
+    "unit": "Arthas Menethil",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Foul knave!\"\n",
+    "faction": "Human",
+    "unit": "Arthas Menethil",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Betrayer of the Light!\"\n",
+    "faction": "Human",
+    "unit": "Arthas Menethil",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"You are past redemption!\"\n",
+    "faction": "Human",
+    "unit": "Arthas Menethil",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For my father the King!\"\n",
+    "faction": "Human",
+    "unit": "Arthas Menethil",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Feel my wrath!\"\n",
+    "faction": "Human",
+    "unit": "Arthas Menethil",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Justice has come!\"\n",
+    "faction": "Human",
+    "unit": "Arthas Menethil",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For Lordaeron!\"\n",
+    "faction": "Human",
+    "unit": "Arthas Menethil",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"It isn't easy being a prince.\"\n",
+    "faction": "Human",
+    "unit": "Arthas Menethil",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I will bring honor to my father and my kingdom.\"\n",
+    "faction": "Human",
+    "unit": "Arthas Menethil",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Light, guide my path.\"\n",
+    "faction": "Human",
+    "unit": "Arthas Menethil",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Light, give me strength.\"\n",
+    "faction": "Human",
+    "unit": "Arthas Menethil",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I should be in command.\"\n",
+    "faction": "Human",
+    "unit": "Arthas Menethil",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I know what I'm doing.\"\n",
+    "faction": "Human",
+    "unit": "Arthas Menethil",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"There's no need to bow.\"\n",
+    "faction": "Human",
+    "unit": "Arthas Menethil",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"What's happening?\"\n",
+    "faction": "Human",
+    "unit": "Muradin Bronzebeard",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I'm ready and waiting.\"\n",
+    "faction": "Human",
+    "unit": "Muradin Bronzebeard",
+    "action": "What\n"
+  },
+  {
+    "value": "\"You're kinda slow for a human, aren't ya?\"\n",
+    "faction": "Human",
+    "unit": "Muradin Bronzebeard",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Let's get moving.\"\n",
+    "faction": "Human",
+    "unit": "Muradin Bronzebeard",
+    "action": "What\n"
+  },
+  {
+    "value": "\"That's more like it.\"\n",
+    "faction": "Human",
+    "unit": "Muradin Bronzebeard",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Let's get it on.\"\n",
+    "faction": "Human",
+    "unit": "Muradin Bronzebeard",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Let's do this.\"\n",
+    "faction": "Human",
+    "unit": "Muradin Bronzebeard",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"It's hammer time!\"\n",
+    "faction": "Human",
+    "unit": "Muradin Bronzebeard",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"For Khaz Modan!\"\n",
+    "faction": "Human",
+    "unit": "Muradin Bronzebeard",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For the Bronzebeards!\"\n",
+    "faction": "Human",
+    "unit": "Muradin Bronzebeard",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Take this, you bastard!\"\n",
+    "faction": "Human",
+    "unit": "Muradin Bronzebeard",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Beards, blood, booze and thunder!\"\n",
+    "faction": "Human",
+    "unit": "Muradin Bronzebeard",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"My older brother Magni is king of the dwarves.\"\n",
+    "faction": "Human",
+    "unit": "Muradin Bronzebeard",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"My younger brother Brann is a renowned explorer.\"\n",
+    "faction": "Human",
+    "unit": "Muradin Bronzebeard",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"If I didn't kick so much ass, I'd feel a tad awkward.\"\n",
+    "faction": "Human",
+    "unit": "Muradin Bronzebeard",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'll play your game, you rogue.\" (SNL Celebrity Jeopardy! Reference)\n",
+    "faction": "Human",
+    "unit": "Muradin Bronzebeard",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'll take 'The Rapist' for 500.\" (SNL Celebrity Jeopardy!, mispronouncing 'therapist')\n",
+    "faction": "Human",
+    "unit": "Muradin Bronzebeard",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'm on to you, Trebek!\" (SNL Celebrity Jeopardy!)\n",
+    "faction": "Human",
+    "unit": "Muradin Bronzebeard",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"(laughs) Come on, you nancy boy!\" (SNL Celebrity Jeopardy!)\n",
+    "faction": "Human",
+    "unit": "Muradin Bronzebeard",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"You wanna get the undead? I'll tell you how to get the undead. One of their men pulls a knife, your man pulls a gun. They send your man to the hospital, you send their man to the morgue. That's how you get the undead.\" (The Untouchables; it should also be noted that this and the quotes above are all associated with Sean Connery.)\n",
+    "faction": "Human",
+    "unit": "Muradin Bronzebeard",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Is that the best you can do?\"\n",
+    "faction": "Human",
+    "unit": "Muradin Bronzebeard",
+    "action": "Taunt\n"
+  },
+  {
+    "value": "\"I've met gnomes who are tougher than you.\"\n",
+    "faction": "Human",
+    "unit": "Muradin Bronzebeard",
+    "action": "Taunt\n"
+  },
+  {
+    "value": "\"I can help.\"\n",
+    "faction": "Human",
+    "unit": "Jaina Proudmoore",
+    "action": "What\n"
+  },
+  {
+    "value": "\"That's curious.\"\n",
+    "faction": "Human",
+    "unit": "Jaina Proudmoore",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Shhh… I'm trying to think here.\"\n",
+    "faction": "Human",
+    "unit": "Jaina Proudmoore",
+    "action": "What\n"
+  },
+  {
+    "value": "\"What's the plan?\"\n",
+    "faction": "Human",
+    "unit": "Jaina Proudmoore",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Sounds good.\"\n",
+    "faction": "Human",
+    "unit": "Jaina Proudmoore",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I'll check it out.\"\n",
+    "faction": "Human",
+    "unit": "Jaina Proudmoore",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Sounds interesting.\"\n",
+    "faction": "Human",
+    "unit": "Jaina Proudmoore",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I'll take care of it.\"\n",
+    "faction": "Human",
+    "unit": "Jaina Proudmoore",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I hate resorting to violence!\"\n",
+    "faction": "Human",
+    "unit": "Jaina Proudmoore",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"You asked for it!\"\n",
+    "faction": "Human",
+    "unit": "Jaina Proudmoore",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For Dalaran!\"\n",
+    "faction": "Human",
+    "unit": "Jaina Proudmoore",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"I'm no warrior.\"\n",
+    "faction": "Human",
+    "unit": "Jaina Proudmoore",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"All I ever wanted was to study.\"\n",
+    "faction": "Human",
+    "unit": "Jaina Proudmoore",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"The currents of magic are in upheaval.\"\n",
+    "faction": "Human",
+    "unit": "Jaina Proudmoore",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I pray my father is safe.\"\n",
+    "faction": "Human",
+    "unit": "Jaina Proudmoore",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Things are starting to get a little weird.\"\n",
+    "faction": "Human",
+    "unit": "Jaina Proudmoore",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Humanity, will rise again!\"\n",
+    "faction": "Human",
+    "unit": "Lord Garithos",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"Well, what are you waiting for?\"\n",
+    "faction": "Human",
+    "unit": "Lord Garithos",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Humanity is in peril.\"\n",
+    "faction": "Human",
+    "unit": "Lord Garithos",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I hate working with these… people.\"\n",
+    "faction": "Human",
+    "unit": "Lord Garithos",
+    "action": "What\n"
+  },
+  {
+    "value": "\"We humans have to stick together.\"\n",
+    "faction": "Human",
+    "unit": "Lord Garithos",
+    "action": "What\n"
+  },
+  {
+    "value": "\"It's about time.\"\n",
+    "faction": "Human",
+    "unit": "Lord Garithos",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Yes yes, I'm on it.\"\n",
+    "faction": "Human",
+    "unit": "Lord Garithos",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Suits my purposes.\"\n",
+    "faction": "Human",
+    "unit": "Lord Garithos",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Right...\"\n",
+    "faction": "Human",
+    "unit": "Lord Garithos",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Ah, at last.\"\n",
+    "faction": "Human",
+    "unit": "Lord Garithos",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Let justice fall!\"\n",
+    "faction": "Human",
+    "unit": "Lord Garithos",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Die, mongrels!\"\n",
+    "faction": "Human",
+    "unit": "Lord Garithos",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Inhuman beast!\"\n",
+    "faction": "Human",
+    "unit": "Lord Garithos",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"In memory of Terenas!\"\n",
+    "faction": "Human",
+    "unit": "Lord Garithos",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"These inhuman dogs must be slain.\"\n",
+    "faction": "Human",
+    "unit": "Lord Garithos",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"The lesser races must be purged from the kingdom.\"\n",
+    "faction": "Human",
+    "unit": "Lord Garithos",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"The only good non-human is a dead non-human.\"(Reference to the film Beneath the Planet of the Apes)\n",
+    "faction": "Human",
+    "unit": "Lord Garithos",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"If you want something done right, leave it to a human.\"\n",
+    "faction": "Human",
+    "unit": "Lord Garithos",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Never trust an elf!\" (Reference to the film The Lord of the Rings: The Fellowship of the Ring)\n",
+    "faction": "Human",
+    "unit": "Lord Garithos",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I'm here.\"\n",
+    "faction": "Human",
+    "unit": "Uther the Lightbringer",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Do not fear.\"\n",
+    "faction": "Human",
+    "unit": "Uther the Lightbringer",
+    "action": "What\n"
+  },
+  {
+    "value": "\"The light is with us.\"\n",
+    "faction": "Human",
+    "unit": "Uther the Lightbringer",
+    "action": "What\n"
+  },
+  {
+    "value": "\"We shall not falter.\"\n",
+    "faction": "Human",
+    "unit": "Uther the Lightbringer",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Right.\"\n",
+    "faction": "Human",
+    "unit": "Uther the Lightbringer",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Very wise.\"\n",
+    "faction": "Human",
+    "unit": "Uther the Lightbringer",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"For the Light.\"\n",
+    "faction": "Human",
+    "unit": "Uther the Lightbringer",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"By my Honor.\"\n",
+    "faction": "Human",
+    "unit": "Uther the Lightbringer",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"For Lordaeron!\"\n",
+    "faction": "Human",
+    "unit": "Uther the Lightbringer",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For the Silver Hand!\"\n",
+    "faction": "Human",
+    "unit": "Uther the Lightbringer",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Light curse you!\"\n",
+    "faction": "Human",
+    "unit": "Uther the Lightbringer",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For King Terenas!\"\n",
+    "faction": "Human",
+    "unit": "Uther the Lightbringer",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"I getting too old for this.\" (Lethal Weapon)\n",
+    "faction": "Human",
+    "unit": "Uther the Lightbringer",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"As if the Orcs weren't enough…\"\n",
+    "faction": "Human",
+    "unit": "Uther the Lightbringer",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"My church is the field of battle.\"\n",
+    "faction": "Human",
+    "unit": "Uther the Lightbringer",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"My strength is the Holy Light.\"\n",
+    "faction": "Human",
+    "unit": "Uther the Lightbringer",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Come then, shadowspawn.\"\n",
+    "faction": "Human",
+    "unit": "Uther the Lightbringer",
+    "action": "Taunt\n"
+  },
+  {
+    "value": "\"I am the hammer of justice.\" (A possible reference to Tyrael in Diablo and is I am justice itself)\n",
+    "faction": "Human",
+    "unit": "Uther the Lightbringer",
+    "action": "Taunt\n"
+  },
+  {
+    "value": "\"I'm waiting.\"\n",
+    "faction": "Human",
+    "unit": "Kael'thas Sunstrider",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"I feel edgy.\"\n",
+    "faction": "Human",
+    "unit": "Kael'thas Sunstrider",
+    "action": "What\n"
+  },
+  {
+    "value": "\"What's the hold up?\"\n",
+    "faction": "Human",
+    "unit": "Kael'thas Sunstrider",
+    "action": "What\n"
+  },
+  {
+    "value": "\"My people must be avenged.\"\n",
+    "faction": "Human",
+    "unit": "Kael'thas Sunstrider",
+    "action": "What\n"
+  },
+  {
+    "value": "\"We should move soon.\"\n",
+    "faction": "Human",
+    "unit": "Kael'thas Sunstrider",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I sense something elusive.\"\n",
+    "faction": "Human",
+    "unit": "Kael'thas Sunstrider",
+    "action": "What\n"
+  },
+  {
+    "value": "\"It shall be done.\"\n",
+    "faction": "Human",
+    "unit": "Kael'thas Sunstrider",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Outstanding.\"\n",
+    "faction": "Human",
+    "unit": "Kael'thas Sunstrider",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"I'll do my best.\"\n",
+    "faction": "Human",
+    "unit": "Kael'thas Sunstrider",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"My pleasure.\"\n",
+    "faction": "Human",
+    "unit": "Kael'thas Sunstrider",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Very good.\"\n",
+    "faction": "Human",
+    "unit": "Kael'thas Sunstrider",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"By fire be purged!\" (Also said by Ragnaros in the Molten Core raid in World of Warcraft)\n",
+    "faction": "Human",
+    "unit": "Kael'thas Sunstrider",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Vengeance!\"\n",
+    "faction": "Human",
+    "unit": "Kael'thas Sunstrider",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"This is too easy!\"\n",
+    "faction": "Human",
+    "unit": "Kael'thas Sunstrider",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Endo-enah Quel'thalas!\"\n",
+    "faction": "Human",
+    "unit": "Kael'thas Sunstrider",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"Nothing of my homeland remains but ash and sorrow.\"\n",
+    "faction": "Human",
+    "unit": "Kael'thas Sunstrider",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"My hunger for magic is clouding my judgment.\"\n",
+    "faction": "Human",
+    "unit": "Kael'thas Sunstrider",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"All I feel is hate and rage.\"\n",
+    "faction": "Human",
+    "unit": "Kael'thas Sunstrider",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"The Alliance has failed my people.\"\n",
+    "faction": "Human",
+    "unit": "Kael'thas Sunstrider",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I've no time for games.\"\n",
+    "faction": "Human",
+    "unit": "Sylvanas Windrunner (Alive)",
+    "action": "What\n"
+  },
+  {
+    "value": "\"I have a land to defend.\"\n",
+    "faction": "Human",
+    "unit": "Sylvanas Windrunner (Alive)",
+    "action": "What\n"
+  },
+  {
+    "value": "\"We elves are not easy prey.\"\n",
+    "faction": "Human",
+    "unit": "Sylvanas Windrunner (Alive)",
+    "action": "What\n"
+  },
+  {
+    "value": "\"You dare threaten me?\"\n",
+    "faction": "Human",
+    "unit": "Sylvanas Windrunner (Alive)",
+    "action": "What\n"
+  },
+  {
+    "value": "\"For Quel'thalas!\"\n",
+    "faction": "Human",
+    "unit": "Sylvanas Windrunner (Alive)",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"I'm the Ranger General of this land.\"\n",
+    "faction": "Human",
+    "unit": "Sylvanas Windrunner (Alive)",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I can hit a bird in the air, flying.\"\n",
+    "faction": "Human",
+    "unit": "Sylvanas Windrunner (Alive)",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"None may threaten the Elflands.\"\n",
+    "faction": "Human",
+    "unit": "Sylvanas Windrunner (Alive)",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"You'll regret ever entering my forests.\"\n",
+    "faction": "Human",
+    "unit": "Sylvanas Windrunner (Alive)",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Come taste the wrath of the elves.\"\n",
+    "faction": "Human",
+    "unit": "Sylvanas Windrunner (Alive)",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Glory to the High Elves.\"\n",
+    "faction": "Human",
+    "unit": " Dragon Hawk (High Elf) ",
+    "action": "Ready\n"
+  },
+  {
+    "value": "\"Battle awaits.\"\n",
+    "faction": "Human",
+    "unit": " Dragon Hawk (High Elf) ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"Be quick, human.\"\n",
+    "faction": "Human",
+    "unit": " Dragon Hawk (High Elf) ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"My powers are ready.\"\n",
+    "faction": "Human",
+    "unit": " Dragon Hawk (High Elf) ",
+    "action": "What\n"
+  },
+  {
+    "value": "\"The sky is mine.\"\n",
+    "faction": "Human",
+    "unit": " Dragon Hawk (High Elf) ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Winds guide me.\"\n",
+    "faction": "Human",
+    "unit": " Dragon Hawk (High Elf) ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Ride like the wind.\"\n",
+    "faction": "Human",
+    "unit": " Dragon Hawk (High Elf) ",
+    "action": "Yes\n"
+  },
+  {
+    "value": "\"Nowhere to hide!\"\n",
+    "faction": "Human",
+    "unit": " Dragon Hawk (High Elf) ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Cower, knave!\"\n",
+    "faction": "Human",
+    "unit": " Dragon Hawk (High Elf) ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"Ride the lightning!\" (Refers to Metallica's album, Ride the Lightning)\n",
+    "faction": "Human",
+    "unit": " Dragon Hawk (High Elf) ",
+    "action": "Attack\n"
+  },
+  {
+    "value": "\"For Quel'thalas, for victory!\"\n",
+    "faction": "Human",
+    "unit": " Dragon Hawk (High Elf) ",
+    "action": "Warcry\n"
+  },
+  {
+    "value": "\"I shall ride my bird to victory!\"\n",
+    "faction": "Human",
+    "unit": " Dragon Hawk (High Elf) ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I don't use my lance a lot.\"\n",
+    "faction": "Human",
+    "unit": " Dragon Hawk (High Elf) ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"Tell Blizzard I'd make a great action figure!\"\n",
+    "faction": "Human",
+    "unit": " Dragon Hawk (High Elf) ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"I am going for an even bigger role in the expansion pack!\" (Refers to Warcraft III: Frozen Throne)\n",
+    "faction": "Human",
+    "unit": " Dragon Hawk (High Elf) ",
+    "action": "Pissed\n"
+  },
+  {
+    "value": "\"We're currently hovering at a comfortable altitude of fifteen feet.\"\n",
+    "faction": "Human",
+    "unit": " Dragon Hawk (High Elf) ",
+    "action": "Pissed\n"
+  }
+]
