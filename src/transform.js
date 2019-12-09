@@ -4,6 +4,7 @@
 'use strict';
 const fs = require('fs');
 const uuidv4 = require('uuid/v4');
+const constants = require('./constants');
 
 const INPUT_DIRECTORY = './quotes/extract';
 const OUTPUT_DIRECTORY = './quotes/transform';
@@ -121,6 +122,17 @@ function cleanQuoteValue(value) {
 
   return cleanString(value);
 }
+/**
+ * Determine if unit is a hero
+ * @param {string} unit
+ */
+function isHero(unit) {
+  if (constants.heroes.find(hero => hero === unit)) {
+    return true;
+  } else {
+    return false;
+  }
+}
 
 /**
  * Transforms all quotes including metadata
@@ -141,7 +153,8 @@ function quoteTransformer(input, output) {
       value: cleanQuoteValue(quote['value']),
       faction: cleanQuoteFaction(quote['faction']),
       unit: cleanQuoteUnit(quote['unit']),
-      action: cleanQuoteAction(quote['action'])
+      action: cleanQuoteAction(quote['action']),
+      isHero: isHero(quote['unit'])
     };
 
     if (cleanQuote['value'] !== '') {
