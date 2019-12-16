@@ -53,7 +53,7 @@ function cleanQuoteUnit(unit) {
   } else if (unit.trim() == `Arthas`) {
     return 'Arthas Menethil';
   } else if (unit.trim() == `Dragon Hawk (High Elf)`) {
-    return 'Dragon Hawk';
+    return 'High Elf Dragonhawk';
   } else if (unit.trim() == `Orc Peon`) {
     return 'Peon';
   } else if (unit.trim() == `Orc Grunt`) {
@@ -118,6 +118,8 @@ function cleanQuoteValue(value) {
     return `Warriors of the night, assemble!`;
   } else if (value.includes(`Eat mortar!`)) {
     return `Eat mortar! Eat lead!`;
+  } else if (value.includes(`Look at me, I'm happy`)) {
+    return `Look at me, I'm happy!`;
   }
 
   return cleanString(value);
@@ -128,6 +130,18 @@ function cleanQuoteValue(value) {
  */
 function isHero(unit) {
   if (constants.heroes.find(hero => hero === unit)) {
+    return true;
+  } else {
+    return false;
+  }
+}
+
+/**
+ * Determine if unit is a melee unit
+ * @param {string} unit
+ */
+function isMelee(unit) {
+  if (constants.unitsMelee.find(element => element === unit)) {
     return true;
   } else {
     return false;
@@ -149,12 +163,15 @@ function quoteTransformer(input, output) {
   let quotes = JSON.parse(rawData);
 
   quotes.forEach(function(quote) {
+    let cleanUnit = cleanQuoteUnit(quote['unit']);
+
     let cleanQuote = {
       value: cleanQuoteValue(quote['value']),
       faction: cleanQuoteFaction(quote['faction']),
-      unit: cleanQuoteUnit(quote['unit']),
+      unit: cleanUnit,
       action: cleanQuoteAction(quote['action']),
-      isHero: isHero(quote['unit'])
+      isHero: isHero(cleanUnit),
+      isMelee: isMelee(cleanUnit)
     };
 
     if (cleanQuote['value'] !== '') {

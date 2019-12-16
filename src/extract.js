@@ -17,7 +17,8 @@ function isIgnoredUnit(unit) {
   if (
     unit.trim() == 'Warning quotes' ||
     unit.trim() == 'Dialogue' ||
-    unit.trim() == `Vengeful Spirit (her voices are backwards)`
+    unit.trim() == `Vengeful Spirit (her voices are backwards)` ||
+    unit.trim().includes('Mannoroth')
   ) {
     return true;
   } else {

@@ -1,4 +1,4 @@
-const humanHeroes = ['Paladin', 'Archmage', 'Mountain King', 'Blood Mage'];
+const humanHeroesMelee = ['Paladin', 'Archmage', 'Mountain King', 'Blood Mage'];
 const humanHeroesEtc = [
   'Arthas Menethil',
   'Muradin Bronzebeard',
@@ -8,7 +8,7 @@ const humanHeroesEtc = [
   "Kael'thas Sunstrider",
   'Sylvanas Windrunner'
 ];
-const orcHeroes = [
+const orcHeroesMelee = [
   'Blademaster',
   'Far Seer',
   'Tauren Chieftain',
@@ -22,7 +22,7 @@ const orcHeroesEtc = [
   "Drek'Thar",
   'Nazgrel'
 ];
-const undeadHeroes = ['Death Knight', 'Lich', 'Dreadlord', 'Crypt Lord'];
+const undeadHeroesMelee = ['Death Knight', 'Lich', 'Dreadlord', 'Crypt Lord'];
 const undeadHeroesEtc = [
   "Kel'Thuzad",
   'Arthas Menethil',
@@ -30,7 +30,7 @@ const undeadHeroesEtc = [
   'Sylvanas Windrunner',
   'Varimathras'
 ];
-const elfHeroes = [
+const elfHeroesMelee = [
   'Keeper of the Grove',
   'Priestess of the Moon',
   'Demon Hunter',
@@ -42,7 +42,7 @@ const elfHeroesEtc = [
   'Tyrande Whisperwind',
   'Malfurion Stormrage'
 ];
-const neutralHeroes = [
+const neutralHeroesMelee = [
   'Beastmaster',
   'Dark Ranger',
   'Naga Sea Witch',
@@ -55,16 +55,89 @@ const neutralHeroes = [
 const neutralHeroesEtc = ['Akama', 'Funny Bunny'];
 
 const heroes = [
-  ...humanHeroes,
+  ...humanHeroesMelee,
   ...humanHeroesEtc,
-  ...orcHeroes,
+  ...orcHeroesMelee,
   ...orcHeroesEtc,
-  ...undeadHeroes,
+  ...undeadHeroesMelee,
   ...undeadHeroesEtc,
-  ...elfHeroes,
+  ...elfHeroesMelee,
   ...elfHeroesEtc,
-  ...neutralHeroes,
+  ...neutralHeroesMelee,
   ...neutralHeroesEtc
 ];
 
-module.exports = { heroes };
+const humanUnitsMelee = [
+  'Peasant',
+  'Footman',
+  'Rifleman',
+  'Knight',
+  'Priest',
+  'Sorceress',
+  'Spell Braker',
+  'Dragonhawk Rider',
+  'Mortar Team',
+  'Gyrocopter',
+  'Gryphon Rider'
+];
+
+const orcUnitsMelee = [
+  'Peon',
+  'Grunt',
+  'Raider',
+  'Tauren',
+  'Troll Headhunter',
+  'Kodo Beast',
+  'Wyvern Rider',
+  'Troll Witch Doctor',
+  'Shaman',
+  'Spirit Walker',
+  'Batrider'
+];
+
+const undeadUnitsMelee = [
+  'Acolyte',
+  'Shade',
+  'Ghoul',
+  'Abomination',
+  'Crypt Fiend',
+  'Banshee',
+  'Necromancer'
+];
+
+const elfUnitsMelee = [
+  'Archer',
+  'Huntress',
+  'Dryad',
+  'Hippogryph Rider',
+  'Druid of the Talon',
+  'Druid of the Claw',
+  ''
+];
+
+const neutralUnitsMelee = [
+  'Bandit',
+  'Draenei',
+  'Forest Troll',
+  'Harpy',
+  'Ice Troll',
+  'Ogre',
+  'Goblin Sapper',
+  'Goblin Zeppelin',
+  'Naga Myrmidon'
+];
+
+const unitsMelee = [
+  ...humanHeroesMelee,
+  ...orcHeroesMelee,
+  ...undeadHeroesMelee,
+  ...elfHeroesMelee,
+  ...neutralHeroesMelee,
+  ...humanUnitsMelee,
+  ...orcUnitsMelee,
+  ...undeadUnitsMelee,
+  ...elfUnitsMelee,
+  ...neutralUnitsMelee
+];
+
+module.exports = { heroes, unitsMelee };
