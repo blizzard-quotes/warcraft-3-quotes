@@ -2,24 +2,25 @@
   "name": "warcraft-3-quotes",
   "version": "1.0.0",
   "description": "Warcraft 3 quotes json wrapper. Also contains scripts to extract and transform Warcraft 3 quotes.",
-  "main": "index.js",
-  "scripts": {
-    "extract": "node ./src/extract.js",
-    "transform": "node ./src/transform.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/blizzard-quotes/warcraft-3-quotes.git"
-  },
   "keywords": [
     "warcraft 3",
     "wc3",
     "quotes"
   ],
-  "author": "panebianco",
-  "license": "MIT",
+  "homepage": "https://github.com/blizzard-quotes/warcraft-3-quotes#readme",
   "bugs": {
     "url": "https://github.com/blizzard-quotes/warcraft-3-quotes/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blizzard-quotes/warcraft-3-quotes.git"
+  },
+  "license": "MIT",
+  "author": "panebianco",
+  "main": "index.js",
+  "scripts": {
+    "extract": "node ./src/extract.js",
+    "transform": "node ./src/transform.js"
   },
   "dependencies": {
     "axios": "^0.19.0",
