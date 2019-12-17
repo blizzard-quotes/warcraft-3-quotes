@@ -74,7 +74,7 @@ const humanUnitsMelee = [
   'Knight',
   'Priest',
   'Sorceress',
-  'Spell Braker',
+  'Spell Breaker',
   'Dragonhawk Rider',
   'Mortar Team',
   'Gyrocopter',

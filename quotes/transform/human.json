@@ -1049,7 +1049,7 @@
     "unit": "Spell Breaker",
     "action": "Ready",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
@@ -1058,7 +1058,7 @@
     "unit": "Spell Breaker",
     "action": "What",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
@@ -1067,7 +1067,7 @@
     "unit": "Spell Breaker",
     "action": "What",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
@@ -1076,7 +1076,7 @@
     "unit": "Spell Breaker",
     "action": "What",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
@@ -1085,7 +1085,7 @@
     "unit": "Spell Breaker",
     "action": "What",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
@@ -1094,7 +1094,7 @@
     "unit": "Spell Breaker",
     "action": "Yes",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
@@ -1103,7 +1103,7 @@
     "unit": "Spell Breaker",
     "action": "Yes",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
@@ -1112,7 +1112,7 @@
     "unit": "Spell Breaker",
     "action": "Yes",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
@@ -1121,7 +1121,7 @@
     "unit": "Spell Breaker",
     "action": "Yes",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
@@ -1130,7 +1130,7 @@
     "unit": "Spell Breaker",
     "action": "Yes",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
@@ -1139,7 +1139,7 @@
     "unit": "Spell Breaker",
     "action": "Attack",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
@@ -1148,7 +1148,7 @@
     "unit": "Spell Breaker",
     "action": "Attack",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
@@ -1157,7 +1157,7 @@
     "unit": "Spell Breaker",
     "action": "Attack",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
@@ -1166,7 +1166,7 @@
     "unit": "Spell Breaker",
     "action": "Warcry",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
@@ -1175,7 +1175,7 @@
     "unit": "Spell Breaker",
     "action": "Pissed",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
@@ -1184,7 +1184,7 @@
     "unit": "Spell Breaker",
     "action": "Pissed",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
@@ -1193,7 +1193,7 @@
     "unit": "Spell Breaker",
     "action": "Pissed",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
@@ -1202,7 +1202,7 @@
     "unit": "Spell Breaker",
     "action": "Pissed",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
@@ -1211,7 +1211,7 @@
     "unit": "Spell Breaker",
     "action": "Pissed",
     "isHero": false,
-    "isMelee": false,
+    "isMelee": true,
     "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
