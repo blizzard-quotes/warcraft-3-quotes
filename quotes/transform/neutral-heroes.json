@@ -1120,8 +1120,8 @@
     "faction": "Neutral",
     "unit": "Tinker",
     "action": "Ready",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "7c92d73a-aadc-5d2c-9ba5-750859126587"
   },
   {
@@ -1129,8 +1129,8 @@
     "faction": "Neutral",
     "unit": "Tinker",
     "action": "What",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "7c92d73a-aadc-5d2c-9ba5-750859126587"
   },
   {
@@ -1138,8 +1138,8 @@
     "faction": "Neutral",
     "unit": "Tinker",
     "action": "What",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "7c92d73a-aadc-5d2c-9ba5-750859126587"
   },
   {
@@ -1147,8 +1147,8 @@
     "faction": "Neutral",
     "unit": "Tinker",
     "action": "What",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "7c92d73a-aadc-5d2c-9ba5-750859126587"
   },
   {
@@ -1156,8 +1156,8 @@
     "faction": "Neutral",
     "unit": "Tinker",
     "action": "What",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "7c92d73a-aadc-5d2c-9ba5-750859126587"
   },
   {
@@ -1165,8 +1165,8 @@
     "faction": "Neutral",
     "unit": "Tinker",
     "action": "Yes",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "7c92d73a-aadc-5d2c-9ba5-750859126587"
   },
   {
@@ -1174,8 +1174,8 @@
     "faction": "Neutral",
     "unit": "Tinker",
     "action": "Yes",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "7c92d73a-aadc-5d2c-9ba5-750859126587"
   },
   {
@@ -1183,8 +1183,8 @@
     "faction": "Neutral",
     "unit": "Tinker",
     "action": "Yes",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "7c92d73a-aadc-5d2c-9ba5-750859126587"
   },
   {
@@ -1192,8 +1192,8 @@
     "faction": "Neutral",
     "unit": "Tinker",
     "action": "Yes",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "7c92d73a-aadc-5d2c-9ba5-750859126587"
   },
   {
@@ -1201,8 +1201,8 @@
     "faction": "Neutral",
     "unit": "Tinker",
     "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "7c92d73a-aadc-5d2c-9ba5-750859126587"
   },
   {
@@ -1210,8 +1210,8 @@
     "faction": "Neutral",
     "unit": "Tinker",
     "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "7c92d73a-aadc-5d2c-9ba5-750859126587"
   },
   {
@@ -1219,8 +1219,8 @@
     "faction": "Neutral",
     "unit": "Tinker",
     "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "7c92d73a-aadc-5d2c-9ba5-750859126587"
   },
   {
@@ -1228,8 +1228,8 @@
     "faction": "Neutral",
     "unit": "Tinker",
     "action": "Warcry",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "7c92d73a-aadc-5d2c-9ba5-750859126587"
   },
   {
@@ -1237,8 +1237,8 @@
     "faction": "Neutral",
     "unit": "Tinker",
     "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "7c92d73a-aadc-5d2c-9ba5-750859126587"
   },
   {
@@ -1246,8 +1246,8 @@
     "faction": "Neutral",
     "unit": "Tinker",
     "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "7c92d73a-aadc-5d2c-9ba5-750859126587"
   },
   {
@@ -1255,8 +1255,8 @@
     "faction": "Neutral",
     "unit": "Tinker",
     "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "7c92d73a-aadc-5d2c-9ba5-750859126587"
   },
   {
@@ -1264,8 +1264,8 @@
     "faction": "Neutral",
     "unit": "Tinker",
     "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "7c92d73a-aadc-5d2c-9ba5-750859126587"
   },
   {
@@ -1273,8 +1273,8 @@
     "faction": "Neutral",
     "unit": "Tinker",
     "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "7c92d73a-aadc-5d2c-9ba5-750859126587"
   },
   {
@@ -1282,8 +1282,8 @@
     "faction": "Neutral",
     "unit": "Tinker",
     "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "7c92d73a-aadc-5d2c-9ba5-750859126587"
   },
   {
@@ -1291,8 +1291,8 @@
     "faction": "Neutral",
     "unit": "Tinker",
     "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "7c92d73a-aadc-5d2c-9ba5-750859126587"
   },
   {
@@ -1300,8 +1300,8 @@
     "faction": "Neutral",
     "unit": "Tinker",
     "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "7c92d73a-aadc-5d2c-9ba5-750859126587"
   },
   {
@@ -1480,8 +1480,8 @@
     "faction": "Neutral",
     "unit": "Alchemist",
     "action": "Ready",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "cbb2a14c-a107-5f13-995e-4b14911a0285"
   },
   {
@@ -1489,8 +1489,8 @@
     "faction": "Neutral",
     "unit": "Alchemist",
     "action": "What",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "cbb2a14c-a107-5f13-995e-4b14911a0285"
   },
   {
@@ -1498,8 +1498,8 @@
     "faction": "Neutral",
     "unit": "Alchemist",
     "action": "What",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "cbb2a14c-a107-5f13-995e-4b14911a0285"
   },
   {
@@ -1507,8 +1507,8 @@
     "faction": "Neutral",
     "unit": "Alchemist",
     "action": "What",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "cbb2a14c-a107-5f13-995e-4b14911a0285"
   },
   {
@@ -1516,8 +1516,8 @@
     "faction": "Neutral",
     "unit": "Alchemist",
     "action": "What",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "cbb2a14c-a107-5f13-995e-4b14911a0285"
   },
   {
@@ -1525,8 +1525,8 @@
     "faction": "Neutral",
     "unit": "Alchemist",
     "action": "Yes",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "cbb2a14c-a107-5f13-995e-4b14911a0285"
   },
   {
@@ -1534,8 +1534,8 @@
     "faction": "Neutral",
     "unit": "Alchemist",
     "action": "Yes",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "cbb2a14c-a107-5f13-995e-4b14911a0285"
   },
   {
@@ -1543,8 +1543,8 @@
     "faction": "Neutral",
     "unit": "Alchemist",
     "action": "Yes",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "cbb2a14c-a107-5f13-995e-4b14911a0285"
   },
   {
@@ -1552,8 +1552,8 @@
     "faction": "Neutral",
     "unit": "Alchemist",
     "action": "Yes",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "cbb2a14c-a107-5f13-995e-4b14911a0285"
   },
   {
@@ -1561,8 +1561,8 @@
     "faction": "Neutral",
     "unit": "Alchemist",
     "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "cbb2a14c-a107-5f13-995e-4b14911a0285"
   },
   {
@@ -1570,8 +1570,8 @@
     "faction": "Neutral",
     "unit": "Alchemist",
     "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "cbb2a14c-a107-5f13-995e-4b14911a0285"
   },
   {
@@ -1579,8 +1579,8 @@
     "faction": "Neutral",
     "unit": "Alchemist",
     "action": "Attack",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "cbb2a14c-a107-5f13-995e-4b14911a0285"
   },
   {
@@ -1588,8 +1588,8 @@
     "faction": "Neutral",
     "unit": "Alchemist",
     "action": "Warcry",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "cbb2a14c-a107-5f13-995e-4b14911a0285"
   },
   {
@@ -1597,8 +1597,8 @@
     "faction": "Neutral",
     "unit": "Alchemist",
     "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "cbb2a14c-a107-5f13-995e-4b14911a0285"
   },
   {
@@ -1606,8 +1606,8 @@
     "faction": "Neutral",
     "unit": "Alchemist",
     "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "cbb2a14c-a107-5f13-995e-4b14911a0285"
   },
   {
@@ -1615,8 +1615,8 @@
     "faction": "Neutral",
     "unit": "Alchemist",
     "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "cbb2a14c-a107-5f13-995e-4b14911a0285"
   },
   {
@@ -1624,8 +1624,8 @@
     "faction": "Neutral",
     "unit": "Alchemist",
     "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "cbb2a14c-a107-5f13-995e-4b14911a0285"
   },
   {
@@ -1633,8 +1633,8 @@
     "faction": "Neutral",
     "unit": "Alchemist",
     "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "cbb2a14c-a107-5f13-995e-4b14911a0285"
   },
   {
@@ -1642,8 +1642,8 @@
     "faction": "Neutral",
     "unit": "Alchemist",
     "action": "Pissed",
-    "isHero": false,
-    "isMelee": false,
+    "isHero": true,
+    "isMelee": true,
     "id": "cbb2a14c-a107-5f13-995e-4b14911a0285"
   },
   {

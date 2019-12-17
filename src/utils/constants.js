@@ -48,9 +48,9 @@ const neutralHeroesMelee = [
   'Naga Sea Witch',
   'Pandaren Brewmaster',
   'Pit Lord',
-  'Goblin Tinker',
+  'Tinker',
   'Firelord',
-  'Goblin Alchemist'
+  'Alchemist'
 ];
 const neutralHeroesEtc = ['Akama', 'Funny Bunny'];
 

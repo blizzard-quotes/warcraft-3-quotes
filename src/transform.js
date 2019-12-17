@@ -3,12 +3,13 @@
  */
 'use strict';
 const fs = require('fs');
+const path = require('path');
 const uuidv5 = require('uuid/v5');
 const constants = require('./utils/constants');
 
-const DIRECTORY_INPUT = './quotes/extract';
-const DIRECTORY_OUTPUT = './quotes/transform';
-const PATH_QUOTES = './quotes/warcraft-3-quotes.json';
+const pathInput = path.join(__dirname, '../quotes/extract');
+const pathOutput = path.join(__dirname, '../quotes/transform');
+const pathQuotes = path.join(__dirname, '../quotes/warcraft-3-quotes.json');
 
 /**
  * Ensure strings are clean / neat for .json file
@@ -195,24 +196,21 @@ const quoteTransformer = (input, output) => {
   return cleanQuotes;
 };
 
-fs.mkdir(DIRECTORY_OUTPUT, { recursive: true }, err => {
+fs.mkdir(pathOutput, { recursive: true }, err => {
   if (err) throw err;
 });
 
-let files = fs.readdirSync(DIRECTORY_INPUT);
+let files = fs.readdirSync(pathInput);
 let quotes = [];
 
 files.forEach(function(file) {
   quotes = quotes.concat(
-    quoteTransformer(
-      `${DIRECTORY_INPUT}/${file}`,
-      `${DIRECTORY_OUTPUT}/${file}`
-    )
+    quoteTransformer(`${pathInput}/${file}`, `${pathOutput}/${file}`)
   );
 });
 
 let data = JSON.stringify(quotes, null, 2);
 
-fs.writeFileSync(`${PATH_QUOTES}`, data);
+fs.writeFileSync(`${pathQuotes}`, data);
 console.log('SUMMONING IS COMPLETE');
-console.log(`OUTPUT: ${PATH_QUOTES}`);
+console.log(`OUTPUT: ${pathQuotes}`);

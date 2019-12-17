@@ -5,9 +5,11 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
+const path = require('path');
 
-const URL = 'https://wowwiki.fandom.com/wiki/Quotes_of_Warcraft_III';
-const DIRECTORY_OUTPUT = './quotes/extract';
+const url = 'https://wowwiki.fandom.com/wiki/Quotes_of_Warcraft_III';
+
+const pathOutput = path.join(__dirname, '../quotes/extract');
 
 /**
  * Returns true or false depending on if the 'unit' should be ignored
@@ -98,18 +100,18 @@ const quoteExtractor = async (
 
   let data = JSON.stringify(quotes, null, 2);
 
-  fs.mkdir(DIRECTORY_OUTPUT, { recursive: true }, err => {
+  fs.mkdir(pathOutput, { recursive: true }, err => {
     if (err) throw err;
   });
 
-  fs.writeFileSync(`${DIRECTORY_OUTPUT}/${faction}.json`, data);
+  fs.writeFileSync(`${pathOutput}/${faction}.json`, data);
   console.log('WORK COMPLETE');
-  console.log(`OUTPUT: ${DIRECTORY_OUTPUT}/${faction}.json`);
+  console.log(`OUTPUT: ${pathOutput}/${faction}.json`);
 };
 
-quoteExtractor('human', `${URL}/Human_Alliance`);
-quoteExtractor('orc', `${URL}/Orc_Horde`);
-quoteExtractor('undead', `${URL}/Undead_Scourge`);
-quoteExtractor('elf', `${URL}/Night_Elf_Sentinels`);
-quoteExtractor('neutral', `${URL}/Neutral`);
-quoteExtractor('neutral', `${URL}/Neutral_Heroes`, 'h2', 'neutral-heroes');
+quoteExtractor('human', `${url}/Human_Alliance`);
+quoteExtractor('orc', `${url}/Orc_Horde`);
+quoteExtractor('undead', `${url}/Undead_Scourge`);
+quoteExtractor('elf', `${url}/Night_Elf_Sentinels`);
+quoteExtractor('neutral', `${url}/Neutral`);
+quoteExtractor('neutral', `${url}/Neutral_Heroes`, 'h2', 'neutral-heroes');
