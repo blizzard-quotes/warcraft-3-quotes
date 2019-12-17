@@ -1434,7 +1434,7 @@
     "action": "Pissed\n"
   },
   {
-    "value": "\"I will be twice the king my father ever was.\"\n",
+    "value": "\"I'll be twice the king my father ever was.\" (possible Lion King reference)\n",
     "faction": "Undead",
     "unit": " Arthas ",
     "action": "Pissed\n"
@@ -1488,7 +1488,7 @@
     "action": "Yes\n"
   },
   {
-    "value": "\"Die Fool.\"\n",
+    "value": "\"Die, Fool!\"\n",
     "faction": "Undead",
     "unit": " Tichondrius ",
     "action": "Attack\n"

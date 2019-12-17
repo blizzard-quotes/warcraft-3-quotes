@@ -92,7 +92,7 @@ const orcUnitsMelee = [
   'Troll Witch Doctor',
   'Shaman',
   'Spirit Walker',
-  'Batrider'
+  'Troll Batrider'
 ];
 
 const undeadUnitsMelee = [
@@ -111,8 +111,7 @@ const elfUnitsMelee = [
   'Dryad',
   'Hippogryph Rider',
   'Druid of the Talon',
-  'Druid of the Claw',
-  ''
+  'Druid of the Claw'
 ];
 
 const neutralUnitsMelee = [
@@ -124,7 +123,8 @@ const neutralUnitsMelee = [
   'Ogre',
   'Goblin Sapper',
   'Goblin Zeppelin',
-  'Naga Myrmidon'
+  'Satyr',
+  'Succubus'
 ];
 
 const unitsMelee = [

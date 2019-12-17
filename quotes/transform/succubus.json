@@ -3,108 +3,162 @@
     "value": "Get a load of these.",
     "faction": "Neutral",
     "unit": "Succubus",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
   },
   {
     "value": "How ya doin'?",
     "faction": "Neutral",
     "unit": "Succubus",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
   },
   {
     "value": "Turn me loose.",
     "faction": "Neutral",
     "unit": "Succubus",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
   },
   {
     "value": "I won't bite.",
     "faction": "Neutral",
     "unit": "Succubus",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
   },
   {
     "value": "Don't be shy.",
     "faction": "Neutral",
     "unit": "Succubus",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
   },
   {
     "value": "Oh, that's good.",
     "faction": "Neutral",
     "unit": "Succubus",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
   },
   {
     "value": "I don't usually do this.",
     "faction": "Neutral",
     "unit": "Succubus",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
   },
   {
     "value": "Anything for you.",
     "faction": "Neutral",
     "unit": "Succubus",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
   },
   {
     "value": "You're in control.",
     "faction": "Neutral",
     "unit": "Succubus",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
   },
   {
     "value": "Take your punishment.",
     "faction": "Neutral",
     "unit": "Succubus",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
   },
   {
     "value": "Die smiling.",
     "faction": "Neutral",
     "unit": "Succubus",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
   },
   {
     "value": "I'll scratch their eyes out!",
     "faction": "Neutral",
     "unit": "Succubus",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
   },
   {
     "value": "Mmmh, do you work out?",
     "faction": "Neutral",
     "unit": "Succubus",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
   },
   {
     "value": "You're so deviant.",
     "faction": "Neutral",
     "unit": "Succubus",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
   },
   {
     "value": "Wanna buy me a drink?",
     "faction": "Neutral",
     "unit": "Succubus",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
   },
   {
     "value": "Oh, that's naughty.",
     "faction": "Neutral",
     "unit": "Succubus",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
   },
   {
     "value": "We could talk more in the champagne room.",
     "faction": "Neutral",
     "unit": "Succubus",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
   },
   {
     "value": "Sorry, time's up.",
     "faction": "Neutral",
     "unit": "Succubus",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
   }
 ]

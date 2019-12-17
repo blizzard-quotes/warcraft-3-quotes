@@ -3,2880 +3,4320 @@
     "value": "Ready to work.",
     "faction": "Human",
     "unit": "Peasant",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee075861-1551-51bc-97c6-68b4fc7712f9"
   },
   {
     "value": "Yes, milord?",
     "faction": "Human",
     "unit": "Peasant",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee075861-1551-51bc-97c6-68b4fc7712f9"
   },
   {
     "value": "What is it?",
     "faction": "Human",
     "unit": "Peasant",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee075861-1551-51bc-97c6-68b4fc7712f9"
   },
   {
     "value": "More work?",
     "faction": "Human",
     "unit": "Peasant",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee075861-1551-51bc-97c6-68b4fc7712f9"
   },
   {
     "value": "What?",
     "faction": "Human",
     "unit": "Peasant",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee075861-1551-51bc-97c6-68b4fc7712f9"
   },
   {
     "value": "Right-o.",
     "faction": "Human",
     "unit": "Peasant",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee075861-1551-51bc-97c6-68b4fc7712f9"
   },
   {
     "value": "Yes, milord.",
     "faction": "Human",
     "unit": "Peasant",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee075861-1551-51bc-97c6-68b4fc7712f9"
   },
   {
     "value": "All right.",
     "faction": "Human",
     "unit": "Peasant",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee075861-1551-51bc-97c6-68b4fc7712f9"
   },
   {
     "value": "Off I go, then!",
     "faction": "Human",
     "unit": "Peasant",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee075861-1551-51bc-97c6-68b4fc7712f9"
   },
   {
     "value": "I guess I can...",
     "faction": "Human",
     "unit": "Peasant",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee075861-1551-51bc-97c6-68b4fc7712f9"
   },
   {
     "value": "If you want...",
     "faction": "Human",
     "unit": "Peasant",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee075861-1551-51bc-97c6-68b4fc7712f9"
   },
   {
     "value": "No one else available...",
     "faction": "Human",
     "unit": "Peasant",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee075861-1551-51bc-97c6-68b4fc7712f9"
   },
   {
     "value": "That's it. I'm dead.",
     "faction": "Human",
     "unit": "Peasant",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee075861-1551-51bc-97c6-68b4fc7712f9"
   },
   {
     "value": "Yaaah!",
     "faction": "Human",
     "unit": "Peasant",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee075861-1551-51bc-97c6-68b4fc7712f9"
   },
   {
     "value": "You're the king? Well, I didn't vote for you.",
     "faction": "Human",
     "unit": "Peasant",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee075861-1551-51bc-97c6-68b4fc7712f9"
   },
   {
     "value": "We found a witch! May we burn her?",
     "faction": "Human",
     "unit": "Peasant",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee075861-1551-51bc-97c6-68b4fc7712f9"
   },
   {
     "value": "Help! Help! I'm being repressed!",
     "faction": "Human",
     "unit": "Peasant",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee075861-1551-51bc-97c6-68b4fc7712f9"
   },
   {
     "value": "A horse kicked me once. It hurt.",
     "faction": "Human",
     "unit": "Peasant",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee075861-1551-51bc-97c6-68b4fc7712f9"
   },
   {
     "value": "D'oh!",
     "faction": "Human",
     "unit": "Peasant",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee075861-1551-51bc-97c6-68b4fc7712f9"
   },
   {
     "value": "Ready for action.",
     "faction": "Human",
     "unit": "Footman",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "57bceb1b-bc66-567d-9de9-1ee377fee410"
   },
   {
     "value": "Orders?",
     "faction": "Human",
     "unit": "Footman",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "57bceb1b-bc66-567d-9de9-1ee377fee410"
   },
   {
     "value": "What do you need?",
     "faction": "Human",
     "unit": "Footman",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "57bceb1b-bc66-567d-9de9-1ee377fee410"
   },
   {
     "value": "Yes, my liege?",
     "faction": "Human",
     "unit": "Footman",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "57bceb1b-bc66-567d-9de9-1ee377fee410"
   },
   {
     "value": "Say the word.",
     "faction": "Human",
     "unit": "Footman",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "57bceb1b-bc66-567d-9de9-1ee377fee410"
   },
   {
     "value": "Aye, my lord.",
     "faction": "Human",
     "unit": "Footman",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "57bceb1b-bc66-567d-9de9-1ee377fee410"
   },
   {
     "value": "On my way!",
     "faction": "Human",
     "unit": "Footman",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "57bceb1b-bc66-567d-9de9-1ee377fee410"
   },
   {
     "value": "Right.",
     "faction": "Human",
     "unit": "Footman",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "57bceb1b-bc66-567d-9de9-1ee377fee410"
   },
   {
     "value": "Of course.",
     "faction": "Human",
     "unit": "Footman",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "57bceb1b-bc66-567d-9de9-1ee377fee410"
   },
   {
     "value": "Let me at 'em!",
     "faction": "Human",
     "unit": "Footman",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "57bceb1b-bc66-567d-9de9-1ee377fee410"
   },
   {
     "value": "Attack!",
     "faction": "Human",
     "unit": "Footman",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "57bceb1b-bc66-567d-9de9-1ee377fee410"
   },
   {
     "value": "To arms!",
     "faction": "Human",
     "unit": "Footman",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "57bceb1b-bc66-567d-9de9-1ee377fee410"
   },
   {
     "value": "For Lordaeron!",
     "faction": "Human",
     "unit": "Footman",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "57bceb1b-bc66-567d-9de9-1ee377fee410"
   },
   {
     "value": "Don't ask, don't tell.",
     "faction": "Human",
     "unit": "Footman",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "57bceb1b-bc66-567d-9de9-1ee377fee410"
   },
   {
     "value": "Grab your sword and fight the Horde.",
     "faction": "Human",
     "unit": "Footman",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "57bceb1b-bc66-567d-9de9-1ee377fee410"
   },
   {
     "value": "Uncle Lothar wants YOU.",
     "faction": "Human",
     "unit": "Footman",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "57bceb1b-bc66-567d-9de9-1ee377fee410"
   },
   {
     "value": "'Tis only a flesh wound!",
     "faction": "Human",
     "unit": "Footman",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "57bceb1b-bc66-567d-9de9-1ee377fee410"
   },
   {
     "value": "Locked and loaded!",
     "faction": "Human",
     "unit": "Rifleman",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "346df69e-5b4a-5b9b-a9b1-985eb01e4322"
   },
   {
     "value": "Aye, sir?",
     "faction": "Human",
     "unit": "Rifleman",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "346df69e-5b4a-5b9b-a9b1-985eb01e4322"
   },
   {
     "value": "Ya have a target?",
     "faction": "Human",
     "unit": "Rifleman",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "346df69e-5b4a-5b9b-a9b1-985eb01e4322"
   },
   {
     "value": "I'm your shooter.",
     "faction": "Human",
     "unit": "Rifleman",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "346df69e-5b4a-5b9b-a9b1-985eb01e4322"
   },
   {
     "value": "What do you need?",
     "faction": "Human",
     "unit": "Rifleman",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "346df69e-5b4a-5b9b-a9b1-985eb01e4322"
   },
   {
     "value": "Okay.",
     "faction": "Human",
     "unit": "Rifleman",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "346df69e-5b4a-5b9b-a9b1-985eb01e4322"
   },
   {
     "value": "I'll take care of it.",
     "faction": "Human",
     "unit": "Rifleman",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "346df69e-5b4a-5b9b-a9b1-985eb01e4322"
   },
   {
     "value": "Time to go.",
     "faction": "Human",
     "unit": "Rifleman",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "346df69e-5b4a-5b9b-a9b1-985eb01e4322"
   },
   {
     "value": "Aye.",
     "faction": "Human",
     "unit": "Rifleman",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "346df69e-5b4a-5b9b-a9b1-985eb01e4322"
   },
   {
     "value": "Fire!",
     "faction": "Human",
     "unit": "Rifleman",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "346df69e-5b4a-5b9b-a9b1-985eb01e4322"
   },
   {
     "value": "I've got the beast in my sights.",
     "faction": "Human",
     "unit": "Rifleman",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "346df69e-5b4a-5b9b-a9b1-985eb01e4322"
   },
   {
     "value": "Take that you sod!",
     "faction": "Human",
     "unit": "Rifleman",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "346df69e-5b4a-5b9b-a9b1-985eb01e4322"
   },
   {
     "value": "Shoot to kill!",
     "faction": "Human",
     "unit": "Rifleman",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "346df69e-5b4a-5b9b-a9b1-985eb01e4322"
   },
   {
     "value": "For Ironforge!",
     "faction": "Human",
     "unit": "Rifleman",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "346df69e-5b4a-5b9b-a9b1-985eb01e4322"
   },
   {
     "value": "This… is… my boomstick!",
     "faction": "Human",
     "unit": "Rifleman",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "346df69e-5b4a-5b9b-a9b1-985eb01e4322"
   },
   {
     "value": "Where's me drink?",
     "faction": "Human",
     "unit": "Rifleman",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "346df69e-5b4a-5b9b-a9b1-985eb01e4322"
   },
   {
     "value": "I can't shoot straight unless I've had a pint!",
     "faction": "Human",
     "unit": "Rifleman",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "346df69e-5b4a-5b9b-a9b1-985eb01e4322"
   },
   {
     "value": "Ah, there's me drink. Get in mah belly!",
     "faction": "Human",
     "unit": "Rifleman",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "346df69e-5b4a-5b9b-a9b1-985eb01e4322"
   },
   {
     "value": "Guns don't kill people, I do! Haha!",
     "faction": "Human",
     "unit": "Rifleman",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "346df69e-5b4a-5b9b-a9b1-985eb01e4322"
   },
   {
     "value": "Don't shoot shoot shoot that thing at me.",
     "faction": "Human",
     "unit": "Rifleman",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "346df69e-5b4a-5b9b-a9b1-985eb01e4322"
   },
   {
     "value": "I shot the sheriff, and the deputy, and your wee doggie, too!",
     "faction": "Human",
     "unit": "Rifleman",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "346df69e-5b4a-5b9b-a9b1-985eb01e4322"
   },
   {
     "value": "You'll take me blunderbuss when you pry it from my cold, dead hands!",
     "faction": "Human",
     "unit": "Rifleman",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "346df69e-5b4a-5b9b-a9b1-985eb01e4322"
   },
   {
     "value": "I await your command.",
     "faction": "Human",
     "unit": "Knight",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c71f9785-811d-5b5b-8813-63a0521c97f2"
   },
   {
     "value": "Sire?",
     "faction": "Human",
     "unit": "Knight",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c71f9785-811d-5b5b-8813-63a0521c97f2"
   },
   {
     "value": "Your honor?",
     "faction": "Human",
     "unit": "Knight",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c71f9785-811d-5b5b-8813-63a0521c97f2"
   },
   {
     "value": "Command me!",
     "faction": "Human",
     "unit": "Knight",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c71f9785-811d-5b5b-8813-63a0521c97f2"
   },
   {
     "value": "Yes, my lord?",
     "faction": "Human",
     "unit": "Knight",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c71f9785-811d-5b5b-8813-63a0521c97f2"
   },
   {
     "value": "At once.",
     "faction": "Human",
     "unit": "Knight",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c71f9785-811d-5b5b-8813-63a0521c97f2"
   },
   {
     "value": "For the king.",
     "faction": "Human",
     "unit": "Knight",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c71f9785-811d-5b5b-8813-63a0521c97f2"
   },
   {
     "value": "Absolutely!",
     "faction": "Human",
     "unit": "Knight",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c71f9785-811d-5b5b-8813-63a0521c97f2"
   },
   {
     "value": "I swear it.",
     "faction": "Human",
     "unit": "Knight",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c71f9785-811d-5b5b-8813-63a0521c97f2"
   },
   {
     "value": "For the king!",
     "faction": "Human",
     "unit": "Knight",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c71f9785-811d-5b5b-8813-63a0521c97f2"
   },
   {
     "value": "Have at thee!",
     "faction": "Human",
     "unit": "Knight",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c71f9785-811d-5b5b-8813-63a0521c97f2"
   },
   {
     "value": "To the death!",
     "faction": "Human",
     "unit": "Knight",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c71f9785-811d-5b5b-8813-63a0521c97f2"
   },
   {
     "value": "For honor, for freedom!",
     "faction": "Human",
     "unit": "Knight",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c71f9785-811d-5b5b-8813-63a0521c97f2"
   },
   {
     "value": "My favorite color is blue! No, yellow… !",
     "faction": "Human",
     "unit": "Knight",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c71f9785-811d-5b5b-8813-63a0521c97f2"
   },
   {
     "value": "Victory for Lordaeron!",
     "faction": "Human",
     "unit": "Knight",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c71f9785-811d-5b5b-8813-63a0521c97f2"
   },
   {
     "value": "Dost thou speak unto me?",
     "faction": "Human",
     "unit": "Knight",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c71f9785-811d-5b5b-8813-63a0521c97f2"
   },
   {
     "value": "By the gods, you're annoying!",
     "faction": "Human",
     "unit": "Knight",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c71f9785-811d-5b5b-8813-63a0521c97f2"
   },
   {
     "value": "I never say 'Ni'!",
     "faction": "Human",
     "unit": "Knight",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c71f9785-811d-5b5b-8813-63a0521c97f2"
   },
   {
     "value": "Damn helmet, can't seem to get this thing…",
     "faction": "Human",
     "unit": "Knight",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c71f9785-811d-5b5b-8813-63a0521c97f2"
   },
   {
     "value": "I come to cleanse this land.",
     "faction": "Human",
     "unit": "Priest",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f64af968-e281-5cc6-af38-9ac848480d08"
   },
   {
     "value": "What ails you?",
     "faction": "Human",
     "unit": "Priest",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f64af968-e281-5cc6-af38-9ac848480d08"
   },
   {
     "value": "Yes, my friend?",
     "faction": "Human",
     "unit": "Priest",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f64af968-e281-5cc6-af38-9ac848480d08"
   },
   {
     "value": "Is my aid required?",
     "faction": "Human",
     "unit": "Priest",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f64af968-e281-5cc6-af38-9ac848480d08"
   },
   {
     "value": "Is someone injured?",
     "faction": "Human",
     "unit": "Priest",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f64af968-e281-5cc6-af38-9ac848480d08"
   },
   {
     "value": "Of course.",
     "faction": "Human",
     "unit": "Priest",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f64af968-e281-5cc6-af38-9ac848480d08"
   },
   {
     "value": "I am your servant.",
     "faction": "Human",
     "unit": "Priest",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f64af968-e281-5cc6-af38-9ac848480d08"
   },
   {
     "value": "As you wish.",
     "faction": "Human",
     "unit": "Priest",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f64af968-e281-5cc6-af38-9ac848480d08"
   },
   {
     "value": "Right away.",
     "faction": "Human",
     "unit": "Priest",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f64af968-e281-5cc6-af38-9ac848480d08"
   },
   {
     "value": "Now feel my wrath!",
     "faction": "Human",
     "unit": "Priest",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f64af968-e281-5cc6-af38-9ac848480d08"
   },
   {
     "value": "By the power of the Light, burn!",
     "faction": "Human",
     "unit": "Priest",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f64af968-e281-5cc6-af38-9ac848480d08"
   },
   {
     "value": "Begone, spawn of darkness!",
     "faction": "Human",
     "unit": "Priest",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f64af968-e281-5cc6-af38-9ac848480d08"
   },
   {
     "value": "For the memory of Quel'thalas!",
     "faction": "Human",
     "unit": "Priest",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f64af968-e281-5cc6-af38-9ac848480d08"
   },
   {
     "value": "Scalpel, sponge, magic wand!",
     "faction": "Human",
     "unit": "Priest",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f64af968-e281-5cc6-af38-9ac848480d08"
   },
   {
     "value": "There is peace and serenity within the Light.",
     "faction": "Human",
     "unit": "Priest",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f64af968-e281-5cc6-af38-9ac848480d08"
   },
   {
     "value": "Clear!",
     "faction": "Human",
     "unit": "Priest",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f64af968-e281-5cc6-af38-9ac848480d08"
   },
   {
     "value": "Cross over, children! Cross over into the Light!",
     "faction": "Human",
     "unit": "Priest",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f64af968-e281-5cc6-af38-9ac848480d08"
   },
   {
     "value": "I have been chosen by the big metal hand in the sky!",
     "faction": "Human",
     "unit": "Priest",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f64af968-e281-5cc6-af38-9ac848480d08"
   },
   {
     "value": "Side effects may include: dry mouth, nausea, vomiting, water retention, painful rectal itch, hallucination, dementia, psychosis, coma, death, and halitosis. Magic is not for everyone. Consult your doctor before use.",
     "faction": "Human",
     "unit": "Priest",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f64af968-e281-5cc6-af38-9ac848480d08"
   },
   {
     "value": "The flows of magic are whimsical today.",
     "faction": "Human",
     "unit": "Sorceress",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3e2e3f49-8e27-5462-80f3-a57c50f82ec3"
   },
   {
     "value": "Do you require aid, human?",
     "faction": "Human",
     "unit": "Sorceress",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3e2e3f49-8e27-5462-80f3-a57c50f82ec3"
   },
   {
     "value": "This better be good.",
     "faction": "Human",
     "unit": "Sorceress",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3e2e3f49-8e27-5462-80f3-a57c50f82ec3"
   },
   {
     "value": "Help me help you.",
     "faction": "Human",
     "unit": "Sorceress",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3e2e3f49-8e27-5462-80f3-a57c50f82ec3"
   },
   {
     "value": "What'll it be, hotshot?",
     "faction": "Human",
     "unit": "Sorceress",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3e2e3f49-8e27-5462-80f3-a57c50f82ec3"
   },
   {
     "value": "Get down, sparky.",
     "faction": "Human",
     "unit": "Sorceress",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3e2e3f49-8e27-5462-80f3-a57c50f82ec3"
   },
   {
     "value": "If you insist.",
     "faction": "Human",
     "unit": "Sorceress",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3e2e3f49-8e27-5462-80f3-a57c50f82ec3"
   },
   {
     "value": "What a good idea.",
     "faction": "Human",
     "unit": "Sorceress",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3e2e3f49-8e27-5462-80f3-a57c50f82ec3"
   },
   {
     "value": "It's about time.",
     "faction": "Human",
     "unit": "Sorceress",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3e2e3f49-8e27-5462-80f3-a57c50f82ec3"
   },
   {
     "value": "Once again, it's up to the elves.",
     "faction": "Human",
     "unit": "Sorceress",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3e2e3f49-8e27-5462-80f3-a57c50f82ec3"
   },
   {
     "value": "Your wish is my command.",
     "faction": "Human",
     "unit": "Sorceress",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3e2e3f49-8e27-5462-80f3-a57c50f82ec3"
   },
   {
     "value": "Now, victory shall be ours.",
     "faction": "Human",
     "unit": "Sorceress",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3e2e3f49-8e27-5462-80f3-a57c50f82ec3"
   },
   {
     "value": "Without delay!",
     "faction": "Human",
     "unit": "Sorceress",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3e2e3f49-8e27-5462-80f3-a57c50f82ec3"
   },
   {
     "value": "For the Alliance!",
     "faction": "Human",
     "unit": "Sorceress",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3e2e3f49-8e27-5462-80f3-a57c50f82ec3"
   },
   {
     "value": "Click me baby, one more time.",
     "faction": "Human",
     "unit": "Sorceress",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3e2e3f49-8e27-5462-80f3-a57c50f82ec3"
   },
   {
     "value": "Maybe you should get a strategy guide.",
     "faction": "Human",
     "unit": "Sorceress",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3e2e3f49-8e27-5462-80f3-a57c50f82ec3"
   },
   {
     "value": "I don't remember casting Slow on you.",
     "faction": "Human",
     "unit": "Sorceress",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3e2e3f49-8e27-5462-80f3-a57c50f82ec3"
   },
   {
     "value": "You don't get out much, do you?",
     "faction": "Human",
     "unit": "Sorceress",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3e2e3f49-8e27-5462-80f3-a57c50f82ec3"
   },
   {
     "value": "Let's chat on Battle.net sometime.",
     "faction": "Human",
     "unit": "Sorceress",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3e2e3f49-8e27-5462-80f3-a57c50f82ec3"
   },
   {
     "value": "For the End of the World spell, press Control-Alt-Delete.",
     "faction": "Human",
     "unit": "Sorceress",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3e2e3f49-8e27-5462-80f3-a57c50f82ec3"
   },
   {
     "value": "I smell magic in the air.",
     "faction": "Human",
     "unit": "Spell Breaker",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": false,
+    "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
     "value": "I thirst for magic.",
     "faction": "Human",
     "unit": "Spell Breaker",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
     "value": "Be quick, time is Mana.",
     "faction": "Human",
     "unit": "Spell Breaker",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
     "value": "The blood elves await.",
     "faction": "Human",
     "unit": "Spell Breaker",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
     "value": "Get on with it.",
     "faction": "Human",
     "unit": "Spell Breaker",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
     "value": "I'll handle it.",
     "faction": "Human",
     "unit": "Spell Breaker",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
     "value": "Easily done.",
     "faction": "Human",
     "unit": "Spell Breaker",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
     "value": "Watch and learn.",
     "faction": "Human",
     "unit": "Spell Breaker",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
     "value": "Leave it to me.",
     "faction": "Human",
     "unit": "Spell Breaker",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
     "value": "Very clever.",
     "faction": "Human",
     "unit": "Spell Breaker",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
     "value": "For Quel'thalas!",
     "faction": "Human",
     "unit": "Spell Breaker",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
     "value": "It's come to this!",
     "faction": "Human",
     "unit": "Spell Breaker",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
     "value": "Your magic is mine!",
     "faction": "Human",
     "unit": "Spell Breaker",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
     "value": "Inde'rinah-dor Highborne!",
     "faction": "Human",
     "unit": "Spell Breaker",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": false,
+    "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
     "value": "I'm a magic man. I got magic hands.",
     "faction": "Human",
     "unit": "Spell Breaker",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
     "value": "I never stole any buffs, I got receipts for everything!",
     "faction": "Human",
     "unit": "Spell Breaker",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
     "value": "I smell magic in the air. Or maybe barbecue.",
     "faction": "Human",
     "unit": "Spell Breaker",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
     "value": "I stole your precious.",
     "faction": "Human",
     "unit": "Spell Breaker",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
     "value": "Yeah, you can get a nickel for boosting Starfall, but jacking Heal's a ten-day stint in county. Now lifting Faerie Fire, they just let you go for that — it's not even worth the paperwork. But Reincarnation, man! That'll get you life!",
     "faction": "Human",
     "unit": "Spell Breaker",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "df4d1e88-8188-59d0-8212-f3dd043204b4"
   },
   {
     "value": "Glory, to the blood elves.",
     "faction": "Human",
     "unit": "Dragonhawk Rider",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b747cc87-13ab-5a1e-a8f1-5ed768f4ab25"
   },
   {
     "value": "Prepare to fly.",
     "faction": "Human",
     "unit": "Dragonhawk Rider",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b747cc87-13ab-5a1e-a8f1-5ed768f4ab25"
   },
   {
     "value": "What is it?",
     "faction": "Human",
     "unit": "Dragonhawk Rider",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b747cc87-13ab-5a1e-a8f1-5ed768f4ab25"
   },
   {
     "value": "Be quick, human.",
     "faction": "Human",
     "unit": "Dragonhawk Rider",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b747cc87-13ab-5a1e-a8f1-5ed768f4ab25"
   },
   {
     "value": "My powers are ready.",
     "faction": "Human",
     "unit": "Dragonhawk Rider",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b747cc87-13ab-5a1e-a8f1-5ed768f4ab25"
   },
   {
     "value": "Where must we fly?",
     "faction": "Human",
     "unit": "Dragonhawk Rider",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b747cc87-13ab-5a1e-a8f1-5ed768f4ab25"
   },
   {
     "value": "I fly.",
     "faction": "Human",
     "unit": "Dragonhawk Rider",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b747cc87-13ab-5a1e-a8f1-5ed768f4ab25"
   },
   {
     "value": "The sky is mine.",
     "faction": "Human",
     "unit": "Dragonhawk Rider",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b747cc87-13ab-5a1e-a8f1-5ed768f4ab25"
   },
   {
     "value": "Winds guide me.",
     "faction": "Human",
     "unit": "Dragonhawk Rider",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b747cc87-13ab-5a1e-a8f1-5ed768f4ab25"
   },
   {
     "value": "Clear the skies.",
     "faction": "Human",
     "unit": "Dragonhawk Rider",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b747cc87-13ab-5a1e-a8f1-5ed768f4ab25"
   },
   {
     "value": "Strike!",
     "faction": "Human",
     "unit": "Dragonhawk Rider",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b747cc87-13ab-5a1e-a8f1-5ed768f4ab25"
   },
   {
     "value": "Choke on this!",
     "faction": "Human",
     "unit": "Dragonhawk Rider",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b747cc87-13ab-5a1e-a8f1-5ed768f4ab25"
   },
   {
     "value": "Accept the pain!",
     "faction": "Human",
     "unit": "Dragonhawk Rider",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b747cc87-13ab-5a1e-a8f1-5ed768f4ab25"
   },
   {
     "value": "They shall all burn!",
     "faction": "Human",
     "unit": "Dragonhawk Rider",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b747cc87-13ab-5a1e-a8f1-5ed768f4ab25"
   },
   {
     "value": "No retreat!",
     "faction": "Human",
     "unit": "Dragonhawk Rider",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b747cc87-13ab-5a1e-a8f1-5ed768f4ab25"
   },
   {
     "value": "My fury is unleashed!",
     "faction": "Human",
     "unit": "Dragonhawk Rider",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b747cc87-13ab-5a1e-a8f1-5ed768f4ab25"
   },
   {
     "value": "Permission to buzz the tower.",
     "faction": "Human",
     "unit": "Dragonhawk Rider",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b747cc87-13ab-5a1e-a8f1-5ed768f4ab25"
   },
   {
     "value": "I'll hit the brakes, he'll fly right by.",
     "faction": "Human",
     "unit": "Dragonhawk Rider",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b747cc87-13ab-5a1e-a8f1-5ed768f4ab25"
   },
   {
     "value": "Tell Blizzard I'd make a great action figure.",
     "faction": "Human",
     "unit": "Dragonhawk Rider",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b747cc87-13ab-5a1e-a8f1-5ed768f4ab25"
   },
   {
     "value": "That's right, pal…adin, I am dangerous.",
     "faction": "Human",
     "unit": "Dragonhawk Rider",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b747cc87-13ab-5a1e-a8f1-5ed768f4ab25"
   },
   {
     "value": "Get that filthy cursor away from me.",
     "faction": "Human",
     "unit": "Dragonhawk Rider",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b747cc87-13ab-5a1e-a8f1-5ed768f4ab25"
   },
   {
     "value": "We're currently hovering at a comfortable altitude of 15 feet.",
     "faction": "Human",
     "unit": "Dragonhawk Rider",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b747cc87-13ab-5a1e-a8f1-5ed768f4ab25"
   },
   {
     "value": "What's a mountain goat doing up here?",
     "faction": "Human",
     "unit": "Dragonhawk Rider",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b747cc87-13ab-5a1e-a8f1-5ed768f4ab25"
   },
   {
     "value": "Drop the villager, drop it, drop it.",
     "faction": "Human",
     "unit": "Dragonhawk Rider",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b747cc87-13ab-5a1e-a8f1-5ed768f4ab25"
   },
   {
     "value": "MORTAR COMBAT!",
     "faction": "Human",
     "unit": "Mortar Team",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3687576e-2c49-58e6-889b-d7d4c71fb479"
   },
   {
     "value": "Let's get to fightin'!",
     "faction": "Human",
     "unit": "Mortar Team",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3687576e-2c49-58e6-889b-d7d4c71fb479"
   },
   {
     "value": "Where do you want us?",
     "faction": "Human",
     "unit": "Mortar Team",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3687576e-2c49-58e6-889b-d7d4c71fb479"
   },
   {
     "value": "Show us a target.",
     "faction": "Human",
     "unit": "Mortar Team",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3687576e-2c49-58e6-889b-d7d4c71fb479"
   },
   {
     "value": "Hello!",
     "faction": "Human",
     "unit": "Mortar Team",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3687576e-2c49-58e6-889b-d7d4c71fb479"
   },
   {
     "value": "Gotta go.Me too.",
     "faction": "Human",
     "unit": "Mortar Team",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3687576e-2c49-58e6-889b-d7d4c71fb479"
   },
   {
     "value": "Move your arse.",
     "faction": "Human",
     "unit": "Mortar Team",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3687576e-2c49-58e6-889b-d7d4c71fb479"
   },
   {
     "value": "You made the right choice.It's on.",
     "faction": "Human",
     "unit": "Mortar Team",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3687576e-2c49-58e6-889b-d7d4c71fb479"
   },
   {
     "value": "Come on, shorty.On our way.",
     "faction": "Human",
     "unit": "Mortar Team",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3687576e-2c49-58e6-889b-d7d4c71fb479"
   },
   {
     "value": "We'll do it in a jiffy.",
     "faction": "Human",
     "unit": "Mortar Team",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3687576e-2c49-58e6-889b-d7d4c71fb479"
   },
   {
     "value": "Mobile.",
     "faction": "Human",
     "unit": "Mortar Team",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3687576e-2c49-58e6-889b-d7d4c71fb479"
   },
   {
     "value": "This battle is over!",
     "faction": "Human",
     "unit": "Mortar Team",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3687576e-2c49-58e6-889b-d7d4c71fb479"
   },
   {
     "value": "Eat mortar! Eat lead!",
     "faction": "Human",
     "unit": "Mortar Team",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3687576e-2c49-58e6-889b-d7d4c71fb479"
   },
   {
     "value": "They're dead!",
     "faction": "Human",
     "unit": "Mortar Team",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3687576e-2c49-58e6-889b-d7d4c71fb479"
   },
   {
     "value": "Hey, you! Catch!",
     "faction": "Human",
     "unit": "Mortar Team",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3687576e-2c49-58e6-889b-d7d4c71fb479"
   },
   {
     "value": "Eat hot death!",
     "faction": "Human",
     "unit": "Mortar Team",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3687576e-2c49-58e6-889b-d7d4c71fb479"
   },
   {
     "value": "For Khaz Modan!",
     "faction": "Human",
     "unit": "Mortar Team",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3687576e-2c49-58e6-889b-d7d4c71fb479"
   },
   {
     "value": "It's you and me, pal.We've got the synergy.",
     "faction": "Human",
     "unit": "Mortar Team",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3687576e-2c49-58e6-889b-d7d4c71fb479"
   },
   {
     "value": "I'm TNT!I'm dynamite!",
     "faction": "Human",
     "unit": "Mortar Team",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3687576e-2c49-58e6-889b-d7d4c71fb479"
   },
   {
     "value": "We must defeat the dwarves!Ugh… we are the dwarves!Oh...",
     "faction": "Human",
     "unit": "Mortar Team",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3687576e-2c49-58e6-889b-d7d4c71fb479"
   },
   {
     "value": "You've got a chip on your shoulder.Hmm, yes, and a bit of fish, too.",
     "faction": "Human",
     "unit": "Mortar Team",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3687576e-2c49-58e6-889b-d7d4c71fb479"
   },
   {
     "value": "And that's how baby dwarves are made!",
     "faction": "Human",
     "unit": "Mortar Team",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3687576e-2c49-58e6-889b-d7d4c71fb479"
   },
   {
     "value": "Clearly, Tassadar has failed us! You must not!",
     "faction": "Human",
     "unit": "Mortar Team",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3687576e-2c49-58e6-889b-d7d4c71fb479"
   },
   {
     "value": "What's that? Get yer finger outta that bunghole!",
     "faction": "Human",
     "unit": "Mortar Team",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3687576e-2c49-58e6-889b-d7d4c71fb479"
   },
   {
     "value": "Burnin' lootin', bombin' shootin'!",
     "faction": "Human",
     "unit": "Mortar Team",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3687576e-2c49-58e6-889b-d7d4c71fb479"
   },
   {
     "value": "Take this, you bastard!",
     "faction": "Human",
     "unit": "Mortar Team",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3687576e-2c49-58e6-889b-d7d4c71fb479"
   },
   {
     "value": "We have lift off.",
     "faction": "Human",
     "unit": "Gyrocopter",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f492c441-dcd3-5892-a3ac-982483b31bc1"
   },
   {
     "value": "How you doing?",
     "faction": "Human",
     "unit": "Gyrocopter",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f492c441-dcd3-5892-a3ac-982483b31bc1"
   },
   {
     "value": "What's the flight plan?",
     "faction": "Human",
     "unit": "Gyrocopter",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f492c441-dcd3-5892-a3ac-982483b31bc1"
   },
   {
     "value": "Where to?",
     "faction": "Human",
     "unit": "Gyrocopter",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f492c441-dcd3-5892-a3ac-982483b31bc1"
   },
   {
     "value": "OK to go.",
     "faction": "Human",
     "unit": "Gyrocopter",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f492c441-dcd3-5892-a3ac-982483b31bc1"
   },
   {
     "value": "Oh, it's you.",
     "faction": "Human",
     "unit": "Gyrocopter",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f492c441-dcd3-5892-a3ac-982483b31bc1"
   },
   {
     "value": "Roger Wilco.",
     "faction": "Human",
     "unit": "Gyrocopter",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f492c441-dcd3-5892-a3ac-982483b31bc1"
   },
   {
     "value": "Will do, command'.",
     "faction": "Human",
     "unit": "Gyrocopter",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f492c441-dcd3-5892-a3ac-982483b31bc1"
   },
   {
     "value": "Approaching the sound barrier.",
     "faction": "Human",
     "unit": "Gyrocopter",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f492c441-dcd3-5892-a3ac-982483b31bc1"
   },
   {
     "value": "What? Over there?",
     "faction": "Human",
     "unit": "Gyrocopter",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f492c441-dcd3-5892-a3ac-982483b31bc1"
   },
   {
     "value": "They'll never hear me coming!",
     "faction": "Human",
     "unit": "Gyrocopter",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f492c441-dcd3-5892-a3ac-982483b31bc1"
   },
   {
     "value": "This bomb's for you!",
     "faction": "Human",
     "unit": "Gyrocopter",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f492c441-dcd3-5892-a3ac-982483b31bc1"
   },
   {
     "value": "I've got tone!",
     "faction": "Human",
     "unit": "Gyrocopter",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f492c441-dcd3-5892-a3ac-982483b31bc1"
   },
   {
     "value": "Death!",
     "faction": "Human",
     "unit": "Gyrocopter",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f492c441-dcd3-5892-a3ac-982483b31bc1"
   },
   {
     "value": "Take it!",
     "faction": "Human",
     "unit": "Gyrocopter",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f492c441-dcd3-5892-a3ac-982483b31bc1"
   },
   {
     "value": "Off to the wild blue yonder! Wheeee!",
     "faction": "Human",
     "unit": "Gyrocopter",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f492c441-dcd3-5892-a3ac-982483b31bc1"
   },
   {
     "value": "Whoops, I dropped something.",
     "faction": "Human",
     "unit": "Gyrocopter",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f492c441-dcd3-5892-a3ac-982483b31bc1"
   },
   {
     "value": "Stay on target.",
     "faction": "Human",
     "unit": "Gyrocopter",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f492c441-dcd3-5892-a3ac-982483b31bc1"
   },
   {
     "value": "I'd rather be flying! Uh… oh.",
     "faction": "Human",
     "unit": "Gyrocopter",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f492c441-dcd3-5892-a3ac-982483b31bc1"
   },
   {
     "value": "You can be my wingman anytime.",
     "faction": "Human",
     "unit": "Gyrocopter",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f492c441-dcd3-5892-a3ac-982483b31bc1"
   },
   {
     "value": "Pilot to bombardier. Bombardier here, go ahead, pilot.",
     "faction": "Human",
     "unit": "Gyrocopter",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f492c441-dcd3-5892-a3ac-982483b31bc1"
   },
   {
     "value": "I will now demonstrate the Doppler Effect. Dopplerrrrrr!.",
     "faction": "Human",
     "unit": "Gyrocopter",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f492c441-dcd3-5892-a3ac-982483b31bc1"
   },
   {
     "value": "There's… something… on… the wing!",
     "faction": "Human",
     "unit": "Gyrocopter",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f492c441-dcd3-5892-a3ac-982483b31bc1"
   },
   {
     "value": "I'm on a different 'plane' of existence. Get it? 'Plane'?",
     "faction": "Human",
     "unit": "Gyrocopter",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f492c441-dcd3-5892-a3ac-982483b31bc1"
   },
   {
     "value": "They came from behind!",
     "faction": "Human",
     "unit": "Gyrocopter",
-    "action": "Dying"
+    "action": "Dying",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f492c441-dcd3-5892-a3ac-982483b31bc1"
   },
   {
     "value": "It's hammer time!",
     "faction": "Human",
     "unit": "Gryphon Rider",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "5d3c7e81-837a-577a-a63d-0c574377a2ea"
   },
   {
     "value": "You can count on me.",
     "faction": "Human",
     "unit": "Gryphon Rider",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "5d3c7e81-837a-577a-a63d-0c574377a2ea"
   },
   {
     "value": "Aye, sir?",
     "faction": "Human",
     "unit": "Gryphon Rider",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "5d3c7e81-837a-577a-a63d-0c574377a2ea"
   },
   {
     "value": "I'm your dwarf.",
     "faction": "Human",
     "unit": "Gryphon Rider",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "5d3c7e81-837a-577a-a63d-0c574377a2ea"
   },
   {
     "value": "I'll do what it takes.",
     "faction": "Human",
     "unit": "Gryphon Rider",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "5d3c7e81-837a-577a-a63d-0c574377a2ea"
   },
   {
     "value": "Ach?",
     "faction": "Human",
     "unit": "Gryphon Rider",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "5d3c7e81-837a-577a-a63d-0c574377a2ea"
   },
   {
     "value": "Ach, count me in.",
     "faction": "Human",
     "unit": "Gryphon Rider",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "5d3c7e81-837a-577a-a63d-0c574377a2ea"
   },
   {
     "value": "You're the boss.",
     "faction": "Human",
     "unit": "Gryphon Rider",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "5d3c7e81-837a-577a-a63d-0c574377a2ea"
   },
   {
     "value": "Ne problem.",
     "faction": "Human",
     "unit": "Gryphon Rider",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "5d3c7e81-837a-577a-a63d-0c574377a2ea"
   },
   {
     "value": "That's great.",
     "faction": "Human",
     "unit": "Gryphon Rider",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "5d3c7e81-837a-577a-a63d-0c574377a2ea"
   },
   {
     "value": "To the skies.",
     "faction": "Human",
     "unit": "Gryphon Rider",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "5d3c7e81-837a-577a-a63d-0c574377a2ea"
   },
   {
     "value": "Death comes for ye!",
     "faction": "Human",
     "unit": "Gryphon Rider",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "5d3c7e81-837a-577a-a63d-0c574377a2ea"
   },
   {
     "value": "For victory!",
     "faction": "Human",
     "unit": "Gryphon Rider",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "5d3c7e81-837a-577a-a63d-0c574377a2ea"
   },
   {
     "value": "By Muradin's beard!",
     "faction": "Human",
     "unit": "Gryphon Rider",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "5d3c7e81-837a-577a-a63d-0c574377a2ea"
   },
   {
     "value": "For Khaz Modan!",
     "faction": "Human",
     "unit": "Gryphon Rider",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "5d3c7e81-837a-577a-a63d-0c574377a2ea"
   },
   {
     "value": "Judge me by my size, do you?",
     "faction": "Human",
     "unit": "Gryphon Rider",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "5d3c7e81-837a-577a-a63d-0c574377a2ea"
   },
   {
     "value": "It's not the size of the hammer that counts, it's how ye wield it!",
     "faction": "Human",
     "unit": "Gryphon Rider",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "5d3c7e81-837a-577a-a63d-0c574377a2ea"
   },
   {
     "value": "Someone gave me the bird!",
     "faction": "Human",
     "unit": "Gryphon Rider",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "5d3c7e81-837a-577a-a63d-0c574377a2ea"
   },
   {
     "value": "This Warhammer cost 40k! Heh heh.",
     "faction": "Human",
     "unit": "Gryphon Rider",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "5d3c7e81-837a-577a-a63d-0c574377a2ea"
   },
   {
     "value": "Half of this beast is endangered, but the other half is danger!",
     "faction": "Human",
     "unit": "Gryphon Rider",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "5d3c7e81-837a-577a-a63d-0c574377a2ea"
   },
   {
     "value": "I'm on the job.",
     "faction": "Human",
     "unit": "Worker",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad55528f-bee5-5422-9690-e91719ab3bf4"
   },
   {
     "value": "You're interrupting my calculations!",
     "faction": "Human",
     "unit": "Worker",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad55528f-bee5-5422-9690-e91719ab3bf4"
   },
   {
     "value": "I'll have it up in no time.",
     "faction": "Human",
     "unit": "Worker",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad55528f-bee5-5422-9690-e91719ab3bf4"
   },
   {
     "value": "Two plus three times four… what do you want?!",
     "faction": "Human",
     "unit": "Worker",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad55528f-bee5-5422-9690-e91719ab3bf4"
   },
   {
     "value": "No, no, no! Not like that! Let me do it.",
     "faction": "Human",
     "unit": "Worker",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad55528f-bee5-5422-9690-e91719ab3bf4"
   },
   {
     "value": "That's not in the blueprints.",
     "faction": "Human",
     "unit": "Worker",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad55528f-bee5-5422-9690-e91719ab3bf4"
   },
   {
     "value": "How did that get approved?",
     "faction": "Human",
     "unit": "Worker",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad55528f-bee5-5422-9690-e91719ab3bf4"
   },
   {
     "value": "You want me to do what?",
     "faction": "Human",
     "unit": "Worker",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad55528f-bee5-5422-9690-e91719ab3bf4"
   },
   {
     "value": "An elf would've thought of something better.",
     "faction": "Human",
     "unit": "Worker",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad55528f-bee5-5422-9690-e91719ab3bf4"
   },
   {
     "value": "Yes yes, I'm already on it.",
     "faction": "Human",
     "unit": "Worker",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad55528f-bee5-5422-9690-e91719ab3bf4"
   },
   {
     "value": "Probability of success: Zero.",
     "faction": "Human",
     "unit": "Worker",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad55528f-bee5-5422-9690-e91719ab3bf4"
   },
   {
     "value": "I'll level you!",
     "faction": "Human",
     "unit": "Worker",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad55528f-bee5-5422-9690-e91719ab3bf4"
   },
   {
     "value": "Look, I'm an engineer, my time is valuable.",
     "faction": "Human",
     "unit": "Worker",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad55528f-bee5-5422-9690-e91719ab3bf4"
   },
   {
     "value": "Why don't you bother someone else with your incessant clicking?",
     "faction": "Human",
     "unit": "Worker",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad55528f-bee5-5422-9690-e91719ab3bf4"
   },
   {
     "value": "If it's really that urgent, why don't you do it yourself?",
     "faction": "Human",
     "unit": "Worker",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad55528f-bee5-5422-9690-e91719ab3bf4"
   },
   {
     "value": "It's simple. Just take the hydraulic phase shift emulator, and attach it to the transdimensional photon particle emitter. Bam! New tower.",
     "faction": "Human",
     "unit": "Worker",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad55528f-bee5-5422-9690-e91719ab3bf4"
   },
   {
     "value": "'I'll have it up in no time.' is an official term of the United Blood Elf Engineers' Union. It should not be interpreted as a reasonable estimation of the actual time it will take to complete a task in any way, shape, or form.",
     "faction": "Human",
     "unit": "Worker",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad55528f-bee5-5422-9690-e91719ab3bf4"
   },
   {
     "value": "Hmm… tower defense… No, that's a silly idea – it would never work!",
     "faction": "Human",
     "unit": "Worker",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad55528f-bee5-5422-9690-e91719ab3bf4"
   },
   {
     "value": "I am ready.",
     "faction": "Human",
     "unit": "Captain",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fb3fb219-14a7-5748-8e54-3d7a56fb7ea9"
   },
   {
     "value": "What is your wish?",
     "faction": "Human",
     "unit": "Captain",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fb3fb219-14a7-5748-8e54-3d7a56fb7ea9"
   },
   {
     "value": "How may I serve?",
     "faction": "Human",
     "unit": "Captain",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fb3fb219-14a7-5748-8e54-3d7a56fb7ea9"
   },
   {
     "value": "I'm honored.",
     "faction": "Human",
     "unit": "Captain",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fb3fb219-14a7-5748-8e54-3d7a56fb7ea9"
   },
   {
     "value": "I'll do my best!",
     "faction": "Human",
     "unit": "Captain",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fb3fb219-14a7-5748-8e54-3d7a56fb7ea9"
   },
   {
     "value": "For Lordaeron!",
     "faction": "Human",
     "unit": "Captain",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fb3fb219-14a7-5748-8e54-3d7a56fb7ea9"
   },
   {
     "value": "Foul beast!",
     "faction": "Human",
     "unit": "Captain",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fb3fb219-14a7-5748-8e54-3d7a56fb7ea9"
   },
   {
     "value": "For King Terenas!",
     "faction": "Human",
     "unit": "Captain",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fb3fb219-14a7-5748-8e54-3d7a56fb7ea9"
   },
   {
     "value": "I should have been a farmer like my father wanted.",
     "faction": "Human",
     "unit": "Captain",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fb3fb219-14a7-5748-8e54-3d7a56fb7ea9"
   },
   {
     "value": "Lousy pay, constant danger.",
     "faction": "Human",
     "unit": "Captain",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fb3fb219-14a7-5748-8e54-3d7a56fb7ea9"
   },
   {
     "value": "Well, at least I get to hobnob with royalty.",
     "faction": "Human",
     "unit": "Captain",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fb3fb219-14a7-5748-8e54-3d7a56fb7ea9"
   },
   {
     "value": "I live to serve all believers.",
     "faction": "Human",
     "unit": "Paladin",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": true,
+    "isMelee": true,
+    "id": "e941b87b-24f8-5701-b7a3-ebe813c80e54"
   },
   {
     "value": "What would you ask of me?",
     "faction": "Human",
     "unit": "Paladin",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "e941b87b-24f8-5701-b7a3-ebe813c80e54"
   },
   {
     "value": "I am not afraid.",
     "faction": "Human",
     "unit": "Paladin",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "e941b87b-24f8-5701-b7a3-ebe813c80e54"
   },
   {
     "value": "Let me face the peril.",
     "faction": "Human",
     "unit": "Paladin",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "e941b87b-24f8-5701-b7a3-ebe813c80e54"
   },
   {
     "value": "At your call.",
     "faction": "Human",
     "unit": "Paladin",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "e941b87b-24f8-5701-b7a3-ebe813c80e54"
   },
   {
     "value": "As you wish.",
     "faction": "Human",
     "unit": "Paladin",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "e941b87b-24f8-5701-b7a3-ebe813c80e54"
   },
   {
     "value": "For honor!",
     "faction": "Human",
     "unit": "Paladin",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "e941b87b-24f8-5701-b7a3-ebe813c80e54"
   },
   {
     "value": "For my people!",
     "faction": "Human",
     "unit": "Paladin",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "e941b87b-24f8-5701-b7a3-ebe813c80e54"
   },
   {
     "value": "It shall be done!",
     "faction": "Human",
     "unit": "Paladin",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "e941b87b-24f8-5701-b7a3-ebe813c80e54"
   },
   {
     "value": "Justice will be served!",
     "faction": "Human",
     "unit": "Paladin",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "e941b87b-24f8-5701-b7a3-ebe813c80e54"
   },
   {
     "value": "Defending your name!",
     "faction": "Human",
     "unit": "Paladin",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "e941b87b-24f8-5701-b7a3-ebe813c80e54"
   },
   {
     "value": "Strike with great vengeance!",
     "faction": "Human",
     "unit": "Paladin",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "e941b87b-24f8-5701-b7a3-ebe813c80e54"
   },
   {
     "value": "In Lightbringer's name, have at thee!",
     "faction": "Human",
     "unit": "Paladin",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": true,
+    "isMelee": true,
+    "id": "e941b87b-24f8-5701-b7a3-ebe813c80e54"
   },
   {
     "value": "It's hammer time!",
     "faction": "Human",
     "unit": "Paladin",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "e941b87b-24f8-5701-b7a3-ebe813c80e54"
   },
   {
     "value": "I want to be your sledge hammer!",
     "faction": "Human",
     "unit": "Paladin",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "e941b87b-24f8-5701-b7a3-ebe813c80e54"
   },
   {
     "value": "Touch me not — I am chaste!",
     "faction": "Human",
     "unit": "Paladin",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "e941b87b-24f8-5701-b7a3-ebe813c80e54"
   },
   {
     "value": "No? Is that your final answer?",
     "faction": "Human",
     "unit": "Paladin",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "e941b87b-24f8-5701-b7a3-ebe813c80e54"
   },
   {
     "value": "I have bad brethren.",
     "faction": "Human",
     "unit": "Paladin",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "e941b87b-24f8-5701-b7a3-ebe813c80e54"
   },
   {
     "value": "Is that a sword? Luxury! Is that a horse? Sloth! Is that a helmet? Vanity!",
     "faction": "Human",
     "unit": "Paladin",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "e941b87b-24f8-5701-b7a3-ebe813c80e54"
   },
   {
     "value": "This had better be worth it!",
     "faction": "Human",
     "unit": "Archmage",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": true,
+    "isMelee": true,
+    "id": "727cf706-bbb1-5398-a349-1b94d1fbe096"
   },
   {
     "value": "You require my assistance.",
     "faction": "Human",
     "unit": "Archmage",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "727cf706-bbb1-5398-a349-1b94d1fbe096"
   },
   {
     "value": "What is it now?",
     "faction": "Human",
     "unit": "Archmage",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "727cf706-bbb1-5398-a349-1b94d1fbe096"
   },
   {
     "value": "Get on with it.",
     "faction": "Human",
     "unit": "Archmage",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "727cf706-bbb1-5398-a349-1b94d1fbe096"
   },
   {
     "value": "Well?",
     "faction": "Human",
     "unit": "Archmage",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "727cf706-bbb1-5398-a349-1b94d1fbe096"
   },
   {
     "value": "I can hardly wait.",
     "faction": "Human",
     "unit": "Archmage",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "727cf706-bbb1-5398-a349-1b94d1fbe096"
   },
   {
     "value": "Perfect.",
     "faction": "Human",
     "unit": "Archmage",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "727cf706-bbb1-5398-a349-1b94d1fbe096"
   },
   {
     "value": "Whatever.",
     "faction": "Human",
     "unit": "Archmage",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "727cf706-bbb1-5398-a349-1b94d1fbe096"
   },
   {
     "value": "Fine.",
     "faction": "Human",
     "unit": "Archmage",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "727cf706-bbb1-5398-a349-1b94d1fbe096"
   },
   {
     "value": "To battle!",
     "faction": "Human",
     "unit": "Archmage",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "727cf706-bbb1-5398-a349-1b94d1fbe096"
   },
   {
     "value": "For glory!",
     "faction": "Human",
     "unit": "Archmage",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "727cf706-bbb1-5398-a349-1b94d1fbe096"
   },
   {
     "value": "Infury frostaris sedaa!",
     "faction": "Human",
     "unit": "Archmage",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "727cf706-bbb1-5398-a349-1b94d1fbe096"
   },
   {
     "value": "For Dalaran!",
     "faction": "Human",
     "unit": "Archmage",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": true,
+    "isMelee": true,
+    "id": "727cf706-bbb1-5398-a349-1b94d1fbe096"
   },
   {
     "value": "Don't you have a strategy?",
     "faction": "Human",
     "unit": "Archmage",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "727cf706-bbb1-5398-a349-1b94d1fbe096"
   },
   {
     "value": "Your prattle begins to annoy me.",
     "faction": "Human",
     "unit": "Archmage",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "727cf706-bbb1-5398-a349-1b94d1fbe096"
   },
   {
     "value": "You'd best stay clear of me, or I'll turn you into a mindless sheep!",
     "faction": "Human",
     "unit": "Archmage",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "727cf706-bbb1-5398-a349-1b94d1fbe096"
   },
   {
     "value": "I don't waste my magic on just anything.",
     "faction": "Human",
     "unit": "Archmage",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "727cf706-bbb1-5398-a349-1b94d1fbe096"
   },
   {
     "value": "All right, who wants some?",
     "faction": "Human",
     "unit": "Mountain King",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": true,
+    "isMelee": true,
+    "id": "19e55fc3-2baa-5421-a0a9-baf620d8bafc"
   },
   {
     "value": "Aye?",
     "faction": "Human",
     "unit": "Mountain King",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "19e55fc3-2baa-5421-a0a9-baf620d8bafc"
   },
   {
     "value": "Wait 'til you see me in action!",
     "faction": "Human",
     "unit": "Mountain King",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "19e55fc3-2baa-5421-a0a9-baf620d8bafc"
   },
   {
     "value": "Give me something to do!",
     "faction": "Human",
     "unit": "Mountain King",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "19e55fc3-2baa-5421-a0a9-baf620d8bafc"
   },
   {
     "value": "Hmm?",
     "faction": "Human",
     "unit": "Mountain King",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "19e55fc3-2baa-5421-a0a9-baf620d8bafc"
   },
   {
     "value": "Brilliant!",
     "faction": "Human",
     "unit": "Mountain King",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "19e55fc3-2baa-5421-a0a9-baf620d8bafc"
   },
   {
     "value": "I'm coming through.",
     "faction": "Human",
     "unit": "Mountain King",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "19e55fc3-2baa-5421-a0a9-baf620d8bafc"
   },
   {
     "value": "Move it!",
     "faction": "Human",
     "unit": "Mountain King",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "19e55fc3-2baa-5421-a0a9-baf620d8bafc"
   },
   {
     "value": "Out of my way.",
     "faction": "Human",
     "unit": "Mountain King",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "19e55fc3-2baa-5421-a0a9-baf620d8bafc"
   },
   {
     "value": "To arms!",
     "faction": "Human",
     "unit": "Mountain King",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "19e55fc3-2baa-5421-a0a9-baf620d8bafc"
   },
   {
     "value": "Death comes for ye!",
     "faction": "Human",
     "unit": "Mountain King",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "19e55fc3-2baa-5421-a0a9-baf620d8bafc"
   },
   {
     "value": "I'll run 'em through!",
     "faction": "Human",
     "unit": "Mountain King",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "19e55fc3-2baa-5421-a0a9-baf620d8bafc"
   },
   {
     "value": "Watch this!",
     "faction": "Human",
     "unit": "Mountain King",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "19e55fc3-2baa-5421-a0a9-baf620d8bafc"
   },
   {
     "value": "For Khaz Modan!",
     "faction": "Human",
     "unit": "Mountain King",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": true,
+    "isMelee": true,
+    "id": "19e55fc3-2baa-5421-a0a9-baf620d8bafc"
   },
   {
     "value": "Could you put some bonus points in my drinking skills?",
     "faction": "Human",
     "unit": "Mountain King",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "19e55fc3-2baa-5421-a0a9-baf620d8bafc"
   },
   {
     "value": "Any fish and chip shops around here?",
     "faction": "Human",
     "unit": "Mountain King",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "19e55fc3-2baa-5421-a0a9-baf620d8bafc"
   },
   {
     "value": "I think it's time for a nippy sweety.",
     "faction": "Human",
     "unit": "Mountain King",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "19e55fc3-2baa-5421-a0a9-baf620d8bafc"
   },
   {
     "value": "What the bloody hell are you playing at?",
     "faction": "Human",
     "unit": "Mountain King",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "19e55fc3-2baa-5421-a0a9-baf620d8bafc"
   },
   {
     "value": "There's nothing more motivating than fighting with a bad hangover!",
     "faction": "Human",
     "unit": "Mountain King",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "19e55fc3-2baa-5421-a0a9-baf620d8bafc"
   },
   {
     "value": "Where's the pub?",
     "faction": "Human",
     "unit": "Mountain King",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "19e55fc3-2baa-5421-a0a9-baf620d8bafc"
   },
   {
     "value": "Let's get pissed!",
     "faction": "Human",
     "unit": "Mountain King",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "19e55fc3-2baa-5421-a0a9-baf620d8bafc"
   },
   {
     "value": "Burning to avenge.",
     "faction": "Human",
     "unit": "Blood Mage",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0cf3b32d-5842-5a98-9e68-3885c867b4ab"
   },
   {
     "value": "Do you see something?",
     "faction": "Human",
     "unit": "Blood Mage",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0cf3b32d-5842-5a98-9e68-3885c867b4ab"
   },
   {
     "value": "Ishera-do.",
     "faction": "Human",
     "unit": "Blood Mage",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0cf3b32d-5842-5a98-9e68-3885c867b4ab"
   },
   {
     "value": "Evil is near.",
     "faction": "Human",
     "unit": "Blood Mage",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0cf3b32d-5842-5a98-9e68-3885c867b4ab"
   },
   {
     "value": "I'm here, mortal.",
     "faction": "Human",
     "unit": "Blood Mage",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0cf3b32d-5842-5a98-9e68-3885c867b4ab"
   },
   {
     "value": "This prattle bores me.",
     "faction": "Human",
     "unit": "Blood Mage",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0cf3b32d-5842-5a98-9e68-3885c867b4ab"
   },
   {
     "value": "Andu fallah.",
     "faction": "Human",
     "unit": "Blood Mage",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0cf3b32d-5842-5a98-9e68-3885c867b4ab"
   },
   {
     "value": "For my people.",
     "faction": "Human",
     "unit": "Blood Mage",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0cf3b32d-5842-5a98-9e68-3885c867b4ab"
   },
   {
     "value": "Aseph-ah-balla nah.",
     "faction": "Human",
     "unit": "Blood Mage",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0cf3b32d-5842-5a98-9e68-3885c867b4ab"
   },
   {
     "value": "For now.",
     "faction": "Human",
     "unit": "Blood Mage",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0cf3b32d-5842-5a98-9e68-3885c867b4ab"
   },
   {
     "value": "Ah, child's play.",
     "faction": "Human",
     "unit": "Blood Mage",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0cf3b32d-5842-5a98-9e68-3885c867b4ab"
   },
   {
     "value": "I'll incinerate them!",
     "faction": "Human",
     "unit": "Blood Mage",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0cf3b32d-5842-5a98-9e68-3885c867b4ab"
   },
   {
     "value": "For Quel'thalas!",
     "faction": "Human",
     "unit": "Blood Mage",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0cf3b32d-5842-5a98-9e68-3885c867b4ab"
   },
   {
     "value": "They shall burn!",
     "faction": "Human",
     "unit": "Blood Mage",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0cf3b32d-5842-5a98-9e68-3885c867b4ab"
   },
   {
     "value": "By the blood of the Highborne!",
     "faction": "Human",
     "unit": "Blood Mage",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0cf3b32d-5842-5a98-9e68-3885c867b4ab"
   },
   {
     "value": "The blood of the Highborne is my birthright.",
     "faction": "Human",
     "unit": "Blood Mage",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0cf3b32d-5842-5a98-9e68-3885c867b4ab"
   },
   {
     "value": "The ghosts of Quel'thalas cry out for vengeance.",
     "faction": "Human",
     "unit": "Blood Mage",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0cf3b32d-5842-5a98-9e68-3885c867b4ab"
   },
   {
     "value": "I find your insolence… disturbing.",
     "faction": "Human",
     "unit": "Blood Mage",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0cf3b32d-5842-5a98-9e68-3885c867b4ab"
   },
   {
     "value": "If you don't master your anger, your anger will master you... I should know.",
     "faction": "Human",
     "unit": "Blood Mage",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0cf3b32d-5842-5a98-9e68-3885c867b4ab"
   },
   {
     "value": "Hi, my name is Roy. I'm a magic addict.",
     "faction": "Human",
     "unit": "Blood Mage",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0cf3b32d-5842-5a98-9e68-3885c867b4ab"
   },
   {
     "value": "My blood cries out for the vengeance of my people's blood, which can only be repaid with at least twice as much blood! Or maybe three times as much blood! Like if you went to hell, and it was full of blood, and that blood was on fire, and it was raining blood, then maybe that would be enough blood! Eh… but probably not.",
     "faction": "Human",
     "unit": "Blood Mage",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0cf3b32d-5842-5a98-9e68-3885c867b4ab"
   },
   {
     "value": "The Light is my strength.",
     "faction": "Human",
     "unit": "Arthas Menethil",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "06708f2e-4135-5dfb-abda-3a7d386c5030"
   },
   {
     "value": "Is there danger?",
     "faction": "Human",
     "unit": "Arthas Menethil",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "06708f2e-4135-5dfb-abda-3a7d386c5030"
   },
   {
     "value": "I stand for the Light.",
     "faction": "Human",
     "unit": "Arthas Menethil",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "06708f2e-4135-5dfb-abda-3a7d386c5030"
   },
   {
     "value": "I'm here to help.",
     "faction": "Human",
     "unit": "Arthas Menethil",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "06708f2e-4135-5dfb-abda-3a7d386c5030"
   },
   {
     "value": "Justice shall be done.",
     "faction": "Human",
     "unit": "Arthas Menethil",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "06708f2e-4135-5dfb-abda-3a7d386c5030"
   },
   {
     "value": "Of course.",
     "faction": "Human",
     "unit": "Arthas Menethil",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "06708f2e-4135-5dfb-abda-3a7d386c5030"
   },
   {
     "value": "Certainly.",
     "faction": "Human",
     "unit": "Arthas Menethil",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "06708f2e-4135-5dfb-abda-3a7d386c5030"
   },
   {
     "value": "A sound plan.",
     "faction": "Human",
     "unit": "Arthas Menethil",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "06708f2e-4135-5dfb-abda-3a7d386c5030"
   },
   {
     "value": "For honor.",
     "faction": "Human",
     "unit": "Arthas Menethil",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "06708f2e-4135-5dfb-abda-3a7d386c5030"
   },
   {
     "value": "Foul knave!",
     "faction": "Human",
     "unit": "Arthas Menethil",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "06708f2e-4135-5dfb-abda-3a7d386c5030"
   },
   {
     "value": "Betrayer of the Light!",
     "faction": "Human",
     "unit": "Arthas Menethil",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "06708f2e-4135-5dfb-abda-3a7d386c5030"
   },
   {
     "value": "You are past redemption!",
     "faction": "Human",
     "unit": "Arthas Menethil",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "06708f2e-4135-5dfb-abda-3a7d386c5030"
   },
   {
     "value": "For my father the King!",
     "faction": "Human",
     "unit": "Arthas Menethil",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "06708f2e-4135-5dfb-abda-3a7d386c5030"
   },
   {
     "value": "Feel my wrath!",
     "faction": "Human",
     "unit": "Arthas Menethil",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "06708f2e-4135-5dfb-abda-3a7d386c5030"
   },
   {
     "value": "Justice has come!",
     "faction": "Human",
     "unit": "Arthas Menethil",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "06708f2e-4135-5dfb-abda-3a7d386c5030"
   },
   {
     "value": "For Lordaeron!",
     "faction": "Human",
     "unit": "Arthas Menethil",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": true,
+    "isMelee": false,
+    "id": "06708f2e-4135-5dfb-abda-3a7d386c5030"
   },
   {
     "value": "It isn't easy being a prince.",
     "faction": "Human",
     "unit": "Arthas Menethil",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "06708f2e-4135-5dfb-abda-3a7d386c5030"
   },
   {
     "value": "I will bring honor to my father and my kingdom.",
     "faction": "Human",
     "unit": "Arthas Menethil",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "06708f2e-4135-5dfb-abda-3a7d386c5030"
   },
   {
     "value": "Light, guide my path.",
     "faction": "Human",
     "unit": "Arthas Menethil",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "06708f2e-4135-5dfb-abda-3a7d386c5030"
   },
   {
     "value": "Light, give me strength.",
     "faction": "Human",
     "unit": "Arthas Menethil",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "06708f2e-4135-5dfb-abda-3a7d386c5030"
   },
   {
     "value": "I should be in command.",
     "faction": "Human",
     "unit": "Arthas Menethil",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "06708f2e-4135-5dfb-abda-3a7d386c5030"
   },
   {
     "value": "I know what I'm doing.",
     "faction": "Human",
     "unit": "Arthas Menethil",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "06708f2e-4135-5dfb-abda-3a7d386c5030"
   },
   {
     "value": "There's no need to bow.",
     "faction": "Human",
     "unit": "Arthas Menethil",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "06708f2e-4135-5dfb-abda-3a7d386c5030"
   },
   {
     "value": "What's happening?",
     "faction": "Human",
     "unit": "Muradin Bronzebeard",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5ff26962-e347-5437-9dda-e6f0d4f174e0"
   },
   {
     "value": "I'm ready and waiting.",
     "faction": "Human",
     "unit": "Muradin Bronzebeard",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5ff26962-e347-5437-9dda-e6f0d4f174e0"
   },
   {
     "value": "You're kinda slow for a human, aren't ya?",
     "faction": "Human",
     "unit": "Muradin Bronzebeard",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5ff26962-e347-5437-9dda-e6f0d4f174e0"
   },
   {
     "value": "Let's get moving.",
     "faction": "Human",
     "unit": "Muradin Bronzebeard",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5ff26962-e347-5437-9dda-e6f0d4f174e0"
   },
   {
     "value": "That's more like it.",
     "faction": "Human",
     "unit": "Muradin Bronzebeard",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5ff26962-e347-5437-9dda-e6f0d4f174e0"
   },
   {
     "value": "Let's get it on.",
     "faction": "Human",
     "unit": "Muradin Bronzebeard",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5ff26962-e347-5437-9dda-e6f0d4f174e0"
   },
   {
     "value": "Let's do this.",
     "faction": "Human",
     "unit": "Muradin Bronzebeard",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5ff26962-e347-5437-9dda-e6f0d4f174e0"
   },
   {
     "value": "It's hammer time!",
     "faction": "Human",
     "unit": "Muradin Bronzebeard",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5ff26962-e347-5437-9dda-e6f0d4f174e0"
   },
   {
     "value": "For Khaz Modan!",
     "faction": "Human",
     "unit": "Muradin Bronzebeard",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5ff26962-e347-5437-9dda-e6f0d4f174e0"
   },
   {
     "value": "For the Bronzebeards!",
     "faction": "Human",
     "unit": "Muradin Bronzebeard",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5ff26962-e347-5437-9dda-e6f0d4f174e0"
   },
   {
     "value": "Take this, you bastard!",
     "faction": "Human",
     "unit": "Muradin Bronzebeard",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5ff26962-e347-5437-9dda-e6f0d4f174e0"
   },
   {
     "value": "Beards, blood, booze and thunder!",
     "faction": "Human",
     "unit": "Muradin Bronzebeard",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5ff26962-e347-5437-9dda-e6f0d4f174e0"
   },
   {
     "value": "My older brother Magni is king of the dwarves.",
     "faction": "Human",
     "unit": "Muradin Bronzebeard",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5ff26962-e347-5437-9dda-e6f0d4f174e0"
   },
   {
     "value": "My younger brother Brann is a renowned explorer.",
     "faction": "Human",
     "unit": "Muradin Bronzebeard",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5ff26962-e347-5437-9dda-e6f0d4f174e0"
   },
   {
     "value": "If I didn't kick so much ass, I'd feel a tad awkward.",
     "faction": "Human",
     "unit": "Muradin Bronzebeard",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5ff26962-e347-5437-9dda-e6f0d4f174e0"
   },
   {
     "value": "I'll play your game, you rogue.",
     "faction": "Human",
     "unit": "Muradin Bronzebeard",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5ff26962-e347-5437-9dda-e6f0d4f174e0"
   },
   {
     "value": "I'll take 'The Rapist' for 500.",
     "faction": "Human",
     "unit": "Muradin Bronzebeard",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5ff26962-e347-5437-9dda-e6f0d4f174e0"
   },
   {
     "value": "I'm on to you, Trebek!",
     "faction": "Human",
     "unit": "Muradin Bronzebeard",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5ff26962-e347-5437-9dda-e6f0d4f174e0"
   },
   {
     "value": "Come on, you nancy boy!",
     "faction": "Human",
     "unit": "Muradin Bronzebeard",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5ff26962-e347-5437-9dda-e6f0d4f174e0"
   },
   {
     "value": "You wanna get the undead? I'll tell you how to get the undead. One of their men pulls a knife, your man pulls a gun. They send your man to the hospital, you send their man to the morgue. That's how you get the undead.",
     "faction": "Human",
     "unit": "Muradin Bronzebeard",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5ff26962-e347-5437-9dda-e6f0d4f174e0"
   },
   {
     "value": "Is that the best you can do?",
     "faction": "Human",
     "unit": "Muradin Bronzebeard",
-    "action": "Taunt"
+    "action": "Taunt",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5ff26962-e347-5437-9dda-e6f0d4f174e0"
   },
   {
     "value": "I've met gnomes who are tougher than you.",
     "faction": "Human",
     "unit": "Muradin Bronzebeard",
-    "action": "Taunt"
+    "action": "Taunt",
+    "isHero": true,
+    "isMelee": false,
+    "id": "5ff26962-e347-5437-9dda-e6f0d4f174e0"
   },
   {
     "value": "I can help.",
     "faction": "Human",
     "unit": "Jaina Proudmoore",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "065833cd-3bfc-5998-9dfc-003c83fbd0b3"
   },
   {
     "value": "That's curious.",
     "faction": "Human",
     "unit": "Jaina Proudmoore",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "065833cd-3bfc-5998-9dfc-003c83fbd0b3"
   },
   {
     "value": "Shhh… I'm trying to think here.",
     "faction": "Human",
     "unit": "Jaina Proudmoore",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "065833cd-3bfc-5998-9dfc-003c83fbd0b3"
   },
   {
     "value": "What's the plan?",
     "faction": "Human",
     "unit": "Jaina Proudmoore",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "065833cd-3bfc-5998-9dfc-003c83fbd0b3"
   },
   {
     "value": "Sounds good.",
     "faction": "Human",
     "unit": "Jaina Proudmoore",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "065833cd-3bfc-5998-9dfc-003c83fbd0b3"
   },
   {
     "value": "I'll check it out.",
     "faction": "Human",
     "unit": "Jaina Proudmoore",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "065833cd-3bfc-5998-9dfc-003c83fbd0b3"
   },
   {
     "value": "Sounds interesting.",
     "faction": "Human",
     "unit": "Jaina Proudmoore",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "065833cd-3bfc-5998-9dfc-003c83fbd0b3"
   },
   {
     "value": "I'll take care of it.",
     "faction": "Human",
     "unit": "Jaina Proudmoore",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "065833cd-3bfc-5998-9dfc-003c83fbd0b3"
   },
   {
     "value": "I hate resorting to violence!",
     "faction": "Human",
     "unit": "Jaina Proudmoore",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "065833cd-3bfc-5998-9dfc-003c83fbd0b3"
   },
   {
     "value": "You asked for it!",
     "faction": "Human",
     "unit": "Jaina Proudmoore",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "065833cd-3bfc-5998-9dfc-003c83fbd0b3"
   },
   {
     "value": "For Dalaran!",
     "faction": "Human",
     "unit": "Jaina Proudmoore",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": true,
+    "isMelee": false,
+    "id": "065833cd-3bfc-5998-9dfc-003c83fbd0b3"
   },
   {
     "value": "I'm no warrior.",
     "faction": "Human",
     "unit": "Jaina Proudmoore",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "065833cd-3bfc-5998-9dfc-003c83fbd0b3"
   },
   {
     "value": "All I ever wanted was to study.",
     "faction": "Human",
     "unit": "Jaina Proudmoore",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "065833cd-3bfc-5998-9dfc-003c83fbd0b3"
   },
   {
     "value": "The currents of magic are in upheaval.",
     "faction": "Human",
     "unit": "Jaina Proudmoore",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "065833cd-3bfc-5998-9dfc-003c83fbd0b3"
   },
   {
     "value": "I pray my father is safe.",
     "faction": "Human",
     "unit": "Jaina Proudmoore",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "065833cd-3bfc-5998-9dfc-003c83fbd0b3"
   },
   {
     "value": "Things are starting to get a little weird.",
     "faction": "Human",
     "unit": "Jaina Proudmoore",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "065833cd-3bfc-5998-9dfc-003c83fbd0b3"
   },
   {
-    "value": "Humanity, will rise again!",
+    "value": "Humanity will rise again!",
     "faction": "Human",
     "unit": "Lord Garithos",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": true,
+    "isMelee": false,
+    "id": "657ece00-273b-52f8-b555-aeb339271524"
   },
   {
     "value": "Well, what are you waiting for?",
     "faction": "Human",
     "unit": "Lord Garithos",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "657ece00-273b-52f8-b555-aeb339271524"
   },
   {
     "value": "Humanity is in peril.",
     "faction": "Human",
     "unit": "Lord Garithos",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "657ece00-273b-52f8-b555-aeb339271524"
   },
   {
     "value": "I hate working with these… people.",
     "faction": "Human",
     "unit": "Lord Garithos",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "657ece00-273b-52f8-b555-aeb339271524"
   },
   {
     "value": "We humans have to stick together.",
     "faction": "Human",
     "unit": "Lord Garithos",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "657ece00-273b-52f8-b555-aeb339271524"
   },
   {
     "value": "It's about time.",
     "faction": "Human",
     "unit": "Lord Garithos",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "657ece00-273b-52f8-b555-aeb339271524"
   },
   {
     "value": "Yes yes, I'm on it.",
     "faction": "Human",
     "unit": "Lord Garithos",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "657ece00-273b-52f8-b555-aeb339271524"
   },
   {
     "value": "Suits my purposes.",
     "faction": "Human",
     "unit": "Lord Garithos",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "657ece00-273b-52f8-b555-aeb339271524"
   },
   {
     "value": "Right...",
     "faction": "Human",
     "unit": "Lord Garithos",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "657ece00-273b-52f8-b555-aeb339271524"
   },
   {
     "value": "Ah, at last.",
     "faction": "Human",
     "unit": "Lord Garithos",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "657ece00-273b-52f8-b555-aeb339271524"
   },
   {
     "value": "Let justice fall!",
     "faction": "Human",
     "unit": "Lord Garithos",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "657ece00-273b-52f8-b555-aeb339271524"
   },
   {
     "value": "Die, mongrels!",
     "faction": "Human",
     "unit": "Lord Garithos",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "657ece00-273b-52f8-b555-aeb339271524"
   },
   {
     "value": "Inhuman beast!",
     "faction": "Human",
     "unit": "Lord Garithos",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "657ece00-273b-52f8-b555-aeb339271524"
   },
   {
     "value": "In memory of Terenas!",
     "faction": "Human",
     "unit": "Lord Garithos",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": true,
+    "isMelee": false,
+    "id": "657ece00-273b-52f8-b555-aeb339271524"
   },
   {
     "value": "These inhuman dogs must be slain.",
     "faction": "Human",
     "unit": "Lord Garithos",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "657ece00-273b-52f8-b555-aeb339271524"
   },
   {
     "value": "The lesser races must be purged from the kingdom.",
     "faction": "Human",
     "unit": "Lord Garithos",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "657ece00-273b-52f8-b555-aeb339271524"
   },
   {
     "value": "The only good non-human is a dead non-human.",
     "faction": "Human",
     "unit": "Lord Garithos",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "657ece00-273b-52f8-b555-aeb339271524"
   },
   {
     "value": "If you want something done right, leave it to a human.",
     "faction": "Human",
     "unit": "Lord Garithos",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "657ece00-273b-52f8-b555-aeb339271524"
   },
   {
     "value": "Never trust an elf!",
     "faction": "Human",
     "unit": "Lord Garithos",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "657ece00-273b-52f8-b555-aeb339271524"
   },
   {
     "value": "I'm here.",
     "faction": "Human",
     "unit": "Uther the Lightbringer",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "73b25e82-1cf4-56e9-9e7d-a022fa7a0f78"
   },
   {
     "value": "Do not fear.",
     "faction": "Human",
     "unit": "Uther the Lightbringer",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "73b25e82-1cf4-56e9-9e7d-a022fa7a0f78"
   },
   {
     "value": "The light is with us.",
     "faction": "Human",
     "unit": "Uther the Lightbringer",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "73b25e82-1cf4-56e9-9e7d-a022fa7a0f78"
   },
   {
     "value": "We shall not falter.",
     "faction": "Human",
     "unit": "Uther the Lightbringer",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "73b25e82-1cf4-56e9-9e7d-a022fa7a0f78"
   },
   {
     "value": "Right.",
     "faction": "Human",
     "unit": "Uther the Lightbringer",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "73b25e82-1cf4-56e9-9e7d-a022fa7a0f78"
   },
   {
     "value": "Very wise.",
     "faction": "Human",
     "unit": "Uther the Lightbringer",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "73b25e82-1cf4-56e9-9e7d-a022fa7a0f78"
   },
   {
     "value": "For the Light.",
     "faction": "Human",
     "unit": "Uther the Lightbringer",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "73b25e82-1cf4-56e9-9e7d-a022fa7a0f78"
   },
   {
     "value": "By my Honor.",
     "faction": "Human",
     "unit": "Uther the Lightbringer",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "73b25e82-1cf4-56e9-9e7d-a022fa7a0f78"
   },
   {
     "value": "For Lordaeron!",
     "faction": "Human",
     "unit": "Uther the Lightbringer",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "73b25e82-1cf4-56e9-9e7d-a022fa7a0f78"
   },
   {
     "value": "For the Silver Hand!",
     "faction": "Human",
     "unit": "Uther the Lightbringer",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "73b25e82-1cf4-56e9-9e7d-a022fa7a0f78"
   },
   {
     "value": "Light curse you!",
     "faction": "Human",
     "unit": "Uther the Lightbringer",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "73b25e82-1cf4-56e9-9e7d-a022fa7a0f78"
   },
   {
     "value": "For King Terenas!",
     "faction": "Human",
     "unit": "Uther the Lightbringer",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": true,
+    "isMelee": false,
+    "id": "73b25e82-1cf4-56e9-9e7d-a022fa7a0f78"
   },
   {
-    "value": "I getting too old for this.",
+    "value": "I'm getting too old for this.",
     "faction": "Human",
     "unit": "Uther the Lightbringer",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "73b25e82-1cf4-56e9-9e7d-a022fa7a0f78"
   },
   {
     "value": "As if the Orcs weren't enough…",
     "faction": "Human",
     "unit": "Uther the Lightbringer",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "73b25e82-1cf4-56e9-9e7d-a022fa7a0f78"
   },
   {
     "value": "My church is the field of battle.",
     "faction": "Human",
     "unit": "Uther the Lightbringer",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "73b25e82-1cf4-56e9-9e7d-a022fa7a0f78"
   },
   {
     "value": "My strength is the Holy Light.",
     "faction": "Human",
     "unit": "Uther the Lightbringer",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "73b25e82-1cf4-56e9-9e7d-a022fa7a0f78"
   },
   {
     "value": "Come then, shadowspawn.",
     "faction": "Human",
     "unit": "Uther the Lightbringer",
-    "action": "Taunt"
+    "action": "Taunt",
+    "isHero": true,
+    "isMelee": false,
+    "id": "73b25e82-1cf4-56e9-9e7d-a022fa7a0f78"
   },
   {
     "value": "I am the hammer of justice.",
     "faction": "Human",
     "unit": "Uther the Lightbringer",
-    "action": "Taunt"
+    "action": "Taunt",
+    "isHero": true,
+    "isMelee": false,
+    "id": "73b25e82-1cf4-56e9-9e7d-a022fa7a0f78"
   },
   {
     "value": "I'm waiting.",
     "faction": "Human",
     "unit": "Kael'thas Sunstrider",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": true,
+    "isMelee": false,
+    "id": "82080313-ad4c-527b-a24f-bb980d89593b"
   },
   {
     "value": "I feel edgy.",
     "faction": "Human",
     "unit": "Kael'thas Sunstrider",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "82080313-ad4c-527b-a24f-bb980d89593b"
   },
   {
     "value": "What's the hold up?",
     "faction": "Human",
     "unit": "Kael'thas Sunstrider",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "82080313-ad4c-527b-a24f-bb980d89593b"
   },
   {
     "value": "My people must be avenged.",
     "faction": "Human",
     "unit": "Kael'thas Sunstrider",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "82080313-ad4c-527b-a24f-bb980d89593b"
   },
   {
     "value": "We should move soon.",
     "faction": "Human",
     "unit": "Kael'thas Sunstrider",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "82080313-ad4c-527b-a24f-bb980d89593b"
   },
   {
     "value": "I sense something elusive.",
     "faction": "Human",
     "unit": "Kael'thas Sunstrider",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "82080313-ad4c-527b-a24f-bb980d89593b"
   },
   {
     "value": "It shall be done.",
     "faction": "Human",
     "unit": "Kael'thas Sunstrider",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "82080313-ad4c-527b-a24f-bb980d89593b"
   },
   {
     "value": "Outstanding.",
     "faction": "Human",
     "unit": "Kael'thas Sunstrider",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "82080313-ad4c-527b-a24f-bb980d89593b"
   },
   {
     "value": "I'll do my best.",
     "faction": "Human",
     "unit": "Kael'thas Sunstrider",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "82080313-ad4c-527b-a24f-bb980d89593b"
   },
   {
     "value": "My pleasure.",
     "faction": "Human",
     "unit": "Kael'thas Sunstrider",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "82080313-ad4c-527b-a24f-bb980d89593b"
   },
   {
     "value": "Very good.",
     "faction": "Human",
     "unit": "Kael'thas Sunstrider",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "82080313-ad4c-527b-a24f-bb980d89593b"
   },
   {
     "value": "By fire be purged!",
     "faction": "Human",
     "unit": "Kael'thas Sunstrider",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "82080313-ad4c-527b-a24f-bb980d89593b"
   },
   {
     "value": "Vengeance!",
     "faction": "Human",
     "unit": "Kael'thas Sunstrider",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "82080313-ad4c-527b-a24f-bb980d89593b"
   },
   {
     "value": "This is too easy!",
     "faction": "Human",
     "unit": "Kael'thas Sunstrider",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "82080313-ad4c-527b-a24f-bb980d89593b"
   },
   {
     "value": "Endo-enah Quel'thalas!",
     "faction": "Human",
     "unit": "Kael'thas Sunstrider",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": true,
+    "isMelee": false,
+    "id": "82080313-ad4c-527b-a24f-bb980d89593b"
   },
   {
     "value": "Nothing of my homeland remains but ash and sorrow.",
     "faction": "Human",
     "unit": "Kael'thas Sunstrider",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "82080313-ad4c-527b-a24f-bb980d89593b"
   },
   {
     "value": "My hunger for magic is clouding my judgment.",
     "faction": "Human",
     "unit": "Kael'thas Sunstrider",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "82080313-ad4c-527b-a24f-bb980d89593b"
   },
   {
     "value": "All I feel is hate and rage.",
     "faction": "Human",
     "unit": "Kael'thas Sunstrider",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "82080313-ad4c-527b-a24f-bb980d89593b"
   },
   {
     "value": "The Alliance has failed my people.",
     "faction": "Human",
     "unit": "Kael'thas Sunstrider",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "82080313-ad4c-527b-a24f-bb980d89593b"
   },
   {
     "value": "I've no time for games.",
     "faction": "Human",
     "unit": "Sylvanas Windrunner",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "2050f5c8-2233-5269-9c0b-3b1262f1bcaf"
   },
   {
     "value": "I have a land to defend.",
     "faction": "Human",
     "unit": "Sylvanas Windrunner",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "2050f5c8-2233-5269-9c0b-3b1262f1bcaf"
   },
   {
     "value": "We elves are not easy prey.",
     "faction": "Human",
     "unit": "Sylvanas Windrunner",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "2050f5c8-2233-5269-9c0b-3b1262f1bcaf"
   },
   {
     "value": "You dare threaten me?",
     "faction": "Human",
     "unit": "Sylvanas Windrunner",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "2050f5c8-2233-5269-9c0b-3b1262f1bcaf"
   },
   {
     "value": "For Quel'thalas!",
     "faction": "Human",
     "unit": "Sylvanas Windrunner",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": true,
+    "isMelee": false,
+    "id": "2050f5c8-2233-5269-9c0b-3b1262f1bcaf"
   },
   {
     "value": "I'm the Ranger General of this land.",
     "faction": "Human",
     "unit": "Sylvanas Windrunner",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "2050f5c8-2233-5269-9c0b-3b1262f1bcaf"
   },
   {
     "value": "I can hit a bird in the air, flying.",
     "faction": "Human",
     "unit": "Sylvanas Windrunner",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "2050f5c8-2233-5269-9c0b-3b1262f1bcaf"
   },
   {
     "value": "None may threaten the Elflands.",
     "faction": "Human",
     "unit": "Sylvanas Windrunner",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "2050f5c8-2233-5269-9c0b-3b1262f1bcaf"
   },
   {
     "value": "You'll regret ever entering my forests.",
     "faction": "Human",
     "unit": "Sylvanas Windrunner",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "2050f5c8-2233-5269-9c0b-3b1262f1bcaf"
   },
   {
     "value": "Come taste the wrath of the elves.",
     "faction": "Human",
     "unit": "Sylvanas Windrunner",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "2050f5c8-2233-5269-9c0b-3b1262f1bcaf"
   },
   {
     "value": "Glory to the High Elves.",
     "faction": "Human",
-    "unit": "Dragon Hawk",
-    "action": "Ready"
+    "unit": "High Elf Dragonhawk",
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": false,
+    "id": "a92c3a8e-2296-5ec1-9ded-0d9c7ea95546"
   },
   {
     "value": "Battle awaits.",
     "faction": "Human",
-    "unit": "Dragon Hawk",
-    "action": "What"
+    "unit": "High Elf Dragonhawk",
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "a92c3a8e-2296-5ec1-9ded-0d9c7ea95546"
   },
   {
     "value": "Be quick, human.",
     "faction": "Human",
-    "unit": "Dragon Hawk",
-    "action": "What"
+    "unit": "High Elf Dragonhawk",
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "a92c3a8e-2296-5ec1-9ded-0d9c7ea95546"
   },
   {
     "value": "My powers are ready.",
     "faction": "Human",
-    "unit": "Dragon Hawk",
-    "action": "What"
+    "unit": "High Elf Dragonhawk",
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "a92c3a8e-2296-5ec1-9ded-0d9c7ea95546"
   },
   {
     "value": "The sky is mine.",
     "faction": "Human",
-    "unit": "Dragon Hawk",
-    "action": "Yes"
+    "unit": "High Elf Dragonhawk",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "a92c3a8e-2296-5ec1-9ded-0d9c7ea95546"
   },
   {
     "value": "Winds guide me.",
     "faction": "Human",
-    "unit": "Dragon Hawk",
-    "action": "Yes"
+    "unit": "High Elf Dragonhawk",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "a92c3a8e-2296-5ec1-9ded-0d9c7ea95546"
   },
   {
     "value": "Ride like the wind.",
     "faction": "Human",
-    "unit": "Dragon Hawk",
-    "action": "Yes"
+    "unit": "High Elf Dragonhawk",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "a92c3a8e-2296-5ec1-9ded-0d9c7ea95546"
   },
   {
     "value": "Nowhere to hide!",
     "faction": "Human",
-    "unit": "Dragon Hawk",
-    "action": "Attack"
+    "unit": "High Elf Dragonhawk",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "a92c3a8e-2296-5ec1-9ded-0d9c7ea95546"
   },
   {
     "value": "Cower, knave!",
     "faction": "Human",
-    "unit": "Dragon Hawk",
-    "action": "Attack"
+    "unit": "High Elf Dragonhawk",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "a92c3a8e-2296-5ec1-9ded-0d9c7ea95546"
   },
   {
     "value": "Ride the lightning!",
     "faction": "Human",
-    "unit": "Dragon Hawk",
-    "action": "Attack"
+    "unit": "High Elf Dragonhawk",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "a92c3a8e-2296-5ec1-9ded-0d9c7ea95546"
   },
   {
     "value": "For Quel'thalas, for victory!",
     "faction": "Human",
-    "unit": "Dragon Hawk",
-    "action": "Warcry"
+    "unit": "High Elf Dragonhawk",
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": false,
+    "id": "a92c3a8e-2296-5ec1-9ded-0d9c7ea95546"
   },
   {
     "value": "I shall ride my bird to victory!",
     "faction": "Human",
-    "unit": "Dragon Hawk",
-    "action": "Pissed"
+    "unit": "High Elf Dragonhawk",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "a92c3a8e-2296-5ec1-9ded-0d9c7ea95546"
   },
   {
     "value": "I don't use my lance a lot.",
     "faction": "Human",
-    "unit": "Dragon Hawk",
-    "action": "Pissed"
+    "unit": "High Elf Dragonhawk",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "a92c3a8e-2296-5ec1-9ded-0d9c7ea95546"
   },
   {
     "value": "Tell Blizzard I'd make a great action figure!",
     "faction": "Human",
-    "unit": "Dragon Hawk",
-    "action": "Pissed"
+    "unit": "High Elf Dragonhawk",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "a92c3a8e-2296-5ec1-9ded-0d9c7ea95546"
   },
   {
     "value": "I am going for an even bigger role in the expansion pack!",
     "faction": "Human",
-    "unit": "Dragon Hawk",
-    "action": "Pissed"
+    "unit": "High Elf Dragonhawk",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "a92c3a8e-2296-5ec1-9ded-0d9c7ea95546"
   },
   {
     "value": "We're currently hovering at a comfortable altitude of fifteen feet.",
     "faction": "Human",
-    "unit": "Dragon Hawk",
-    "action": "Pissed"
+    "unit": "High Elf Dragonhawk",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "a92c3a8e-2296-5ec1-9ded-0d9c7ea95546"
   }
 ]

@@ -3,1800 +3,2700 @@
     "value": "The damned stand ready...",
     "faction": "Undead",
     "unit": "Acolyte",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
   },
   {
     "value": "My life for Ner'zhul.",
     "faction": "Undead",
     "unit": "Acolyte",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
   },
   {
     "value": "I wish only to serve.",
     "faction": "Undead",
     "unit": "Acolyte",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
   },
   {
     "value": "Thy bidding, master?",
     "faction": "Undead",
     "unit": "Acolyte",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
   },
   {
     "value": "Where shall my blood be spilled?",
     "faction": "Undead",
     "unit": "Acolyte",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
   },
   {
     "value": "I bow to your will.",
     "faction": "Undead",
     "unit": "Acolyte",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
   },
   {
     "value": "Yes, master.",
     "faction": "Undead",
     "unit": "Acolyte",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
   },
   {
     "value": "I gladly obey.",
     "faction": "Undead",
     "unit": "Acolyte",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
   },
   {
     "value": "My fate is sealed.",
     "faction": "Undead",
     "unit": "Acolyte",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
   },
   {
     "value": "Thy will be done.",
     "faction": "Undead",
     "unit": "Acolyte",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
   },
   {
     "value": "Death shall reign.",
     "faction": "Undead",
     "unit": "Acolyte",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
   },
   {
     "value": "Fear the Reaper!",
     "faction": "Undead",
     "unit": "Acolyte",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
   },
   {
     "value": "Let life cease!",
     "faction": "Undead",
     "unit": "Acolyte",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
   },
   {
     "value": "I'm sanctified!",
     "faction": "Undead",
     "unit": "Acolyte",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
   },
   {
     "value": "This is the hour of the Scourge!",
     "faction": "Undead",
     "unit": "Acolyte",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
   },
   {
     "value": "Death shall cleanse the world!",
     "faction": "Undead",
     "unit": "Acolyte",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
   },
   {
     "value": "All I see is blackness. Oh, my hood's down.",
     "faction": "Undead",
     "unit": "Acolyte",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
   },
   {
     "value": "Let blood drown the weak!",
     "faction": "Undead",
     "unit": "Acolyte",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
   },
   {
     "value": "My life for Aiur... er– I– I mean Ner'Zhul.",
     "faction": "Undead",
     "unit": "Acolyte",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
   },
   {
     "value": "The living be cursed!",
     "faction": "Undead",
     "unit": "Acolyte",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
   },
   {
     "value": "Would you like to know the secret to eternal happiness? Page 246.",
     "faction": "Undead",
     "unit": "Acolyte",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
   },
   {
     "value": "Once you head down the dark path, forever will it dominate your destiny. And you get dental.",
     "faction": "Undead",
     "unit": "Acolyte",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
   },
   {
     "value": "The damned return.",
     "faction": "Undead",
     "unit": "Shade",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
   },
   {
     "value": "I shall be your eyes.",
     "faction": "Undead",
     "unit": "Shade",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
   },
   {
     "value": "My sight is yours.",
     "faction": "Undead",
     "unit": "Shade",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
   },
   {
     "value": "What needs revealing?",
     "faction": "Undead",
     "unit": "Shade",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
   },
   {
     "value": "Let's see...",
     "faction": "Undead",
     "unit": "Shade",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
   },
   {
     "value": "I'll look into it...",
     "faction": "Undead",
     "unit": "Shade",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
   },
   {
     "value": "All shall be revealed.",
     "faction": "Undead",
     "unit": "Shade",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
   },
   {
     "value": "I go unseen.",
     "faction": "Undead",
     "unit": "Shade",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
   },
   {
     "value": "More souls for the master!",
     "faction": "Undead",
     "unit": "Shade",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
   },
   {
     "value": "Dieeeeeeeeeeeee!",
     "faction": "Undead",
     "unit": "Shade",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
   },
   {
     "value": "Let screams fill the air!",
     "faction": "Undead",
     "unit": "Shade",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
   },
   {
     "value": "Feel my wrath!",
     "faction": "Undead",
     "unit": "Shade",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
   },
   {
     "value": "For the master!",
     "faction": "Undead",
     "unit": "Shade",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
   },
   {
     "value": "Glory to the scourge!",
     "faction": "Undead",
     "unit": "Shade",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
   },
   {
     "value": "I am but a shadow of my former self.",
     "faction": "Undead",
     "unit": "Shade",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
   },
   {
     "value": "What I do in death echoes in eternity.",
     "faction": "Undead",
     "unit": "Shade",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
   },
   {
     "value": "Death is its own reward.",
     "faction": "Undead",
     "unit": "Shade",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
   },
   {
     "value": "I'm having a mid-death crisis.",
     "faction": "Undead",
     "unit": "Shade",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
   },
   {
     "value": "I-I-I-I ain't got no bo-o-o-o-ody!",
     "faction": "Undead",
     "unit": "Shade",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
   },
   {
     "value": "I'm invisible, gaseous, and deadly.",
     "faction": "Undead",
     "unit": "Shade",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
   },
   {
     "value": "Wuzzap.",
     "faction": "Undead",
     "unit": "Ghoul",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "586559d9-c70e-59d2-b0ed-ec5725e1a217"
   },
   {
     "value": "Must feed!",
     "faction": "Undead",
     "unit": "Ghoul",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "586559d9-c70e-59d2-b0ed-ec5725e1a217"
   },
   {
     "value": "Me eat dead people!",
     "faction": "Undead",
     "unit": "Ghoul",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "586559d9-c70e-59d2-b0ed-ec5725e1a217"
   },
   {
     "value": "Me scary.",
     "faction": "Undead",
     "unit": "Ghoul",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "586559d9-c70e-59d2-b0ed-ec5725e1a217"
   },
   {
     "value": "Me eat brains!",
     "faction": "Undead",
     "unit": "Ghoul",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "586559d9-c70e-59d2-b0ed-ec5725e1a217"
   },
   {
     "value": "No guts, no gory.",
     "faction": "Undead",
     "unit": "Ghoul",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "586559d9-c70e-59d2-b0ed-ec5725e1a217"
   },
   {
     "value": "Us hear and obey.",
     "faction": "Undead",
     "unit": "Abomination",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
   },
   {
     "value": "What we do?",
     "faction": "Undead",
     "unit": "Abomination",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
   },
   {
     "value": "Hurghm?",
     "faction": "Undead",
     "unit": "Abomination",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
   },
   {
     "value": "We done waiting!",
     "faction": "Undead",
     "unit": "Abomination",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
   },
   {
     "value": "Hmmm?",
     "faction": "Undead",
     "unit": "Abomination",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
   },
   {
     "value": "Us go.",
     "faction": "Undead",
     "unit": "Abomination",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
   },
   {
     "value": "Rend and tear!",
     "faction": "Undead",
     "unit": "Abomination",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
   },
   {
     "value": "Kill!",
     "faction": "Undead",
     "unit": "Abomination",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
   },
   {
     "value": "Tear meat!",
     "faction": "Undead",
     "unit": "Abomination",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
   },
   {
     "value": "Rip!",
     "faction": "Undead",
     "unit": "Abomination",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
   },
   {
     "value": "ALL FOR ONE!",
     "faction": "Undead",
     "unit": "Abomination",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
   },
   {
     "value": "We come in peace...es .",
     "faction": "Undead",
     "unit": "Abomination",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
   },
   {
     "value": "Happy entrails.",
     "faction": "Undead",
     "unit": "Abomination",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
   },
   {
     "value": "You got us in stitches.",
     "faction": "Undead",
     "unit": "Abomination",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
   },
   {
     "value": "Us dead sexy!",
     "faction": "Undead",
     "unit": "Abomination",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
   },
   {
     "value": "Chunk!",
     "faction": "Undead",
     "unit": "Abomination",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
   },
   {
     "value": "The sleeper awakes.",
     "faction": "Undead",
     "unit": "Crypt Fiend",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
   },
   {
     "value": "Proceed.",
     "faction": "Undead",
     "unit": "Crypt Fiend",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
   },
   {
     "value": "You rang?",
     "faction": "Undead",
     "unit": "Crypt Fiend",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
   },
   {
     "value": "Make your choice.",
     "faction": "Undead",
     "unit": "Crypt Fiend",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
   },
   {
     "value": "I await.",
     "faction": "Undead",
     "unit": "Crypt Fiend",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
   },
   {
     "value": "By Nerub.",
     "faction": "Undead",
     "unit": "Crypt Fiend",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
   },
   {
     "value": "What's done is done.",
     "faction": "Undead",
     "unit": "Crypt Fiend",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
   },
   {
     "value": "The time is now.",
     "faction": "Undead",
     "unit": "Crypt Fiend",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
   },
   {
     "value": "Yes, master.",
     "faction": "Undead",
     "unit": "Crypt Fiend",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
   },
   {
     "value": "For the Spider Kingdom.",
     "faction": "Undead",
     "unit": "Crypt Fiend",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
   },
   {
     "value": "Be drained of life.",
     "faction": "Undead",
     "unit": "Crypt Fiend",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
   },
   {
     "value": "You may feel a sting.",
     "faction": "Undead",
     "unit": "Crypt Fiend",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
   },
   {
     "value": "Fall before the Scourge!",
     "faction": "Undead",
     "unit": "Crypt Fiend",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
   },
   {
     "value": "What a tangled web we weave.",
     "faction": "Undead",
     "unit": "Crypt Fiend",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
   },
   {
     "value": "Spider sense... tingling.",
     "faction": "Undead",
     "unit": "Crypt Fiend",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
   },
   {
     "value": "Last week my top half was on the Discovery Channel...",
     "faction": "Undead",
     "unit": "Crypt Fiend",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
   },
   {
     "value": "...and my bottom half was on Animal Planet.",
     "faction": "Undead",
     "unit": "Crypt Fiend",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
   },
   {
     "value": "My ass always gets bloated during my spin cycle.",
     "faction": "Undead",
     "unit": "Crypt Fiend",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
   },
   {
     "value": "I like chicks that are into bandage.",
     "faction": "Undead",
     "unit": "Crypt Fiend",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
   },
   {
     "value": "I'm stuck on bandages 'cause bandages are stuck on me.",
     "faction": "Undead",
     "unit": "Crypt Fiend",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
   },
   {
     "value": "Let my cries chill the living.",
     "faction": "Undead",
     "unit": "Banshee",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "66cabc94-06b4-5563-9f10-02d067064297"
   },
   {
     "value": "You called me?",
     "faction": "Undead",
     "unit": "Banshee",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "66cabc94-06b4-5563-9f10-02d067064297"
   },
   {
     "value": "You brought me back!?",
     "faction": "Undead",
     "unit": "Banshee",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "66cabc94-06b4-5563-9f10-02d067064297"
   },
   {
     "value": "Why have I been summoned?",
     "faction": "Undead",
     "unit": "Banshee",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "66cabc94-06b4-5563-9f10-02d067064297"
   },
   {
     "value": "What must I do?",
     "faction": "Undead",
     "unit": "Banshee",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "66cabc94-06b4-5563-9f10-02d067064297"
   },
   {
     "value": "Hi...",
     "faction": "Undead",
     "unit": "Banshee",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "66cabc94-06b4-5563-9f10-02d067064297"
   },
   {
     "value": "If it pleases you.",
     "faction": "Undead",
     "unit": "Banshee",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "66cabc94-06b4-5563-9f10-02d067064297"
   },
   {
     "value": "Yes.",
     "faction": "Undead",
     "unit": "Banshee",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "66cabc94-06b4-5563-9f10-02d067064297"
   },
   {
     "value": "If I must...",
     "faction": "Undead",
     "unit": "Banshee",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "66cabc94-06b4-5563-9f10-02d067064297"
   },
   {
     "value": "I must obey...",
     "faction": "Undead",
     "unit": "Banshee",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "66cabc94-06b4-5563-9f10-02d067064297"
   },
   {
     "value": "If that is your wish.",
     "faction": "Undead",
     "unit": "Banshee",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "66cabc94-06b4-5563-9f10-02d067064297"
   },
   {
     "value": "Die!",
     "faction": "Undead",
     "unit": "Banshee",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "66cabc94-06b4-5563-9f10-02d067064297"
   },
   {
     "value": "Feel my pain!",
     "faction": "Undead",
     "unit": "Banshee",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "66cabc94-06b4-5563-9f10-02d067064297"
   },
   {
     "value": "Your soul shall burn.",
     "faction": "Undead",
     "unit": "Banshee",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "66cabc94-06b4-5563-9f10-02d067064297"
   },
   {
     "value": "My death awaits!",
     "faction": "Undead",
     "unit": "Banshee",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "66cabc94-06b4-5563-9f10-02d067064297"
   },
   {
     "value": "LET THIS TORMENT END!!",
     "faction": "Undead",
     "unit": "Banshee",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "66cabc94-06b4-5563-9f10-02d067064297"
   },
   {
     "value": "How long must I suffer?",
     "faction": "Undead",
     "unit": "Banshee",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "66cabc94-06b4-5563-9f10-02d067064297"
   },
   {
     "value": "U-N-D-E-A-D. Find out what it means to me.",
     "faction": "Undead",
     "unit": "Banshee",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "66cabc94-06b4-5563-9f10-02d067064297"
   },
   {
     "value": "There is no banshee. Only Zuul!",
     "faction": "Undead",
     "unit": "Banshee",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "66cabc94-06b4-5563-9f10-02d067064297"
   },
   {
     "value": "I hate you, I hate you! Call me.",
     "faction": "Undead",
     "unit": "Banshee",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "66cabc94-06b4-5563-9f10-02d067064297"
   },
   {
     "value": "The shadows beckon.",
     "faction": "Undead",
     "unit": "Necromancer",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
   },
   {
     "value": "The dead shall serve.",
     "faction": "Undead",
     "unit": "Necromancer",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
   },
   {
     "value": "The restless dead await.",
     "faction": "Undead",
     "unit": "Necromancer",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
   },
   {
     "value": "What does the shadow will?",
     "faction": "Undead",
     "unit": "Necromancer",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
   },
   {
     "value": "This better be good.",
     "faction": "Undead",
     "unit": "Necromancer",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
   },
   {
     "value": "Intriguing.",
     "faction": "Undead",
     "unit": "Necromancer",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
   },
   {
     "value": "For the Lich King.",
     "faction": "Undead",
     "unit": "Necromancer",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
   },
   {
     "value": "Let darkness guide me...",
     "faction": "Undead",
     "unit": "Necromancer",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
   },
   {
     "value": "As the shadow wills.",
     "faction": "Undead",
     "unit": "Necromancer",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
   },
   {
     "value": "Die!",
     "faction": "Undead",
     "unit": "Necromancer",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
   },
   {
     "value": "Tremble before the Scourge!",
     "faction": "Undead",
     "unit": "Necromancer",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
   },
   {
     "value": "None.. shall survive!",
     "faction": "Undead",
     "unit": "Necromancer",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
   },
   {
     "value": "They'll all be mine, in the end!",
     "faction": "Undead",
     "unit": "Necromancer",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
   },
   {
     "value": "Every man lives. Not every man truly dies.",
     "faction": "Undead",
     "unit": "Necromancer",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
   },
   {
     "value": "I love the dead... Frequently.",
     "faction": "Undead",
     "unit": "Necromancer",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
   },
   {
     "value": "I see undead people.",
     "faction": "Undead",
     "unit": "Necromancer",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
   },
   {
     "value": "Do you smell something? Oh, it's just the troops.",
     "faction": "Undead",
     "unit": "Necromancer",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
   },
   {
     "value": "Right click for hot undead action!",
     "faction": "Undead",
     "unit": "Necromancer",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
   },
   {
     "value": "The pact is sealed!",
     "faction": "Undead",
     "unit": "Death Knight",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": true,
+    "isMelee": true,
+    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
   },
   {
     "value": "You called?",
     "faction": "Undead",
     "unit": "Death Knight",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
   },
   {
     "value": "My patience has ended!",
     "faction": "Undead",
     "unit": "Death Knight",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
   },
   {
     "value": "I am darkness!",
     "faction": "Undead",
     "unit": "Death Knight",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
   },
   {
     "value": "My vengeance is yours!",
     "faction": "Undead",
     "unit": "Death Knight",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
   },
   {
     "value": "Let battle be joined!",
     "faction": "Undead",
     "unit": "Death Knight",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
   },
   {
     "value": "As you order!",
     "faction": "Undead",
     "unit": "Death Knight",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
   },
   {
     "value": "Hyah!",
     "faction": "Undead",
     "unit": "Death Knight",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
   },
   {
     "value": "At last!",
     "faction": "Undead",
     "unit": "Death Knight",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
   },
   {
     "value": "For the Lich King!",
     "faction": "Undead",
     "unit": "Death Knight",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
   },
   {
     "value": "Feel my wrath!",
     "faction": "Undead",
     "unit": "Death Knight",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
   },
   {
     "value": "By Ner'zhul!",
     "faction": "Undead",
     "unit": "Death Knight",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
   },
   {
     "value": "Ride… or die!",
     "faction": "Undead",
     "unit": "Death Knight",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
   },
   {
     "value": "Let terror reign!",
     "faction": "Undead",
     "unit": "Death Knight",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": true,
+    "isMelee": true,
+    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
   },
   {
     "value": "Has Hell frozen over yet?",
     "faction": "Undead",
     "unit": "Death Knight",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
   },
   {
     "value": "I am the one horseman of the Apocalypse!",
     "faction": "Undead",
     "unit": "Death Knight",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
   },
   {
     "value": "I hate people, but I love gatherings.",
     "faction": "Undead",
     "unit": "Death Knight",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
   },
   {
     "value": "I'm a Death Knight Rider! Muh ha ha ha!",
     "faction": "Undead",
     "unit": "Death Knight",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
   },
   {
     "value": "Blucher!",
     "faction": "Undead",
     "unit": "Death Knight",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
   },
   {
     "value": "Don't touch me. I'm evil.",
     "faction": "Undead",
     "unit": "Death Knight",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
   },
   {
     "value": "The ancient evil survives!",
     "faction": "Undead",
     "unit": "Lich",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": true,
+    "isMelee": true,
+    "id": "c1720079-b265-51e9-8740-464b3652a453"
   },
   {
     "value": "I am sworn to Ner'zhul!",
     "faction": "Undead",
     "unit": "Lich",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "c1720079-b265-51e9-8740-464b3652a453"
   },
   {
     "value": "Thy bidding?",
     "faction": "Undead",
     "unit": "Lich",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "c1720079-b265-51e9-8740-464b3652a453"
   },
   {
     "value": "Direct me!",
     "faction": "Undead",
     "unit": "Lich",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "c1720079-b265-51e9-8740-464b3652a453"
   },
   {
     "value": "Yours to command!",
     "faction": "Undead",
     "unit": "Lich",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "c1720079-b265-51e9-8740-464b3652a453"
   },
   {
     "value": "So be it!",
     "faction": "Undead",
     "unit": "Lich",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "c1720079-b265-51e9-8740-464b3652a453"
   },
   {
     "value": "By your words!",
     "faction": "Undead",
     "unit": "Lich",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "c1720079-b265-51e9-8740-464b3652a453"
   },
   {
     "value": "It is destined!",
     "faction": "Undead",
     "unit": "Lich",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "c1720079-b265-51e9-8740-464b3652a453"
   },
   {
     "value": "Chilling!",
     "faction": "Undead",
     "unit": "Lich",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "c1720079-b265-51e9-8740-464b3652a453"
   },
   {
     "value": "Dead man walking...",
     "faction": "Undead",
     "unit": "Lich",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "c1720079-b265-51e9-8740-464b3652a453"
   },
   {
     "value": "For the Burning Legion!",
     "faction": "Undead",
     "unit": "Lich",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": true,
+    "isMelee": true,
+    "id": "c1720079-b265-51e9-8740-464b3652a453"
   },
   {
     "value": "Embrace the end!",
     "faction": "Undead",
     "unit": "Lich",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "c1720079-b265-51e9-8740-464b3652a453"
   },
   {
     "value": "I will crush you!",
     "faction": "Undead",
     "unit": "Lich",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "c1720079-b265-51e9-8740-464b3652a453"
   },
   {
     "value": "Embrace the cold!",
     "faction": "Undead",
     "unit": "Lich",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "c1720079-b265-51e9-8740-464b3652a453"
   },
   {
     "value": "Could you chew that up for me?",
     "faction": "Undead",
     "unit": "Lich",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "c1720079-b265-51e9-8740-464b3652a453"
   },
   {
     "value": "I'm so poor, I don't even have calcium deposits.",
     "faction": "Undead",
     "unit": "Lich",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "c1720079-b265-51e9-8740-464b3652a453"
   },
   {
     "value": "I am the ghost of WarCraft past.",
     "faction": "Undead",
     "unit": "Lich",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "c1720079-b265-51e9-8740-464b3652a453"
   },
   {
     "value": "I hear that Banshee's a real screamer.",
     "faction": "Undead",
     "unit": "Lich",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "c1720079-b265-51e9-8740-464b3652a453"
   },
   {
     "value": "You should see the skeletons in my closet.",
     "faction": "Undead",
     "unit": "Lich",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "c1720079-b265-51e9-8740-464b3652a453"
   },
   {
     "value": "Imhotep…",
     "faction": "Undead",
     "unit": "Lich",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "c1720079-b265-51e9-8740-464b3652a453"
   },
   {
     "value": "All the ladies dig rigor mortis.",
     "faction": "Undead",
     "unit": "Lich",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "c1720079-b265-51e9-8740-464b3652a453"
   },
   {
     "value": "You are the weakest Lich, goodbye.",
     "faction": "Undead",
     "unit": "Lich",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "c1720079-b265-51e9-8740-464b3652a453"
   },
   {
     "value": "The night beckons!",
     "faction": "Undead",
     "unit": "Dreadlord",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": true,
+    "isMelee": true,
+    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
   },
   {
     "value": "Greetings!",
     "faction": "Undead",
     "unit": "Dreadlord",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
   },
   {
     "value": "What, mortal?",
     "faction": "Undead",
     "unit": "Dreadlord",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
   },
   {
     "value": "What is it now?",
     "faction": "Undead",
     "unit": "Dreadlord",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
   },
   {
     "value": "I must hunt soon!",
     "faction": "Undead",
     "unit": "Dreadlord",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
   },
   {
     "value": "That was my plan.",
     "faction": "Undead",
     "unit": "Dreadlord",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
   },
   {
     "value": "Agreed.",
     "faction": "Undead",
     "unit": "Dreadlord",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
   },
   {
     "value": "Very well.",
     "faction": "Undead",
     "unit": "Dreadlord",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
   },
   {
     "value": "You thought of that?",
     "faction": "Undead",
     "unit": "Dreadlord",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
   },
   {
     "value": "I hunger!",
     "faction": "Undead",
     "unit": "Dreadlord",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
   },
   {
     "value": "Death rages!",
     "faction": "Undead",
     "unit": "Dreadlord",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
   },
   {
     "value": "Die!",
     "faction": "Undead",
     "unit": "Dreadlord",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
   },
   {
     "value": "Your soul is mine!",
     "faction": "Undead",
     "unit": "Dreadlord",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": true,
+    "isMelee": true,
+    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
   },
   {
     "value": "If I have wings, why am I always walking?",
     "faction": "Undead",
     "unit": "Dreadlord",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
   },
   {
     "value": "Yes? Argh, for the last time: I'm a DREADlord, not a DRUGlord.",
     "faction": "Undead",
     "unit": "Dreadlord",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
   },
   {
     "value": "This is not a dress. It's the standard Dreadlord uniform.",
     "faction": "Undead",
     "unit": "Dreadlord",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
   },
   {
     "value": "Dressed to kill. Bleh!",
     "faction": "Undead",
     "unit": "Dreadlord",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
   },
   {
     "value": "Yes? Darkness, hey, what's up? The Demon Hunter left you a message? No, I don't have his number.",
     "faction": "Undead",
     "unit": "Dreadlord",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
   },
   {
     "value": "And then, after I overthrow this fool… Oh! Hello! I – I didn't know you were there.",
     "faction": "Undead",
     "unit": "Dreadlord",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
   },
   {
     "value": "Imbecile!",
     "faction": "Undead",
     "unit": "Dreadlord",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
   },
   {
     "value": "From the depths I come!",
     "faction": "Undead",
     "unit": "Crypt Lord",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": true,
+    "isMelee": true,
+    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
   },
   {
     "value": "Speak.",
     "faction": "Undead",
     "unit": "Crypt Lord",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
   },
   {
     "value": "I have heard the summons.",
     "faction": "Undead",
     "unit": "Crypt Lord",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
   },
   {
     "value": "Time is fleeting.",
     "faction": "Undead",
     "unit": "Crypt Lord",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
   },
   {
     "value": "My might cannot be matched!",
     "faction": "Undead",
     "unit": "Crypt Lord",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
   },
   {
     "value": "I serve only the Frozen Throne.",
     "faction": "Undead",
     "unit": "Crypt Lord",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
   },
   {
     "value": "I'll see to it.",
     "faction": "Undead",
     "unit": "Crypt Lord",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
   },
   {
     "value": "By Nerub.",
     "faction": "Undead",
     "unit": "Crypt Lord",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
   },
   {
     "value": "Indubitably.",
     "faction": "Undead",
     "unit": "Crypt Lord",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
   },
   {
     "value": "Kinky.",
     "faction": "Undead",
     "unit": "Crypt Lord",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
   },
   {
     "value": "I'll consume the living and the dead!",
     "faction": "Undead",
     "unit": "Crypt Lord",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
   },
   {
     "value": "Oblivion awaits!",
     "faction": "Undead",
     "unit": "Crypt Lord",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
   },
   {
     "value": "Feel the venom of Nerub!",
     "faction": "Undead",
     "unit": "Crypt Lord",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
   },
   {
     "value": "Raid.",
     "faction": "Undead",
     "unit": "Crypt Lord",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
   },
   {
     "value": "For the Frozen Throne!",
     "faction": "Undead",
     "unit": "Crypt Lord",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": true,
+    "isMelee": true,
+    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
   },
   {
     "value": "The Scourge will devour all!",
     "faction": "Undead",
     "unit": "Crypt Lord",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
   },
   {
     "value": "The strands of destiny weave only a web of death.",
     "faction": "Undead",
     "unit": "Crypt Lord",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
   },
   {
     "value": "It was good to be the king.",
     "faction": "Undead",
     "unit": "Crypt Lord",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
   },
   {
     "value": "Humans check in. They don't check out.",
     "faction": "Undead",
     "unit": "Crypt Lord",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
   },
   {
     "value": "I'm the fifth beatle.",
     "faction": "Undead",
     "unit": "Crypt Lord",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
   },
   {
     "value": "And they say Blizzard games don't have bugs.",
     "faction": "Undead",
     "unit": "Crypt Lord",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
   },
   {
     "value": "You called?",
     "faction": "Undead",
     "unit": "Kel'Thuzad",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
   },
   {
     "value": "Is there something amiss?",
     "faction": "Undead",
     "unit": "Kel'Thuzad",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
   },
   {
     "value": "My talents are yours.",
     "faction": "Undead",
     "unit": "Kel'Thuzad",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
   },
   {
     "value": "I've been thinking.",
     "faction": "Undead",
     "unit": "Kel'Thuzad",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
   },
   {
     "value": "Hmm, that sounds logical.",
     "faction": "Undead",
     "unit": "Kel'Thuzad",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
   },
   {
     "value": "Yes, right away.",
     "faction": "Undead",
     "unit": "Kel'Thuzad",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
   },
   {
     "value": "A fateful choice.",
     "faction": "Undead",
     "unit": "Kel'Thuzad",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
   },
   {
     "value": "Indeed.",
     "faction": "Undead",
     "unit": "Kel'Thuzad",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
   },
   {
     "value": "Burn!",
     "faction": "Undead",
     "unit": "Kel'Thuzad",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
   },
   {
     "value": "In the Lich King's name!",
     "faction": "Undead",
     "unit": "Kel'Thuzad",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
   },
   {
     "value": "Taste this!",
     "faction": "Undead",
     "unit": "Kel'Thuzad",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
   },
   {
     "value": "For the Lich King!",
     "faction": "Undead",
     "unit": "Kel'Thuzad",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": true,
+    "isMelee": false,
+    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
   },
   {
     "value": "The Cult of the Damned...I need to print more brochures.",
     "faction": "Undead",
     "unit": "Kel'Thuzad",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
   },
   {
     "value": "I always wanted to start my own religion...so I did!",
     "faction": "Undead",
     "unit": "Kel'Thuzad",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
   },
   {
     "value": "I will await my eternal reward.",
     "faction": "Undead",
     "unit": "Kel'Thuzad",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
   },
   {
     "value": "This horned thing on my head is killing me!",
     "faction": "Undead",
     "unit": "Kel'Thuzad",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
   },
   {
     "value": "Fifty-thousand gold a year in childcare and they call it a cult?!",
     "faction": "Undead",
     "unit": "Kel'Thuzad",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
   },
   {
     "value": "Speak, fool!",
     "faction": "Undead",
     "unit": "Arthas Menethil",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
   },
   {
     "value": "No one orders me around!",
     "faction": "Undead",
     "unit": "Arthas Menethil",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
   },
   {
     "value": "Tread lightly.",
     "faction": "Undead",
     "unit": "Arthas Menethil",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
   },
   {
     "value": "What is it now?",
     "faction": "Undead",
     "unit": "Arthas Menethil",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
   },
   {
     "value": "Finally.",
     "faction": "Undead",
     "unit": "Arthas Menethil",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
   },
   {
     "value": "Frostmourne hungers.",
     "faction": "Undead",
     "unit": "Arthas Menethil",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
   },
   {
     "value": "This is more like it.",
     "faction": "Undead",
     "unit": "Arthas Menethil",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
   },
   {
     "value": "Ah! At last.",
     "faction": "Undead",
     "unit": "Arthas Menethil",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
   },
   {
     "value": "For the Lich King!",
     "faction": "Undead",
     "unit": "Arthas Menethil",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
   },
   {
     "value": "Faithless coward!",
     "faction": "Undead",
     "unit": "Arthas Menethil",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
   },
   {
     "value": "You will know endless torment!",
     "faction": "Undead",
     "unit": "Arthas Menethil",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
   },
   {
     "value": "Your pain shall be legendary!",
     "faction": "Undead",
     "unit": "Arthas Menethil",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
   },
   {
     "value": "I'll make sure you suffer.",
     "faction": "Undead",
     "unit": "Arthas Menethil",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
   },
   {
     "value": "Now, Frostmourne!",
     "faction": "Undead",
     "unit": "Arthas Menethil",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
   },
   {
     "value": "Glory to the Scourge!",
     "faction": "Undead",
     "unit": "Arthas Menethil",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": true,
+    "isMelee": false,
+    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
   },
   {
     "value": "I was a fool to trust in the light.",
     "faction": "Undead",
     "unit": "Arthas Menethil",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
   },
   {
     "value": "The Lich King has given me true power!",
     "faction": "Undead",
     "unit": "Arthas Menethil",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
   },
   {
-    "value": "I will be twice the king my father ever was.",
+    "value": "I'll be twice the king my father ever was.",
     "faction": "Undead",
     "unit": "Arthas Menethil",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
   },
   {
     "value": "Lordaeron will be reborn.",
     "faction": "Undead",
     "unit": "Arthas Menethil",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
   },
   {
     "value": "Who is this 'darkness' anyway?",
     "faction": "Undead",
     "unit": "Arthas Menethil",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
   },
   {
     "value": "What is it now?",
     "faction": "Undead",
     "unit": "Tichondrius",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
   },
   {
     "value": "I grow tired of waiting.",
     "faction": "Undead",
     "unit": "Tichondrius",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
   },
   {
     "value": "Insufferable lout.",
     "faction": "Undead",
     "unit": "Tichondrius",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
   },
   {
     "value": "I have better things to do.",
     "faction": "Undead",
     "unit": "Tichondrius",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
   },
   {
     "value": "For now.",
     "faction": "Undead",
     "unit": "Tichondrius",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
   },
   {
     "value": "I'll play along.",
     "faction": "Undead",
     "unit": "Tichondrius",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
   },
   {
-    "value": "Die Fool.",
+    "value": "Die, Fool!",
     "faction": "Undead",
     "unit": "Tichondrius",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
   },
   {
     "value": "I must feed.",
     "faction": "Undead",
     "unit": "Tichondrius",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
   },
   {
     "value": "Your life will sustain me.",
     "faction": "Undead",
     "unit": "Tichondrius",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
   },
   {
     "value": "Ash nazg gimbatul!",
     "faction": "Undead",
     "unit": "Tichondrius",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
   },
   {
     "value": "Dreadlords… do it in the dark.",
     "faction": "Undead",
     "unit": "Tichondrius",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
   },
   {
     "value": "I get cranky when I haven't been fed.",
     "faction": "Undead",
     "unit": "Tichondrius",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
   },
   {
     "value": "I must feast upon souls!",
     "faction": "Undead",
     "unit": "Tichondrius",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
   },
   {
     "value": "The Legion needs… a better dental plan. These fangs are killing me!",
     "faction": "Undead",
     "unit": "Tichondrius",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
   },
   {
     "value": "Darkness… needs to get DSL. His line is always busy.",
     "faction": "Undead",
     "unit": "Tichondrius",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
   },
   {
     "value": "What joy is there in this curse?",
     "faction": "Undead",
     "unit": "Sylvanas Windrunner",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": true,
+    "isMelee": false,
+    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
   },
   {
     "value": "I'm here.",
     "faction": "Undead",
     "unit": "Sylvanas Windrunner",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
   },
   {
     "value": "Show me a target.",
     "faction": "Undead",
     "unit": "Sylvanas Windrunner",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
   },
   {
     "value": "Give the order.",
     "faction": "Undead",
     "unit": "Sylvanas Windrunner",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
   },
   {
     "value": "I'm listening.",
     "faction": "Undead",
     "unit": "Sylvanas Windrunner",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
   },
   {
     "value": "It's time to even the scales.",
     "faction": "Undead",
     "unit": "Sylvanas Windrunner",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
   },
   {
     "value": "Done!",
     "faction": "Undead",
     "unit": "Sylvanas Windrunner",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
   },
   {
     "value": "I have no time for games.",
     "faction": "Undead",
     "unit": "Sylvanas Windrunner",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
   },
   {
     "value": "The moment is upon us!",
     "faction": "Undead",
     "unit": "Sylvanas Windrunner",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
   },
   {
     "value": "Of course!",
     "faction": "Undead",
     "unit": "Sylvanas Windrunner",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
   },
   {
     "value": "Show them no mercy!",
     "faction": "Undead",
     "unit": "Sylvanas Windrunner",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
   },
   {
     "value": "Push the attack!",
     "faction": "Undead",
     "unit": "Sylvanas Windrunner",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
   },
   {
     "value": "Let none survive!",
     "faction": "Undead",
     "unit": "Sylvanas Windrunner",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
   },
   {
     "value": "May my aim be true.",
     "faction": "Undead",
     "unit": "Sylvanas Windrunner",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
   },
   {
     "value": "Victory draws near!",
     "faction": "Undead",
     "unit": "Sylvanas Windrunner",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": true,
+    "isMelee": false,
+    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
   },
   {
     "value": "My will is my own.",
     "faction": "Undead",
     "unit": "Sylvanas Windrunner",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
   },
   {
     "value": "I have my own reasons for seeking vengeance.",
     "faction": "Undead",
     "unit": "Sylvanas Windrunner",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
   },
   {
     "value": "Arthas murdered my people and turned me into this...monstrosity.",
     "faction": "Undead",
     "unit": "Sylvanas Windrunner",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
   },
   {
     "value": "What are we if not slaves to this torment?",
     "faction": "Undead",
     "unit": "Sylvanas Windrunner",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
   },
   {
     "value": "I have returned.",
     "faction": "Undead",
     "unit": "Varimathras",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
   },
   {
     "value": "How will this benefit me?",
     "faction": "Undead",
     "unit": "Varimathras",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
   },
   {
     "value": "Don't waste my time.",
     "faction": "Undead",
     "unit": "Varimathras",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
   },
   {
     "value": "You have an idea?",
     "faction": "Undead",
     "unit": "Varimathras",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
   },
   {
     "value": "You call on me?",
     "faction": "Undead",
     "unit": "Varimathras",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
   },
   {
     "value": "I await your counsel.",
     "faction": "Undead",
     "unit": "Varimathras",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
   },
   {
     "value": "I'll do what I must.",
     "faction": "Undead",
     "unit": "Varimathras",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
   },
   {
     "value": "Stay out of my way.",
     "faction": "Undead",
     "unit": "Varimathras",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
   },
   {
     "value": "By any means necessary.",
     "faction": "Undead",
     "unit": "Varimathras",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
   },
   {
     "value": "Right.",
     "faction": "Undead",
     "unit": "Varimathras",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
   },
   {
     "value": "Of course.",
     "faction": "Undead",
     "unit": "Varimathras",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
   },
   {
     "value": "Wake up, time to die.",
     "faction": "Undead",
     "unit": "Varimathras",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
   },
   {
     "value": "None can oppose me.",
     "faction": "Undead",
     "unit": "Varimathras",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
   },
   {
     "value": "This one is mine.",
     "faction": "Undead",
     "unit": "Varimathras",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
   },
   {
     "value": "Vanquish the weak!",
     "faction": "Undead",
     "unit": "Varimathras",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
   },
   {
     "value": "For the Nathrezim!",
     "faction": "Undead",
     "unit": "Varimathras",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
   },
   {
     "value": "I love it when a plan comes together.",
     "faction": "Undead",
     "unit": "Varimathras",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
   },
   {
     "value": "Sorry, I don't do interviews.",
     "faction": "Undead",
     "unit": "Varimathras",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
   },
   {
     "value": "We're not a cult so much as a maniacal group of fanatical, blade-wielding zealots.",
     "faction": "Undead",
     "unit": "Varimathras",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
   },
   {
     "value": "I'll take a huge, juicy, bloody bite out of-- What were we talking about?",
     "faction": "Undead",
     "unit": "Varimathras",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
   },
   {
     "value": "I'm always on the winning side.",
     "faction": "Undead",
     "unit": "Varimathras",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
   },
   {
     "value": "Join me, or die.",
     "faction": "Undead",
     "unit": "Varimathras",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
   },
   {
     "value": "Don't worry about the fine print, the soul consumption clause is never exercised.",
     "faction": "Undead",
     "unit": "Varimathras",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
   },
   {
     "value": "And that concludes our demonstration... any questions?",
     "faction": "Undead",
     "unit": "Varimathras",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
   }
 ]

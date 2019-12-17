@@ -7,13 +7,13 @@ const cheerio = require('cheerio');
 const fs = require('fs');
 
 const URL = 'https://wowwiki.fandom.com/wiki/Quotes_of_Warcraft_III';
-const OUTPUT_DIRECTORY = './quotes/extract';
+const DIRECTORY_OUTPUT = './quotes/extract';
 
 /**
  * Returns true or false depending on if the 'unit' should be ignored
  * @param {string} unit - the unit to inspect
  */
-function isIgnoredUnit(unit) {
+const isIgnoredUnit = unit => {
   if (
     unit.trim() == 'Warning quotes' ||
     unit.trim() == 'Dialogue' ||
@@ -24,7 +24,7 @@ function isIgnoredUnit(unit) {
   } else {
     return false;
   }
-}
+};
 
 /**
  * Extract all quotes from specified uri for faction
@@ -33,12 +33,12 @@ function isIgnoredUnit(unit) {
  * @param {string} header - the h elements to look for the quotes under
  * @param {string} file_name_override - file name override option
  */
-async function quoteExtractor(
+const quoteExtractor = async (
   faction,
   uri,
   header = 'h3',
   file_name_override = ''
-) {
+) => {
   console.log('READY TO WORK');
   console.log(`EXTRACTING: ${uri}`);
 
@@ -52,7 +52,7 @@ async function quoteExtractor(
     let $ = cheerio.load(response.data);
 
     // Iterate through each unit, starting at the element with the name of the unit
-    $(`${header} > span.mw-headline`).each(function(i, element) {
+    $(`${header} > span.mw-headline`).each((i, element) => {
       unit = $(element).text();
       let current_element = $(element).parent();
 
@@ -68,7 +68,7 @@ async function quoteExtractor(
         } else if ($(current_element).is('ul')) {
           $(current_element)
             .children()
-            .each(function(i, element) {
+            .each((i, element) => {
               value = $(element).text();
 
               quote = {
@@ -98,14 +98,14 @@ async function quoteExtractor(
 
   let data = JSON.stringify(quotes, null, 2);
 
-  fs.mkdir(OUTPUT_DIRECTORY, { recursive: true }, err => {
+  fs.mkdir(DIRECTORY_OUTPUT, { recursive: true }, err => {
     if (err) throw err;
   });
 
-  fs.writeFileSync(`${OUTPUT_DIRECTORY}/${faction}.json`, data);
+  fs.writeFileSync(`${DIRECTORY_OUTPUT}/${faction}.json`, data);
   console.log('WORK COMPLETE');
-  console.log(`OUTPUT: ${OUTPUT_DIRECTORY}/${faction}.json`);
-}
+  console.log(`OUTPUT: ${DIRECTORY_OUTPUT}/${faction}.json`);
+};
 
 quoteExtractor('human', `${URL}/Human_Alliance`);
 quoteExtractor('orc', `${URL}/Orc_Horde`);

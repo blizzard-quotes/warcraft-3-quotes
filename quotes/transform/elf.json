@@ -3,2034 +3,3051 @@
     "value": "I stand ready.",
     "faction": "Elf",
     "unit": "Archer",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "14626553-bc67-5058-a0c0-4f1461730e0c"
   },
   {
     "value": "Waiting on you.",
     "faction": "Elf",
     "unit": "Archer",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "14626553-bc67-5058-a0c0-4f1461730e0c"
   },
   {
     "value": "Point the way.",
     "faction": "Elf",
     "unit": "Archer",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "14626553-bc67-5058-a0c0-4f1461730e0c"
   },
   {
     "value": "On your mark.",
     "faction": "Elf",
     "unit": "Archer",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "14626553-bc67-5058-a0c0-4f1461730e0c"
   },
   {
     "value": "Your move.",
     "faction": "Elf",
     "unit": "Archer",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "14626553-bc67-5058-a0c0-4f1461730e0c"
   },
   {
     "value": "Say no more.",
     "faction": "Elf",
     "unit": "Archer",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "14626553-bc67-5058-a0c0-4f1461730e0c"
   },
   {
     "value": "Done.",
     "faction": "Elf",
     "unit": "Archer",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "14626553-bc67-5058-a0c0-4f1461730e0c"
   },
   {
     "value": "Fair enough.",
     "faction": "Elf",
     "unit": "Archer",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "14626553-bc67-5058-a0c0-4f1461730e0c"
   },
   {
     "value": "All too easy.",
     "faction": "Elf",
     "unit": "Archer",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "14626553-bc67-5058-a0c0-4f1461730e0c"
   },
   {
     "value": "I'll give it a shot.",
     "faction": "Elf",
     "unit": "Archer",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "14626553-bc67-5058-a0c0-4f1461730e0c"
   },
   {
     "value": "Fire!",
     "faction": "Elf",
     "unit": "Archer",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "14626553-bc67-5058-a0c0-4f1461730e0c"
   },
   {
     "value": "One shot, one kill.",
     "faction": "Elf",
     "unit": "Archer",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "14626553-bc67-5058-a0c0-4f1461730e0c"
   },
   {
     "value": "Cry havoc!",
     "faction": "Elf",
     "unit": "Archer",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "14626553-bc67-5058-a0c0-4f1461730e0c"
   },
   {
     "value": "By the light of the moon!",
     "faction": "Elf",
     "unit": "Archer",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "14626553-bc67-5058-a0c0-4f1461730e0c"
   },
   {
     "value": "Ooh. I'm all a-quiver.",
     "faction": "Elf",
     "unit": "Archer",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "14626553-bc67-5058-a0c0-4f1461730e0c"
   },
   {
     "value": "Fear my leet skills.",
     "faction": "Elf",
     "unit": "Archer",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "14626553-bc67-5058-a0c0-4f1461730e0c"
   },
   {
     "value": "Let's move. Five meter spread, no sound.",
     "faction": "Elf",
     "unit": "Archer",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "14626553-bc67-5058-a0c0-4f1461730e0c"
   },
   {
     "value": "I'm more than a ranger. I'm a night ranger.",
     "faction": "Elf",
     "unit": "Archer",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "14626553-bc67-5058-a0c0-4f1461730e0c"
   },
   {
     "value": "My release date's been changed!",
     "faction": "Elf",
     "unit": "Archer",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "14626553-bc67-5058-a0c0-4f1461730e0c"
   },
   {
     "value": "I'm not just some plucky girl you can string along.",
     "faction": "Elf",
     "unit": "Archer",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "14626553-bc67-5058-a0c0-4f1461730e0c"
   },
   {
     "value": "Shot through the heart, and I'm to blame.",
     "faction": "Elf",
     "unit": "Archer",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "14626553-bc67-5058-a0c0-4f1461730e0c"
   },
   {
     "value": "I said a bow-string, not a G… Never mind.",
     "faction": "Elf",
     "unit": "Archer",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "14626553-bc67-5058-a0c0-4f1461730e0c"
   },
   {
     "value": "Goddess, light my path.",
     "faction": "Elf",
     "unit": "Huntress",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f31ac224-7bd8-5239-8c7d-9481dfb1707b"
   },
   {
     "value": "Make it fast.",
     "faction": "Elf",
     "unit": "Huntress",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f31ac224-7bd8-5239-8c7d-9481dfb1707b"
   },
   {
     "value": "In position.",
     "faction": "Elf",
     "unit": "Huntress",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f31ac224-7bd8-5239-8c7d-9481dfb1707b"
   },
   {
     "value": "Standing guard.",
     "faction": "Elf",
     "unit": "Huntress",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f31ac224-7bd8-5239-8c7d-9481dfb1707b"
   },
   {
     "value": "Speak your mind.",
     "faction": "Elf",
     "unit": "Huntress",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f31ac224-7bd8-5239-8c7d-9481dfb1707b"
   },
   {
     "value": "I am sworn to avenge.",
     "faction": "Elf",
     "unit": "Huntress",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f31ac224-7bd8-5239-8c7d-9481dfb1707b"
   },
   {
     "value": "Absolutely.",
     "faction": "Elf",
     "unit": "Huntress",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f31ac224-7bd8-5239-8c7d-9481dfb1707b"
   },
   {
     "value": "I shall not fear.",
     "faction": "Elf",
     "unit": "Huntress",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f31ac224-7bd8-5239-8c7d-9481dfb1707b"
   },
   {
     "value": "As the Goddess wills.",
     "faction": "Elf",
     "unit": "Huntress",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f31ac224-7bd8-5239-8c7d-9481dfb1707b"
   },
   {
     "value": "I walk in the shadow.",
     "faction": "Elf",
     "unit": "Huntress",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f31ac224-7bd8-5239-8c7d-9481dfb1707b"
   },
   {
     "value": "My wait is over.",
     "faction": "Elf",
     "unit": "Huntress",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f31ac224-7bd8-5239-8c7d-9481dfb1707b"
   },
   {
     "value": "Seek!",
     "faction": "Elf",
     "unit": "Huntress",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f31ac224-7bd8-5239-8c7d-9481dfb1707b"
   },
   {
     "value": "Catch!",
     "faction": "Elf",
     "unit": "Huntress",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f31ac224-7bd8-5239-8c7d-9481dfb1707b"
   },
   {
     "value": "Fear the night!",
     "faction": "Elf",
     "unit": "Huntress",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f31ac224-7bd8-5239-8c7d-9481dfb1707b"
   },
   {
     "value": "Pray for dawn.",
     "faction": "Elf",
     "unit": "Huntress",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f31ac224-7bd8-5239-8c7d-9481dfb1707b"
   },
   {
     "value": "Come and get it!",
     "faction": "Elf",
     "unit": "Huntress",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f31ac224-7bd8-5239-8c7d-9481dfb1707b"
   },
   {
     "value": "For the Great Mother!",
     "faction": "Elf",
     "unit": "Huntress",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f31ac224-7bd8-5239-8c7d-9481dfb1707b"
   },
   {
     "value": "I can blend!",
     "faction": "Elf",
     "unit": "Huntress",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f31ac224-7bd8-5239-8c7d-9481dfb1707b"
   },
   {
     "value": "Give a hoot. Don't pollute.",
     "faction": "Elf",
     "unit": "Huntress",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f31ac224-7bd8-5239-8c7d-9481dfb1707b"
   },
   {
     "value": "Frisbee, anyone?",
     "faction": "Elf",
     "unit": "Huntress",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f31ac224-7bd8-5239-8c7d-9481dfb1707b"
   },
   {
     "value": "This is my owl. There are many like it, but this one is mine.",
     "faction": "Elf",
     "unit": "Huntress",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f31ac224-7bd8-5239-8c7d-9481dfb1707b"
   },
   {
     "value": "I'm here to work on my slice.",
     "faction": "Elf",
     "unit": "Huntress",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f31ac224-7bd8-5239-8c7d-9481dfb1707b"
   },
   {
     "value": "I'm caught between the moon and Night Elf City.",
     "faction": "Elf",
     "unit": "Huntress",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f31ac224-7bd8-5239-8c7d-9481dfb1707b"
   },
   {
     "value": "Fly, Bubo!",
     "faction": "Elf",
     "unit": "Huntress",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f31ac224-7bd8-5239-8c7d-9481dfb1707b"
   },
   {
     "value": "I'm not given to flights of fancy.",
     "faction": "Elf",
     "unit": "Huntress",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "f31ac224-7bd8-5239-8c7d-9481dfb1707b"
   },
   {
     "value": "Ah, the great outdoors!",
     "faction": "Elf",
     "unit": "Dryad",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0ad05080-15ca-5b11-b9f1-24c494412e55"
   },
   {
     "value": "Hi!",
     "faction": "Elf",
     "unit": "Dryad",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0ad05080-15ca-5b11-b9f1-24c494412e55"
   },
   {
     "value": "Is there trouble?",
     "faction": "Elf",
     "unit": "Dryad",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0ad05080-15ca-5b11-b9f1-24c494412e55"
   },
   {
     "value": "Are we being invaded?",
     "faction": "Elf",
     "unit": "Dryad",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0ad05080-15ca-5b11-b9f1-24c494412e55"
   },
   {
     "value": "What is nature's call?",
     "faction": "Elf",
     "unit": "Dryad",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0ad05080-15ca-5b11-b9f1-24c494412e55"
   },
   {
     "value": "For the trees.",
     "faction": "Elf",
     "unit": "Dryad",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0ad05080-15ca-5b11-b9f1-24c494412e55"
   },
   {
     "value": "Making trails.",
     "faction": "Elf",
     "unit": "Dryad",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0ad05080-15ca-5b11-b9f1-24c494412e55"
   },
   {
     "value": "I'm game!",
     "faction": "Elf",
     "unit": "Dryad",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0ad05080-15ca-5b11-b9f1-24c494412e55"
   },
   {
     "value": "Gladly.",
     "faction": "Elf",
     "unit": "Dryad",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0ad05080-15ca-5b11-b9f1-24c494412e55"
   },
   {
     "value": "Taste my spear!",
     "faction": "Elf",
     "unit": "Dryad",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0ad05080-15ca-5b11-b9f1-24c494412e55"
   },
   {
     "value": "The hunt is on!",
     "faction": "Elf",
     "unit": "Dryad",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0ad05080-15ca-5b11-b9f1-24c494412e55"
   },
   {
     "value": "Aim dead-center!",
     "faction": "Elf",
     "unit": "Dryad",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0ad05080-15ca-5b11-b9f1-24c494412e55"
   },
   {
     "value": "For Kalimdor!",
     "faction": "Elf",
     "unit": "Dryad",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0ad05080-15ca-5b11-b9f1-24c494412e55"
   },
   {
     "value": "I'm not the dryad you're looking for.",
     "faction": "Elf",
     "unit": "Dryad",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0ad05080-15ca-5b11-b9f1-24c494412e55"
   },
   {
     "value": "D'oh!",
     "faction": "Elf",
     "unit": "Dryad",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0ad05080-15ca-5b11-b9f1-24c494412e55"
   },
   {
     "value": "Fear the fearsome fury of the forest fawn!",
     "faction": "Elf",
     "unit": "Dryad",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0ad05080-15ca-5b11-b9f1-24c494412e55"
   },
   {
     "value": "You communicate by clicking on me; I communicate by doing what you say.",
     "faction": "Elf",
     "unit": "Dryad",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0ad05080-15ca-5b11-b9f1-24c494412e55"
   },
   {
     "value": "I'm not in season!",
     "faction": "Elf",
     "unit": "Dryad",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0ad05080-15ca-5b11-b9f1-24c494412e55"
   },
   {
     "value": "I've got a few bucks set aside for later.",
     "faction": "Elf",
     "unit": "Dryad",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0ad05080-15ca-5b11-b9f1-24c494412e55"
   },
   {
     "value": "Fall! Like leaves… in fall!",
     "faction": "Elf",
     "unit": "Dryad",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0ad05080-15ca-5b11-b9f1-24c494412e55"
   },
   {
     "value": "I don't reveal much on the mini-map. It's all my fault!",
     "faction": "Elf",
     "unit": "Dryad",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0ad05080-15ca-5b11-b9f1-24c494412e55"
   },
   {
     "value": "I'll attract the enemy with my human call: 'I'm so wasted! I'm so wasted!'",
     "faction": "Elf",
     "unit": "Dryad",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "0ad05080-15ca-5b11-b9f1-24c494412e55"
   },
   {
     "value": "Ready to fly.",
     "faction": "Elf",
     "unit": "Hippogryph Rider",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "758c51c6-8352-5881-b365-15f577e8087d"
   },
   {
     "value": "Your move.",
     "faction": "Elf",
     "unit": "Hippogryph Rider",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "758c51c6-8352-5881-b365-15f577e8087d"
   },
   {
     "value": "Our time is now.",
     "faction": "Elf",
     "unit": "Hippogryph Rider",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "758c51c6-8352-5881-b365-15f577e8087d"
   },
   {
     "value": "Waiting on you.",
     "faction": "Elf",
     "unit": "Hippogryph Rider",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "758c51c6-8352-5881-b365-15f577e8087d"
   },
   {
     "value": "Hold on.",
     "faction": "Elf",
     "unit": "Hippogryph Rider",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "758c51c6-8352-5881-b365-15f577e8087d"
   },
   {
     "value": "To the skies.",
     "faction": "Elf",
     "unit": "Hippogryph Rider",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "758c51c6-8352-5881-b365-15f577e8087d"
   },
   {
     "value": "Take wing!",
     "faction": "Elf",
     "unit": "Hippogryph Rider",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "758c51c6-8352-5881-b365-15f577e8087d"
   },
   {
     "value": "All too easy.",
     "faction": "Elf",
     "unit": "Hippogryph Rider",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "758c51c6-8352-5881-b365-15f577e8087d"
   },
   {
     "value": "They don't stand a chance!",
     "faction": "Elf",
     "unit": "Hippogryph Rider",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "758c51c6-8352-5881-b365-15f577e8087d"
   },
   {
     "value": "Fire.",
     "faction": "Elf",
     "unit": "Hippogryph Rider",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "758c51c6-8352-5881-b365-15f577e8087d"
   },
   {
     "value": "One shot, one kill.",
     "faction": "Elf",
     "unit": "Hippogryph Rider",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "758c51c6-8352-5881-b365-15f577e8087d"
   },
   {
     "value": "By the light of the moon!",
     "faction": "Elf",
     "unit": "Hippogryph Rider",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "758c51c6-8352-5881-b365-15f577e8087d"
   },
   {
     "value": "Born to ride.",
     "faction": "Elf",
     "unit": "Hippogryph Rider",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "758c51c6-8352-5881-b365-15f577e8087d"
   },
   {
     "value": "Look at the rack on this thing.",
     "faction": "Elf",
     "unit": "Hippogryph Rider",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "758c51c6-8352-5881-b365-15f577e8087d"
   },
   {
     "value": "Who's a little fluffy wuffy?",
     "faction": "Elf",
     "unit": "Hippogryph Rider",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "758c51c6-8352-5881-b365-15f577e8087d"
   },
   {
     "value": "The hippogryph is an amazing creature rarely seen outside the wild. The tricky thing about hippogryphs is their incredible jaw strength. One terrible clamp of their beaks can rip a huge beast apart in seconds. Let's see what happens when I stick my hand... Ah!",
     "faction": "Elf",
     "unit": "Hippogryph Rider",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "758c51c6-8352-5881-b365-15f577e8087d"
   },
   {
     "value": "By the great winds, I come.",
     "faction": "Elf",
     "unit": "Druid of the Talon",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "750e5032-e0e8-5ace-b651-ad3fdb717202"
   },
   {
     "value": "Out with it.",
     "faction": "Elf",
     "unit": "Druid of the Talon",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "750e5032-e0e8-5ace-b651-ad3fdb717202"
   },
   {
     "value": "I am prepared.",
     "faction": "Elf",
     "unit": "Druid of the Talon",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "750e5032-e0e8-5ace-b651-ad3fdb717202"
   },
   {
     "value": "Enlighten me.",
     "faction": "Elf",
     "unit": "Druid of the Talon",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "750e5032-e0e8-5ace-b651-ad3fdb717202"
   },
   {
     "value": "Thy bidding?",
     "faction": "Elf",
     "unit": "Druid of the Talon",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "750e5032-e0e8-5ace-b651-ad3fdb717202"
   },
   {
     "value": "No one shall be the wiser.",
     "faction": "Elf",
     "unit": "Druid of the Talon",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "750e5032-e0e8-5ace-b651-ad3fdb717202"
   },
   {
     "value": "It has begun.",
     "faction": "Elf",
     "unit": "Druid of the Talon",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "750e5032-e0e8-5ace-b651-ad3fdb717202"
   },
   {
     "value": "For my brothers!",
     "faction": "Elf",
     "unit": "Druid of the Talon",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "750e5032-e0e8-5ace-b651-ad3fdb717202"
   },
   {
     "value": "That's a given.",
     "faction": "Elf",
     "unit": "Druid of the Talon",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "750e5032-e0e8-5ace-b651-ad3fdb717202"
   },
   {
     "value": "No quarter!",
     "faction": "Elf",
     "unit": "Druid of the Talon",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "750e5032-e0e8-5ace-b651-ad3fdb717202"
   },
   {
     "value": "Make your peace.",
     "faction": "Elf",
     "unit": "Druid of the Talon",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "750e5032-e0e8-5ace-b651-ad3fdb717202"
   },
   {
     "value": "In the raven's name!",
     "faction": "Elf",
     "unit": "Druid of the Talon",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "750e5032-e0e8-5ace-b651-ad3fdb717202"
   },
   {
     "value": "For Kalimdor!",
     "faction": "Elf",
     "unit": "Druid of the Talon",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "750e5032-e0e8-5ace-b651-ad3fdb717202"
   },
   {
     "value": "This outfit is for the birds.",
     "faction": "Elf",
     "unit": "Druid of the Talon",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "750e5032-e0e8-5ace-b651-ad3fdb717202"
   },
   {
     "value": "I'd tell you more, but then I'd have to kill you.",
     "faction": "Elf",
     "unit": "Druid of the Talon",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "750e5032-e0e8-5ace-b651-ad3fdb717202"
   },
   {
     "value": "I am the Dark Night… Elf.",
     "faction": "Elf",
     "unit": "Druid of the Talon",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "750e5032-e0e8-5ace-b651-ad3fdb717202"
   },
   {
     "value": "Don't tell me I'm allergic to feathers.",
     "faction": "Elf",
     "unit": "Druid of the Talon",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "750e5032-e0e8-5ace-b651-ad3fdb717202"
   },
   {
     "value": "I ride on the break winds! I am silent… but deadly.",
     "faction": "Elf",
     "unit": "Druid of the Talon",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "750e5032-e0e8-5ace-b651-ad3fdb717202"
   },
   {
     "value": "Talon. Druid of the Talon.",
     "faction": "Elf",
     "unit": "Druid of the Talon",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "750e5032-e0e8-5ace-b651-ad3fdb717202"
   },
   {
     "value": "How about if I just stand over here?",
     "faction": "Elf",
     "unit": "Druid of the Talon",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "750e5032-e0e8-5ace-b651-ad3fdb717202"
   },
   {
     "value": "The sleeper has awakened.",
     "faction": "Elf",
     "unit": "Druid of the Claw",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "142cc358-adcb-5512-bef9-b225ee33f482"
   },
   {
     "value": "I'm awake... I'm awake.",
     "faction": "Elf",
     "unit": "Druid of the Claw",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "142cc358-adcb-5512-bef9-b225ee33f482"
   },
   {
     "value": "Our time is short.",
     "faction": "Elf",
     "unit": "Druid of the Claw",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "142cc358-adcb-5512-bef9-b225ee33f482"
   },
   {
     "value": "Where shall I strike?",
     "faction": "Elf",
     "unit": "Druid of the Claw",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "142cc358-adcb-5512-bef9-b225ee33f482"
   },
   {
     "value": "My strength is yours!",
     "faction": "Elf",
     "unit": "Druid of the Claw",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "142cc358-adcb-5512-bef9-b225ee33f482"
   },
   {
     "value": "My path is clear.",
     "faction": "Elf",
     "unit": "Druid of the Claw",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "142cc358-adcb-5512-bef9-b225ee33f482"
   },
   {
     "value": "At once!",
     "faction": "Elf",
     "unit": "Druid of the Claw",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "142cc358-adcb-5512-bef9-b225ee33f482"
   },
   {
     "value": "Of course!",
     "faction": "Elf",
     "unit": "Druid of the Claw",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "142cc358-adcb-5512-bef9-b225ee33f482"
   },
   {
     "value": "Anu'dora.",
     "faction": "Elf",
     "unit": "Druid of the Claw",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "142cc358-adcb-5512-bef9-b225ee33f482"
   },
   {
     "value": "Victory is at hand!",
     "faction": "Elf",
     "unit": "Druid of the Claw",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "142cc358-adcb-5512-bef9-b225ee33f482"
   },
   {
     "value": "Bear arms!",
     "faction": "Elf",
     "unit": "Druid of the Claw",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "142cc358-adcb-5512-bef9-b225ee33f482"
   },
   {
     "value": "I'll make short work of them!",
     "faction": "Elf",
     "unit": "Druid of the Claw",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "142cc358-adcb-5512-bef9-b225ee33f482"
   },
   {
     "value": "In Nordrassil's name!",
     "faction": "Elf",
     "unit": "Druid of the Claw",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "142cc358-adcb-5512-bef9-b225ee33f482"
   },
   {
     "value": "Only you can prevent forest fires!",
     "faction": "Elf",
     "unit": "Druid of the Claw",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "142cc358-adcb-5512-bef9-b225ee33f482"
   },
   {
     "value": "I'd rather be hibernating.",
     "faction": "Elf",
     "unit": "Druid of the Claw",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "142cc358-adcb-5512-bef9-b225ee33f482"
   },
   {
     "value": "He wasn't fuzzy, was he?",
     "faction": "Elf",
     "unit": "Druid of the Claw",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "142cc358-adcb-5512-bef9-b225ee33f482"
   },
   {
     "value": "Da Bears.",
     "faction": "Elf",
     "unit": "Druid of the Claw",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "142cc358-adcb-5512-bef9-b225ee33f482"
   },
   {
     "value": "Got any gummy humans?",
     "faction": "Elf",
     "unit": "Druid of the Claw",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "142cc358-adcb-5512-bef9-b225ee33f482"
   },
   {
     "value": "Can't… stop… dancing!",
     "faction": "Elf",
     "unit": "Druid of the Claw",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "142cc358-adcb-5512-bef9-b225ee33f482"
   },
   {
     "value": "Quit clicking on my bear ass.",
     "faction": "Elf",
     "unit": "Druid of the Claw",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "142cc358-adcb-5512-bef9-b225ee33f482"
   },
   {
     "value": "I must safeguard the land.",
     "faction": "Elf",
     "unit": "Keeper of the Grove",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": true,
+    "isMelee": true,
+    "id": "468c6e93-57ee-5b2d-8347-a690a5e4734f"
   },
   {
     "value": "Is there danger?",
     "faction": "Elf",
     "unit": "Keeper of the Grove",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "468c6e93-57ee-5b2d-8347-a690a5e4734f"
   },
   {
     "value": "Command me.",
     "faction": "Elf",
     "unit": "Keeper of the Grove",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "468c6e93-57ee-5b2d-8347-a690a5e4734f"
   },
   {
     "value": "Who threatens the wilds?",
     "faction": "Elf",
     "unit": "Keeper of the Grove",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "468c6e93-57ee-5b2d-8347-a690a5e4734f"
   },
   {
     "value": "The time is now.",
     "faction": "Elf",
     "unit": "Keeper of the Grove",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "468c6e93-57ee-5b2d-8347-a690a5e4734f"
   },
   {
     "value": "Nature is restless.",
     "faction": "Elf",
     "unit": "Keeper of the Grove",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "468c6e93-57ee-5b2d-8347-a690a5e4734f"
   },
   {
     "value": "By the spirits.",
     "faction": "Elf",
     "unit": "Keeper of the Grove",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "468c6e93-57ee-5b2d-8347-a690a5e4734f"
   },
   {
     "value": "For Kalimdor.",
     "faction": "Elf",
     "unit": "Keeper of the Grove",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "468c6e93-57ee-5b2d-8347-a690a5e4734f"
   },
   {
     "value": "Well, there it is.",
     "faction": "Elf",
     "unit": "Keeper of the Grove",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "468c6e93-57ee-5b2d-8347-a690a5e4734f"
   },
   {
     "value": "So shall it be.",
     "faction": "Elf",
     "unit": "Keeper of the Grove",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "468c6e93-57ee-5b2d-8347-a690a5e4734f"
   },
   {
     "value": "Naturally.",
     "faction": "Elf",
     "unit": "Keeper of the Grove",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "468c6e93-57ee-5b2d-8347-a690a5e4734f"
   },
   {
     "value": "Feel nature's wrath!",
     "faction": "Elf",
     "unit": "Keeper of the Grove",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "468c6e93-57ee-5b2d-8347-a690a5e4734f"
   },
   {
     "value": "Death to all defilers!",
     "faction": "Elf",
     "unit": "Keeper of the Grove",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "468c6e93-57ee-5b2d-8347-a690a5e4734f"
   },
   {
     "value": "None shall harm the wilds!",
     "faction": "Elf",
     "unit": "Keeper of the Grove",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "468c6e93-57ee-5b2d-8347-a690a5e4734f"
   },
   {
     "value": "Smite the defilers of the land!",
     "faction": "Elf",
     "unit": "Keeper of the Grove",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": true,
+    "isMelee": true,
+    "id": "468c6e93-57ee-5b2d-8347-a690a5e4734f"
   },
   {
     "value": "My father was mounted over someone's fireplace.",
     "faction": "Elf",
     "unit": "Keeper of the Grove",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "468c6e93-57ee-5b2d-8347-a690a5e4734f"
   },
   {
     "value": "Feel natural, nature's way.",
     "faction": "Elf",
     "unit": "Keeper of the Grove",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "468c6e93-57ee-5b2d-8347-a690a5e4734f"
   },
   {
     "value": "Don't let the do' hit you on the way out.",
     "faction": "Elf",
     "unit": "Keeper of the Grove",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "468c6e93-57ee-5b2d-8347-a690a5e4734f"
   },
   {
     "value": "When I attack, part 3.",
     "faction": "Elf",
     "unit": "Keeper of the Grove",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "468c6e93-57ee-5b2d-8347-a690a5e4734f"
   },
   {
     "value": "Free rides… for the ladies.",
     "faction": "Elf",
     "unit": "Keeper of the Grove",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "468c6e93-57ee-5b2d-8347-a690a5e4734f"
   },
   {
     "value": "Herd up!",
     "faction": "Elf",
     "unit": "Keeper of the Grove",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "468c6e93-57ee-5b2d-8347-a690a5e4734f"
   },
   {
     "value": "Warriors of the night, assemble! tiger roars",
     "faction": "Elf",
     "unit": "Priestess of the Moon",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": true,
+    "isMelee": true,
+    "id": "a3f83e8b-eda7-5534-b274-8159b9867866"
   },
   {
     "value": "We are poised to strike.",
     "faction": "Elf",
     "unit": "Priestess of the Moon",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "a3f83e8b-eda7-5534-b274-8159b9867866"
   },
   {
     "value": "We must act!",
     "faction": "Elf",
     "unit": "Priestess of the Moon",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "a3f83e8b-eda7-5534-b274-8159b9867866"
   },
   {
     "value": "I am vigilant.",
     "faction": "Elf",
     "unit": "Priestess of the Moon",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "a3f83e8b-eda7-5534-b274-8159b9867866"
   },
   {
     "value": "Trust in my command.",
     "faction": "Elf",
     "unit": "Priestess of the Moon",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "a3f83e8b-eda7-5534-b274-8159b9867866"
   },
   {
     "value": "Leading the way.",
     "faction": "Elf",
     "unit": "Priestess of the Moon",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "a3f83e8b-eda7-5534-b274-8159b9867866"
   },
   {
     "value": "Onward!",
     "faction": "Elf",
     "unit": "Priestess of the Moon",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "a3f83e8b-eda7-5534-b274-8159b9867866"
   },
   {
     "value": "As I thought.",
     "faction": "Elf",
     "unit": "Priestess of the Moon",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "a3f83e8b-eda7-5534-b274-8159b9867866"
   },
   {
     "value": "The Goddess agrees.",
     "faction": "Elf",
     "unit": "Priestess of the Moon",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "a3f83e8b-eda7-5534-b274-8159b9867866"
   },
   {
     "value": "Strike!",
     "faction": "Elf",
     "unit": "Priestess of the Moon",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "a3f83e8b-eda7-5534-b274-8159b9867866"
   },
   {
     "value": "For the Goddess!",
     "faction": "Elf",
     "unit": "Priestess of the Moon",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "a3f83e8b-eda7-5534-b274-8159b9867866"
   },
   {
     "value": "Prepare to be moonstruck!",
     "faction": "Elf",
     "unit": "Priestess of the Moon",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "a3f83e8b-eda7-5534-b274-8159b9867866"
   },
   {
     "value": "We always land on our feet.",
     "faction": "Elf",
     "unit": "Priestess of the Moon",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "a3f83e8b-eda7-5534-b274-8159b9867866"
   },
   {
     "value": "My tiger was trained for war. He's grrrrreat!",
     "faction": "Elf",
     "unit": "Priestess of the Moon",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "a3f83e8b-eda7-5534-b274-8159b9867866"
   },
   {
     "value": "Curiosity killed my last ride.",
     "faction": "Elf",
     "unit": "Priestess of the Moon",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "a3f83e8b-eda7-5534-b274-8159b9867866"
   },
   {
     "value": "I got my tiger used from Siegfried and Roy.",
     "faction": "Elf",
     "unit": "Priestess of the Moon",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "a3f83e8b-eda7-5534-b274-8159b9867866"
   },
   {
     "value": "​Crouch, tiger! I sense a hidden dragon!​",
     "faction": "Elf",
     "unit": "Priestess of the Moon",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "a3f83e8b-eda7-5534-b274-8159b9867866"
   },
   {
     "value": "When a Treant falls in the forest, does it make a sound?",
     "faction": "Elf",
     "unit": "Priestess of the Moon",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "a3f83e8b-eda7-5534-b274-8159b9867866"
   },
   {
     "value": "At last... We shall have revenge...",
     "faction": "Elf",
     "unit": "Demon Hunter",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0490bf7b-d2b5-54ec-8f4b-0432e3ba9d2c"
   },
   {
     "value": "The time has come.",
     "faction": "Elf",
     "unit": "Demon Hunter",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0490bf7b-d2b5-54ec-8f4b-0432e3ba9d2c"
   },
   {
     "value": "We must act.",
     "faction": "Elf",
     "unit": "Demon Hunter",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0490bf7b-d2b5-54ec-8f4b-0432e3ba9d2c"
   },
   {
     "value": "My blade thirsts!",
     "faction": "Elf",
     "unit": "Demon Hunter",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0490bf7b-d2b5-54ec-8f4b-0432e3ba9d2c"
   },
   {
     "value": "Quickly!",
     "faction": "Elf",
     "unit": "Demon Hunter",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0490bf7b-d2b5-54ec-8f4b-0432e3ba9d2c"
   },
   {
     "value": "Command me.",
     "faction": "Elf",
     "unit": "Demon Hunter",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0490bf7b-d2b5-54ec-8f4b-0432e3ba9d2c"
   },
   {
     "value": "Anu'dor anu'dor.",
     "faction": "Elf",
     "unit": "Demon Hunter",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0490bf7b-d2b5-54ec-8f4b-0432e3ba9d2c"
   },
   {
     "value": "Though I be damned.",
     "faction": "Elf",
     "unit": "Demon Hunter",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0490bf7b-d2b5-54ec-8f4b-0432e3ba9d2c"
   },
   {
     "value": "Dorune'ka.",
     "faction": "Elf",
     "unit": "Demon Hunter",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0490bf7b-d2b5-54ec-8f4b-0432e3ba9d2c"
   },
   {
     "value": "At last!",
     "faction": "Elf",
     "unit": "Demon Hunter",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0490bf7b-d2b5-54ec-8f4b-0432e3ba9d2c"
   },
   {
     "value": "Hmm...",
     "faction": "Elf",
     "unit": "Demon Hunter",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0490bf7b-d2b5-54ec-8f4b-0432e3ba9d2c"
   },
   {
     "value": "None shall survive.",
     "faction": "Elf",
     "unit": "Demon Hunter",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0490bf7b-d2b5-54ec-8f4b-0432e3ba9d2c"
   },
   {
     "value": "Your blood is mine.",
     "faction": "Elf",
     "unit": "Demon Hunter",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0490bf7b-d2b5-54ec-8f4b-0432e3ba9d2c"
   },
   {
     "value": "Run for your life!",
     "faction": "Elf",
     "unit": "Demon Hunter",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0490bf7b-d2b5-54ec-8f4b-0432e3ba9d2c"
   },
   {
     "value": "Revenge...",
     "faction": "Elf",
     "unit": "Demon Hunter",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0490bf7b-d2b5-54ec-8f4b-0432e3ba9d2c"
   },
   {
     "value": "For Kalimdor!",
     "faction": "Elf",
     "unit": "Demon Hunter",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0490bf7b-d2b5-54ec-8f4b-0432e3ba9d2c"
   },
   {
     "value": "I shall fight fire with fire.",
     "faction": "Elf",
     "unit": "Demon Hunter",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0490bf7b-d2b5-54ec-8f4b-0432e3ba9d2c"
   },
   {
     "value": "Chaos boils in my veins.",
     "faction": "Elf",
     "unit": "Demon Hunter",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0490bf7b-d2b5-54ec-8f4b-0432e3ba9d2c"
   },
   {
     "value": "Demon blood is thicker than... regular blood.",
     "faction": "Elf",
     "unit": "Demon Hunter",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0490bf7b-d2b5-54ec-8f4b-0432e3ba9d2c"
   },
   {
     "value": "I like my enemies dead, and my blades flaming.",
     "faction": "Elf",
     "unit": "Demon Hunter",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0490bf7b-d2b5-54ec-8f4b-0432e3ba9d2c"
   },
   {
     "value": "Seert neerg evol'eah!",
     "faction": "Elf",
     "unit": "Demon Hunter",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0490bf7b-d2b5-54ec-8f4b-0432e3ba9d2c"
   },
   {
     "value": "You will perish in flames, y- . Oh, sorry.",
     "faction": "Elf",
     "unit": "Demon Hunter",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0490bf7b-d2b5-54ec-8f4b-0432e3ba9d2c"
   },
   {
     "value": "Darkness called… But I was on the phone, so I missed him. I tried to *69-Darkness, but his machine picked up. I yelled Pick up the phone, Darkness!, but he ignored me. Darkness must have been screening his calls.",
     "faction": "Elf",
     "unit": "Demon Hunter",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "0490bf7b-d2b5-54ec-8f4b-0432e3ba9d2c"
   },
   {
     "value": "My prey is near.",
     "faction": "Elf",
     "unit": "Warden",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": true,
+    "isMelee": true,
+    "id": "3de6c99f-149d-58f4-8e36-ccfbc12b7596"
   },
   {
     "value": "Have you reached a verdict?",
     "faction": "Elf",
     "unit": "Warden",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "3de6c99f-149d-58f4-8e36-ccfbc12b7596"
   },
   {
     "value": "Let me investigate.",
     "faction": "Elf",
     "unit": "Warden",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "3de6c99f-149d-58f4-8e36-ccfbc12b7596"
   },
   {
     "value": "Benthai del Elune.",
     "faction": "Elf",
     "unit": "Warden",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "3de6c99f-149d-58f4-8e36-ccfbc12b7596"
   },
   {
     "value": "Ash'valanor.",
     "faction": "Elf",
     "unit": "Warden",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "3de6c99f-149d-58f4-8e36-ccfbc12b7596"
   },
   {
     "value": "I am the iron hand of justice.",
     "faction": "Elf",
     "unit": "Warden",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": true,
+    "id": "3de6c99f-149d-58f4-8e36-ccfbc12b7596"
   },
   {
     "value": "Let the hunt begin.",
     "faction": "Elf",
     "unit": "Warden",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "3de6c99f-149d-58f4-8e36-ccfbc12b7596"
   },
   {
     "value": "Understood.",
     "faction": "Elf",
     "unit": "Warden",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "3de6c99f-149d-58f4-8e36-ccfbc12b7596"
   },
   {
     "value": "I can taste their fear.",
     "faction": "Elf",
     "unit": "Warden",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "3de6c99f-149d-58f4-8e36-ccfbc12b7596"
   },
   {
     "value": "Justice shall be swift.",
     "faction": "Elf",
     "unit": "Warden",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": true,
+    "id": "3de6c99f-149d-58f4-8e36-ccfbc12b7596"
   },
   {
     "value": "They shall not escape!",
     "faction": "Elf",
     "unit": "Warden",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "3de6c99f-149d-58f4-8e36-ccfbc12b7596"
   },
   {
     "value": "Let justice be served!",
     "faction": "Elf",
     "unit": "Warden",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "3de6c99f-149d-58f4-8e36-ccfbc12b7596"
   },
   {
     "value": "I am the law!",
     "faction": "Elf",
     "unit": "Warden",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": true,
+    "id": "3de6c99f-149d-58f4-8e36-ccfbc12b7596"
   },
   {
     "value": "Justice has come!",
     "faction": "Elf",
     "unit": "Warden",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": true,
+    "isMelee": true,
+    "id": "3de6c99f-149d-58f4-8e36-ccfbc12b7596"
   },
   {
     "value": "I shall be your executioner.",
     "faction": "Elf",
     "unit": "Warden",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "3de6c99f-149d-58f4-8e36-ccfbc12b7596"
   },
   {
     "value": "Only the guilty need to fear me.",
     "faction": "Elf",
     "unit": "Warden",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "3de6c99f-149d-58f4-8e36-ccfbc12b7596"
   },
   {
     "value": "Justice may be blind, but I'm not.",
     "faction": "Elf",
     "unit": "Warden",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "3de6c99f-149d-58f4-8e36-ccfbc12b7596"
   },
   {
     "value": "Truth, justice, and the Night Elf way!",
     "faction": "Elf",
     "unit": "Warden",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "3de6c99f-149d-58f4-8e36-ccfbc12b7596"
   },
   {
     "value": "You think you're above the law?",
     "faction": "Elf",
     "unit": "Warden",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "3de6c99f-149d-58f4-8e36-ccfbc12b7596"
   },
   {
     "value": "What we have here is a failure to communicate.",
     "faction": "Elf",
     "unit": "Warden",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "3de6c99f-149d-58f4-8e36-ccfbc12b7596"
   },
   {
     "value": "I hold you in contempt.",
     "faction": "Elf",
     "unit": "Warden",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "3de6c99f-149d-58f4-8e36-ccfbc12b7596"
   },
   {
     "value": "He's no good to me if he's dead.",
     "faction": "Elf",
     "unit": "Warden",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": true,
+    "id": "3de6c99f-149d-58f4-8e36-ccfbc12b7596"
   },
   {
     "value": "Let's get going.",
     "faction": "Elf",
     "unit": "Shandris",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "f564f6a8-1c0a-535c-a9e5-77eff5c276a1"
   },
   {
     "value": "I await your command.",
     "faction": "Elf",
     "unit": "Shandris",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "f564f6a8-1c0a-535c-a9e5-77eff5c276a1"
   },
   {
     "value": "I'm listening.",
     "faction": "Elf",
     "unit": "Shandris",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "f564f6a8-1c0a-535c-a9e5-77eff5c276a1"
   },
   {
     "value": "Excellent!",
     "faction": "Elf",
     "unit": "Shandris",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "f564f6a8-1c0a-535c-a9e5-77eff5c276a1"
   },
   {
     "value": "Absolutely!",
     "faction": "Elf",
     "unit": "Shandris",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "f564f6a8-1c0a-535c-a9e5-77eff5c276a1"
   },
   {
     "value": "No problem.",
     "faction": "Elf",
     "unit": "Shandris",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "f564f6a8-1c0a-535c-a9e5-77eff5c276a1"
   },
   {
     "value": "They will never know what hit them.",
     "faction": "Elf",
     "unit": "Shandris",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "f564f6a8-1c0a-535c-a9e5-77eff5c276a1"
   },
   {
     "value": "This one's mine!",
     "faction": "Elf",
     "unit": "Shandris",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "f564f6a8-1c0a-535c-a9e5-77eff5c276a1"
   },
   {
     "value": "Cry for mercy!",
     "faction": "Elf",
     "unit": "Shandris",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "f564f6a8-1c0a-535c-a9e5-77eff5c276a1"
   },
   {
     "value": "Fire!",
     "faction": "Elf",
     "unit": "Shandris",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "f564f6a8-1c0a-535c-a9e5-77eff5c276a1"
   },
   {
     "value": "Was there something you wanted?",
     "faction": "Elf",
     "unit": "Shandris",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "f564f6a8-1c0a-535c-a9e5-77eff5c276a1"
   },
   {
     "value": "Look, I don't have time for this nonsense.",
     "faction": "Elf",
     "unit": "Shandris",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "f564f6a8-1c0a-535c-a9e5-77eff5c276a1"
   },
   {
     "value": "I wonder why I never run out of arrows?",
     "faction": "Elf",
     "unit": "Shandris",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "f564f6a8-1c0a-535c-a9e5-77eff5c276a1"
   },
   {
     "value": "I wish my bow was socketed.",
     "faction": "Elf",
     "unit": "Shandris",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "f564f6a8-1c0a-535c-a9e5-77eff5c276a1"
   },
   {
     "value": "It feels good to be in the wilds.",
     "faction": "Elf",
     "unit": "Naisha",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fc2506ec-697e-59ce-93ad-16fec6d9adb2"
   },
   {
     "value": "Moonlight shines upon the guilty and the innocent alike.",
     "faction": "Elf",
     "unit": "Naisha",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fc2506ec-697e-59ce-93ad-16fec6d9adb2"
   },
   {
     "value": "I am the blade of the goddess.",
     "faction": "Elf",
     "unit": "Naisha",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fc2506ec-697e-59ce-93ad-16fec6d9adb2"
   },
   {
     "value": "We will find justice.",
     "faction": "Elf",
     "unit": "Naisha",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fc2506ec-697e-59ce-93ad-16fec6d9adb2"
   },
   {
     "value": "How may I serve the goddess?",
     "faction": "Elf",
     "unit": "Naisha",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fc2506ec-697e-59ce-93ad-16fec6d9adb2"
   },
   {
     "value": "My watchers are ready.",
     "faction": "Elf",
     "unit": "Naisha",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fc2506ec-697e-59ce-93ad-16fec6d9adb2"
   },
   {
     "value": "An honor.",
     "faction": "Elf",
     "unit": "Naisha",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fc2506ec-697e-59ce-93ad-16fec6d9adb2"
   },
   {
     "value": "Certainly.",
     "faction": "Elf",
     "unit": "Naisha",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fc2506ec-697e-59ce-93ad-16fec6d9adb2"
   },
   {
     "value": "It shall be done.",
     "faction": "Elf",
     "unit": "Naisha",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fc2506ec-697e-59ce-93ad-16fec6d9adb2"
   },
   {
     "value": "For Elune.",
     "faction": "Elf",
     "unit": "Naisha",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fc2506ec-697e-59ce-93ad-16fec6d9adb2"
   },
   {
     "value": "As you wish.",
     "faction": "Elf",
     "unit": "Naisha",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fc2506ec-697e-59ce-93ad-16fec6d9adb2"
   },
   {
     "value": "Watchers, strike!",
     "faction": "Elf",
     "unit": "Naisha",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fc2506ec-697e-59ce-93ad-16fec6d9adb2"
   },
   {
     "value": "Die, criminal!",
     "faction": "Elf",
     "unit": "Naisha",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fc2506ec-697e-59ce-93ad-16fec6d9adb2"
   },
   {
     "value": "Plead your innocence.",
     "faction": "Elf",
     "unit": "Naisha",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fc2506ec-697e-59ce-93ad-16fec6d9adb2"
   },
   {
     "value": "Ara'deno'filorei!",
     "faction": "Elf",
     "unit": "Naisha",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fc2506ec-697e-59ce-93ad-16fec6d9adb2"
   },
   {
     "value": "Exercise, stunning scenery? This beats prison duty any day.",
     "faction": "Elf",
     "unit": "Naisha",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fc2506ec-697e-59ce-93ad-16fec6d9adb2"
   },
   {
     "value": "I spent so long under ground i forgot what the stars look like.",
     "faction": "Elf",
     "unit": "Naisha",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fc2506ec-697e-59ce-93ad-16fec6d9adb2"
   },
   {
     "value": "I fear for Maiev. She feels responsible for Illidan's escape.",
     "faction": "Elf",
     "unit": "Naisha",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "fc2506ec-697e-59ce-93ad-16fec6d9adb2"
   },
   {
     "value": "Evil draws close.",
     "faction": "Elf",
     "unit": "Illidan Stormrage",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": true,
+    "isMelee": false,
+    "id": "26562cf8-efc3-5afd-a407-928a347ce47f"
   },
   {
     "value": "I'm blind, not deaf.",
     "faction": "Elf",
     "unit": "Illidan Stormrage",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "26562cf8-efc3-5afd-a407-928a347ce47f"
   },
   {
     "value": "I grow impatient.",
     "faction": "Elf",
     "unit": "Illidan Stormrage",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "26562cf8-efc3-5afd-a407-928a347ce47f"
   },
   {
     "value": "Are there demons nearby?",
     "faction": "Elf",
     "unit": "Illidan Stormrage",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "26562cf8-efc3-5afd-a407-928a347ce47f"
   },
   {
     "value": "You dare speak to me?",
     "faction": "Elf",
     "unit": "Illidan Stormrage",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "26562cf8-efc3-5afd-a407-928a347ce47f"
   },
   {
     "value": "Easily.",
     "faction": "Elf",
     "unit": "Illidan Stormrage",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "26562cf8-efc3-5afd-a407-928a347ce47f"
   },
   {
     "value": "Hardly a challenge.",
     "faction": "Elf",
     "unit": "Illidan Stormrage",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "26562cf8-efc3-5afd-a407-928a347ce47f"
   },
   {
     "value": "Is that all?",
     "faction": "Elf",
     "unit": "Illidan Stormrage",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "26562cf8-efc3-5afd-a407-928a347ce47f"
   },
   {
     "value": "Evil draws close.",
     "faction": "Elf",
     "unit": "Illidan Stormrage",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "26562cf8-efc3-5afd-a407-928a347ce47f"
   },
   {
     "value": "Vengeance is mine.",
     "faction": "Elf",
     "unit": "Illidan Stormrage",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "26562cf8-efc3-5afd-a407-928a347ce47f"
   },
   {
     "value": "Die, fool!",
     "faction": "Elf",
     "unit": "Illidan Stormrage",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "26562cf8-efc3-5afd-a407-928a347ce47f"
   },
   {
     "value": "You will regret approaching me.",
     "faction": "Elf",
     "unit": "Illidan Stormrage",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "26562cf8-efc3-5afd-a407-928a347ce47f"
   },
   {
     "value": "None may challenge me!",
     "faction": "Elf",
     "unit": "Illidan Stormrage",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": true,
+    "isMelee": false,
+    "id": "26562cf8-efc3-5afd-a407-928a347ce47f"
   },
   {
     "value": "I have been caged in darkness.",
     "faction": "Elf",
     "unit": "Illidan Stormrage",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "26562cf8-efc3-5afd-a407-928a347ce47f"
   },
   {
     "value": "My soul longs for vengeance!",
     "faction": "Elf",
     "unit": "Illidan Stormrage",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "26562cf8-efc3-5afd-a407-928a347ce47f"
   },
   {
     "value": "I've been alone for ten thousand years.",
     "faction": "Elf",
     "unit": "Illidan Stormrage",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "26562cf8-efc3-5afd-a407-928a347ce47f"
   },
   {
     "value": "My brother will pay dearly for his betrayal.",
     "faction": "Elf",
     "unit": "Illidan Stormrage",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "26562cf8-efc3-5afd-a407-928a347ce47f"
   },
   {
     "value": "None of them know my true power!",
     "faction": "Elf",
     "unit": "Illidan Stormrage",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "26562cf8-efc3-5afd-a407-928a347ce47f"
   },
   {
     "value": "I see… absolutely nothing.",
     "faction": "Elf",
     "unit": "Illidan Stormrage",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "26562cf8-efc3-5afd-a407-928a347ce47f"
   },
   {
     "value": "Wings, horns, hooves? What are we saying, is this Diablo?",
     "faction": "Elf",
     "unit": "Illidan Stormrage",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "26562cf8-efc3-5afd-a407-928a347ce47f"
   },
   {
     "value": "Pa-weep graw-naw weep ninni-bung! It's a universal greeting!",
     "faction": "Elf",
     "unit": "Illidan Stormrage",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "26562cf8-efc3-5afd-a407-928a347ce47f"
   },
   {
     "value": "I am the hand of justice!",
     "faction": "Elf",
     "unit": "Maiev Shadowsong",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6a15c6cc-c06d-5478-98ee-bf43c6b04f00"
   },
   {
     "value": "Illidan is out there somewhere.",
     "faction": "Elf",
     "unit": "Maiev Shadowsong",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6a15c6cc-c06d-5478-98ee-bf43c6b04f00"
   },
   {
     "value": "We're wasting time here.",
     "faction": "Elf",
     "unit": "Maiev Shadowsong",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6a15c6cc-c06d-5478-98ee-bf43c6b04f00"
   },
   {
     "value": "The hunt awaits!",
     "faction": "Elf",
     "unit": "Maiev Shadowsong",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6a15c6cc-c06d-5478-98ee-bf43c6b04f00"
   },
   {
     "value": "Justice will be done.",
     "faction": "Elf",
     "unit": "Maiev Shadowsong",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6a15c6cc-c06d-5478-98ee-bf43c6b04f00"
   },
   {
     "value": "We must hurry.",
     "faction": "Elf",
     "unit": "Maiev Shadowsong",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6a15c6cc-c06d-5478-98ee-bf43c6b04f00"
   },
   {
     "value": "I can wait no longer!",
     "faction": "Elf",
     "unit": "Maiev Shadowsong",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6a15c6cc-c06d-5478-98ee-bf43c6b04f00"
   },
   {
     "value": "The guilty will suffer!",
     "faction": "Elf",
     "unit": "Maiev Shadowsong",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6a15c6cc-c06d-5478-98ee-bf43c6b04f00"
   },
   {
     "value": "Now is the time!",
     "faction": "Elf",
     "unit": "Maiev Shadowsong",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6a15c6cc-c06d-5478-98ee-bf43c6b04f00"
   },
   {
     "value": "I will finish the hunt.",
     "faction": "Elf",
     "unit": "Maiev Shadowsong",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6a15c6cc-c06d-5478-98ee-bf43c6b04f00"
   },
   {
     "value": "The end draws near.",
     "faction": "Elf",
     "unit": "Maiev Shadowsong",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6a15c6cc-c06d-5478-98ee-bf43c6b04f00"
   },
   {
     "value": "Ashal thera'das!",
     "faction": "Elf",
     "unit": "Maiev Shadowsong",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6a15c6cc-c06d-5478-98ee-bf43c6b04f00"
   },
   {
     "value": "For justice!",
     "faction": "Elf",
     "unit": "Maiev Shadowsong",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6a15c6cc-c06d-5478-98ee-bf43c6b04f00"
   },
   {
     "value": "For the Watchers!",
     "faction": "Elf",
     "unit": "Maiev Shadowsong",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6a15c6cc-c06d-5478-98ee-bf43c6b04f00"
   },
   {
     "value": "Tor'ilisar thera'nal!",
     "faction": "Elf",
     "unit": "Maiev Shadowsong",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6a15c6cc-c06d-5478-98ee-bf43c6b04f00"
   },
   {
     "value": "I watched the barrow prisons for over ten thousand years.",
     "faction": "Elf",
     "unit": "Maiev Shadowsong",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6a15c6cc-c06d-5478-98ee-bf43c6b04f00"
   },
   {
     "value": "Yet I'm the one who feels caged.",
     "faction": "Elf",
     "unit": "Maiev Shadowsong",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6a15c6cc-c06d-5478-98ee-bf43c6b04f00"
   },
   {
     "value": "I feel hollow inside. Vengeance is all I have left.",
     "faction": "Elf",
     "unit": "Maiev Shadowsong",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6a15c6cc-c06d-5478-98ee-bf43c6b04f00"
   },
   {
     "value": "Tyrande will pay for setting Illidan free.",
     "faction": "Elf",
     "unit": "Maiev Shadowsong",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6a15c6cc-c06d-5478-98ee-bf43c6b04f00"
   },
   {
     "value": "I will recapture Illidan, or die trying.",
     "faction": "Elf",
     "unit": "Maiev Shadowsong",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6a15c6cc-c06d-5478-98ee-bf43c6b04f00"
   },
   {
     "value": "I heed the voice of Elune.",
     "faction": "Elf",
     "unit": "Tyrande Whisperwind",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "ccef5ea4-7341-53a6-af4d-9b3c93ef497c"
   },
   {
     "value": "The Goddess calls.",
     "faction": "Elf",
     "unit": "Tyrande Whisperwind",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "ccef5ea4-7341-53a6-af4d-9b3c93ef497c"
   },
   {
     "value": "Ashe'tor'aman.",
     "faction": "Elf",
     "unit": "Tyrande Whisperwind",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "ccef5ea4-7341-53a6-af4d-9b3c93ef497c"
   },
   {
     "value": "Someone threatens the wilds?",
     "faction": "Elf",
     "unit": "Tyrande Whisperwind",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "ccef5ea4-7341-53a6-af4d-9b3c93ef497c"
   },
   {
     "value": "So be it.",
     "faction": "Elf",
     "unit": "Tyrande Whisperwind",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "ccef5ea4-7341-53a6-af4d-9b3c93ef497c"
   },
   {
     "value": "By Elune.",
     "faction": "Elf",
     "unit": "Tyrande Whisperwind",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "ccef5ea4-7341-53a6-af4d-9b3c93ef497c"
   },
   {
     "value": "As the Goddess wills.",
     "faction": "Elf",
     "unit": "Tyrande Whisperwind",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "ccef5ea4-7341-53a6-af4d-9b3c93ef497c"
   },
   {
     "value": "Immediately.",
     "faction": "Elf",
     "unit": "Tyrande Whisperwind",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "ccef5ea4-7341-53a6-af4d-9b3c93ef497c"
   },
   {
     "value": "Anu'dora!",
     "faction": "Elf",
     "unit": "Tyrande Whisperwind",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "ccef5ea4-7341-53a6-af4d-9b3c93ef497c"
   },
   {
     "value": "Enu ri'fah!",
     "faction": "Elf",
     "unit": "Tyrande Whisperwind",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "ccef5ea4-7341-53a6-af4d-9b3c93ef497c"
   },
   {
     "value": "For Kalimdor!",
     "faction": "Elf",
     "unit": "Tyrande Whisperwind",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "ccef5ea4-7341-53a6-af4d-9b3c93ef497c"
   },
   {
     "value": "In the name of Cenarius!",
     "faction": "Elf",
     "unit": "Tyrande Whisperwind",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "ccef5ea4-7341-53a6-af4d-9b3c93ef497c"
   },
   {
     "value": "Sentinels, attack!",
     "faction": "Elf",
     "unit": "Tyrande Whisperwind",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": true,
+    "isMelee": false,
+    "id": "ccef5ea4-7341-53a6-af4d-9b3c93ef497c"
   },
   {
     "value": "We keep our long vigil and wait...",
     "faction": "Elf",
     "unit": "Tyrande Whisperwind",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "ccef5ea4-7341-53a6-af4d-9b3c93ef497c"
   },
   {
     "value": "... while the Druids sleep peacefully in their dens.",
     "faction": "Elf",
     "unit": "Tyrande Whisperwind",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "ccef5ea4-7341-53a6-af4d-9b3c93ef497c"
   },
   {
     "value": "Elune give me strength.",
     "faction": "Elf",
     "unit": "Tyrande Whisperwind",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "ccef5ea4-7341-53a6-af4d-9b3c93ef497c"
   },
   {
     "value": "My heart sleeps in the Emerald Dream.",
     "faction": "Elf",
     "unit": "Tyrande Whisperwind",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "ccef5ea4-7341-53a6-af4d-9b3c93ef497c"
   },
   {
     "value": "Something is amiss...",
     "faction": "Elf",
     "unit": "Malfurion Stormrage",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6dbe9cb4-cdb6-58e1-8827-bb33343d8623"
   },
   {
     "value": "What threatens these lands?",
     "faction": "Elf",
     "unit": "Malfurion Stormrage",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6dbe9cb4-cdb6-58e1-8827-bb33343d8623"
   },
   {
     "value": "Has sleep dulled my senses?",
     "faction": "Elf",
     "unit": "Malfurion Stormrage",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6dbe9cb4-cdb6-58e1-8827-bb33343d8623"
   },
   {
     "value": "The land and I are one.",
     "faction": "Elf",
     "unit": "Malfurion Stormrage",
-    "action": "What"
+    "action": "What",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6dbe9cb4-cdb6-58e1-8827-bb33343d8623"
   },
   {
     "value": "For Kalimdor.",
     "faction": "Elf",
     "unit": "Malfurion Stormrage",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6dbe9cb4-cdb6-58e1-8827-bb33343d8623"
   },
   {
     "value": "Ash'thera'falla-dor.",
     "faction": "Elf",
     "unit": "Malfurion Stormrage",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6dbe9cb4-cdb6-58e1-8827-bb33343d8623"
   },
   {
     "value": "It shall be done.",
     "faction": "Elf",
     "unit": "Malfurion Stormrage",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6dbe9cb4-cdb6-58e1-8827-bb33343d8623"
   },
   {
     "value": "Anu'dora.",
     "faction": "Elf",
     "unit": "Malfurion Stormrage",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6dbe9cb4-cdb6-58e1-8827-bb33343d8623"
   },
   {
     "value": "Tor fal-anu'dora!",
     "faction": "Elf",
     "unit": "Malfurion Stormrage",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6dbe9cb4-cdb6-58e1-8827-bb33343d8623"
   },
   {
     "value": "How dare you!",
     "faction": "Elf",
     "unit": "Malfurion Stormrage",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6dbe9cb4-cdb6-58e1-8827-bb33343d8623"
   },
   {
     "value": "Pathetic wretches!",
     "faction": "Elf",
     "unit": "Malfurion Stormrage",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6dbe9cb4-cdb6-58e1-8827-bb33343d8623"
   },
   {
     "value": "Press the attack!",
     "faction": "Elf",
     "unit": "Malfurion Stormrage",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6dbe9cb4-cdb6-58e1-8827-bb33343d8623"
   },
   {
     "value": "Ana'doreini talah!",
     "faction": "Elf",
     "unit": "Malfurion Stormrage",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6dbe9cb4-cdb6-58e1-8827-bb33343d8623"
   },
   {
     "value": "I sensed darkness in the Dreamways.",
     "faction": "Elf",
     "unit": "Malfurion Stormrage",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6dbe9cb4-cdb6-58e1-8827-bb33343d8623"
   },
   {
     "value": "The Legion has returned at last.",
     "faction": "Elf",
     "unit": "Malfurion Stormrage",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6dbe9cb4-cdb6-58e1-8827-bb33343d8623"
   },
   {
     "value": "This will be difficult without Cenarius' guidance.",
     "faction": "Elf",
     "unit": "Malfurion Stormrage",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6dbe9cb4-cdb6-58e1-8827-bb33343d8623"
   },
   {
     "value": "Our sins have returned... to haunt us.",
     "faction": "Elf",
     "unit": "Malfurion Stormrage",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6dbe9cb4-cdb6-58e1-8827-bb33343d8623"
   },
   {
     "value": "Kalimdor must be saved at all costs.",
     "faction": "Elf",
     "unit": "Malfurion Stormrage",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": true,
+    "isMelee": false,
+    "id": "6dbe9cb4-cdb6-58e1-8827-bb33343d8623"
   },
   {
     "value": "I'm on my mark.",
     "faction": "Elf",
     "unit": "Night Elf Runner",
-    "action": "Ready"
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1bd8084c-f9ff-5e41-b55f-428a16f4d539"
   },
   {
     "value": "There's no time to rest.",
     "faction": "Elf",
     "unit": "Night Elf Runner",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1bd8084c-f9ff-5e41-b55f-428a16f4d539"
   },
   {
     "value": "Show me the path.",
     "faction": "Elf",
     "unit": "Night Elf Runner",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1bd8084c-f9ff-5e41-b55f-428a16f4d539"
   },
   {
     "value": "Which way?",
     "faction": "Elf",
     "unit": "Night Elf Runner",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1bd8084c-f9ff-5e41-b55f-428a16f4d539"
   },
   {
     "value": "Guide me.",
     "faction": "Elf",
     "unit": "Night Elf Runner",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1bd8084c-f9ff-5e41-b55f-428a16f4d539"
   },
   {
     "value": "What news?",
     "faction": "Elf",
     "unit": "Night Elf Runner",
-    "action": "What"
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1bd8084c-f9ff-5e41-b55f-428a16f4d539"
   },
   {
     "value": "Let's run!",
     "faction": "Elf",
     "unit": "Night Elf Runner",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1bd8084c-f9ff-5e41-b55f-428a16f4d539"
   },
   {
     "value": "I'll get there on time.",
     "faction": "Elf",
     "unit": "Night Elf Runner",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1bd8084c-f9ff-5e41-b55f-428a16f4d539"
   },
   {
     "value": "As fast as I can.",
     "faction": "Elf",
     "unit": "Night Elf Runner",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1bd8084c-f9ff-5e41-b55f-428a16f4d539"
   },
   {
     "value": "Just do it.",
     "faction": "Elf",
     "unit": "Night Elf Runner",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1bd8084c-f9ff-5e41-b55f-428a16f4d539"
   },
   {
     "value": "Make for the trees.",
     "faction": "Elf",
     "unit": "Night Elf Runner",
-    "action": "Yes"
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1bd8084c-f9ff-5e41-b55f-428a16f4d539"
   },
   {
     "value": "What? Me?",
     "faction": "Elf",
     "unit": "Night Elf Runner",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1bd8084c-f9ff-5e41-b55f-428a16f4d539"
   },
   {
     "value": "I wish I had a weapon...",
     "faction": "Elf",
     "unit": "Night Elf Runner",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1bd8084c-f9ff-5e41-b55f-428a16f4d539"
   },
   {
     "value": "Get me out of here.",
     "faction": "Elf",
     "unit": "Night Elf Runner",
-    "action": "Attack"
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1bd8084c-f9ff-5e41-b55f-428a16f4d539"
   },
   {
     "value": "Hi-keeba!",
     "faction": "Elf",
     "unit": "Night Elf Runner",
-    "action": "Warcry"
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1bd8084c-f9ff-5e41-b55f-428a16f4d539"
   },
   {
     "value": "Don't shoot the messenger.",
     "faction": "Elf",
     "unit": "Night Elf Runner",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1bd8084c-f9ff-5e41-b55f-428a16f4d539"
   },
   {
     "value": "When it absolutely, positively has to be there in one day-night cycle.",
     "faction": "Elf",
     "unit": "Night Elf Runner",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1bd8084c-f9ff-5e41-b55f-428a16f4d539"
   },
   {
     "value": "I was running through the Tauren lands the other day and the traffic was horrible. There were horns everywhere.",
     "faction": "Elf",
     "unit": "Night Elf Runner",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1bd8084c-f9ff-5e41-b55f-428a16f4d539"
   },
   {
     "value": "When you care enough to send the very best... Send someone else.",
     "faction": "Elf",
     "unit": "Night Elf Runner",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1bd8084c-f9ff-5e41-b55f-428a16f4d539"
   },
   {
     "value": "Hmm... a delivery from Acme Industries...",
     "faction": "Elf",
     "unit": "Night Elf Runner",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1bd8084c-f9ff-5e41-b55f-428a16f4d539"
   },
   {
     "value": "Urk! Ugh, I hate these running gags...",
     "faction": "Elf",
     "unit": "Night Elf Runner",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1bd8084c-f9ff-5e41-b55f-428a16f4d539"
   },
   {
     "value": "Sorry, I'm out to lunch.",
     "faction": "Elf",
     "unit": "Night Elf Runner",
-    "action": "Pissed"
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "1bd8084c-f9ff-5e41-b55f-428a16f4d539"
   }
 ]
