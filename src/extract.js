@@ -31,12 +31,14 @@ const isIgnoredUnit = unit => {
 /**
  * Extract all quotes from specified uri for faction
  * @param {string} faction - the faction to extract quotes from
+ * @param {string} order - the prefix for the created file
  * @param {string} uri - the uri the quotes reside in
  * @param {string} header - the h elements to look for the quotes under
  * @param {string} file_name_override - file name override option
  */
 const quoteExtractor = async (
   faction,
+  order,
   uri,
   header = 'h3',
   file_name_override = ''
@@ -104,14 +106,14 @@ const quoteExtractor = async (
     if (err) throw err;
   });
 
-  fs.writeFileSync(`${pathOutput}/${faction}.json`, data);
+  fs.writeFileSync(`${pathOutput}/${order}-${faction}.json`, data);
   console.log('WORK COMPLETE');
   console.log(`OUTPUT: ${pathOutput}/${faction}.json`);
 };
 
-quoteExtractor('human', `${url}/Human_Alliance`);
-quoteExtractor('orc', `${url}/Orc_Horde`);
-quoteExtractor('undead', `${url}/Undead_Scourge`);
-quoteExtractor('elf', `${url}/Night_Elf_Sentinels`);
-quoteExtractor('neutral', `${url}/Neutral`);
-quoteExtractor('neutral', `${url}/Neutral_Heroes`, 'h2', 'neutral-heroes');
+quoteExtractor('human', 1, `${url}/Human_Alliance`);
+quoteExtractor('orc', 2, `${url}/Orc_Horde`);
+quoteExtractor('undead', 3, `${url}/Undead_Scourge`);
+quoteExtractor('elf', 4, `${url}/Night_Elf_Sentinels`);
+quoteExtractor('neutral', 5, `${url}/Neutral`);
+quoteExtractor('neutral', 6, `${url}/Neutral_Heroes`, 'h2', 'neutral-heroes');
