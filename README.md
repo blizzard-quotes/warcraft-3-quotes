@@ -1,13 +1,13 @@
 # Warcraft III Quotes
 
-## Summay
+## Summary
 
 Wrapper returning Warcraft III quotes with metadata.
 
 Also contains quick scripts to extract and transform Warcraft III quotes.
 Grabs every unique quote found.  
 Includes selectable melee unit quotes and selectable campaign unit quotes.
-Only campign units which have unique quotes are grabbed
+Only campaign units which have unique quotes are grabbed
 (i.e. melee units take precedence).
 
 Quotes involving gibberish are not included.
