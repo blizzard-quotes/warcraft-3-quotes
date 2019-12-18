@@ -2,14 +2,15 @@
 
 ## Summay
 
-Wrapper returning Warcraft III quotes. 
+Wrapper returning Warcraft III quotes.
 
 Also contains quick scripts to extract and transform Warcraft III quotes.
 Grabs every unique quote found.  
 Includes selectable melee unit quotes and selectable campaign unit quotes.
-
-Only campign units which have unique quotes are grabbed 
+Only campign units which have unique quotes are grabbed
 (i.e. melee units take precedence).
+
+Quotes involving gibberish are not included.
 
 Does not include cinematic or cutscene quotes.
 
@@ -35,11 +36,13 @@ console.log(warcraft3Quotes);
 ## Execution
 
 ### Extract quotes and generate JSON files for each faction
+
 `npm run extract`
 
 Extracted quotes can be found under ./quotes/extract
 
 ### Transform quotes and generate JSON files for each faction along with one JSON file to rule them all.
+
 `npm run transform`
 
 Transformed quotes for each faction can be found under ./quotes/transform.
