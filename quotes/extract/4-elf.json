@@ -954,7 +954,7 @@
     "action": "Pissed\n"
   },
   {
-    "value": "\"My tiger was trained for war. He's grrrrreat!\n",
+    "value": "\"My tiger was trained for war. He's grrrrreat!\"\n",
     "faction": "Elf",
     "unit": " Priestess of the Moon ",
     "action": "Pissed\n"
@@ -972,7 +972,7 @@
     "action": "Pissed\n"
   },
   {
-    "value": "\"​Crouch, tiger! I sense a hidden dragon!​\" (Reference to Crouching Tiger, Hidden Dragon )\n",
+    "value": "\"​Crouch, tiger! I sense a hidden dragon!​\" (Reference to Crouching Tiger, Hidden Dragon)\n",
     "faction": "Elf",
     "unit": " Priestess of the Moon ",
     "action": "Pissed\n"
@@ -1218,7 +1218,7 @@
     "action": "Pissed\n"
   },
   {
-    "value": "\"Justice may be blind, but I'm not.\" (Reference to Lady Justice and Tyarel)\n",
+    "value": "\"Justice may be blind, but I'm not.\" (Reference to Lady Justice and Tyrael)\n",
     "faction": "Elf",
     "unit": " Warden ",
     "action": "Pissed\n"

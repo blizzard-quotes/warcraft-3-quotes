@@ -3,16 +3,19 @@
  */
 'use strict';
 const fs = require('fs');
-const uuidv4 = require('uuid/v4');
+const path = require('path');
+const uuidv5 = require('uuid/v5');
+const constants = require('./utils/constants');
 
-const INPUT_DIRECTORY = './quotes/extract';
-const OUTPUT_DIRECTORY = './quotes/transform';
+const pathInput = path.join(__dirname, '../quotes/extract');
+const pathOutput = path.join(__dirname, '../quotes/transform');
+const pathQuotes = path.join(__dirname, '../quotes/warcraft-3-quotes.json');
 
 /**
  * Ensure strings are clean / neat for .json file
  * @param {string} value - string to make 'clean'
  */
-function cleanString(value) {
+const cleanString = value => {
   return (
     value
       // Remove newlines / carriage returns
@@ -36,13 +39,13 @@ function cleanString(value) {
       .replace(/(\?)([A-Za-z])/g, '$1 $2')
       .trim()
   );
-}
+};
 
 /**
  * Ensure unit name is clean / correct
  * @param {string} unit - unit to 'clean'
  */
-function cleanQuoteUnit(unit) {
+const cleanQuoteUnit = unit => {
   if (unit.trim() == 'Orc Warchief') {
     return 'Slave Master';
   } else if (unit.trim() == `Wyvern / Wind Rider`) {
@@ -52,7 +55,7 @@ function cleanQuoteUnit(unit) {
   } else if (unit.trim() == `Arthas`) {
     return 'Arthas Menethil';
   } else if (unit.trim() == `Dragon Hawk (High Elf)`) {
-    return 'Dragon Hawk';
+    return 'High Elf Dragonhawk';
   } else if (unit.trim() == `Orc Peon`) {
     return 'Peon';
   } else if (unit.trim() == `Orc Grunt`) {
@@ -69,16 +72,18 @@ function cleanQuoteUnit(unit) {
     return 'Tinker';
   } else if (unit.trim() == `Goblin Alchemist`) {
     return 'Alchemist';
+  } else if (unit.trim() == `Batrider`) {
+    return 'Troll Batrider';
   }
 
   return cleanString(unit);
-}
+};
 
 /**
  * Ensure action is clean / correct
  * @param {string} action - action to 'clean'
  */
-function cleanQuoteAction(action) {
+const cleanQuoteAction = action => {
   if (action.includes('What:')) {
     return 'What';
   } else if (action.includes(`Attack\nYes`)) {
@@ -88,21 +93,21 @@ function cleanQuoteAction(action) {
   }
 
   return cleanString(action);
-}
+};
 
 /**
  * Ensure faction is clean / correct
  * @param {string} faction - faction to 'clean'
  */
-function cleanQuoteFaction(faction) {
+const cleanQuoteFaction = faction => {
   return cleanString(faction);
-}
+};
 
 /**
  * Ensure the actual quote is clean / correct
  * @param {string} value - the actual quote to 'clean'
  */
-function cleanQuoteValue(value) {
+const cleanQuoteValue = value => {
   if (value.includes('reverse in audio recordings')) {
     return "Seert neerg evol'eah!";
   } else if (value.includes('Hi, my name is Roy')) {
@@ -117,17 +122,42 @@ function cleanQuoteValue(value) {
     return `Warriors of the night, assemble!`;
   } else if (value.includes(`Eat mortar!`)) {
     return `Eat mortar! Eat lead!`;
+  } else if (value.includes(`Look at me, I'm happy`)) {
+    return `Look at me, I'm happy!`;
   }
 
   return cleanString(value);
-}
+};
+/**
+ * Determine if unit is a hero
+ * @param {string} unit
+ */
+const isHero = unit => {
+  if (constants.heroes.find(hero => hero === unit)) {
+    return true;
+  } else {
+    return false;
+  }
+};
+
+/**
+ * Determine if unit is a melee unit
+ * @param {string} unit
+ */
+const isMelee = unit => {
+  if (constants.unitsMelee.find(element => element === unit)) {
+    return true;
+  } else {
+    return false;
+  }
+};
 
 /**
  * Transforms all quotes including metadata
  * @param {string} input - the name of the JSON file to transform
  * @param {string} output  - the location of the transformed JSON file
  */
-function quoteTransformer(input, output) {
+const quoteTransformer = (input, output) => {
   console.log('I WISH ONLY TO SERVE');
   console.log(`TRANSFORMING: ${input}`);
 
@@ -137,11 +167,19 @@ function quoteTransformer(input, output) {
   let quotes = JSON.parse(rawData);
 
   quotes.forEach(function(quote) {
+    let cleanUnit = cleanQuoteUnit(quote['unit']);
+    let cleanValue = cleanQuoteValue(quote['value']);
+    let cleanFaction = cleanQuoteFaction(quote['faction']);
+    let cleanAction = cleanQuoteAction(quote['action']);
+
     let cleanQuote = {
-      value: cleanQuoteValue(quote['value']),
-      faction: cleanQuoteFaction(quote['faction']),
-      unit: cleanQuoteUnit(quote['unit']),
-      action: cleanQuoteAction(quote['action'])
+      value: cleanValue,
+      faction: cleanFaction,
+      unit: cleanUnit,
+      action: cleanAction,
+      isHero: isHero(cleanUnit),
+      isMelee: isMelee(cleanUnit),
+      id: uuidv5(`${quote.unit} ${quotes.action} ${quotes.faction}`, uuidv5.URL)
     };
 
     if (cleanQuote['value'] !== '') {
@@ -156,62 +194,23 @@ function quoteTransformer(input, output) {
   console.log(`OUTPUT: ${output}`);
 
   return cleanQuotes;
-}
+};
 
-/**
- * Adds short uuid for all quote objects
- * @param {array} quotes - an array of quote objects
- */
-function shortId(quotes) {
-  let uniqueIds = [];
-  quotes.forEach(function(quote, i) {
-    let uniqueId;
-    let isUnique;
-    do {
-      uniqueId = uuidv4().split('-')[0];
-      isUnique = false;
-      if (!uniqueIds.includes(uniqueId)) {
-        uniqueIds.push(uniqueId);
-        isUnique = true;
-      }
-    } while (!isUnique);
-
-    quote['id'] = uniqueId;
-  });
-}
-
-fs.mkdir(OUTPUT_DIRECTORY, { recursive: true }, err => {
+fs.mkdir(pathOutput, { recursive: true }, err => {
   if (err) throw err;
 });
 
-// succubus.json was manually created. Not found on wowwiki
-const FILES = [
-  'human.json',
-  'orc.json',
-  'undead.json',
-  'elf.json',
-  'neutral.json',
-  'succubus.json',
-  'neutral-heroes.json'
-];
-
+let files = fs.readdirSync(pathInput);
 let quotes = [];
 
-FILES.forEach(function(file) {
+files.forEach(function(file) {
   quotes = quotes.concat(
-    quoteTransformer(
-      `${INPUT_DIRECTORY}/${file}`,
-      `${OUTPUT_DIRECTORY}/${file}`
-    )
+    quoteTransformer(`${pathInput}/${file}`, `${pathOutput}/${file}`)
   );
 });
 
-shortId(quotes);
-
 let data = JSON.stringify(quotes, null, 2);
 
-if (!fs.existsSync('./quotes/warcraft-3-quotes.json')) {
-  fs.writeFileSync('./quotes/warcraft-3-quotes.json', data);
-  console.log('SUMMONING IS COMPLETE');
-  console.log('OUTPUT: ./quotes/warcraft-3-quotes.json');
-}
+fs.writeFileSync(`${pathQuotes}`, data);
+console.log('SUMMONING IS COMPLETE');
+console.log(`OUTPUT: ${pathQuotes}`);

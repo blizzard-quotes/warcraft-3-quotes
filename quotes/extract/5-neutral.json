@@ -708,7 +708,7 @@
     "action": "Ready\n"
   },
   {
-    "value": "\"Whatwhatwhat?!\"\n",
+    "value": "\"Whatwhatwhat?!\" (South Park)\n",
     "faction": "Neutral",
     "unit": "Goblin Zeppelin",
     "action": "What\n"
@@ -729,25 +729,25 @@
     "value": "\"Got it!\"\n",
     "faction": "Neutral",
     "unit": "Goblin Zeppelin",
-    "action": "Attack\nYes\n"
+    "action": "Yes\n"
   },
   {
     "value": "\"Full speed ahead!\"\n",
     "faction": "Neutral",
     "unit": "Goblin Zeppelin",
-    "action": "Attack\nYes\n"
+    "action": "Yes\n"
   },
   {
     "value": "<Laughter>\n",
     "faction": "Neutral",
     "unit": "Goblin Zeppelin",
-    "action": "Attack\nYes\n"
+    "action": "Yes\n"
   },
   {
     "value": "\"Rrrreww.\"\n",
     "faction": "Neutral",
     "unit": "Goblin Zeppelin",
-    "action": "Attack\nYes\n"
+    "action": "Yes\n"
   },
   {
     "value": "\"AAAAHHH! You scared me!\"\n",
@@ -1156,60 +1156,6 @@
     "faction": "Neutral",
     "unit": "Naga Royal Guard",
     "action": "Pissed\n"
-  },
-  {
-    "value": "\"Anuakah-Daru\"\n",
-    "faction": "Neutral",
-    "unit": "Pit Lord (Mannoroth)",
-    "action": "What\n"
-  },
-  {
-    "value": "\"Bos-sh-hul\"\n",
-    "faction": "Neutral",
-    "unit": "Pit Lord (Mannoroth)",
-    "action": "What\n"
-  },
-  {
-    "value": "\"Ka-tu\"\n",
-    "faction": "Neutral",
-    "unit": "Pit Lord (Mannoroth)",
-    "action": "What\n"
-  },
-  {
-    "value": "\"Daru\"\n",
-    "faction": "Neutral",
-    "unit": "Pit Lord (Mannoroth)",
-    "action": "Yes\n"
-  },
-  {
-    "value": "\"Mekin Krenah\"\n",
-    "faction": "Neutral",
-    "unit": "Pit Lord (Mannoroth)",
-    "action": "Yes\n"
-  },
-  {
-    "value": "\"Denu!\"\n",
-    "faction": "Neutral",
-    "unit": "Pit Lord (Mannoroth)",
-    "action": "Yes\n"
-  },
-  {
-    "value": "\"Mekin Te-a-u\"\n",
-    "faction": "Neutral",
-    "unit": "Pit Lord (Mannoroth)",
-    "action": "Attack\n"
-  },
-  {
-    "value": "\"Ona dena la-le-na\"\n",
-    "faction": "Neutral",
-    "unit": "Pit Lord (Mannoroth)",
-    "action": "Attack\n"
-  },
-  {
-    "value": "\"Sin-kah\"\n",
-    "faction": "Neutral",
-    "unit": "Pit Lord (Mannoroth)",
-    "action": "Attack\n"
   },
   {
     "value": "\"The shadows call.\"\n",

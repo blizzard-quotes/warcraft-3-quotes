@@ -5,39 +5,44 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
+const path = require('path');
 
-const URL = 'https://wowwiki.fandom.com/wiki/Quotes_of_Warcraft_III';
-const OUTPUT_DIRECTORY = './quotes/extract';
+const url = 'https://wowwiki.fandom.com/wiki/Quotes_of_Warcraft_III';
+
+const pathOutput = path.join(__dirname, '../quotes/extract');
 
 /**
  * Returns true or false depending on if the 'unit' should be ignored
  * @param {string} unit - the unit to inspect
  */
-function isIgnoredUnit(unit) {
+const isIgnoredUnit = unit => {
   if (
     unit.trim() == 'Warning quotes' ||
     unit.trim() == 'Dialogue' ||
-    unit.trim() == `Vengeful Spirit (her voices are backwards)`
+    unit.trim() == `Vengeful Spirit (her voices are backwards)` ||
+    unit.trim().includes('Mannoroth')
   ) {
     return true;
   } else {
     return false;
   }
-}
+};
 
 /**
  * Extract all quotes from specified uri for faction
  * @param {string} faction - the faction to extract quotes from
+ * @param {string} order - the prefix for the created file
  * @param {string} uri - the uri the quotes reside in
  * @param {string} header - the h elements to look for the quotes under
  * @param {string} file_name_override - file name override option
  */
-async function quoteExtractor(
+const quoteExtractor = async (
   faction,
+  order,
   uri,
   header = 'h3',
   file_name_override = ''
-) {
+) => {
   console.log('READY TO WORK');
   console.log(`EXTRACTING: ${uri}`);
 
@@ -51,7 +56,7 @@ async function quoteExtractor(
     let $ = cheerio.load(response.data);
 
     // Iterate through each unit, starting at the element with the name of the unit
-    $(`${header} > span.mw-headline`).each(function(i, element) {
+    $(`${header} > span.mw-headline`).each((i, element) => {
       unit = $(element).text();
       let current_element = $(element).parent();
 
@@ -67,7 +72,7 @@ async function quoteExtractor(
         } else if ($(current_element).is('ul')) {
           $(current_element)
             .children()
-            .each(function(i, element) {
+            .each((i, element) => {
               value = $(element).text();
 
               quote = {
@@ -97,18 +102,18 @@ async function quoteExtractor(
 
   let data = JSON.stringify(quotes, null, 2);
 
-  fs.mkdir(OUTPUT_DIRECTORY, { recursive: true }, err => {
+  fs.mkdir(pathOutput, { recursive: true }, err => {
     if (err) throw err;
   });
 
-  fs.writeFileSync(`${OUTPUT_DIRECTORY}/${faction}.json`, data);
+  fs.writeFileSync(`${pathOutput}/${order}-${faction}.json`, data);
   console.log('WORK COMPLETE');
-  console.log(`OUTPUT: ${OUTPUT_DIRECTORY}/${faction}.json`);
-}
+  console.log(`OUTPUT: ${pathOutput}/${faction}.json`);
+};
 
-quoteExtractor('human', `${URL}/Human_Alliance`);
-quoteExtractor('orc', `${URL}/Orc_Horde`);
-quoteExtractor('undead', `${URL}/Undead_Scourge`);
-quoteExtractor('elf', `${URL}/Night_Elf_Sentinels`);
-quoteExtractor('neutral', `${URL}/Neutral`);
-quoteExtractor('neutral', `${URL}/Neutral_Heroes`, 'h2', 'neutral-heroes');
+quoteExtractor('human', 1, `${url}/Human_Alliance`);
+quoteExtractor('orc', 2, `${url}/Orc_Horde`);
+quoteExtractor('undead', 3, `${url}/Undead_Scourge`);
+quoteExtractor('elf', 4, `${url}/Night_Elf_Sentinels`);
+quoteExtractor('neutral', 5, `${url}/Neutral`);
+quoteExtractor('neutral', 6, `${url}/Neutral_Heroes`, 'h2', 'neutral-heroes');

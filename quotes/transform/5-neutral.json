@@ -1,0 +1,1793 @@
+[
+  {
+    "value": "Stand and deliver.",
+    "faction": "Neutral",
+    "unit": "Bandit",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3636ed0a-fd08-59c9-82a0-e84ab8d2f293"
+  },
+  {
+    "value": "Should I… mess someone up?",
+    "faction": "Neutral",
+    "unit": "Bandit",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3636ed0a-fd08-59c9-82a0-e84ab8d2f293"
+  },
+  {
+    "value": "What'cha got?",
+    "faction": "Neutral",
+    "unit": "Bandit",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3636ed0a-fd08-59c9-82a0-e84ab8d2f293"
+  },
+  {
+    "value": "Smoky!",
+    "faction": "Neutral",
+    "unit": "Bandit",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3636ed0a-fd08-59c9-82a0-e84ab8d2f293"
+  },
+  {
+    "value": "I'll check it out.",
+    "faction": "Neutral",
+    "unit": "Bandit",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3636ed0a-fd08-59c9-82a0-e84ab8d2f293"
+  },
+  {
+    "value": "Sure.",
+    "faction": "Neutral",
+    "unit": "Bandit",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3636ed0a-fd08-59c9-82a0-e84ab8d2f293"
+  },
+  {
+    "value": "Jump 'em!",
+    "faction": "Neutral",
+    "unit": "Bandit",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3636ed0a-fd08-59c9-82a0-e84ab8d2f293"
+  },
+  {
+    "value": "Say your prayers!",
+    "faction": "Neutral",
+    "unit": "Bandit",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3636ed0a-fd08-59c9-82a0-e84ab8d2f293"
+  },
+  {
+    "value": "Get 'em!",
+    "faction": "Neutral",
+    "unit": "Bandit",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3636ed0a-fd08-59c9-82a0-e84ab8d2f293"
+  },
+  {
+    "value": "Ambush!",
+    "faction": "Neutral",
+    "unit": "Bandit",
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3636ed0a-fd08-59c9-82a0-e84ab8d2f293"
+  },
+  {
+    "value": "What we have here is a failure to communicate.",
+    "faction": "Neutral",
+    "unit": "Bandit",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3636ed0a-fd08-59c9-82a0-e84ab8d2f293"
+  },
+  {
+    "value": "I usually work alone.",
+    "faction": "Neutral",
+    "unit": "Bandit",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3636ed0a-fd08-59c9-82a0-e84ab8d2f293"
+  },
+  {
+    "value": "Rover, wanderer, nomad, vagabond… call me what you will.",
+    "faction": "Neutral",
+    "unit": "Bandit",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3636ed0a-fd08-59c9-82a0-e84ab8d2f293"
+  },
+  {
+    "value": "I don't want 'FOP'—I'm a Dapper Dan man, dammit!",
+    "faction": "Neutral",
+    "unit": "Bandit",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3636ed0a-fd08-59c9-82a0-e84ab8d2f293"
+  },
+  {
+    "value": "And this one time, at bandit camp…",
+    "faction": "Neutral",
+    "unit": "Bandit",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "3636ed0a-fd08-59c9-82a0-e84ab8d2f293"
+  },
+  {
+    "value": "I pledge my loyalty.",
+    "faction": "Neutral",
+    "unit": "Draenei",
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "4809799c-f33f-5853-a3ff-08d09d66ba9a"
+  },
+  {
+    "value": "How may I aid you?",
+    "faction": "Neutral",
+    "unit": "Draenei",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "4809799c-f33f-5853-a3ff-08d09d66ba9a"
+  },
+  {
+    "value": "My ancestors call.",
+    "faction": "Neutral",
+    "unit": "Draenei",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "4809799c-f33f-5853-a3ff-08d09d66ba9a"
+  },
+  {
+    "value": "We will share our ways.",
+    "faction": "Neutral",
+    "unit": "Draenei",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "4809799c-f33f-5853-a3ff-08d09d66ba9a"
+  },
+  {
+    "value": "My strength is yours.",
+    "faction": "Neutral",
+    "unit": "Draenei",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "4809799c-f33f-5853-a3ff-08d09d66ba9a"
+  },
+  {
+    "value": "How can this old one help?",
+    "faction": "Neutral",
+    "unit": "Draenei",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "4809799c-f33f-5853-a3ff-08d09d66ba9a"
+  },
+  {
+    "value": "I'll do my best.",
+    "faction": "Neutral",
+    "unit": "Draenei",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "4809799c-f33f-5853-a3ff-08d09d66ba9a"
+  },
+  {
+    "value": "I'm needed once again.",
+    "faction": "Neutral",
+    "unit": "Draenei",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "4809799c-f33f-5853-a3ff-08d09d66ba9a"
+  },
+  {
+    "value": "I will try.",
+    "faction": "Neutral",
+    "unit": "Draenei",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "4809799c-f33f-5853-a3ff-08d09d66ba9a"
+  },
+  {
+    "value": "If it must be done.",
+    "faction": "Neutral",
+    "unit": "Draenei",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "4809799c-f33f-5853-a3ff-08d09d66ba9a"
+  },
+  {
+    "value": "I will do what I can.",
+    "faction": "Neutral",
+    "unit": "Draenei",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "4809799c-f33f-5853-a3ff-08d09d66ba9a"
+  },
+  {
+    "value": "For Draenor!",
+    "faction": "Neutral",
+    "unit": "Draenei",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "4809799c-f33f-5853-a3ff-08d09d66ba9a"
+  },
+  {
+    "value": "Blood for blood!",
+    "faction": "Neutral",
+    "unit": "Draenei",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "4809799c-f33f-5853-a3ff-08d09d66ba9a"
+  },
+  {
+    "value": "For victory!",
+    "faction": "Neutral",
+    "unit": "Draenei",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "4809799c-f33f-5853-a3ff-08d09d66ba9a"
+  },
+  {
+    "value": "Strength and honor!",
+    "faction": "Neutral",
+    "unit": "Draenei",
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "4809799c-f33f-5853-a3ff-08d09d66ba9a"
+  },
+  {
+    "value": "Our blood shall mingle on the battlefield.",
+    "faction": "Neutral",
+    "unit": "Draenei",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "4809799c-f33f-5853-a3ff-08d09d66ba9a"
+  },
+  {
+    "value": "I remember when the ale was strong and the wenches were fresh.",
+    "faction": "Neutral",
+    "unit": "Draenei",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "4809799c-f33f-5853-a3ff-08d09d66ba9a"
+  },
+  {
+    "value": "I'm too old for this… urgh…",
+    "faction": "Neutral",
+    "unit": "Draenei",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "4809799c-f33f-5853-a3ff-08d09d66ba9a"
+  },
+  {
+    "value": "I can fight just like a…",
+    "faction": "Neutral",
+    "unit": "Draenei",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "4809799c-f33f-5853-a3ff-08d09d66ba9a"
+  },
+  {
+    "value": "It's cold, and there are wolves after me.",
+    "faction": "Neutral",
+    "unit": "Draenei",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "4809799c-f33f-5853-a3ff-08d09d66ba9a"
+  },
+  {
+    "value": "Better hurry before I die.",
+    "faction": "Neutral",
+    "unit": "Draenei",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "4809799c-f33f-5853-a3ff-08d09d66ba9a"
+  },
+  {
+    "value": "Who's that guy with the sickle? Why is he beckoning? Why is my grandfather with him?!",
+    "faction": "Neutral",
+    "unit": "Draenei",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "4809799c-f33f-5853-a3ff-08d09d66ba9a"
+  },
+  {
+    "value": "Let the killing begin!",
+    "faction": "Neutral",
+    "unit": "Forest Troll",
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "210c7488-47c6-5f76-a9b8-5efe3a35acbe"
+  },
+  {
+    "value": "Washu wha?",
+    "faction": "Neutral",
+    "unit": "Forest Troll",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "210c7488-47c6-5f76-a9b8-5efe3a35acbe"
+  },
+  {
+    "value": "'You want axe?",
+    "faction": "Neutral",
+    "unit": "Forest Troll",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "210c7488-47c6-5f76-a9b8-5efe3a35acbe"
+  },
+  {
+    "value": "Who chu wanna kill?",
+    "faction": "Neutral",
+    "unit": "Forest Troll",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "210c7488-47c6-5f76-a9b8-5efe3a35acbe"
+  },
+  {
+    "value": "Ee chuta!",
+    "faction": "Neutral",
+    "unit": "Forest Troll",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "210c7488-47c6-5f76-a9b8-5efe3a35acbe"
+  },
+  {
+    "value": "I'd love to.",
+    "faction": "Neutral",
+    "unit": "Forest Troll",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "210c7488-47c6-5f76-a9b8-5efe3a35acbe"
+  },
+  {
+    "value": "De wanna wanga!",
+    "faction": "Neutral",
+    "unit": "Forest Troll",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "210c7488-47c6-5f76-a9b8-5efe3a35acbe"
+  },
+  {
+    "value": "I do it!",
+    "faction": "Neutral",
+    "unit": "Forest Troll",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "210c7488-47c6-5f76-a9b8-5efe3a35acbe"
+  },
+  {
+    "value": "Die!",
+    "faction": "Neutral",
+    "unit": "Forest Troll",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "210c7488-47c6-5f76-a9b8-5efe3a35acbe"
+  },
+  {
+    "value": "Bam!",
+    "faction": "Neutral",
+    "unit": "Forest Troll",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "210c7488-47c6-5f76-a9b8-5efe3a35acbe"
+  },
+  {
+    "value": "I kill you!",
+    "faction": "Neutral",
+    "unit": "Forest Troll",
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "210c7488-47c6-5f76-a9b8-5efe3a35acbe"
+  },
+  {
+    "value": "Say hello to my little friend.",
+    "faction": "Neutral",
+    "unit": "Forest Troll",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "210c7488-47c6-5f76-a9b8-5efe3a35acbe"
+  },
+  {
+    "value": "Tuvaktulas!",
+    "faction": "Neutral",
+    "unit": "Forest Troll",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "210c7488-47c6-5f76-a9b8-5efe3a35acbe"
+  },
+  {
+    "value": "Jabanababatatu!",
+    "faction": "Neutral",
+    "unit": "Forest Troll",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "210c7488-47c6-5f76-a9b8-5efe3a35acbe"
+  },
+  {
+    "value": "Oh hoba!",
+    "faction": "Neutral",
+    "unit": "Forest Troll",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "210c7488-47c6-5f76-a9b8-5efe3a35acbe"
+  },
+  {
+    "value": "Hassan chop!",
+    "faction": "Neutral",
+    "unit": "Forest Troll",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "210c7488-47c6-5f76-a9b8-5efe3a35acbe"
+  },
+  {
+    "value": "Oh, just like that, you filthy swine!",
+    "faction": "Neutral",
+    "unit": "Forest Troll",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "210c7488-47c6-5f76-a9b8-5efe3a35acbe"
+  },
+  {
+    "value": "Oh, whack me.",
+    "faction": "Neutral",
+    "unit": "Harpy",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "51048e98-aee8-58d8-84fc-e06893a2493e"
+  },
+  {
+    "value": "I kill for you!",
+    "faction": "Neutral",
+    "unit": "Ice Troll",
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b42d5394-268e-512a-95df-2cf27dfbffab"
+  },
+  {
+    "value": "Washu wha?",
+    "faction": "Neutral",
+    "unit": "Ice Troll",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b42d5394-268e-512a-95df-2cf27dfbffab"
+  },
+  {
+    "value": "Stay cool.",
+    "faction": "Neutral",
+    "unit": "Ice Troll",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b42d5394-268e-512a-95df-2cf27dfbffab"
+  },
+  {
+    "value": "Mhm, mhm.",
+    "faction": "Neutral",
+    "unit": "Ice Troll",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b42d5394-268e-512a-95df-2cf27dfbffab"
+  },
+  {
+    "value": "Bring it on.",
+    "faction": "Neutral",
+    "unit": "Ice Troll",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b42d5394-268e-512a-95df-2cf27dfbffab"
+  },
+  {
+    "value": "Eh?",
+    "faction": "Neutral",
+    "unit": "Ice Troll",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b42d5394-268e-512a-95df-2cf27dfbffab"
+  },
+  {
+    "value": "I see.",
+    "faction": "Neutral",
+    "unit": "Ice Troll",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b42d5394-268e-512a-95df-2cf27dfbffab"
+  },
+  {
+    "value": "I go.",
+    "faction": "Neutral",
+    "unit": "Ice Troll",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b42d5394-268e-512a-95df-2cf27dfbffab"
+  },
+  {
+    "value": "Cool.",
+    "faction": "Neutral",
+    "unit": "Ice Troll",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b42d5394-268e-512a-95df-2cf27dfbffab"
+  },
+  {
+    "value": "Taz'dingo.",
+    "faction": "Neutral",
+    "unit": "Ice Troll",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b42d5394-268e-512a-95df-2cf27dfbffab"
+  },
+  {
+    "value": "Jabutee.",
+    "faction": "Neutral",
+    "unit": "Ice Troll",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b42d5394-268e-512a-95df-2cf27dfbffab"
+  },
+  {
+    "value": "Die!",
+    "faction": "Neutral",
+    "unit": "Ice Troll",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b42d5394-268e-512a-95df-2cf27dfbffab"
+  },
+  {
+    "value": "Al'ai sum!",
+    "faction": "Neutral",
+    "unit": "Ice Troll",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b42d5394-268e-512a-95df-2cf27dfbffab"
+  },
+  {
+    "value": "TROLL smash!",
+    "faction": "Neutral",
+    "unit": "Ice Troll",
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b42d5394-268e-512a-95df-2cf27dfbffab"
+  },
+  {
+    "value": "I am... too cool.",
+    "faction": "Neutral",
+    "unit": "Ice Troll",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b42d5394-268e-512a-95df-2cf27dfbffab"
+  },
+  {
+    "value": "I shoulda brought a sweater.",
+    "faction": "Neutral",
+    "unit": "Ice Troll",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b42d5394-268e-512a-95df-2cf27dfbffab"
+  },
+  {
+    "value": "Chill out.",
+    "faction": "Neutral",
+    "unit": "Ice Troll",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b42d5394-268e-512a-95df-2cf27dfbffab"
+  },
+  {
+    "value": "Oh, we gonna get along jus' fine.",
+    "faction": "Neutral",
+    "unit": "Ice Troll",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "b42d5394-268e-512a-95df-2cf27dfbffab"
+  },
+  {
+    "value": "It's clobberin' time!",
+    "faction": "Neutral",
+    "unit": "Ogre",
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "aad5d8e5-70ac-572e-940f-9e49b37eb137"
+  },
+  {
+    "value": "What you lookin' at?",
+    "faction": "Neutral",
+    "unit": "Ogre",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "aad5d8e5-70ac-572e-940f-9e49b37eb137"
+  },
+  {
+    "value": "Get on with it!",
+    "faction": "Neutral",
+    "unit": "Ogre",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "aad5d8e5-70ac-572e-940f-9e49b37eb137"
+  },
+  {
+    "value": "Huh?",
+    "faction": "Neutral",
+    "unit": "Ogre",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "aad5d8e5-70ac-572e-940f-9e49b37eb137"
+  },
+  {
+    "value": "Rrrhmm?",
+    "faction": "Neutral",
+    "unit": "Ogre",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "aad5d8e5-70ac-572e-940f-9e49b37eb137"
+  },
+  {
+    "value": "I go.",
+    "faction": "Neutral",
+    "unit": "Ogre",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "aad5d8e5-70ac-572e-940f-9e49b37eb137"
+  },
+  {
+    "value": "Okay.",
+    "faction": "Neutral",
+    "unit": "Ogre",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "aad5d8e5-70ac-572e-940f-9e49b37eb137"
+  },
+  {
+    "value": "Me smash you!",
+    "faction": "Neutral",
+    "unit": "Ogre",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "aad5d8e5-70ac-572e-940f-9e49b37eb137"
+  },
+  {
+    "value": "Kill!",
+    "faction": "Neutral",
+    "unit": "Ogre",
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "aad5d8e5-70ac-572e-940f-9e49b37eb137"
+  },
+  {
+    "value": "So angry! So hungry!",
+    "faction": "Neutral",
+    "unit": "Ogre",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "aad5d8e5-70ac-572e-940f-9e49b37eb137"
+  },
+  {
+    "value": "That way! No, that way!",
+    "faction": "Neutral",
+    "unit": "Ogre",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "aad5d8e5-70ac-572e-940f-9e49b37eb137"
+  },
+  {
+    "value": "I'm with stupid. Me too!",
+    "faction": "Neutral",
+    "unit": "Ogre",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "aad5d8e5-70ac-572e-940f-9e49b37eb137"
+  },
+  {
+    "value": "He did it! No, he did!",
+    "faction": "Neutral",
+    "unit": "Ogre",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "aad5d8e5-70ac-572e-940f-9e49b37eb137"
+  },
+  {
+    "value": "Hello!",
+    "faction": "Neutral",
+    "unit": "Goblin Sapper",
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "231547f9-d75f-5c91-b5ac-8e8023ecb1c7"
+  },
+  {
+    "value": "Yes? What? Hello!",
+    "faction": "Neutral",
+    "unit": "Goblin Sapper",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "231547f9-d75f-5c91-b5ac-8e8023ecb1c7"
+  },
+  {
+    "value": "Hi!",
+    "faction": "Neutral",
+    "unit": "Goblin Sapper",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "231547f9-d75f-5c91-b5ac-8e8023ecb1c7"
+  },
+  {
+    "value": "Wrecking crew here!",
+    "faction": "Neutral",
+    "unit": "Goblin Sapper",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "231547f9-d75f-5c91-b5ac-8e8023ecb1c7"
+  },
+  {
+    "value": "Primed and ready!",
+    "faction": "Neutral",
+    "unit": "Goblin Sapper",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "231547f9-d75f-5c91-b5ac-8e8023ecb1c7"
+  },
+  {
+    "value": "What's happening?",
+    "faction": "Neutral",
+    "unit": "Goblin Sapper",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "231547f9-d75f-5c91-b5ac-8e8023ecb1c7"
+  },
+  {
+    "value": "For all my homies!",
+    "faction": "Neutral",
+    "unit": "Goblin Sapper",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "231547f9-d75f-5c91-b5ac-8e8023ecb1c7"
+  },
+  {
+    "value": "Sounds good!",
+    "faction": "Neutral",
+    "unit": "Goblin Sapper",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "231547f9-d75f-5c91-b5ac-8e8023ecb1c7"
+  },
+  {
+    "value": "I'll be a blast!",
+    "faction": "Neutral",
+    "unit": "Goblin Sapper",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "231547f9-d75f-5c91-b5ac-8e8023ecb1c7"
+  },
+  {
+    "value": "Off we go!",
+    "faction": "Neutral",
+    "unit": "Goblin Sapper",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "231547f9-d75f-5c91-b5ac-8e8023ecb1c7"
+  },
+  {
+    "value": "Good night!",
+    "faction": "Neutral",
+    "unit": "Goblin Sapper",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "231547f9-d75f-5c91-b5ac-8e8023ecb1c7"
+  },
+  {
+    "value": "We like it! We like it!",
+    "faction": "Neutral",
+    "unit": "Goblin Sapper",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "231547f9-d75f-5c91-b5ac-8e8023ecb1c7"
+  },
+  {
+    "value": "Do not run! We are your friends!",
+    "faction": "Neutral",
+    "unit": "Goblin Sapper",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "231547f9-d75f-5c91-b5ac-8e8023ecb1c7"
+  },
+  {
+    "value": "We come in peace",
+    "faction": "Neutral",
+    "unit": "Goblin Sapper",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "231547f9-d75f-5c91-b5ac-8e8023ecb1c7"
+  },
+  {
+    "value": "Light the fuse!",
+    "faction": "Neutral",
+    "unit": "Goblin Sapper",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "231547f9-d75f-5c91-b5ac-8e8023ecb1c7"
+  },
+  {
+    "value": "Are you our daddy?",
+    "faction": "Neutral",
+    "unit": "Goblin Sapper",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "231547f9-d75f-5c91-b5ac-8e8023ecb1c7"
+  },
+  {
+    "value": "Wasn't me! Wasn't me! Sorry.",
+    "faction": "Neutral",
+    "unit": "Goblin Sapper",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "231547f9-d75f-5c91-b5ac-8e8023ecb1c7"
+  },
+  {
+    "value": "Where's the minimap? I threw it in a lake! Are you crazy!?",
+    "faction": "Neutral",
+    "unit": "Goblin Sapper",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "231547f9-d75f-5c91-b5ac-8e8023ecb1c7"
+  },
+  {
+    "value": "Got a match? Your face, my ass.",
+    "faction": "Neutral",
+    "unit": "Goblin Sapper",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "231547f9-d75f-5c91-b5ac-8e8023ecb1c7"
+  },
+  {
+    "value": "Candygram.",
+    "faction": "Neutral",
+    "unit": "Goblin Sapper",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "231547f9-d75f-5c91-b5ac-8e8023ecb1c7"
+  },
+  {
+    "value": "Package for Mr. Whizzem… Frizzem…",
+    "faction": "Neutral",
+    "unit": "Goblin Sapper",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "231547f9-d75f-5c91-b5ac-8e8023ecb1c7"
+  },
+  {
+    "value": "Flowers for Mrs. Cocken Tofu ...",
+    "faction": "Neutral",
+    "unit": "Goblin Sapper",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "231547f9-d75f-5c91-b5ac-8e8023ecb1c7"
+  },
+  {
+    "value": "I laugh in the face of danger! Ha ha HA HA HA HA!",
+    "faction": "Neutral",
+    "unit": "Goblin Zeppelin",
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "a2ba44ef-a5f1-52e8-a03c-fddb372a3bdc"
+  },
+  {
+    "value": "Whatwhatwhat?!",
+    "faction": "Neutral",
+    "unit": "Goblin Zeppelin",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "a2ba44ef-a5f1-52e8-a03c-fddb372a3bdc"
+  },
+  {
+    "value": "Are you threatening me?",
+    "faction": "Neutral",
+    "unit": "Goblin Zeppelin",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "a2ba44ef-a5f1-52e8-a03c-fddb372a3bdc"
+  },
+  {
+    "value": "AAAAAAAAAGHHHHHHHH!!!",
+    "faction": "Neutral",
+    "unit": "Goblin Zeppelin",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "a2ba44ef-a5f1-52e8-a03c-fddb372a3bdc"
+  },
+  {
+    "value": "Got it!",
+    "faction": "Neutral",
+    "unit": "Goblin Zeppelin",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "a2ba44ef-a5f1-52e8-a03c-fddb372a3bdc"
+  },
+  {
+    "value": "Full speed ahead!",
+    "faction": "Neutral",
+    "unit": "Goblin Zeppelin",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "a2ba44ef-a5f1-52e8-a03c-fddb372a3bdc"
+  },
+  {
+    "value": "Rrrreww.",
+    "faction": "Neutral",
+    "unit": "Goblin Zeppelin",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "a2ba44ef-a5f1-52e8-a03c-fddb372a3bdc"
+  },
+  {
+    "value": "AAAAHHH! You scared me!",
+    "faction": "Neutral",
+    "unit": "Goblin Zeppelin",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "a2ba44ef-a5f1-52e8-a03c-fddb372a3bdc"
+  },
+  {
+    "value": "They all look like ants from here!",
+    "faction": "Neutral",
+    "unit": "Goblin Zeppelin",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "a2ba44ef-a5f1-52e8-a03c-fddb372a3bdc"
+  },
+  {
+    "value": "Hmm, shiny buttons!",
+    "faction": "Neutral",
+    "unit": "Goblin Zeppelin",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "a2ba44ef-a5f1-52e8-a03c-fddb372a3bdc"
+  },
+  {
+    "value": "Where's the equator?",
+    "faction": "Neutral",
+    "unit": "Goblin Zeppelin",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "a2ba44ef-a5f1-52e8-a03c-fddb372a3bdc"
+  },
+  {
+    "value": "You worry about the towers, I'll worry about the minimap!",
+    "faction": "Neutral",
+    "unit": "Goblin Zeppelin",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "a2ba44ef-a5f1-52e8-a03c-fddb372a3bdc"
+  },
+  {
+    "value": "I am going to die.",
+    "faction": "Neutral",
+    "unit": "Goblin Zeppelin",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "a2ba44ef-a5f1-52e8-a03c-fddb372a3bdc"
+  },
+  {
+    "value": "From the murky depths I come.",
+    "faction": "Neutral",
+    "unit": "Naga Myrmidon",
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": false,
+    "id": "75216f28-81db-5e48-bffc-9ca1fba0d353"
+  },
+  {
+    "value": "Yes, surface dweller?",
+    "faction": "Neutral",
+    "unit": "Naga Myrmidon",
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "75216f28-81db-5e48-bffc-9ca1fba0d353"
+  },
+  {
+    "value": "Is it safe?",
+    "faction": "Neutral",
+    "unit": "Naga Myrmidon",
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "75216f28-81db-5e48-bffc-9ca1fba0d353"
+  },
+  {
+    "value": "Where shall I strike?",
+    "faction": "Neutral",
+    "unit": "Naga Myrmidon",
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "75216f28-81db-5e48-bffc-9ca1fba0d353"
+  },
+  {
+    "value": "Direct my wrath!",
+    "faction": "Neutral",
+    "unit": "Naga Myrmidon",
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "75216f28-81db-5e48-bffc-9ca1fba0d353"
+  },
+  {
+    "value": "Why should I?",
+    "faction": "Neutral",
+    "unit": "Naga Myrmidon",
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "75216f28-81db-5e48-bffc-9ca1fba0d353"
+  },
+  {
+    "value": "As you wish.",
+    "faction": "Neutral",
+    "unit": "Naga Myrmidon",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "75216f28-81db-5e48-bffc-9ca1fba0d353"
+  },
+  {
+    "value": "By Azshara.",
+    "faction": "Neutral",
+    "unit": "Naga Myrmidon",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "75216f28-81db-5e48-bffc-9ca1fba0d353"
+  },
+  {
+    "value": "Our alliance binds me.",
+    "faction": "Neutral",
+    "unit": "Naga Myrmidon",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "75216f28-81db-5e48-bffc-9ca1fba0d353"
+  },
+  {
+    "value": "I will honor our pact.",
+    "faction": "Neutral",
+    "unit": "Naga Myrmidon",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "75216f28-81db-5e48-bffc-9ca1fba0d353"
+  },
+  {
+    "value": "I will strike!",
+    "faction": "Neutral",
+    "unit": "Naga Myrmidon",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "75216f28-81db-5e48-bffc-9ca1fba0d353"
+  },
+  {
+    "value": "Death to the surface dwellers!",
+    "faction": "Neutral",
+    "unit": "Naga Myrmidon",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "75216f28-81db-5e48-bffc-9ca1fba0d353"
+  },
+  {
+    "value": "With venom..",
+    "faction": "Neutral",
+    "unit": "Naga Myrmidon",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "75216f28-81db-5e48-bffc-9ca1fba0d353"
+  },
+  {
+    "value": "For Nazjatar!",
+    "faction": "Neutral",
+    "unit": "Naga Myrmidon",
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": false,
+    "id": "75216f28-81db-5e48-bffc-9ca1fba0d353"
+  },
+  {
+    "value": "After ten thousand years, our revenge.. is at hand.",
+    "faction": "Neutral",
+    "unit": "Naga Myrmidon",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "75216f28-81db-5e48-bffc-9ca1fba0d353"
+  },
+  {
+    "value": "I think I just slithered in something.",
+    "faction": "Neutral",
+    "unit": "Naga Myrmidon",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "75216f28-81db-5e48-bffc-9ca1fba0d353"
+  },
+  {
+    "value": "I can't smell… I bit my tongue.",
+    "faction": "Neutral",
+    "unit": "Naga Myrmidon",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "75216f28-81db-5e48-bffc-9ca1fba0d353"
+  },
+  {
+    "value": "COOOOBRAAAAAAAA!",
+    "faction": "Neutral",
+    "unit": "Naga Myrmidon",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "75216f28-81db-5e48-bffc-9ca1fba0d353"
+  },
+  {
+    "value": "Ack… going… into… tor… por…",
+    "faction": "Neutral",
+    "unit": "Naga Myrmidon",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "75216f28-81db-5e48-bffc-9ca1fba0d353"
+  },
+  {
+    "value": "Ooohhh, it's kind of cold… in…",
+    "faction": "Neutral",
+    "unit": "Naga Myrmidon",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "75216f28-81db-5e48-bffc-9ca1fba0d353"
+  },
+  {
+    "value": "My next plan for world domination is…  … my hair!!!",
+    "faction": "Neutral",
+    "unit": "Naga Myrmidon",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "75216f28-81db-5e48-bffc-9ca1fba0d353"
+  },
+  {
+    "value": "My song echoes from the deeps.",
+    "faction": "Neutral",
+    "unit": "Naga Siren",
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad54777f-4413-503e-a74c-9332442e4ba5"
+  },
+  {
+    "value": "My song is yours.",
+    "faction": "Neutral",
+    "unit": "Naga Siren",
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad54777f-4413-503e-a74c-9332442e4ba5"
+  },
+  {
+    "value": "Don't be afraid.",
+    "faction": "Neutral",
+    "unit": "Naga Siren",
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad54777f-4413-503e-a74c-9332442e4ba5"
+  },
+  {
+    "value": "I am waiting with bated breath.",
+    "faction": "Neutral",
+    "unit": "Naga Siren",
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad54777f-4413-503e-a74c-9332442e4ba5"
+  },
+  {
+    "value": "Hey, sailor.",
+    "faction": "Neutral",
+    "unit": "Naga Siren",
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad54777f-4413-503e-a74c-9332442e4ba5"
+  },
+  {
+    "value": "By land or sea.",
+    "faction": "Neutral",
+    "unit": "Naga Siren",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad54777f-4413-503e-a74c-9332442e4ba5"
+  },
+  {
+    "value": "On my way.",
+    "faction": "Neutral",
+    "unit": "Naga Siren",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad54777f-4413-503e-a74c-9332442e4ba5"
+  },
+  {
+    "value": "Ash'valana thure.",
+    "faction": "Neutral",
+    "unit": "Naga Siren",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad54777f-4413-503e-a74c-9332442e4ba5"
+  },
+  {
+    "value": "I am hooked.",
+    "faction": "Neutral",
+    "unit": "Naga Siren",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad54777f-4413-503e-a74c-9332442e4ba5"
+  },
+  {
+    "value": "Done.",
+    "faction": "Neutral",
+    "unit": "Naga Siren",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad54777f-4413-503e-a74c-9332442e4ba5"
+  },
+  {
+    "value": "The tide turns.",
+    "faction": "Neutral",
+    "unit": "Naga Siren",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad54777f-4413-503e-a74c-9332442e4ba5"
+  },
+  {
+    "value": "This is for you, chum.",
+    "faction": "Neutral",
+    "unit": "Naga Siren",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad54777f-4413-503e-a74c-9332442e4ba5"
+  },
+  {
+    "value": "Die, land-walker.",
+    "faction": "Neutral",
+    "unit": "Naga Siren",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad54777f-4413-503e-a74c-9332442e4ba5"
+  },
+  {
+    "value": "By Azshara!",
+    "faction": "Neutral",
+    "unit": "Naga Siren",
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad54777f-4413-503e-a74c-9332442e4ba5"
+  },
+  {
+    "value": "I'll sing a requiem for the land-walkers.",
+    "faction": "Neutral",
+    "unit": "Naga Siren",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad54777f-4413-503e-a74c-9332442e4ba5"
+  },
+  {
+    "value": "Don't be so shallow.",
+    "faction": "Neutral",
+    "unit": "Naga Siren",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad54777f-4413-503e-a74c-9332442e4ba5"
+  },
+  {
+    "value": "Did you do that on purpose or was it a fluke?",
+    "faction": "Neutral",
+    "unit": "Naga Siren",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad54777f-4413-503e-a74c-9332442e4ba5"
+  },
+  {
+    "value": "Do you find me a-lure-ing?",
+    "faction": "Neutral",
+    "unit": "Naga Siren",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad54777f-4413-503e-a74c-9332442e4ba5"
+  },
+  {
+    "value": "My cousin was killed in a swim-by.",
+    "faction": "Neutral",
+    "unit": "Naga Siren",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad54777f-4413-503e-a74c-9332442e4ba5"
+  },
+  {
+    "value": "Would you like to feel the ocean spray in your face?",
+    "faction": "Neutral",
+    "unit": "Naga Siren",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "ad54777f-4413-503e-a74c-9332442e4ba5"
+  },
+  {
+    "value": "I come to you now, at the turn of the tide.",
+    "faction": "Neutral",
+    "unit": "Naga Royal Guard",
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": false,
+    "id": "cc40f17b-57b7-59cf-9510-f7f1930f221a"
+  },
+  {
+    "value": "Why have I surfaced?",
+    "faction": "Neutral",
+    "unit": "Naga Royal Guard",
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "cc40f17b-57b7-59cf-9510-f7f1930f221a"
+  },
+  {
+    "value": "Convince me.",
+    "faction": "Neutral",
+    "unit": "Naga Royal Guard",
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "cc40f17b-57b7-59cf-9510-f7f1930f221a"
+  },
+  {
+    "value": "Aid us in our plight.",
+    "faction": "Neutral",
+    "unit": "Naga Royal Guard",
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "cc40f17b-57b7-59cf-9510-f7f1930f221a"
+  },
+  {
+    "value": "Enable my revenge.",
+    "faction": "Neutral",
+    "unit": "Naga Royal Guard",
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "cc40f17b-57b7-59cf-9510-f7f1930f221a"
+  },
+  {
+    "value": "Spare the pleasantries.",
+    "faction": "Neutral",
+    "unit": "Naga Royal Guard",
+    "action": "What",
+    "isHero": false,
+    "isMelee": false,
+    "id": "cc40f17b-57b7-59cf-9510-f7f1930f221a"
+  },
+  {
+    "value": "I'll make it so.",
+    "faction": "Neutral",
+    "unit": "Naga Royal Guard",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "cc40f17b-57b7-59cf-9510-f7f1930f221a"
+  },
+  {
+    "value": "This ought to tide you over.",
+    "faction": "Neutral",
+    "unit": "Naga Royal Guard",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "cc40f17b-57b7-59cf-9510-f7f1930f221a"
+  },
+  {
+    "value": "Our alliance binds me.",
+    "faction": "Neutral",
+    "unit": "Naga Royal Guard",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "cc40f17b-57b7-59cf-9510-f7f1930f221a"
+  },
+  {
+    "value": "By ebb and flow.",
+    "faction": "Neutral",
+    "unit": "Naga Royal Guard",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": false,
+    "id": "cc40f17b-57b7-59cf-9510-f7f1930f221a"
+  },
+  {
+    "value": "Drown them all!",
+    "faction": "Neutral",
+    "unit": "Naga Royal Guard",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "cc40f17b-57b7-59cf-9510-f7f1930f221a"
+  },
+  {
+    "value": "Land-born scum!",
+    "faction": "Neutral",
+    "unit": "Naga Royal Guard",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "cc40f17b-57b7-59cf-9510-f7f1930f221a"
+  },
+  {
+    "value": "Fangs there!",
+    "faction": "Neutral",
+    "unit": "Naga Royal Guard",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": false,
+    "id": "cc40f17b-57b7-59cf-9510-f7f1930f221a"
+  },
+  {
+    "value": "For Nazjatar.",
+    "faction": "Neutral",
+    "unit": "Naga Royal Guard",
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": false,
+    "id": "cc40f17b-57b7-59cf-9510-f7f1930f221a"
+  },
+  {
+    "value": "Our tide... is rising.",
+    "faction": "Neutral",
+    "unit": "Naga Royal Guard",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "cc40f17b-57b7-59cf-9510-f7f1930f221a"
+  },
+  {
+    "value": "In the depths, no one can hear you scream. Well they can, but it's really muffled.",
+    "faction": "Neutral",
+    "unit": "Naga Royal Guard",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "cc40f17b-57b7-59cf-9510-f7f1930f221a"
+  },
+  {
+    "value": "I think I have swimmers ear!",
+    "faction": "Neutral",
+    "unit": "Naga Royal Guard",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "cc40f17b-57b7-59cf-9510-f7f1930f221a"
+  },
+  {
+    "value": "This world will be mine, and I'll start with the swimming pools.",
+    "faction": "Neutral",
+    "unit": "Naga Royal Guard",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "cc40f17b-57b7-59cf-9510-f7f1930f221a"
+  },
+  {
+    "value": "No sink shall be safe from… world domination!",
+    "faction": "Neutral",
+    "unit": "Naga Royal Guard",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "cc40f17b-57b7-59cf-9510-f7f1930f221a"
+  },
+  {
+    "value": "Iced tea is part of our two-pronged offensive.",
+    "faction": "Neutral",
+    "unit": "Naga Royal Guard",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "cc40f17b-57b7-59cf-9510-f7f1930f221a"
+  },
+  {
+    "value": "The day of our invasion shall be known as B-Day",
+    "faction": "Neutral",
+    "unit": "Naga Royal Guard",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": false,
+    "id": "cc40f17b-57b7-59cf-9510-f7f1930f221a"
+  },
+  {
+    "value": "The shadows call.",
+    "faction": "Neutral",
+    "unit": "Satyr",
+    "action": "Ready",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c5c406ef-137f-56fd-b382-1b26d37b21e2"
+  },
+  {
+    "value": "You caught me!",
+    "faction": "Neutral",
+    "unit": "Satyr",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c5c406ef-137f-56fd-b382-1b26d37b21e2"
+  },
+  {
+    "value": "You again?",
+    "faction": "Neutral",
+    "unit": "Satyr",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c5c406ef-137f-56fd-b382-1b26d37b21e2"
+  },
+  {
+    "value": "Now what?",
+    "faction": "Neutral",
+    "unit": "Satyr",
+    "action": "What",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c5c406ef-137f-56fd-b382-1b26d37b21e2"
+  },
+  {
+    "value": "Cunning plan.",
+    "faction": "Neutral",
+    "unit": "Satyr",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c5c406ef-137f-56fd-b382-1b26d37b21e2"
+  },
+  {
+    "value": "Delicious.",
+    "faction": "Neutral",
+    "unit": "Satyr",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c5c406ef-137f-56fd-b382-1b26d37b21e2"
+  },
+  {
+    "value": "Is that all?*",
+    "faction": "Neutral",
+    "unit": "Satyr",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c5c406ef-137f-56fd-b382-1b26d37b21e2"
+  },
+  {
+    "value": "Raagh.",
+    "faction": "Neutral",
+    "unit": "Satyr",
+    "action": "Yes",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c5c406ef-137f-56fd-b382-1b26d37b21e2"
+  },
+  {
+    "value": "Die!",
+    "faction": "Neutral",
+    "unit": "Satyr",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c5c406ef-137f-56fd-b382-1b26d37b21e2"
+  },
+  {
+    "value": "Rrraaghh!",
+    "faction": "Neutral",
+    "unit": "Satyr",
+    "action": "Attack",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c5c406ef-137f-56fd-b382-1b26d37b21e2"
+  },
+  {
+    "value": "For the master.",
+    "faction": "Neutral",
+    "unit": "Satyr",
+    "action": "Warcry",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c5c406ef-137f-56fd-b382-1b26d37b21e2"
+  },
+  {
+    "value": "I await the Legion's coming.",
+    "faction": "Neutral",
+    "unit": "Satyr",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c5c406ef-137f-56fd-b382-1b26d37b21e2"
+  },
+  {
+    "value": "The Night Elves shall suffer!",
+    "faction": "Neutral",
+    "unit": "Satyr",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c5c406ef-137f-56fd-b382-1b26d37b21e2"
+  },
+  {
+    "value": "For Zamfir!",
+    "faction": "Neutral",
+    "unit": "Satyr",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c5c406ef-137f-56fd-b382-1b26d37b21e2"
+  },
+  {
+    "value": "DON'T TOUCH ME!!!",
+    "faction": "Neutral",
+    "unit": "Satyr",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c5c406ef-137f-56fd-b382-1b26d37b21e2"
+  },
+  {
+    "value": "A-a-a-o-ouch.",
+    "faction": "Neutral",
+    "unit": "Satyr",
+    "action": "Pissed",
+    "isHero": false,
+    "isMelee": true,
+    "id": "c5c406ef-137f-56fd-b382-1b26d37b21e2"
+  }
+]

@@ -1,14 +1,29 @@
 {
-  "name": "warcraft-3-quotes-web-scraping",
+  "name": "warcraft-3-quotes",
   "version": "1.0.0",
-  "description": "Quick scripts to scrape Warcraft 3 quotes and generate JSON files.",
+  "description": "Warcraft 3 quotes json wrapper. Also contains scripts to extract and transform Warcraft 3 quotes.",
+  "keywords": [
+    "warcraft 3",
+    "wc3",
+    "quotes"
+  ],
+  "homepage": "https://github.com/blizzard-quotes/warcraft-3-quotes#readme",
+  "bugs": {
+    "url": "https://github.com/blizzard-quotes/warcraft-3-quotes/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blizzard-quotes/warcraft-3-quotes.git"
+  },
+  "license": "MIT",
+  "author": "panebianco",
+  "main": "index.js",
   "scripts": {
     "extract": "node ./src/extract.js",
     "transform": "node ./src/transform.js"
   },
-  "author": "panebianco",
-  "license": "ISC",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "axios": "^0.19.0",
     "cheerio": "^1.0.0-rc.3",
     "uuid": "^3.3.3"

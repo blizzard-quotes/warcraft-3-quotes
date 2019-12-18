@@ -1620,7 +1620,7 @@
     "action": "Attack\n"
   },
   {
-    "value": "\"Strike with great vengeance!\" (Pulp Fiction )\n",
+    "value": "\"Strike with great vengeance!\" (Pulp Fiction)\n",
     "faction": "Human",
     "unit": "Paladin",
     "action": "Attack\n"
@@ -2388,7 +2388,7 @@
     "action": "Pissed\n"
   },
   {
-    "value": "\"Humanity, will rise again!\"\n",
+    "value": "\"Humanity will rise again!\"\n",
     "faction": "Human",
     "unit": "Lord Garithos",
     "action": "Ready\n"
@@ -2484,7 +2484,7 @@
     "action": "Pissed\n"
   },
   {
-    "value": "\"The only good non-human is a dead non-human.\"(Reference to the film Beneath the Planet of the Apes)\n",
+    "value": "\"The only good non-human is a dead non-human.\" (Reference to the film Beneath the Planet of the Apes)\n",
     "faction": "Human",
     "unit": "Lord Garithos",
     "action": "Pissed\n"
@@ -2574,7 +2574,7 @@
     "action": "Warcry\n"
   },
   {
-    "value": "\"I getting too old for this.\" (Lethal Weapon)\n",
+    "value": "\"I'm getting too old for this.\" (Lethal Weapon)\n",
     "faction": "Human",
     "unit": "Uther the Lightbringer",
     "action": "Pissed\n"
