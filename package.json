@@ -1,6 +1,6 @@
 {
   "name": "warcraft-3-quotes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Warcraft 3 quotes json wrapper. Also contains scripts to extract and transform Warcraft 3 quotes.",
   "keywords": [
     "warcraft 3",

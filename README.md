@@ -2,7 +2,7 @@
 
 ## Summay
 
-Wrapper returning Warcraft III quotes.
+Wrapper returning Warcraft III quotes with metadata.
 
 Also contains quick scripts to extract and transform Warcraft III quotes.
 Grabs every unique quote found.  
@@ -23,12 +23,12 @@ This is due to the fact that the succubus unit was missing from the site scraped
 
 ## Installation
 
-`npm install warcraft-3-quotes`
+`npm i @blizzard-quotes/warcraft-3-quotes`
 
 ## Example
 
 ```
-const warcraft3Quotes = require('warcraft-3-quotes');
+const warcraft3Quotes = require('@blizzard-quotes/warcraft-3-quotes');
 
 console.log(warcraft3Quotes);
 ```
