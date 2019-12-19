@@ -211,6 +211,6 @@ files.forEach(function(file) {
 
 let data = JSON.stringify(quotes, null, 2);
 
-fs.writeFileSync(`${pathQuotes}`, data);
+fs.writeFileSync(pathQuotes, data);
 console.log('SUMMONING IS COMPLETE');
 console.log(`OUTPUT: ${pathQuotes}`);

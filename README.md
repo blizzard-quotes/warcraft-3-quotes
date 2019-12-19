@@ -47,4 +47,4 @@ Extracted quotes can be found under ./quotes/extract
 
 Transformed quotes for each faction can be found under ./quotes/transform.
 
-./quotes/warcraft-3-quotes.json contains all quotes found in ./quotes/transform.
+./quotes/warcraft-3-quotes.json contains all quotes.
