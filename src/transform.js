@@ -179,7 +179,10 @@ const quoteTransformer = (input, output) => {
       action: cleanAction,
       isHero: isHero(cleanUnit),
       isMelee: isMelee(cleanUnit),
-      id: uuidv5(`${quote.unit} ${quotes.action} ${quotes.faction}`, uuidv5.URL)
+      id: uuidv5(
+        `${cleanValue} ${cleanFaction} ${cleanUnit} ${cleanAction}`,
+        uuidv5.URL
+      )
     };
 
     if (cleanQuote['value'] !== '') {

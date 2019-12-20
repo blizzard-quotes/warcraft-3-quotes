@@ -6,7 +6,7 @@
     "action": "Ready",
     "isHero": false,
     "isMelee": true,
-    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
+    "id": "8813f30b-fa4c-58b7-b3ef-027df649cc3a"
   },
   {
     "value": "My life for Ner'zhul.",
@@ -15,7 +15,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
+    "id": "d6d56633-947d-5e19-bad5-caee39883a37"
   },
   {
     "value": "I wish only to serve.",
@@ -24,7 +24,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
+    "id": "39ef5d71-ce47-508a-9e96-5112689deb36"
   },
   {
     "value": "Thy bidding, master?",
@@ -33,7 +33,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
+    "id": "0439161a-5b08-5e67-9d5e-150438ddb07f"
   },
   {
     "value": "Where shall my blood be spilled?",
@@ -42,7 +42,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
+    "id": "0c9430bc-a468-5149-8ac1-3c144f373b60"
   },
   {
     "value": "I bow to your will.",
@@ -51,7 +51,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
+    "id": "9e8a5b7a-dd37-597d-9627-4b5616277f95"
   },
   {
     "value": "Yes, master.",
@@ -60,7 +60,7 @@
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
+    "id": "4853f804-e851-5621-af49-1834bd242cc5"
   },
   {
     "value": "I gladly obey.",
@@ -69,7 +69,7 @@
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
+    "id": "09bb6641-c2a5-5d79-a3b1-f4d348465628"
   },
   {
     "value": "My fate is sealed.",
@@ -78,7 +78,7 @@
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
+    "id": "b94366a1-30d5-5fa4-ba9b-e13798320cb5"
   },
   {
     "value": "Thy will be done.",
@@ -87,7 +87,7 @@
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
+    "id": "6f50ab8f-0677-5308-91fb-0fc77bf6b451"
   },
   {
     "value": "Death shall reign.",
@@ -96,7 +96,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
+    "id": "e052a0bd-fbe8-573f-a58d-35eea2f66ddc"
   },
   {
     "value": "Fear the Reaper!",
@@ -105,7 +105,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
+    "id": "a8d590e1-7de4-5856-a76a-aa37e8d412f3"
   },
   {
     "value": "Let life cease!",
@@ -114,7 +114,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
+    "id": "b03f34d4-3d4e-5d86-bfab-7e275acc0fb0"
   },
   {
     "value": "I'm sanctified!",
@@ -123,7 +123,7 @@
     "action": "Warcry",
     "isHero": false,
     "isMelee": true,
-    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
+    "id": "3e7a214d-6284-5063-a60f-a261b76e536f"
   },
   {
     "value": "This is the hour of the Scourge!",
@@ -132,7 +132,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
+    "id": "941e96a7-f3e9-5217-854d-49ce2a07533c"
   },
   {
     "value": "Death shall cleanse the world!",
@@ -141,7 +141,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
+    "id": "46afcd71-0d73-562b-ae3e-d21d51430caa"
   },
   {
     "value": "All I see is blackness. Oh, my hood's down.",
@@ -150,7 +150,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
+    "id": "0540b04c-4e8b-5376-8eaf-473482746976"
   },
   {
     "value": "Let blood drown the weak!",
@@ -159,7 +159,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
+    "id": "a260047a-b73e-5529-a6ab-5056119c867a"
   },
   {
     "value": "My life for Aiur... er– I– I mean Ner'Zhul.",
@@ -168,7 +168,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
+    "id": "2b36191c-adbd-5075-bff7-03434dff02b4"
   },
   {
     "value": "The living be cursed!",
@@ -177,7 +177,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
+    "id": "7901a9e0-b59f-525b-8c66-513c4ce82aed"
   },
   {
     "value": "Would you like to know the secret to eternal happiness? Page 246.",
@@ -186,7 +186,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
+    "id": "cf8d37d0-1a79-5465-90f4-76524a6c46fe"
   },
   {
     "value": "Once you head down the dark path, forever will it dominate your destiny. And you get dental.",
@@ -195,7 +195,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "b0f90f48-5129-51b4-b2fb-e57e30d69c91"
+    "id": "d12b5dac-65fe-5072-9023-4902bbaca0ef"
   },
   {
     "value": "The damned return.",
@@ -204,7 +204,7 @@
     "action": "Ready",
     "isHero": false,
     "isMelee": true,
-    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
+    "id": "62a49b54-cf3a-5c9a-807c-0e6e0c0c0d90"
   },
   {
     "value": "I shall be your eyes.",
@@ -213,7 +213,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
+    "id": "d9b19de5-a031-59e5-aabb-615f5291ff3e"
   },
   {
     "value": "My sight is yours.",
@@ -222,7 +222,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
+    "id": "d2aa3e5a-dc74-5aa2-996f-89dfba9222c2"
   },
   {
     "value": "What needs revealing?",
@@ -231,7 +231,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
+    "id": "a1983b60-b424-59d9-8266-574f5079ae53"
   },
   {
     "value": "Let's see...",
@@ -240,7 +240,7 @@
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
+    "id": "aa4b3d2f-79ba-515b-ab28-60158ccfa4fe"
   },
   {
     "value": "I'll look into it...",
@@ -249,7 +249,7 @@
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
+    "id": "c939096f-b44c-5972-bea5-dcd8acf8fd2a"
   },
   {
     "value": "All shall be revealed.",
@@ -258,7 +258,7 @@
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
+    "id": "e8859a2c-507f-5607-a862-dc367c585aae"
   },
   {
     "value": "I go unseen.",
@@ -267,7 +267,7 @@
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
+    "id": "64bfefe4-3a87-5fdd-bd0b-8d7d54a80013"
   },
   {
     "value": "More souls for the master!",
@@ -276,7 +276,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
+    "id": "7de7c9a1-539e-520e-a5bc-4b4563b618a7"
   },
   {
     "value": "Dieeeeeeeeeeeee!",
@@ -285,7 +285,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
+    "id": "de518013-28ae-5ddd-b0e9-96cfccd6f737"
   },
   {
     "value": "Let screams fill the air!",
@@ -294,7 +294,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
+    "id": "0ef7f602-c1d8-5114-807f-396ec5d61804"
   },
   {
     "value": "Feel my wrath!",
@@ -303,7 +303,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
+    "id": "0dbc82d8-72e8-5ac8-818d-2f180178f400"
   },
   {
     "value": "For the master!",
@@ -312,7 +312,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
+    "id": "366c1eef-51f9-5a2f-9ea6-ce7156ee3755"
   },
   {
     "value": "Glory to the scourge!",
@@ -321,7 +321,7 @@
     "action": "Warcry",
     "isHero": false,
     "isMelee": true,
-    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
+    "id": "e421653b-2d2e-59fb-8dc6-512b1c375757"
   },
   {
     "value": "I am but a shadow of my former self.",
@@ -330,7 +330,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
+    "id": "89a06ef6-51ad-539a-8095-15257218a7e7"
   },
   {
     "value": "What I do in death echoes in eternity.",
@@ -339,7 +339,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
+    "id": "e8586951-d8c8-5056-9447-06ceca4cf31a"
   },
   {
     "value": "Death is its own reward.",
@@ -348,7 +348,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
+    "id": "640f78b5-51db-5670-aa41-ef4c0c1ce06f"
   },
   {
     "value": "I'm having a mid-death crisis.",
@@ -357,7 +357,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
+    "id": "aa8674e6-305d-54e4-8d80-c3c135c828b7"
   },
   {
     "value": "I-I-I-I ain't got no bo-o-o-o-ody!",
@@ -366,7 +366,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
+    "id": "393e733b-51fe-505c-acc6-c97a791da60f"
   },
   {
     "value": "I'm invisible, gaseous, and deadly.",
@@ -375,7 +375,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "eadc069e-45c7-5c94-8ece-47d673592f4d"
+    "id": "28a1d15d-6bb0-56e6-b64e-66348ab42f0a"
   },
   {
     "value": "Wuzzap.",
@@ -384,7 +384,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "586559d9-c70e-59d2-b0ed-ec5725e1a217"
+    "id": "3323272e-dddf-50f8-a636-78303b0a3ded"
   },
   {
     "value": "Must feed!",
@@ -393,7 +393,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "586559d9-c70e-59d2-b0ed-ec5725e1a217"
+    "id": "11cb6f42-546c-5d81-a620-8b2b5d7b5aba"
   },
   {
     "value": "Me eat dead people!",
@@ -402,7 +402,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "586559d9-c70e-59d2-b0ed-ec5725e1a217"
+    "id": "0236c799-dbce-5446-af80-b8a0fbbde2ad"
   },
   {
     "value": "Me scary.",
@@ -411,7 +411,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "586559d9-c70e-59d2-b0ed-ec5725e1a217"
+    "id": "a1b1e7c8-e6fc-563c-b5cf-ed8e46a03f21"
   },
   {
     "value": "Me eat brains!",
@@ -420,7 +420,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "586559d9-c70e-59d2-b0ed-ec5725e1a217"
+    "id": "1e2d62b9-b297-557c-9dd8-d8a99fc95645"
   },
   {
     "value": "No guts, no gory.",
@@ -429,7 +429,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "586559d9-c70e-59d2-b0ed-ec5725e1a217"
+    "id": "ba17f3f9-ca4c-5987-ad5f-e5ceab8f5181"
   },
   {
     "value": "Us hear and obey.",
@@ -438,7 +438,7 @@
     "action": "Ready",
     "isHero": false,
     "isMelee": true,
-    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
+    "id": "e2aca497-3ad0-5956-8ff6-a783bb8fc98a"
   },
   {
     "value": "What we do?",
@@ -447,7 +447,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
+    "id": "9d68b982-2f24-5b7c-8ed0-c6d819b159c3"
   },
   {
     "value": "Hurghm?",
@@ -456,7 +456,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
+    "id": "e16e0753-48d4-5e7d-a015-6d00c3a3e331"
   },
   {
     "value": "We done waiting!",
@@ -465,7 +465,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
+    "id": "446543bb-6805-52fd-82a2-9199eab22d79"
   },
   {
     "value": "Hmmm?",
@@ -474,7 +474,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
+    "id": "46554867-1f82-51d9-b271-ea43e7c27389"
   },
   {
     "value": "Us go.",
@@ -483,7 +483,7 @@
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
+    "id": "51d42960-b4f6-56ab-952d-af52f6c3c2c1"
   },
   {
     "value": "Rend and tear!",
@@ -492,7 +492,7 @@
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
+    "id": "749bc6e9-17cd-532e-a8d4-36ccf1018b9c"
   },
   {
     "value": "Kill!",
@@ -501,7 +501,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
+    "id": "cafb1f84-906e-5e11-ace3-ed3d5b8969d0"
   },
   {
     "value": "Tear meat!",
@@ -510,7 +510,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
+    "id": "0f381000-88ed-5be6-9da1-c8dde2ba7e93"
   },
   {
     "value": "Rip!",
@@ -519,7 +519,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
+    "id": "7d2a3f05-97f6-5afc-9d54-9d5040713b1e"
   },
   {
     "value": "ALL FOR ONE!",
@@ -528,7 +528,7 @@
     "action": "Warcry",
     "isHero": false,
     "isMelee": true,
-    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
+    "id": "f185d16a-6477-5b11-ad91-a6431a13704b"
   },
   {
     "value": "We come in peace...es .",
@@ -537,7 +537,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
+    "id": "f4c803b7-e1be-5f44-a8d2-3fa598ea4c01"
   },
   {
     "value": "Happy entrails.",
@@ -546,7 +546,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
+    "id": "764740b0-e43f-5522-bea2-36342ad31319"
   },
   {
     "value": "You got us in stitches.",
@@ -555,7 +555,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
+    "id": "75f29704-2a5f-58fc-91c7-ab96518d945e"
   },
   {
     "value": "Us dead sexy!",
@@ -564,7 +564,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
+    "id": "cead00b2-c665-5700-b3da-15a97d0fd5e5"
   },
   {
     "value": "Chunk!",
@@ -573,7 +573,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "ee09ea8f-b5fe-5e9a-b522-6cb52293b4ed"
+    "id": "059ae95d-106f-5255-8a75-f0c1af62000e"
   },
   {
     "value": "The sleeper awakes.",
@@ -582,7 +582,7 @@
     "action": "Ready",
     "isHero": false,
     "isMelee": true,
-    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
+    "id": "25693b30-df46-586e-afd5-b221d36f2c0c"
   },
   {
     "value": "Proceed.",
@@ -591,7 +591,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
+    "id": "3549678a-07b1-59d4-b622-37714717d5c9"
   },
   {
     "value": "You rang?",
@@ -600,7 +600,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
+    "id": "9703613c-85c2-5358-b052-2b48c6ac2e88"
   },
   {
     "value": "Make your choice.",
@@ -609,7 +609,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
+    "id": "cce6ed4d-0659-5486-b4c0-8a5a39284558"
   },
   {
     "value": "I await.",
@@ -618,7 +618,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
+    "id": "25bfa584-f821-5223-bde6-f2c485f0a526"
   },
   {
     "value": "By Nerub.",
@@ -627,7 +627,7 @@
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
+    "id": "2aadb85e-0a2e-5bfa-ae60-d00f06cc4da4"
   },
   {
     "value": "What's done is done.",
@@ -636,7 +636,7 @@
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
+    "id": "cddaaff5-a448-5182-9467-a3e911e58178"
   },
   {
     "value": "The time is now.",
@@ -645,7 +645,7 @@
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
+    "id": "439f9f32-c619-5a6d-8bf9-a344e4b92daf"
   },
   {
     "value": "Yes, master.",
@@ -654,7 +654,7 @@
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
+    "id": "6a8c7c0b-2757-54d2-b8bb-17954a7448a3"
   },
   {
     "value": "For the Spider Kingdom.",
@@ -663,7 +663,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
+    "id": "9b7c2ee5-1ef9-5f67-8d83-eebaa19865df"
   },
   {
     "value": "Be drained of life.",
@@ -672,7 +672,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
+    "id": "85598b10-3005-5745-9105-207ee2362112"
   },
   {
     "value": "You may feel a sting.",
@@ -681,7 +681,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
+    "id": "d9a99d8a-3a27-5e72-97bf-eccfa7657291"
   },
   {
     "value": "Fall before the Scourge!",
@@ -690,7 +690,7 @@
     "action": "Warcry",
     "isHero": false,
     "isMelee": true,
-    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
+    "id": "30419946-5d45-58dd-8d15-20d0b92725e8"
   },
   {
     "value": "What a tangled web we weave.",
@@ -699,7 +699,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
+    "id": "c1e6a19e-9c1b-50fb-90d0-bfff5a831cba"
   },
   {
     "value": "Spider sense... tingling.",
@@ -708,7 +708,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
+    "id": "a89e666b-6f37-5132-ac65-22759745979e"
   },
   {
     "value": "Last week my top half was on the Discovery Channel...",
@@ -717,7 +717,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
+    "id": "cf9c9fc1-693f-59c5-bce4-5e491af68f40"
   },
   {
     "value": "...and my bottom half was on Animal Planet.",
@@ -726,7 +726,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
+    "id": "877349e7-c315-5236-8f96-4762f3b9b587"
   },
   {
     "value": "My ass always gets bloated during my spin cycle.",
@@ -735,7 +735,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
+    "id": "a863d873-18c2-563b-a513-4f16e8e9b4bd"
   },
   {
     "value": "I like chicks that are into bandage.",
@@ -744,7 +744,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
+    "id": "03cc3b94-c241-5f2e-88c1-b9305106079b"
   },
   {
     "value": "I'm stuck on bandages 'cause bandages are stuck on me.",
@@ -753,7 +753,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "763dd585-7ad8-52fd-9147-ea3bf5039c70"
+    "id": "7b003976-3a78-5b96-91f4-0d7adffe8770"
   },
   {
     "value": "Let my cries chill the living.",
@@ -762,7 +762,7 @@
     "action": "Ready",
     "isHero": false,
     "isMelee": true,
-    "id": "66cabc94-06b4-5563-9f10-02d067064297"
+    "id": "76dd418e-9dc2-5e1d-82fe-d91cacd5fb8e"
   },
   {
     "value": "You called me?",
@@ -771,7 +771,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "66cabc94-06b4-5563-9f10-02d067064297"
+    "id": "ee4354f9-b604-5ce2-a55d-08283a511b00"
   },
   {
     "value": "You brought me back!?",
@@ -780,7 +780,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "66cabc94-06b4-5563-9f10-02d067064297"
+    "id": "aa2a0589-7971-523c-8c5c-9d6f2eb3f5a0"
   },
   {
     "value": "Why have I been summoned?",
@@ -789,7 +789,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "66cabc94-06b4-5563-9f10-02d067064297"
+    "id": "4d21e26f-55fa-528d-8892-7e0ee3b1deaf"
   },
   {
     "value": "What must I do?",
@@ -798,7 +798,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "66cabc94-06b4-5563-9f10-02d067064297"
+    "id": "32284960-46d0-576e-9ccc-a5d2b96c8e5c"
   },
   {
     "value": "Hi...",
@@ -807,7 +807,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "66cabc94-06b4-5563-9f10-02d067064297"
+    "id": "8fb7bd0b-32b5-5946-9187-3dcf0cbe3a10"
   },
   {
     "value": "If it pleases you.",
@@ -816,7 +816,7 @@
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "66cabc94-06b4-5563-9f10-02d067064297"
+    "id": "d00e0977-22ac-5c36-8566-bd8b23fa98b7"
   },
   {
     "value": "Yes.",
@@ -825,7 +825,7 @@
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "66cabc94-06b4-5563-9f10-02d067064297"
+    "id": "08fdb52a-778c-5484-917f-6f981a6df4fa"
   },
   {
     "value": "If I must...",
@@ -834,7 +834,7 @@
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "66cabc94-06b4-5563-9f10-02d067064297"
+    "id": "b4a482d0-a70b-53b0-900a-35421d15b66f"
   },
   {
     "value": "I must obey...",
@@ -843,7 +843,7 @@
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "66cabc94-06b4-5563-9f10-02d067064297"
+    "id": "ca132d70-39bb-5319-8f33-9e6a3eb25465"
   },
   {
     "value": "If that is your wish.",
@@ -852,7 +852,7 @@
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "66cabc94-06b4-5563-9f10-02d067064297"
+    "id": "46e3ce94-5ac9-5959-99bf-a2f47c119af9"
   },
   {
     "value": "Die!",
@@ -861,7 +861,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "66cabc94-06b4-5563-9f10-02d067064297"
+    "id": "e4135053-b87e-5589-b2c4-1303e0f83257"
   },
   {
     "value": "Feel my pain!",
@@ -870,7 +870,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "66cabc94-06b4-5563-9f10-02d067064297"
+    "id": "bcbc6fe1-c829-5b7f-bc69-3cec0f2034e2"
   },
   {
     "value": "Your soul shall burn.",
@@ -879,7 +879,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "66cabc94-06b4-5563-9f10-02d067064297"
+    "id": "72b83227-25cf-5832-a533-c7f578f4c222"
   },
   {
     "value": "My death awaits!",
@@ -888,7 +888,7 @@
     "action": "Warcry",
     "isHero": false,
     "isMelee": true,
-    "id": "66cabc94-06b4-5563-9f10-02d067064297"
+    "id": "6b75344d-59c5-5e7a-ab06-1db33a6fa2f8"
   },
   {
     "value": "LET THIS TORMENT END!!",
@@ -897,7 +897,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "66cabc94-06b4-5563-9f10-02d067064297"
+    "id": "e378054c-5b9d-598f-a260-a6c92a5c7916"
   },
   {
     "value": "How long must I suffer?",
@@ -906,7 +906,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "66cabc94-06b4-5563-9f10-02d067064297"
+    "id": "9a16117f-e615-55c4-8fac-286c4ff8cecc"
   },
   {
     "value": "U-N-D-E-A-D. Find out what it means to me.",
@@ -915,7 +915,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "66cabc94-06b4-5563-9f10-02d067064297"
+    "id": "1838bc20-b7c0-565e-a646-23fc2eebd70e"
   },
   {
     "value": "There is no banshee. Only Zuul!",
@@ -924,7 +924,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "66cabc94-06b4-5563-9f10-02d067064297"
+    "id": "0316cf14-cc43-5d6c-bcb0-34e5677b94d0"
   },
   {
     "value": "I hate you, I hate you! Call me.",
@@ -933,7 +933,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "66cabc94-06b4-5563-9f10-02d067064297"
+    "id": "be0514d6-2b64-55b3-a53d-e635980f5168"
   },
   {
     "value": "The shadows beckon.",
@@ -942,7 +942,7 @@
     "action": "Ready",
     "isHero": false,
     "isMelee": true,
-    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
+    "id": "4da1db02-4208-52b1-8be8-4bba9109daa5"
   },
   {
     "value": "The dead shall serve.",
@@ -951,7 +951,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
+    "id": "8633beae-c1e4-5066-9e96-687d714fd893"
   },
   {
     "value": "The restless dead await.",
@@ -960,7 +960,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
+    "id": "c7be6827-7013-5d2b-b887-f7d05a446b62"
   },
   {
     "value": "What does the shadow will?",
@@ -969,7 +969,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
+    "id": "6212f970-276d-5301-9eef-ceda2d64a831"
   },
   {
     "value": "This better be good.",
@@ -978,7 +978,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
+    "id": "66be6bc3-2b5b-5698-9296-c4f32c6c6659"
   },
   {
     "value": "Intriguing.",
@@ -987,7 +987,7 @@
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
+    "id": "605d5d5e-3e2c-5e09-9c1a-a44c3c672575"
   },
   {
     "value": "For the Lich King.",
@@ -996,7 +996,7 @@
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
+    "id": "92222c24-252b-5532-bfcd-26d306dfbb09"
   },
   {
     "value": "Let darkness guide me...",
@@ -1005,7 +1005,7 @@
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
+    "id": "c36b3c5f-d888-5634-83d4-a27ad0af64c5"
   },
   {
     "value": "As the shadow wills.",
@@ -1014,7 +1014,7 @@
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
+    "id": "4dcf1455-5878-52f1-94a0-1a708c3fc1d3"
   },
   {
     "value": "Die!",
@@ -1023,7 +1023,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
+    "id": "e84b77f1-f709-598d-b8d5-aef3105b75a6"
   },
   {
     "value": "Tremble before the Scourge!",
@@ -1032,7 +1032,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
+    "id": "d21b645d-23b3-5b41-bbf1-2842a2e57fbc"
   },
   {
     "value": "None.. shall survive!",
@@ -1041,7 +1041,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
+    "id": "9a588411-5863-5b11-9ce2-e5e0d1e574c5"
   },
   {
     "value": "They'll all be mine, in the end!",
@@ -1050,7 +1050,7 @@
     "action": "Warcry",
     "isHero": false,
     "isMelee": true,
-    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
+    "id": "f685d1d4-77ee-505d-9e0c-29eec99c736e"
   },
   {
     "value": "Every man lives. Not every man truly dies.",
@@ -1059,7 +1059,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
+    "id": "a91ac4f1-09d2-527c-9f07-18599aea7058"
   },
   {
     "value": "I love the dead... Frequently.",
@@ -1068,7 +1068,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
+    "id": "3f36349b-aa3a-5a2b-8f25-0415dac8540a"
   },
   {
     "value": "I see undead people.",
@@ -1077,7 +1077,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
+    "id": "4ec9c52f-83e2-5b0c-89fa-2f15ddaff082"
   },
   {
     "value": "Do you smell something? Oh, it's just the troops.",
@@ -1086,7 +1086,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
+    "id": "f312339c-b1c1-5ec8-88a6-8fea0b3f1971"
   },
   {
     "value": "Right click for hot undead action!",
@@ -1095,7 +1095,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "29226c83-0bae-5338-882a-b78e0b1da19f"
+    "id": "727c6eb8-c645-56fb-b639-d9ca7863f489"
   },
   {
     "value": "The pact is sealed!",
@@ -1104,7 +1104,7 @@
     "action": "Ready",
     "isHero": true,
     "isMelee": true,
-    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
+    "id": "fa9b54d3-666f-56a2-9513-e8ab57fe9eb7"
   },
   {
     "value": "You called?",
@@ -1113,7 +1113,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": true,
-    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
+    "id": "40f85131-7b81-5e53-9138-65d263b800d6"
   },
   {
     "value": "My patience has ended!",
@@ -1122,7 +1122,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": true,
-    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
+    "id": "a16a9220-0958-55d0-b084-df7a412fb722"
   },
   {
     "value": "I am darkness!",
@@ -1131,7 +1131,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": true,
-    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
+    "id": "8c7f456e-c602-5fe6-b9ea-52dc6024746f"
   },
   {
     "value": "My vengeance is yours!",
@@ -1140,7 +1140,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": true,
-    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
+    "id": "d1674758-a4ee-559f-b39e-1e09420c9535"
   },
   {
     "value": "Let battle be joined!",
@@ -1149,7 +1149,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": true,
-    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
+    "id": "ab5bae90-e85d-50ce-be1e-593b5d2cecd3"
   },
   {
     "value": "As you order!",
@@ -1158,7 +1158,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": true,
-    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
+    "id": "5148a39d-113a-571e-b01e-ebc4fa58357a"
   },
   {
     "value": "Hyah!",
@@ -1167,7 +1167,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": true,
-    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
+    "id": "cce1c9be-20f7-5d9b-80b8-2d3bf99244e6"
   },
   {
     "value": "At last!",
@@ -1176,7 +1176,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": true,
-    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
+    "id": "542fba6d-3914-578e-b3f8-77bb19ed796c"
   },
   {
     "value": "For the Lich King!",
@@ -1185,7 +1185,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": true,
-    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
+    "id": "e783ef98-f7de-5cc9-9e77-a942f647f1c1"
   },
   {
     "value": "Feel my wrath!",
@@ -1194,7 +1194,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": true,
-    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
+    "id": "a7560577-0382-5c4b-920e-5c3119656421"
   },
   {
     "value": "By Ner'zhul!",
@@ -1203,7 +1203,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": true,
-    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
+    "id": "72b919df-74fc-555b-8915-b29310ef2e44"
   },
   {
     "value": "Ride… or die!",
@@ -1212,7 +1212,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": true,
-    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
+    "id": "aaf900d7-2560-57d1-a7e9-d68262c875ed"
   },
   {
     "value": "Let terror reign!",
@@ -1221,7 +1221,7 @@
     "action": "Warcry",
     "isHero": true,
     "isMelee": true,
-    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
+    "id": "606ddec3-4c0f-51a1-bd29-46dd62f3e7d3"
   },
   {
     "value": "Has Hell frozen over yet?",
@@ -1230,7 +1230,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": true,
-    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
+    "id": "3ee2de5f-c6a2-5190-8953-e01144c7a21d"
   },
   {
     "value": "I am the one horseman of the Apocalypse!",
@@ -1239,7 +1239,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": true,
-    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
+    "id": "0ba556b6-35cc-527b-a319-b48c7563f91b"
   },
   {
     "value": "I hate people, but I love gatherings.",
@@ -1248,7 +1248,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": true,
-    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
+    "id": "5bf48f7c-3188-52a4-bfe2-ba7177c51e18"
   },
   {
     "value": "I'm a Death Knight Rider! Muh ha ha ha!",
@@ -1257,7 +1257,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": true,
-    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
+    "id": "fb73493a-9fb2-5015-a07b-c20ab607c503"
   },
   {
     "value": "Blucher!",
@@ -1266,7 +1266,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": true,
-    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
+    "id": "7222dbc0-674c-561d-9fad-8e7187e8335b"
   },
   {
     "value": "Don't touch me. I'm evil.",
@@ -1275,7 +1275,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": true,
-    "id": "6c6d0086-88fb-56aa-a336-a90e72a71f92"
+    "id": "8a2ca956-e31b-56b5-9142-64026be941ce"
   },
   {
     "value": "The ancient evil survives!",
@@ -1284,7 +1284,7 @@
     "action": "Ready",
     "isHero": true,
     "isMelee": true,
-    "id": "c1720079-b265-51e9-8740-464b3652a453"
+    "id": "17149642-c48e-53ae-af7d-fd106e2b8b33"
   },
   {
     "value": "I am sworn to Ner'zhul!",
@@ -1293,7 +1293,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": true,
-    "id": "c1720079-b265-51e9-8740-464b3652a453"
+    "id": "d3680e2d-9440-5860-b688-dfe66f9f38bf"
   },
   {
     "value": "Thy bidding?",
@@ -1302,7 +1302,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": true,
-    "id": "c1720079-b265-51e9-8740-464b3652a453"
+    "id": "29c68f8b-f3d8-5f67-a2c4-78e6eb67d1f0"
   },
   {
     "value": "Direct me!",
@@ -1311,7 +1311,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": true,
-    "id": "c1720079-b265-51e9-8740-464b3652a453"
+    "id": "66aed430-b2ad-5319-be8b-8d3fd84e173b"
   },
   {
     "value": "Yours to command!",
@@ -1320,7 +1320,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": true,
-    "id": "c1720079-b265-51e9-8740-464b3652a453"
+    "id": "3ebf76e9-28e3-56c7-89f7-309016f09af8"
   },
   {
     "value": "So be it!",
@@ -1329,7 +1329,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": true,
-    "id": "c1720079-b265-51e9-8740-464b3652a453"
+    "id": "18fc7d0d-b0cb-53e0-9a57-5101b2893a0b"
   },
   {
     "value": "By your words!",
@@ -1338,7 +1338,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": true,
-    "id": "c1720079-b265-51e9-8740-464b3652a453"
+    "id": "e856f056-0785-51bd-9103-872c1edaf413"
   },
   {
     "value": "It is destined!",
@@ -1347,7 +1347,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": true,
-    "id": "c1720079-b265-51e9-8740-464b3652a453"
+    "id": "02a84d2d-e208-5b59-95f4-b5a9a6284eb3"
   },
   {
     "value": "Chilling!",
@@ -1356,7 +1356,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": true,
-    "id": "c1720079-b265-51e9-8740-464b3652a453"
+    "id": "b70a8926-ef79-57b0-8b42-d2b833b765ba"
   },
   {
     "value": "Dead man walking...",
@@ -1365,7 +1365,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": true,
-    "id": "c1720079-b265-51e9-8740-464b3652a453"
+    "id": "79656c9c-2ec7-53e1-83c4-0f15069a560a"
   },
   {
     "value": "For the Burning Legion!",
@@ -1374,7 +1374,7 @@
     "action": "Warcry",
     "isHero": true,
     "isMelee": true,
-    "id": "c1720079-b265-51e9-8740-464b3652a453"
+    "id": "73970bf2-6862-537b-84a7-7dc00a53b920"
   },
   {
     "value": "Embrace the end!",
@@ -1383,7 +1383,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": true,
-    "id": "c1720079-b265-51e9-8740-464b3652a453"
+    "id": "4dae4b82-01cc-5ff2-bddf-02f3866cd7f0"
   },
   {
     "value": "I will crush you!",
@@ -1392,7 +1392,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": true,
-    "id": "c1720079-b265-51e9-8740-464b3652a453"
+    "id": "dd3f1ca1-1ac1-5c9e-bfb0-47d12b3a773f"
   },
   {
     "value": "Embrace the cold!",
@@ -1401,7 +1401,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": true,
-    "id": "c1720079-b265-51e9-8740-464b3652a453"
+    "id": "1871d325-4b4b-5ffb-a20e-15c3af52952a"
   },
   {
     "value": "Could you chew that up for me?",
@@ -1410,7 +1410,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": true,
-    "id": "c1720079-b265-51e9-8740-464b3652a453"
+    "id": "2a02b8f0-ba0f-522d-9c14-c00f6d1254b0"
   },
   {
     "value": "I'm so poor, I don't even have calcium deposits.",
@@ -1419,7 +1419,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": true,
-    "id": "c1720079-b265-51e9-8740-464b3652a453"
+    "id": "d6cd332a-baf1-54d7-9fa1-4c1f2432c241"
   },
   {
     "value": "I am the ghost of WarCraft past.",
@@ -1428,7 +1428,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": true,
-    "id": "c1720079-b265-51e9-8740-464b3652a453"
+    "id": "21292676-a08b-54d9-92f4-e10ed9cc7929"
   },
   {
     "value": "I hear that Banshee's a real screamer.",
@@ -1437,7 +1437,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": true,
-    "id": "c1720079-b265-51e9-8740-464b3652a453"
+    "id": "580224a1-d205-53b6-a165-7c3510202202"
   },
   {
     "value": "You should see the skeletons in my closet.",
@@ -1446,7 +1446,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": true,
-    "id": "c1720079-b265-51e9-8740-464b3652a453"
+    "id": "85bf7260-6786-51b1-ac5d-bedaef33c721"
   },
   {
     "value": "Imhotep…",
@@ -1455,7 +1455,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": true,
-    "id": "c1720079-b265-51e9-8740-464b3652a453"
+    "id": "c71a8063-0f6a-5da9-8668-d5a51a922d1c"
   },
   {
     "value": "All the ladies dig rigor mortis.",
@@ -1464,7 +1464,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": true,
-    "id": "c1720079-b265-51e9-8740-464b3652a453"
+    "id": "e3203e79-9d3d-513f-ac3f-8cd849c3e83f"
   },
   {
     "value": "You are the weakest Lich, goodbye.",
@@ -1473,7 +1473,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": true,
-    "id": "c1720079-b265-51e9-8740-464b3652a453"
+    "id": "a742ef61-b913-576b-9215-8abba75833d2"
   },
   {
     "value": "The night beckons!",
@@ -1482,7 +1482,7 @@
     "action": "Ready",
     "isHero": true,
     "isMelee": true,
-    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
+    "id": "880d0962-041b-5f8b-846f-1039c8e4f101"
   },
   {
     "value": "Greetings!",
@@ -1491,7 +1491,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": true,
-    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
+    "id": "07a4c1b5-834d-5e79-a649-8f83ac879c28"
   },
   {
     "value": "What, mortal?",
@@ -1500,7 +1500,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": true,
-    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
+    "id": "ac9b35c7-ab41-5db9-966b-bff7f0a726c8"
   },
   {
     "value": "What is it now?",
@@ -1509,7 +1509,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": true,
-    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
+    "id": "8af0de42-ad4e-524c-8b40-990b6e35efda"
   },
   {
     "value": "I must hunt soon!",
@@ -1518,7 +1518,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": true,
-    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
+    "id": "2c3dde8b-9cd5-5d2b-b29d-4f4ab747c935"
   },
   {
     "value": "That was my plan.",
@@ -1527,7 +1527,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": true,
-    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
+    "id": "029d364d-206f-5fbe-9314-b954f1cf1780"
   },
   {
     "value": "Agreed.",
@@ -1536,7 +1536,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": true,
-    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
+    "id": "e628456b-f9e6-5616-b98b-09384a02c92a"
   },
   {
     "value": "Very well.",
@@ -1545,7 +1545,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": true,
-    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
+    "id": "4c3ea621-bed6-588a-98a2-f00e1cd2419d"
   },
   {
     "value": "You thought of that?",
@@ -1554,7 +1554,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": true,
-    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
+    "id": "cbfee949-dfdd-5169-b1a5-73effdf2036c"
   },
   {
     "value": "I hunger!",
@@ -1563,7 +1563,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": true,
-    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
+    "id": "d76fe2f3-a56a-5be5-8fbe-f3f821093bc6"
   },
   {
     "value": "Death rages!",
@@ -1572,7 +1572,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": true,
-    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
+    "id": "3b10fe04-bc12-5a08-99cd-4012aca784b4"
   },
   {
     "value": "Die!",
@@ -1581,7 +1581,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": true,
-    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
+    "id": "e3ff6ae3-61e2-509a-82e3-5a803d8ef5b7"
   },
   {
     "value": "Your soul is mine!",
@@ -1590,7 +1590,7 @@
     "action": "Warcry",
     "isHero": true,
     "isMelee": true,
-    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
+    "id": "865e0f66-7054-5c2d-bac7-a00208a66338"
   },
   {
     "value": "If I have wings, why am I always walking?",
@@ -1599,7 +1599,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": true,
-    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
+    "id": "305f7601-8606-56cb-865a-d90d3aaf9491"
   },
   {
     "value": "Yes? Argh, for the last time: I'm a DREADlord, not a DRUGlord.",
@@ -1608,7 +1608,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": true,
-    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
+    "id": "7781b09a-58ac-530b-95b0-abce50ee2b27"
   },
   {
     "value": "This is not a dress. It's the standard Dreadlord uniform.",
@@ -1617,7 +1617,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": true,
-    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
+    "id": "4d84f3e0-488e-583a-b4f8-ec0ce05d6cfe"
   },
   {
     "value": "Dressed to kill. Bleh!",
@@ -1626,7 +1626,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": true,
-    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
+    "id": "ff8d9ce0-37c1-5104-8d1c-37697375df05"
   },
   {
     "value": "Yes? Darkness, hey, what's up? The Demon Hunter left you a message? No, I don't have his number.",
@@ -1635,7 +1635,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": true,
-    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
+    "id": "77dcb574-7bd1-5b70-bb9d-180b184ebb3c"
   },
   {
     "value": "And then, after I overthrow this fool… Oh! Hello! I – I didn't know you were there.",
@@ -1644,7 +1644,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": true,
-    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
+    "id": "0a63d58c-3aec-51c9-9101-3de70e30880b"
   },
   {
     "value": "Imbecile!",
@@ -1653,7 +1653,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": true,
-    "id": "18b641bd-c9ea-5752-a093-c247cc7b3e52"
+    "id": "afa9f6af-9489-5141-853c-ecc8130c051b"
   },
   {
     "value": "From the depths I come!",
@@ -1662,7 +1662,7 @@
     "action": "Ready",
     "isHero": true,
     "isMelee": true,
-    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
+    "id": "a787289a-c86d-53b7-8579-dd1b493be367"
   },
   {
     "value": "Speak.",
@@ -1671,7 +1671,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": true,
-    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
+    "id": "4671b1d3-dd32-5c9a-a6c0-5af44eaa7216"
   },
   {
     "value": "I have heard the summons.",
@@ -1680,7 +1680,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": true,
-    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
+    "id": "d6769a36-f4e8-5ff9-aaaa-63e96e72059b"
   },
   {
     "value": "Time is fleeting.",
@@ -1689,7 +1689,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": true,
-    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
+    "id": "db7b0b91-b7e5-5649-8ac0-abe62a1a9705"
   },
   {
     "value": "My might cannot be matched!",
@@ -1698,7 +1698,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": true,
-    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
+    "id": "52672cbb-5d7a-5199-ba33-bb0599d08ef4"
   },
   {
     "value": "I serve only the Frozen Throne.",
@@ -1707,7 +1707,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": true,
-    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
+    "id": "a305105a-efd0-579c-94ac-331884e11f16"
   },
   {
     "value": "I'll see to it.",
@@ -1716,7 +1716,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": true,
-    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
+    "id": "8b7aba6d-9197-521a-a20a-ceefe92c0937"
   },
   {
     "value": "By Nerub.",
@@ -1725,7 +1725,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": true,
-    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
+    "id": "abd8f155-18d6-5a6b-b0d3-10c64520b5cf"
   },
   {
     "value": "Indubitably.",
@@ -1734,7 +1734,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": true,
-    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
+    "id": "ba9582de-6c20-52a0-910c-f5de7c1203af"
   },
   {
     "value": "Kinky.",
@@ -1743,7 +1743,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": true,
-    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
+    "id": "d9d59a3d-1565-5cf0-b50b-21281f80f029"
   },
   {
     "value": "I'll consume the living and the dead!",
@@ -1752,7 +1752,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": true,
-    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
+    "id": "c02b2fd9-b067-5323-bf26-62b1316f024b"
   },
   {
     "value": "Oblivion awaits!",
@@ -1761,7 +1761,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": true,
-    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
+    "id": "fc292772-38fc-535a-abc0-278a27d97c8d"
   },
   {
     "value": "Feel the venom of Nerub!",
@@ -1770,7 +1770,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": true,
-    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
+    "id": "78f082b6-29d3-52ba-a9d7-d22c416644f5"
   },
   {
     "value": "Raid.",
@@ -1779,7 +1779,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": true,
-    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
+    "id": "a9431c5d-6d03-5b95-add5-bac9dd4eb9f6"
   },
   {
     "value": "For the Frozen Throne!",
@@ -1788,7 +1788,7 @@
     "action": "Warcry",
     "isHero": true,
     "isMelee": true,
-    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
+    "id": "4f7b6bd5-bec1-5390-b499-196914a02069"
   },
   {
     "value": "The Scourge will devour all!",
@@ -1797,7 +1797,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": true,
-    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
+    "id": "c8b9e8fa-411a-5416-a381-795f5db54749"
   },
   {
     "value": "The strands of destiny weave only a web of death.",
@@ -1806,7 +1806,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": true,
-    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
+    "id": "31b76113-833a-5260-bae7-a2d3ed82d811"
   },
   {
     "value": "It was good to be the king.",
@@ -1815,7 +1815,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": true,
-    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
+    "id": "6841d596-66f8-5e64-b7e6-880cf540d236"
   },
   {
     "value": "Humans check in. They don't check out.",
@@ -1824,7 +1824,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": true,
-    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
+    "id": "623d219b-2068-5718-8834-fdb3ecc5bdf9"
   },
   {
     "value": "I'm the fifth beatle.",
@@ -1833,7 +1833,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": true,
-    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
+    "id": "f0998ab8-c794-5e80-afec-62161c24de77"
   },
   {
     "value": "And they say Blizzard games don't have bugs.",
@@ -1842,7 +1842,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": true,
-    "id": "02087df3-e7b7-5979-ab57-2f6db666428c"
+    "id": "ef904d65-a7e3-582d-82ed-e7231f695967"
   },
   {
     "value": "You called?",
@@ -1851,7 +1851,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": false,
-    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
+    "id": "098ff606-7c91-5dbd-a3c4-2d0c0ec071bc"
   },
   {
     "value": "Is there something amiss?",
@@ -1860,7 +1860,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": false,
-    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
+    "id": "3452e337-03d7-5c3b-9e64-fbdc01d0cb6a"
   },
   {
     "value": "My talents are yours.",
@@ -1869,7 +1869,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": false,
-    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
+    "id": "65b4bdd9-32aa-5a62-a1ce-93c725e0e143"
   },
   {
     "value": "I've been thinking.",
@@ -1878,7 +1878,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": false,
-    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
+    "id": "b38ef33f-51ca-5895-a70c-527227504584"
   },
   {
     "value": "Hmm, that sounds logical.",
@@ -1887,7 +1887,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": false,
-    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
+    "id": "4747284b-cdda-579a-8a35-398692e2c3c1"
   },
   {
     "value": "Yes, right away.",
@@ -1896,7 +1896,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": false,
-    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
+    "id": "15695c4f-b22e-5d95-961e-602ad3092c64"
   },
   {
     "value": "A fateful choice.",
@@ -1905,7 +1905,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": false,
-    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
+    "id": "10c99570-34cd-562d-9e29-2c726c82ac3d"
   },
   {
     "value": "Indeed.",
@@ -1914,7 +1914,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": false,
-    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
+    "id": "6ea168fd-dfd3-57db-8f67-fd4e801f702c"
   },
   {
     "value": "Burn!",
@@ -1923,7 +1923,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
+    "id": "2ae517d6-c3ea-5c71-9881-673fc947a597"
   },
   {
     "value": "In the Lich King's name!",
@@ -1932,7 +1932,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
+    "id": "10ee5466-cac3-5db6-a08e-64afbde9ef2b"
   },
   {
     "value": "Taste this!",
@@ -1941,7 +1941,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
+    "id": "72f4b9c8-4aa7-5a20-bef4-55199f8f1126"
   },
   {
     "value": "For the Lich King!",
@@ -1950,7 +1950,7 @@
     "action": "Warcry",
     "isHero": true,
     "isMelee": false,
-    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
+    "id": "218805b6-5f5d-5531-914f-09493e75f9a9"
   },
   {
     "value": "The Cult of the Damned...I need to print more brochures.",
@@ -1959,7 +1959,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
+    "id": "29bc7a12-da4f-5d26-afea-f853e025a283"
   },
   {
     "value": "I always wanted to start my own religion...so I did!",
@@ -1968,7 +1968,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
+    "id": "39d6c2cb-211e-5123-8682-c9711169acb8"
   },
   {
     "value": "I will await my eternal reward.",
@@ -1977,7 +1977,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
+    "id": "420d96c8-3cc4-5e96-8762-f0ff47c6020d"
   },
   {
     "value": "This horned thing on my head is killing me!",
@@ -1986,7 +1986,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
+    "id": "eee351ec-1759-5b52-8ea8-b56cfcd2c6bd"
   },
   {
     "value": "Fifty-thousand gold a year in childcare and they call it a cult?!",
@@ -1995,7 +1995,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "29ad3149-6129-5256-b3f2-3b48a02a7d8c"
+    "id": "43bc85db-cf25-5046-83b6-866d39cfa54f"
   },
   {
     "value": "Speak, fool!",
@@ -2004,7 +2004,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": false,
-    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
+    "id": "6165a74e-9a19-57e1-be13-e7da9aa1e39f"
   },
   {
     "value": "No one orders me around!",
@@ -2013,7 +2013,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": false,
-    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
+    "id": "28faca2b-3a08-5cd0-b526-6bd032086f09"
   },
   {
     "value": "Tread lightly.",
@@ -2022,7 +2022,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": false,
-    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
+    "id": "26f64f4e-93f9-5161-97b6-e2f188e422b8"
   },
   {
     "value": "What is it now?",
@@ -2031,7 +2031,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": false,
-    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
+    "id": "1824173d-6332-5fd6-a10a-7a6e691a628d"
   },
   {
     "value": "Finally.",
@@ -2040,7 +2040,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": false,
-    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
+    "id": "be237684-dce6-52db-955c-9648359726c8"
   },
   {
     "value": "Frostmourne hungers.",
@@ -2049,7 +2049,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": false,
-    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
+    "id": "e0028375-6e98-5dab-aa24-41b51902b589"
   },
   {
     "value": "This is more like it.",
@@ -2058,7 +2058,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": false,
-    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
+    "id": "21814153-cc6e-5203-beed-d9fd079db633"
   },
   {
     "value": "Ah! At last.",
@@ -2067,7 +2067,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": false,
-    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
+    "id": "55f2de52-24e9-5a93-9401-3b0adb5b3361"
   },
   {
     "value": "For the Lich King!",
@@ -2076,7 +2076,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
+    "id": "0bbf8bfe-2c71-574d-ba9d-9b6edb59fb40"
   },
   {
     "value": "Faithless coward!",
@@ -2085,7 +2085,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
+    "id": "640c70cf-659f-5f03-b545-b93007908a40"
   },
   {
     "value": "You will know endless torment!",
@@ -2094,7 +2094,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
+    "id": "995b5269-b2a6-520f-862b-ed7eddc52cc6"
   },
   {
     "value": "Your pain shall be legendary!",
@@ -2103,7 +2103,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
+    "id": "f45a2a91-6684-51ec-a35f-b2e3aac8328b"
   },
   {
     "value": "I'll make sure you suffer.",
@@ -2112,7 +2112,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
+    "id": "8ec31b21-f898-54a5-9c3c-8c43feac5870"
   },
   {
     "value": "Now, Frostmourne!",
@@ -2121,7 +2121,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
+    "id": "63ee5b05-7226-559e-85bc-d9c6582de32e"
   },
   {
     "value": "Glory to the Scourge!",
@@ -2130,7 +2130,7 @@
     "action": "Warcry",
     "isHero": true,
     "isMelee": false,
-    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
+    "id": "be0026bb-ee61-5cdd-a677-3b999dc2faeb"
   },
   {
     "value": "I was a fool to trust in the light.",
@@ -2139,7 +2139,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
+    "id": "d4cf6c23-2f0c-5376-8c0d-192b0b53488d"
   },
   {
     "value": "The Lich King has given me true power!",
@@ -2148,7 +2148,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
+    "id": "12f347c1-e92a-5f85-9f67-a5211c15f14e"
   },
   {
     "value": "I'll be twice the king my father ever was.",
@@ -2157,7 +2157,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
+    "id": "4dd9d276-b3ab-56ad-a5d4-d9e648de683c"
   },
   {
     "value": "Lordaeron will be reborn.",
@@ -2166,7 +2166,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
+    "id": "70bbd926-d141-5e42-8421-42e2d6519c6a"
   },
   {
     "value": "Who is this 'darkness' anyway?",
@@ -2175,7 +2175,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "34a238c4-1f16-5b85-b982-69a696adc4fd"
+    "id": "af429d6f-838b-5909-871f-37a6cce0936d"
   },
   {
     "value": "What is it now?",
@@ -2184,7 +2184,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": false,
-    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
+    "id": "a45d710f-a330-52ba-b091-a15be19158ea"
   },
   {
     "value": "I grow tired of waiting.",
@@ -2193,7 +2193,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": false,
-    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
+    "id": "c91a77e4-31f9-50af-96b3-e89e25fb85e3"
   },
   {
     "value": "Insufferable lout.",
@@ -2202,7 +2202,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": false,
-    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
+    "id": "0b06a9f0-6eb4-59a9-9653-0623b7e619ef"
   },
   {
     "value": "I have better things to do.",
@@ -2211,7 +2211,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": false,
-    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
+    "id": "fa4a56d4-991b-5b6a-8d71-6817d6e64afc"
   },
   {
     "value": "For now.",
@@ -2220,7 +2220,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": false,
-    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
+    "id": "dff57bba-300d-5a7e-a62d-d2654434a3b7"
   },
   {
     "value": "I'll play along.",
@@ -2229,7 +2229,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": false,
-    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
+    "id": "2c13402e-37f1-57ed-9109-0ded8963ed26"
   },
   {
     "value": "Die, Fool!",
@@ -2238,7 +2238,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
+    "id": "d10c3150-323e-535c-bc80-a7fc70d98220"
   },
   {
     "value": "I must feed.",
@@ -2247,7 +2247,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
+    "id": "c6d72fbd-bdd2-57de-8466-a6d335c90eee"
   },
   {
     "value": "Your life will sustain me.",
@@ -2256,7 +2256,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
+    "id": "2916fd24-ec11-564f-8054-400940c61027"
   },
   {
     "value": "Ash nazg gimbatul!",
@@ -2265,7 +2265,7 @@
     "action": "Warcry",
     "isHero": true,
     "isMelee": false,
-    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
+    "id": "154724b0-5ee0-5e8d-905f-366affc99845"
   },
   {
     "value": "Dreadlords… do it in the dark.",
@@ -2274,7 +2274,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
+    "id": "5e6e3b15-f25f-5453-822e-af6e6bc27dc7"
   },
   {
     "value": "I get cranky when I haven't been fed.",
@@ -2283,7 +2283,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
+    "id": "49cc0a19-962f-5a16-95e6-33ba15c03e0b"
   },
   {
     "value": "I must feast upon souls!",
@@ -2292,7 +2292,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
+    "id": "35438281-3d14-5908-a96a-aeb9720d4f91"
   },
   {
     "value": "The Legion needs… a better dental plan. These fangs are killing me!",
@@ -2301,7 +2301,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
+    "id": "e3138311-8919-5149-974f-a7f3409deb7d"
   },
   {
     "value": "Darkness… needs to get DSL. His line is always busy.",
@@ -2310,7 +2310,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "7d2bac8a-4e79-5129-b793-cec6bdc0693d"
+    "id": "3579f514-73dd-5753-b446-a448d4441f13"
   },
   {
     "value": "What joy is there in this curse?",
@@ -2319,7 +2319,7 @@
     "action": "Ready",
     "isHero": true,
     "isMelee": false,
-    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
+    "id": "259ca6ad-0aa8-58fe-b438-4da81de26620"
   },
   {
     "value": "I'm here.",
@@ -2328,7 +2328,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": false,
-    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
+    "id": "d64ffb8a-f73f-5369-aced-4b89fbd39a27"
   },
   {
     "value": "Show me a target.",
@@ -2337,7 +2337,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": false,
-    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
+    "id": "7d52c2e0-2f22-5848-96b0-fdba42c39e77"
   },
   {
     "value": "Give the order.",
@@ -2346,7 +2346,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": false,
-    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
+    "id": "5b71c157-833c-5873-a149-36e6f7a020d0"
   },
   {
     "value": "I'm listening.",
@@ -2355,7 +2355,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": false,
-    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
+    "id": "f120e072-f15b-56ef-aa00-43ba2e3b3e07"
   },
   {
     "value": "It's time to even the scales.",
@@ -2364,7 +2364,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": false,
-    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
+    "id": "64202e5a-639e-5d46-b065-df89fc5e8ad8"
   },
   {
     "value": "Done!",
@@ -2373,7 +2373,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": false,
-    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
+    "id": "d1f6686e-a7f7-525b-88cb-f13eb07df483"
   },
   {
     "value": "I have no time for games.",
@@ -2382,7 +2382,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": false,
-    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
+    "id": "61119d08-9636-54b6-bbeb-8e1efe248861"
   },
   {
     "value": "The moment is upon us!",
@@ -2391,7 +2391,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": false,
-    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
+    "id": "ed12099b-f6f3-53f1-ad93-2eabfca326d8"
   },
   {
     "value": "Of course!",
@@ -2400,7 +2400,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": false,
-    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
+    "id": "2eb0d9b5-4be5-5cc8-af27-cee03ad86ee9"
   },
   {
     "value": "Show them no mercy!",
@@ -2409,7 +2409,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
+    "id": "183d57c8-fb63-5580-a795-25488168f6d7"
   },
   {
     "value": "Push the attack!",
@@ -2418,7 +2418,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
+    "id": "925b65a3-60d7-567a-8ceb-fe82ea784336"
   },
   {
     "value": "Let none survive!",
@@ -2427,7 +2427,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
+    "id": "6edf1b5e-da77-551f-98c4-050b1099db7b"
   },
   {
     "value": "May my aim be true.",
@@ -2436,7 +2436,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
+    "id": "632472e4-48e8-59a3-83c9-5119e06ed269"
   },
   {
     "value": "Victory draws near!",
@@ -2445,7 +2445,7 @@
     "action": "Warcry",
     "isHero": true,
     "isMelee": false,
-    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
+    "id": "6bf09d17-478b-53b4-a3a1-72c23603a777"
   },
   {
     "value": "My will is my own.",
@@ -2454,7 +2454,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
+    "id": "762426c8-ecd6-562b-9e61-44d3d531de9b"
   },
   {
     "value": "I have my own reasons for seeking vengeance.",
@@ -2463,7 +2463,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
+    "id": "1de05680-32a8-53ff-900d-afe7196be7d0"
   },
   {
     "value": "Arthas murdered my people and turned me into this...monstrosity.",
@@ -2472,7 +2472,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
+    "id": "422ca989-4e3f-51c2-b261-f583aff98605"
   },
   {
     "value": "What are we if not slaves to this torment?",
@@ -2481,7 +2481,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "10c97b65-31ab-56ac-b1ed-350f901752ae"
+    "id": "f0f8c703-b39e-57bf-9297-4affa43bbae3"
   },
   {
     "value": "I have returned.",
@@ -2490,7 +2490,7 @@
     "action": "Ready",
     "isHero": true,
     "isMelee": false,
-    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
+    "id": "953d6ca0-1671-5c34-9262-7a5003650bb8"
   },
   {
     "value": "How will this benefit me?",
@@ -2499,7 +2499,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": false,
-    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
+    "id": "837fcda5-9378-5e41-b136-db9d11d46e6f"
   },
   {
     "value": "Don't waste my time.",
@@ -2508,7 +2508,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": false,
-    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
+    "id": "d81e64cf-f0c2-579f-ba33-7de6ade18d5b"
   },
   {
     "value": "You have an idea?",
@@ -2517,7 +2517,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": false,
-    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
+    "id": "7166900d-fcc5-594d-a9e8-1f3e5607771d"
   },
   {
     "value": "You call on me?",
@@ -2526,7 +2526,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": false,
-    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
+    "id": "22c82a6e-c3fa-5357-8852-a71543b1fb23"
   },
   {
     "value": "I await your counsel.",
@@ -2535,7 +2535,7 @@
     "action": "What",
     "isHero": true,
     "isMelee": false,
-    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
+    "id": "51999e2d-25a8-568d-afd9-d332d442f140"
   },
   {
     "value": "I'll do what I must.",
@@ -2544,7 +2544,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": false,
-    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
+    "id": "cdebe0f6-3f58-52e8-adee-35ece7501084"
   },
   {
     "value": "Stay out of my way.",
@@ -2553,7 +2553,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": false,
-    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
+    "id": "c453798f-b90b-51f0-9bd8-47691ea99727"
   },
   {
     "value": "By any means necessary.",
@@ -2562,7 +2562,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": false,
-    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
+    "id": "2b968c7a-7413-5d1b-af20-4964e7975b3b"
   },
   {
     "value": "Right.",
@@ -2571,7 +2571,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": false,
-    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
+    "id": "873c064b-bfdb-5faf-8f17-04a7332e9c95"
   },
   {
     "value": "Of course.",
@@ -2580,7 +2580,7 @@
     "action": "Yes",
     "isHero": true,
     "isMelee": false,
-    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
+    "id": "7f6553dd-52b0-554d-b4dc-7ba24f101d44"
   },
   {
     "value": "Wake up, time to die.",
@@ -2589,7 +2589,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
+    "id": "a96a770e-1eac-5dd2-97d1-33e1fe1e9c10"
   },
   {
     "value": "None can oppose me.",
@@ -2598,7 +2598,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
+    "id": "196f8204-bf1c-50bb-b9f1-e623d6550db7"
   },
   {
     "value": "This one is mine.",
@@ -2607,7 +2607,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
+    "id": "8a255688-0242-58d6-9540-fac94a8b0985"
   },
   {
     "value": "Vanquish the weak!",
@@ -2616,7 +2616,7 @@
     "action": "Attack",
     "isHero": true,
     "isMelee": false,
-    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
+    "id": "61ae4e3b-2761-5631-b042-886fc21c327c"
   },
   {
     "value": "For the Nathrezim!",
@@ -2625,7 +2625,7 @@
     "action": "Warcry",
     "isHero": true,
     "isMelee": false,
-    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
+    "id": "fe769d1c-e466-575d-8f19-71938fe78d21"
   },
   {
     "value": "I love it when a plan comes together.",
@@ -2634,7 +2634,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
+    "id": "bb410108-ada8-5622-86cd-ffacba99ad58"
   },
   {
     "value": "Sorry, I don't do interviews.",
@@ -2643,7 +2643,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
+    "id": "cccbae20-df94-5cbe-85bb-557f7d9c3d5a"
   },
   {
     "value": "We're not a cult so much as a maniacal group of fanatical, blade-wielding zealots.",
@@ -2652,7 +2652,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
+    "id": "56891856-55e3-58e4-9cbc-0d4e7f9afccb"
   },
   {
     "value": "I'll take a huge, juicy, bloody bite out of-- What were we talking about?",
@@ -2661,7 +2661,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
+    "id": "b5b3c5f9-0d40-58cf-bdc4-d631b1c84493"
   },
   {
     "value": "I'm always on the winning side.",
@@ -2670,7 +2670,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
+    "id": "e4ece042-689d-5741-ba92-7aacd2abc6a9"
   },
   {
     "value": "Join me, or die.",
@@ -2679,7 +2679,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
+    "id": "6e2414e1-2756-516b-af62-5cf5cee201bd"
   },
   {
     "value": "Don't worry about the fine print, the soul consumption clause is never exercised.",
@@ -2688,7 +2688,7 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
+    "id": "3ed80dbc-d2ed-542f-9d5d-fc9d2dc73051"
   },
   {
     "value": "And that concludes our demonstration... any questions?",
@@ -2697,6 +2697,6 @@
     "action": "Pissed",
     "isHero": true,
     "isMelee": false,
-    "id": "f29ba59b-a604-53b2-b93f-903ad1239414"
+    "id": "068d3886-1744-5029-b52e-12bc695ab2be"
   }
 ]

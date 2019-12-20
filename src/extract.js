@@ -58,19 +58,19 @@ const quoteExtractor = async (
     // Iterate through each unit, starting at the element with the name of the unit
     $(`${header} > span.mw-headline`).each((i, element) => {
       unit = $(element).text();
-      let current_element = $(element).parent();
+      let currentElement = $(element).parent();
 
       do {
-        current_element = $(current_element).next();
+        currentElement = $(currentElement).next();
 
         if (isIgnoredUnit(unit)) {
           break;
         }
 
-        if ($(current_element).is('p')) {
-          action = $(current_element).text();
-        } else if ($(current_element).is('ul')) {
-          $(current_element)
+        if ($(currentElement).is('p')) {
+          action = $(currentElement).text();
+        } else if ($(currentElement).is('ul')) {
+          $(currentElement)
             .children()
             .each((i, element) => {
               value = $(element).text();
@@ -85,8 +85,8 @@ const quoteExtractor = async (
             });
         }
       } while (
-        $(current_element).next()[0] !== undefined &&
-        !$(current_element)
+        $(currentElement).next()[0] !== undefined &&
+        !$(currentElement)
           .next()[0]
           ['name'].match(/h\d/g)
       );

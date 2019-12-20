@@ -6,7 +6,7 @@
     "action": "Ready",
     "isHero": false,
     "isMelee": true,
-    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
+    "id": "6279e908-f16b-59cc-86ba-0365af5e03e3"
   },
   {
     "value": "How ya doin'?",
@@ -15,7 +15,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
+    "id": "f4ff5ce3-803c-54e6-bb30-30ea0f05e1f5"
   },
   {
     "value": "Turn me loose.",
@@ -24,7 +24,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
+    "id": "46290860-9e5f-5b35-b687-f795a530e10e"
   },
   {
     "value": "I won't bite.",
@@ -33,7 +33,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
+    "id": "a9b8c8ec-75c0-5ffa-bd04-ffbc485d3c3d"
   },
   {
     "value": "Don't be shy.",
@@ -42,7 +42,7 @@
     "action": "What",
     "isHero": false,
     "isMelee": true,
-    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
+    "id": "ab9b1df6-8faa-5523-80ab-9127e6642390"
   },
   {
     "value": "Oh, that's good.",
@@ -51,7 +51,7 @@
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
+    "id": "9dea234e-adbc-5bfc-aff6-ebcc2bd571fe"
   },
   {
     "value": "I don't usually do this.",
@@ -60,7 +60,7 @@
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
+    "id": "34e74a7b-2fac-5ded-a45a-04769fcb2cf2"
   },
   {
     "value": "Anything for you.",
@@ -69,7 +69,7 @@
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
+    "id": "7e81401a-3ce0-5b13-97d1-f36556a69f7a"
   },
   {
     "value": "You're in control.",
@@ -78,7 +78,7 @@
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
+    "id": "d12279b0-a4e5-5a3d-a434-83b9dc23ba98"
   },
   {
     "value": "Take your punishment.",
@@ -87,7 +87,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
+    "id": "ba3626b2-a8a1-5a2a-b346-09ab9028ca32"
   },
   {
     "value": "Die smiling.",
@@ -96,7 +96,7 @@
     "action": "Attack",
     "isHero": false,
     "isMelee": true,
-    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
+    "id": "5adfbfca-d5b2-5ac5-8cec-97cb5ad463fc"
   },
   {
     "value": "I'll scratch their eyes out!",
@@ -105,7 +105,7 @@
     "action": "Warcry",
     "isHero": false,
     "isMelee": true,
-    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
+    "id": "c40f5af7-e1b9-5be9-a219-e75ed9c1df3d"
   },
   {
     "value": "Mmmh, do you work out?",
@@ -114,7 +114,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
+    "id": "1a1f1f54-8415-5019-bd1e-68816ed527bd"
   },
   {
     "value": "You're so deviant.",
@@ -123,7 +123,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
+    "id": "d0c798a4-8d63-569c-a7b0-c45d49a408ce"
   },
   {
     "value": "Wanna buy me a drink?",
@@ -132,7 +132,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
+    "id": "7d6c9635-b64f-5244-8786-c047642bcbc0"
   },
   {
     "value": "Oh, that's naughty.",
@@ -141,7 +141,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
+    "id": "3871b3eb-369d-5fb6-8691-36e81506f2fe"
   },
   {
     "value": "We could talk more in the champagne room.",
@@ -150,7 +150,7 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
+    "id": "16c80810-e44a-563a-addc-5d325ad29fb4"
   },
   {
     "value": "Sorry, time's up.",
@@ -159,6 +159,6 @@
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "78278c15-e15f-558c-993e-7260b185f9fe"
+    "id": "f6ed0dc4-f6b0-5968-b93f-d03e6d349acf"
   }
 ]
