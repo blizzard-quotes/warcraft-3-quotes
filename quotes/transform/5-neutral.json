@@ -1701,13 +1701,13 @@
     "id": "fa41f512-cc7a-5056-bec1-5145db1874cc"
   },
   {
-    "value": "Is that all?*",
+    "value": "Is that all?",
     "faction": "Neutral",
     "unit": "Satyr",
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "27512497-167c-523f-9dc4-d66d52e1ea6e"
+    "id": "9d329ee2-321b-5bcf-a755-e543d2dd26cd"
   },
   {
     "value": "Raagh.",

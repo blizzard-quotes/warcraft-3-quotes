@@ -1194,7 +1194,7 @@
     "action": "Yes\n"
   },
   {
-    "value": "\"Is that all?*\n",
+    "value": "\"Is that all?\"\n",
     "faction": "Neutral",
     "unit": "Satyr",
     "action": "Yes\n"

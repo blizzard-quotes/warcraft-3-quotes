@@ -1314,13 +1314,13 @@
     "id": "eac5a9ea-b949-56ba-bb97-889c71b5c542"
   },
   {
-    "value": "Warriors of the night, assemble! tiger roars",
+    "value": "Warriors of the night, assemble!",
     "faction": "Elf",
     "unit": "Priestess of the Moon",
     "action": "Ready",
     "isHero": true,
     "isMelee": true,
-    "id": "df555a45-ba74-50a3-a9fa-7cdf74ba6596"
+    "id": "122a8bdf-641d-505e-bff2-3895d259ba77"
   },
   {
     "value": "We are poised to strike.",

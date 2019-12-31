@@ -1476,13 +1476,13 @@
     "id": "919bebc0-3ac6-5fa3-b2e1-44f9cba32aee"
   },
   {
-    "value": "Gotta go.Me too.",
+    "value": "Gotta go. Me too.",
     "faction": "Human",
     "unit": "Mortar Team",
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "5eb5c891-33f6-5b76-b002-575a72ce54ec"
+    "id": "dde7d132-0efc-5ab0-9c7a-094fc7ee4527"
   },
   {
     "value": "Move your arse.",
@@ -1494,22 +1494,22 @@
     "id": "85534ef3-a459-514f-9842-4102a2f55f58"
   },
   {
-    "value": "You made the right choice.It's on.",
+    "value": "You made the right choice. It's on.",
     "faction": "Human",
     "unit": "Mortar Team",
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "009b083d-c720-5e43-b7a6-e5dfcd2008e7"
+    "id": "046e4836-8837-5e2b-a383-93907c023309"
   },
   {
-    "value": "Come on, shorty.On our way.",
+    "value": "Come on, shorty. On our way.",
     "faction": "Human",
     "unit": "Mortar Team",
     "action": "Yes",
     "isHero": false,
     "isMelee": true,
-    "id": "57552e14-fbd3-52ca-a03a-48fb3e72fd37"
+    "id": "e04e1ebb-85df-56c0-91c4-176734712222"
   },
   {
     "value": "We'll do it in a jiffy.",
@@ -1584,40 +1584,40 @@
     "id": "eafb552b-8be9-59ae-94b3-96816f953c79"
   },
   {
-    "value": "It's you and me, pal.We've got the synergy.",
+    "value": "It's you and me, pal. We've got the synergy.",
     "faction": "Human",
     "unit": "Mortar Team",
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "be0c1ce7-1e3a-5457-b68e-3f9deebba2c0"
+    "id": "9471e6e9-2b90-57f7-84cc-5a5c10037fd8"
   },
   {
-    "value": "I'm TNT!I'm dynamite!",
+    "value": "I'm TNT! I'm dynamite!",
     "faction": "Human",
     "unit": "Mortar Team",
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "a6957524-c0d2-5ba3-8bce-669b4f2e5539"
+    "id": "d41cb072-f874-5bd7-ae32-e527399ab3f6"
   },
   {
-    "value": "We must defeat the dwarves!Ugh… we are the dwarves!Oh...",
+    "value": "We must defeat the dwarves! Ugh… we are the dwarves! Oh...",
     "faction": "Human",
     "unit": "Mortar Team",
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "645b506c-4a44-51ff-a352-b69754d14b59"
+    "id": "702bf7b8-1a25-59fc-bd9b-18cfd7db324c"
   },
   {
-    "value": "You've got a chip on your shoulder.Hmm, yes, and a bit of fish, too.",
+    "value": "You've got a chip on your shoulder. Hmm, yes, and a bit of fish, too.",
     "faction": "Human",
     "unit": "Mortar Team",
     "action": "Pissed",
     "isHero": false,
     "isMelee": true,
-    "id": "d966c5ba-cf2b-516d-8bd1-eb33c7c0120f"
+    "id": "b6b9ad99-3606-5906-b28f-f0ef322ec7bb"
   },
   {
     "value": "And that's how baby dwarves are made!",

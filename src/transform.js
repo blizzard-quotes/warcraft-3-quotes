@@ -20,6 +20,8 @@ const cleanString = value => {
     value
       // Remove newlines / carriage returns
       .replace(/\r?\n|\r/g, ' ')
+      // Remove double quotes
+      .replace(/\"\"/g, ' ')
       // Remove quotations
       .replace(/["]+/g, '')
       // Remove ( )
@@ -118,10 +120,8 @@ const cleanQuoteValue = value => {
     )
   ) {
     return '';
-  } else if (value.includes(`Warriors of the night, assemble! tiger roars`)) {
-    return `Warriors of the night, assemble!`;
-  } else if (value.includes(`Eat mortar!`)) {
-    return `Eat mortar! Eat lead!`;
+  } else if (value.includes('Warriors of the night, assemble!')) {
+    return 'Warriors of the night, assemble!';
   } else if (value.includes(`Look at me, I'm happy`)) {
     return `Look at me, I'm happy!`;
   }
