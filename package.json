@@ -1,6 +1,6 @@
 {
   "name": "@blizzard-quotes/warcraft-3-quotes",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Warcraft 3 quotes json wrapper. Also contains scripts to extract and transform Warcraft 3 quotes.",
   "keywords": [
     "warcraft 3",
@@ -24,8 +24,8 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.19.2",
     "cheerio": "^1.0.0-rc.3",
-    "uuid": "^3.3.3"
+    "uuid": "^3.4.0"
   }
 }
